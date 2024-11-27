@@ -1,0 +1,290 @@
+[
+    {
+        "passage": "Nincs",
+        "question": "Amikor egy téglalap alakú lapot két egyenlő részre hajtogatnak, az egyik oldal mentén összehajtva mindegyik rész kerülete 48 cm, a másik oldal mentén összehajtva pedig 66 cm. Mennyi a lap területe?",
+        "options": [
+            "['(A)1584', '(B)1120', '(C)792', '(D)1320', '(E)1200']"
+        ],
+        "label": "B",
+        "ind": 0
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Tegyük fel, hogy az M helyről az N helyre 3 busszal, az N helyről az O helyre 4 busszal, az O helyről a P helyre 1 busszal, és a P helyről a Q helyre 3 busszal lehet utazni. Hányféleképpen lehet utazni M-től Q-ig?",
+        "options": [
+            "(A)24, (B)36, (C)72, (D)84, (E)Egyik sem"
+        ],
+        "label": "B",
+        "ind": 1
+    },
+    {
+        "passage": "Nincs",
+        "question": "Egy téglatest, amelynek méretei 3 x 4 x 15, úgy van beírva egy gömbbe, hogy mind a nyolc csúcsa a gömbön van. Mi a gömb átmérője?",
+        "options": [
+            "['(A) 13.3542', '(B) 15.8113', '(C) 18.3451', '(D) 19.5667', '(E) 20.8888']"
+        ],
+        "label": "B",
+        "ind": 2
+    },
+    {
+        "passage": "Nincs",
+        "question": "A elindul dél felé 3 km-t, majd 5 km-t kelet felé, aztán ismét 3 km-t észak felé, végül pedig 2 km-t nyugat felé. A végén milyen távol van A az otthonától?",
+        "options": [
+            "['(A)3km', '(B)2km', '(C)4km', '(D)5km', '(E)6km']"
+        ],
+        "label": "A",
+        "ind": 3
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Egy órát eladva egy boltos 5% kedvezményt ad. Ha 7% kedvezményt ad, akkor 15 rúpiával kevesebb nyereséget ér el. Az óra jelölt ára:",
+        "options": [
+            "['(A)Rs. 697.50', '(B)Rs. 712.50', '(C)Rs. 787.50', '(D)Rs. 750', '(E)Rs. 780']"
+        ],
+        "label": "D",
+        "ind": 4
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Egy diák ahelyett, hogy egy szám 7/8 részének értékét találta volna meg, a szám 7/18 részének értékét találta meg. Ha a válasza 770-nel tért el a valós értéktől, találja meg azt a számot.",
+        "options": [
+            "['(A)1584', '(B)2520', '(C)1728', '(D)1656', '(E)Egyik sem']"
+        ],
+        "label": "A",
+        "ind": 5
+    },
+    {
+        "passage": "Nincs",
+        "question": "Egy bolti eladó havi fizetése S az állandó 500 dolláros fizetés és a havi eladások 5%-ának összege. Mekkora legyen a havi eladás, hogy a havi fizetése elérje az 1500 dollárt?",
+        "options": [
+            "['(A) 50000 dollár', '(B) 40000 dollár', '(C) 30000 dollár', '(D) 20000 dollár', '(E) Egyik sem']"
+        ],
+        "label": "D",
+        "ind": 6
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Egy repülőgép egy négyzet négy oldalán repül 200, 400, 600 és 800 km/órás sebességgel. Mekkora a repülőgép átlagsebessége a mező körül?",
+        "options": [
+            "['(A)384', '(B)562', '(C)458', '(D)156', '(E)452']"
+        ],
+        "label": "A",
+        "ind": 7
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Jack 18 hegyezőt vásárol (fehéret és barnát) 100 rúpiáért. Ha minden egyes fehér hegyezőért 1 rúpiával többet fizet, mint a barna hegyezőkért, hány fehér és hány barna hegyezőt vásárolt?",
+        "options": [
+            "['(A)10,8', '(B)9,8', '(C)7,8', '(D)5,6', '(E)11,12']"
+        ],
+        "label": "A",
+        "ind": 8
+    },
+    {
+        "passage": "Nincs",
+        "question": "Az A és B tömlők különböző állandó sebességgel spriccelnek vizet, és az A tömlő 8 óra alatt képes megtölteni egy bizonyos medencét. Az A tömlő az első 2 órában egyedül töltötte a medencét, majd a két tömlő együtt dolgozva további 3 óra alatt fejezték be a medence megtöltését. Hány órába telt volna a B tömlőnek, ha egyedül dolgozik, hogy az egész medencét megtöltse?",
+        "options": [
+            "(A)8, (B)15, (C)12, (D)6, (E)3"
+        ],
+        "label": "A",
+        "ind": 9
+    },
+    {
+        "passage": "None",
+        "question": "Ha 120-t 96-ra csökkentünk, mekkora a csökkenés százaléka?",
+        "options": [
+            "['(A)30%', '(B)40%', '(C)20%', '(D)10%', '(E)5%']"
+        ],
+        "label": "C",
+        "ind": 10
+    },
+    {
+        "passage": "Nincs",
+        "question": "Tudok egy 5 jegyű számot, amelynek van egy olyan tulajdonsága, hogy ha egy 1-es számot írunk utána, akkor háromszor akkora lesz, mintha egy 1-es számot írnánk elé.\nMi ez a szám?",
+        "options": [
+            "['(A)42857', '(B)32456', '(C)76523', '(D)24567', '(E)43566']"
+        ],
+        "label": "A",
+        "ind": 11
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "A Daifu egyetemen a diákok 24%-a tagja mind a sakk klubnak, mind az úszócsapatnak. Ha az úszócsapat tagjainak 20%-a nem tagja a sakk klubnak, akkor a Daifu egyetem diákjainak hány százaléka tagja az úszócsapatnak?",
+        "options": [
+            "['(A)20%', '(B)30%', '(C)40%', '(D)50%', '(E)60%']"
+        ],
+        "label": "B",
+        "ind": 12
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Ha egy város lakossága évente 5%-kal nő, mekkora lesz a város lakossága 2 év múlva, ha a jelenlegi lakosság 78000?",
+        "options": [
+            "(A)81900, (B)85995, (C)85800, (D)90000, (E)Egyik sem"
+        ],
+        "label": "B",
+        "ind": 13
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Két autó egyszerre indul az autópálya ellentétes végeiről, amely 50 mérföld hosszú. Az egyik autó 12 mérföld/órás sebességgel halad, a másik autó pedig 13 mérföld/órás sebességgel. Milyen hosszú idő után találkoznak?",
+        "options": [
+            "['(A) 1', '(B) 1,25', '(C) 1,50', '(D) 1,75', '(E) 2']"
+        ],
+        "label": "E",
+        "ind": 14
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Egy boltos egy szolgát alkalmazott havi 1500-es fizetéssel. Emellett megállapodtak abban, hogy fizet neki 15% jutalékot a havi eladások után. Mekkora legyen az eladás rúpiában, ha a szolga havi jövedelme 6000-nek szeretné?",
+        "options": [
+            "['(A)30000', '(B)415000', '(C)31500', '(D)50000', '(E)Egyik sem ezek közül']"
+        ],
+        "label": "A",
+        "ind": 15
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Egy férfi 360 rúpiát kölcsönöz. Ha 12 havi részletben fizeti vissza, mindegyik részlet 31,50 rúpia, akkor mennyi a kamatlába?",
+        "options": [
+            "['(A)1,5%', '(B)4,5%', '(C)10%', '(D)5%', '(E)12%']"
+        ],
+        "label": "D",
+        "ind": 16
+    },
+    {
+        "passage": "Nincs háttérinformáció",
+        "question": "Egy termék árát 30%-kal csökkentik. Hány százalékkal kell növelni ahhoz, hogy elérje a 100%-ot?",
+        "options": [
+            "['(A)41,86%', '(B)42,86%', '(C)43,86%', '(D)44,86%', '(E)45,86%']"
+        ],
+        "label": "B",
+        "ind": 17
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Van egy pénzes zacskóm, amelyben 700 Rs található. Egyenlő számú 25 paises, 50 paises és egy rúpiás érme van benne. Hány darab van mindegyikből?",
+        "options": [
+            "['(A)453', '(B)651', '(C)400', '(D)487', '(E)286']"
+        ],
+        "label": "C",
+        "ind": 18
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Egy férfi havonta 3500 rúpiát költ, és jövedelmének 12 1/2%-át megtakarítja. Mennyi a havi jövedelme?",
+        "options": [
+            "['(A) 4400 Rs', '(B) 4270 Rs', '(C) 4000 Rs', '(D) 3937.50 Rs', '(E) Egyik sem ezek közül']"
+        ],
+        "label": "C",
+        "ind": 19
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Öt tucat játék van becsomagolva egy dobozba, és 98 dobozt helyeztek el egy teherautóban. Hány teherautó tud 29400 játékot szállítani egy fordulóban?",
+        "options": [
+            "['(A)4', '(B)5', '(C)7', '(D)6', '(E)8']"
+        ],
+        "label": "B",
+        "ind": 20
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Egy kosárban 10 narancs van. Hányféleképpen választható ki 2 narancs a kosárból?",
+        "options": [
+            "(A) 45, (B) 90, (C) 120, (D) 150, (E) 180"
+        ],
+        "label": "A",
+        "ind": 21
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Egy cég szerződést köt 3 ház festésére. Mr. Brown 6 nap alatt tud kifesteni egy házat, míg Mr. Blacknek 8 napra, Mr. Blue-nak pedig 12 napra lenne szüksége. 8 nap után Mr. Brown szabadságra megy, és Mr. Black 6 napig dolgozik. Hány napra lesz szüksége Mr. Blue-nak a szerződés teljesítéséhez?",
+        "options": [
+            "(A)7, (B)8, (C)10, (D)11, (E)12"
+        ],
+        "label": "D",
+        "ind": 22
+    },
+    {
+        "passage": "Nincs háttérinformáció",
+        "question": "Az A vonat 16 percenként, a B vonat pedig 17 percenként indul egy állomásról. Ha mindkét vonat most hagyta el az állomást egyszerre, mennyi idő múlva indulnak el újra egyszerre?",
+        "options": [
+            "(A) 272 perc, (B) 304 perc, (C) 190 perc, (D) 70 perc, (E) 35 perc"
+        ],
+        "label": "A",
+        "ind": 23
+    },
+    {
+        "passage": "None",
+        "question": "Egy üreges kockát veszünk, amelynek mérete 5 cm, vastagsága pedig 1 cm. A kocka kisebb, 1 cm-es kockákból áll. Ha a kocka külső felületét lefestik, hány kisebb kocka oldala marad festetlen?",
+        "options": [
+            "['(A)438', '(B)550', '(C)500', '(D)450', '(E)498']"
+        ],
+        "label": "A",
+        "ind": 24
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Egy csokoládéboltban minden csokoládé vagy vanília- vagy kakaóízű. A csokoládék 10%-a kakaóízű, a maradék 90%-a összenyomott. A csokoládék hány százaléka vaníliaízű és nincs összenyomva?",
+        "options": [
+            "['(A)1%', '(B)2%', '(C)5%', '(D)9%', '(E)10%']"
+        ],
+        "label": "D",
+        "ind": 25
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Van egy 30 méter mély kút, és egy béka van a kút alján. Egy nap 3 métert ugrik felfelé, majd ugyanazon a napon 2 métert visszaesik. Hány nap alatt jut ki a béka a kútból?",
+        "options": [
+            "['(A)25 nap', '(B)26 nap', '(C)27 nap', '(D)28 nap', '(E)29 nap']"
+        ],
+        "label": "D",
+        "ind": 26
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Az öt egymást követő kétjegyű páratlan szám összege, ha elosztjuk 10-zel, tökéletes négyzetté válik. Melyik lehet ezek közül az öt szám közül az egyik?",
+        "options": [
+            "['(A)47', '(B)91', '(C)41', '(D)67', '(E)44']"
+        ],
+        "label": "C",
+        "ind": 27
+    },
+    {
+        "passage": "Nincs háttérinformáció",
+        "question": "Egy osztályban a tanulók 8%-a érdeklődik a labdarúgás iránt. Az összes tanuló 4/5-e érdeklődik a krikett iránt. A tanulók 10%-a érdeklődik a kosárlabda iránt, és a fennmaradó 20 tanuló nem érdeklődik semmilyen játék iránt. Hány tanuló van az osztályban?",
+        "options": [
+            "['(A)850', '(B)800', '(C)900', '(D)950', '(E)1000']"
+        ],
+        "label": "E",
+        "ind": 28
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Q annyival fiatalabb R-nél, amennyivel idősebb T-nél. Ha R és T életkorának összege 50 év. Mi az R és Q életkora közötti különbség?",
+        "options": [
+            "(A)22, (B)27, (C)29, (D)Nem lehet meghatározni, (E)Egyik sem a fentiek közül"
+        ],
+        "label": "D",
+        "ind": 29
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Számítsa ki, mekkora maximális távolságot lehet megtenni 8,50 dollárral egy taxiban, amely az első negyed mérföldért 3,50 dollárt, és minden további negyed mérföldért 10 centet számít fel.",
+        "options": [
+            "[A) 11,75 mérföld, B) 12,75 mérföld, C) 17,75 mérföld, D) 14,75 mérföld, E) 10,75 mérföld]"
+        ],
+        "label": "B",
+        "ind": 30
+    },
+    {
+        "passage": "Nincs",
+        "question": "Az IPL szezonban Sachin jelenlegi ütési átlaga 51. A döntőben 78 futást szerez, ekkor az ütési átlaga 54 lesz. Találd meg, hogy hány mérkőzést játszott Sachin ebben a szezonban.",
+        "options": [
+            "['(A)6', '(B)8', '(C)9', '(D)10', '(E)11']"
+        ],
+        "label": "C",
+        "ind": 31
+    }
+]

@@ -1,0 +1,367 @@
+[
+    {
+        "passage": "A szeminárium nyolc diákja közül – George, Helen, Irving, Kyle, Lenore, Nina, Olivia és Robert – pontosan hatan fognak egyéni szóbeli beszámolót tartani három egymást követő napon – hétfőn, kedden és szerdán. Pontosan két beszámolót tartanak naponta - egyet reggel és egyet délután - a következő feltételek szerint: Kedd az egyetlen nap, amikor George beszámolót tarthat. Sem Olivia, sem Robert nem tarthat délutáni beszámolót. Ha Nina beszámolót tart, akkor a következő napon Helennek és Irvingnek is beszámolót kell tartania, hacsak Nina beszámolója nem szerdán van.",
+        "question": "Melyik lehet a diákok beszámolóinak ütemezése az alábbiak közül?",
+        "options": [
+            "(A) Hétfő reggel: Helen; Hétfő délután: Robert Kedd reggel: Olivia; Kedd délután: Irving Szerda reggel: Lenore; Szerda délután: Kyle",
+            "(B) Hétfő reggel: Irving; Hétfő délután: Olivia Kedd reggel: Helen; Kedd délután: Kyle Szerda reggel: Nina; Szerda délután: Lenore",
+            "(C) Hétfő reggel: Lenore; Hétfő délután: Helen Kedd reggel: George; Kedd délután: Kyle Szerda reggel: Robert; Szerda délután: Irving",
+            "(D) Hétfő reggel: Nina; Hétfő délután: Helen Kedd reggel: Robert; Kedd délután: Irving Szerda reggel: Olivia; Szerda délután: Lenore",
+            "(E) Hétfő reggel: Olivia; Hétfő délután: Nina Kedd reggel: Irving; Kedd délután: Helen Szerda reggel: Kyle; Szerda délután: George"
+        ],
+        "label": "C",
+        "ind": 0
+    },
+    {
+        "passage": "A szeminárium nyolc diákja közül – George, Helen, Irving, Kyle, Lenore, Nina, Olivia és Robert – pontosan hatan tartanak egyéni szóbeli beszámolót három egymást követő napon – hétfőn, kedden és szerdán. Minden nap pontosan két beszámoló lesz – egy délelőtt és egy délután – a következő feltételek szerint: Kedd az egyetlen nap, amikor George beszámolót tarthat. Sem Olivia, sem Robert nem tarthat délutáni beszámolót. Ha Nina beszámolót tart, akkor a következő napon Helennek és Irvingnek is beszámolót kell tartania, kivéve, ha Nina beszámolója szerdán van.",
+        "question": "Ha Kyle és Lenore nem tartanak beszámolót, akkor a hétfői, keddi és szerdai délelőtti beszámolókat, rendre, ki tarthatná?",
+        "options": [
+            "(A) Helen, George és Nina",
+            "(B) Irving, Robert és Helen",
+            "(C) Nina, Helen és Olivia",
+            "(D) Olivia, Robert és Irving",
+            "(E) Robert, George és Helen"
+        ],
+        "label": "D",
+        "ind": 1
+    },
+    {
+        "passage": "A nyolc diák közül – George, Helen, Irving, Kyle, Lenore, Nina, Olivia és Robert – egy szemináriumon pontosan hatan fognak egyéni szóbeli beszámolókat tartani három egymást követő napon – hétfőn, kedden és szerdán. Pontosan két beszámoló lesz minden nap – egy délelőtt és egy délután – az alábbi feltételek szerint: Kedd az egyetlen nap, amikor George beszámolót tarthat. Sem Olivia, sem Robert nem adhat elő délután. Ha Nina tart beszámolót, akkor a következő napon Helennek és Irvingnek is beszámolót kell tartania, hacsak Nina beszámolója nem szerdán van.",
+        "question": "Melyik a következő párok közül az a két diák, akik, ha ugyanazon a napon tartanak beszámolót, akkor szerdán kell beszámolót tartaniuk?",
+        "options": [
+            "(A) George és Lenore",
+            "(B) Helen és Nina",
+            "(C) Irving és Robert",
+            "(D) Kyle és Nina",
+            "(E) Olivia és Kyle"
+        ],
+        "label": "B",
+        "ind": 2
+    },
+    {
+        "passage": "A nyolc diák közül - George, Helen, Irving, Kyle, Lenore, Nina, Olivia és Robert - egy szemináriumon pontosan hatan fognak egyéni szóbeli beszámolót tartani három egymást követő napon - hétfőn, kedden és szerdán. Pontosan két beszámoló lesz naponta - egy délelőtt és egy délután - az alábbi feltételek szerint: Kedd az egyetlen nap, amikor George beszámolót tarthat. Sem Olivia, sem Robert nem tarthat délutáni beszámolót. Ha Nina beszámolót tart, akkor a következő napon Helennek és Irvingnek is beszámolót kell tartania, hacsak Nina beszámolója nem szerdán van.",
+        "question": "Ha George, Nina és Robert beszámolót tartanak, és ezt különböző napokon teszik, melyik lehet igaz az alábbiak közül?",
+        "options": [
+            "(A) Helen beszámolót tart szerdán.",
+            "(B) Nina beszámolót tart hétfőn.",
+            "(C) Nina beszámolót tart kedden.",
+            "(D) Olivia beszámolót tart hétfőn.",
+            "(E) Robert beszámolót tart szerdán."
+        ],
+        "label": "A",
+        "ind": 3
+    },
+    {
+        "passage": "A nyolc diák közül—George, Helen, Irving, Kyle, Lenore, Nina, Olivia és Robert—egy szemináriumon pontosan hatan adnak egyéni szóbeli beszámolót három egymást követő napon—hétfőn, kedden és szerdán. Pontosan két beszámoló lesz naponta—egy délelőtt és egy délután—a következő feltételek szerint: Kedd az egyetlen nap, amikor George adhat beszámolót. Sem Olivia, sem Robert nem adhat délutáni beszámolót. Ha Nina ad beszámolót, akkor a következő napon Helennek és Irvingnek is beszámolót kell adnia, kivéve, ha Nina beszámolója szerdán van.",
+        "question": "Ha Kyle adja a délutáni beszámolót kedden, és Helen adja a délutáni beszámolót szerdán, akkor az alábbiak közül melyik lehet a diákok listája, akik hétfőn, kedden és szerdán délelőtt adják a beszámolókat, sorrendben?",
+        "options": [
+            "(A) Irving, Lenore és Nina",
+            "(B) Lenore, George és Irving",
+            "(C) Nina, Irving és Lenore",
+            "(D) Robert, George és Irving",
+            "(E) Robert, Irving és Lenore"
+        ],
+        "label": "D",
+        "ind": 4
+    },
+    {
+        "passage": "A nyolc diák közül – George, Helen, Irving, Kyle, Lenore, Nina, Olivia és Robert – egy szemináriumon pontosan hat fog egyéni szóbeli beszámolót tartani három egymást követő napon – hétfőn, kedden és szerdán. Pontosan két beszámoló kerül megrendezésre minden nap – egy délelőtt és egy délután – a következő feltételek szerint: Kedd az egyetlen nap, amikor George beszámolót tarthat. Sem Olivia, sem Robert nem tarthat délutáni beszámolót. Ha Nina beszámolót tart, akkor a következő napon Helennek és Irvingnek is beszámolót kell tartania, kivéve, ha Nina beszámolója szerdán van.",
+        "question": "Ha Helen, Kyle és Lenore, nem feltétlenül ebben a sorrendben, tartja a három délelőtti beszámolót, akkor az alábbiak közül melyiknek kell igaznak lennie?",
+        "options": [
+            "(A) Helen hétfőn tart beszámolót.",
+            "(B) Irving hétfőn tart beszámolót.",
+            "(C) Irving szerdán tart beszámolót.",
+            "(D) Kyle kedden tart beszámolót.",
+            "(E) Kyle szerdán tart beszámolót."
+        ],
+        "label": "B",
+        "ind": 5
+    },
+    {
+        "passage": "A könyvklub szervezője legalább öt, de legfeljebb hat művet választ ki egy kilenc műből álló csoportból. A csoport három francia regényt, három orosz regényt, két francia színdarabot és egy orosz színdarabot tartalmaz. A szervező választásának meg kell felelnie a következő követelményeknek: Legfeljebb négy francia művet választhatnak ki. Legalább három, de legfeljebb négy regényt választanak ki. Legalább annyi francia regényt választanak ki, mint orosz regényt. Ha mindkét francia színdarab kiválasztásra kerül, akkor az orosz színdarab nem választható ki.",
+        "question": "Melyik lehet a szervező műválasztása?",
+        "options": [
+            "(A) egy francia regény, két orosz regény, egy francia színdarab, egy orosz színdarab",
+            "(B) két francia regény, egy orosz regény, két francia színdarab, egy orosz színdarab",
+            "(C) két francia regény, két orosz regény, két francia színdarab",
+            "(D) három francia regény, egy orosz regény, két francia színdarab",
+            "(E) három francia regény, két orosz regény, egy orosz színdarab"
+        ],
+        "label": "C",
+        "ind": 6
+    },
+    {
+        "passage": "Az olvasóklub szervezője legalább öt, de legfeljebb hat művet választ ki egy kilenc műből álló csoportból. A csoport három francia regényt, három orosz regényt, két francia színdarabot és egy orosz színdarabot tartalmaz. A szervező választásának meg kell felelnie a következő követelményeknek: Legfeljebb négy francia művet választanak ki. Legalább három, de legfeljebb négy regényt választanak ki. Legalább annyi francia regényt választanak, mint orosz regényt. Ha mindkét francia színdarabot kiválasztják, akkor az orosz színdarabot nem választják ki.",
+        "question": "A következők közül melyik lehet igaz a szervező által kiválasztott művekről?",
+        "options": [
+            "(A) Nem választanak ki orosz regényt.",
+            "(B) Pontosan egy francia regényt választanak ki.",
+            "(C) Mindhárom színdarabot választják ki.",
+            "(D) Mindhárom orosz regényt választják ki.",
+            "(E) Mind az öt francia művet választják ki."
+        ],
+        "label": "A",
+        "ind": 7
+    },
+    {
+        "passage": "A könyvklub szervezője legalább öt és legfeljebb hat művet választ ki kilenc alkotás közül. A csoport három francia regényt, három orosz regényt, két francia drámát és egy orosz drámát tartalmaz. A szervező választásának a következő követelményeknek kell megfelelnie: Legfeljebb négy francia mű választódik ki. Legalább három, de legfeljebb négy regény kerül kiválasztásra. Legalább annyi francia regényt választanak ki, mint orosz regényt. Ha mindkét francia drámát kiválasztják, akkor az orosz drámát nem választják ki.",
+        "question": "Ha a kiválasztott művek között három francia regény van, akkor az alábbiak közül melyik lehet a fennmaradó kiválasztott művek teljes és pontos listája?",
+        "options": [
+            "(A) egy orosz regény",
+            "(B) két francia dráma",
+            "(C) egy orosz regény, egy orosz dráma",
+            "(D) egy orosz regény, két francia dráma",
+            "(E) két orosz regény, egy francia dráma"
+        ],
+        "label": "C",
+        "ind": 8
+    },
+    {
+        "passage": "Egy olvasóklub szervezője legalább öt és legfeljebb hat művet választ ki egy kilenc műből álló csoportból. A csoport három francia regényt, három orosz regényt, két francia színdarabot és egy orosz színdarabot tartalmaz. A szervező választásának meg kell felelnie a következő követelményeknek: Legfeljebb négy francia művet választanak ki. Legalább három, de legfeljebb négy regényt választanak ki. Legalább annyi francia regényt választanak ki, mint orosz regényt. Ha mindkét francia színdarabot kiválasztják, akkor az orosz színdarabot nem választják ki.",
+        "question": "A szervezőnek legalább ki kell választania",
+        "options": [
+            "['(A)egy francia regényt és egy francia színdarabot', '(B)egy francia regényt és egy orosz színdarabot', '(C)egy orosz regényt és egy francia színdarabot', '(D)két francia regényt', '(E)két orosz regényt']"
+        ],
+        "label": "D",
+        "ind": 9
+    },
+    {
+        "passage": "Egy olvasóklub szervezője legalább öt és legfeljebb hat művet választ ki egy kilenc műből álló csoportból. A csoport három francia regényt, három orosz regényt, két francia színdarabot és egy orosz színdarabot tartalmaz. A szervező műválasztásának meg kell felelnie a következő követelményeknek: Legfeljebb négy francia mű választható ki. Legalább három, de legfeljebb négy regény választható ki. Legalább annyi francia regényt kell kiválasztani, mint ahány orosz regényt. Ha mindkét francia színdarabot kiválasztják, akkor az orosz színdarabot nem választják ki.",
+        "question": "Az alábbiak közül bármelyik igaz lehet a szervező műválasztásával kapcsolatban, KIVÉVE:",
+        "options": [
+            "(A) Nem választanak ki orosz regényt, és pontosan egy színdarabot választanak ki.",
+            "(B) Pontosan egy orosz regényt és mindkét francia színdarabot választják ki.",
+            "(C) Pontosan két francia regényt és az orosz színdarabot választják ki.",
+            "(D) Pontosan két francia regényt és pontosan két színdarabot választanak ki.",
+            "(E) Pontosan két orosz regényt és pontosan egy színdarabot választanak ki."
+        ],
+        "label": "A",
+        "ind": 10
+    },
+    {
+        "passage": "Egy koncerten pontosan nyolc művet – F, H, L, O, P, R, S és T – adnak elő, mindegyiket pontosan egyszer, egymás után és egyenként. Az előadás sorrendjének meg kell felelnie a következő feltételeknek: T közvetlenül F előtt vagy közvetlenül R után szerepel. Legalább két művet adnak elő vagy F után és R előtt, vagy R után és F előtt. O vagy elsőként, vagy ötödikként szerepel. A nyolcadik előadott mű vagy L, vagy H. P-t valamikor S előtt adják elő. Legalább egy művet adnak elő vagy O után és S előtt, vagy S után és O előtt.",
+        "question": "Melyik az alábbiak közül az a lista, amely a műveket olyan sorrendben tartalmazza, ahogy azokat a koncert során elő lehet adni, elsőtől nyolcadikig?",
+        "options": [
+            "(A) L, P, S, R, O, T, F, H  ",
+            "(B) O, T, P, F, S, H, R, L  ",
+            "(C) P, T, F, S, L, R, O, H  ",
+            "(D) P, T, F, S, O, R, L, H  ",
+            "(E) T, F, P, R, O, L, S, H"
+        ],
+        "label": "A",
+        "ind": 11
+    },
+    {
+        "passage": "Egy koncerten pontosan nyolc zeneművet – F, H, L, O, P, R, S és T – adnak elő, mindegyiket pontosan egyszer, egymás után és egyszerre csak egy zeneművet. Az előadásuk sorrendjének meg kell felelnie a következő feltételeknek: T-t vagy közvetlenül F előtt, vagy közvetlenül R után adják elő. Legalább két zeneművet előadnak vagy F után és R előtt, vagy R után és F előtt. O-t vagy elsőként, vagy ötödikként adják elő. A nyolcadik előadott zenemű vagy L, vagy H. P-t előbb adják elő, mint S-t. Legalább egy zeneművet előadnak vagy O után és S előtt, vagy S után és O előtt.",
+        "question": "P nem lehet előadva",
+        "options": [
+            "(A) másodikként  ",
+            "(B) harmadikként  ",
+            "(C) negyedikként  ",
+            "(D) hatodikként  ",
+            "(E) hetedikként"
+        ],
+        "label": "E",
+        "ind": 12
+    },
+    {
+        "passage": "Egy koncerten pontosan nyolc kompozíciót – F, H, L, O, P, R, S és T – adnak elő pontosan egyszer, egymás után és egyszerre csak egy kompozíciót. Az előadás sorrendjének meg kell felelnie a következő feltételeknek: T-t vagy közvetlenül F előtt, vagy közvetlenül R után adják elő. Legalább két kompozíciót kell előadni vagy F és R között, vagy R és F között. O-t vagy elsőként, vagy ötödikként adják elő. A nyolcadik előadott kompozíció vagy L, vagy H. P-t valamikor S előtt adják elő. Legalább egy kompozíciót kell előadni vagy O és S között, vagy S és O között.",
+        "question": "Ha T-t ötödikként és F-et hatodikként adják elő, akkor S-t vagy",
+        "options": [
+            "(A) negyedikként vagy hetedikként,",
+            "(B) harmadikként vagy hatodikként,",
+            "(C) harmadikként vagy negyedikként,",
+            "(D) másodikként vagy hetedikként,",
+            "(E) elsőként vagy negyedikként"
+        ],
+        "label": "A",
+        "ind": 13
+    },
+    {
+        "passage": "Egy koncerten pontosan nyolc zenemű - F, H, L, O, P, R, S és T - kerül előadásra, pontosan egyszer mindegyik, egymás után és egyszerre csak egy zenemű. Az előadásuk sorrendjének meg kell felelnie a következő feltételeknek: T-t vagy közvetlenül F előtt, vagy közvetlenül R után adják elő. Legalább két zenemű előadásra kerül vagy F után és R előtt, vagy R után és F előtt. O vagy elsőként, vagy ötödikként kerül előadásra. A nyolcadik előadott zenemű vagy L, vagy H. P valamikor S előtt kerül előadásra. Legalább egy zenemű előadásra kerül vagy O után és S előtt, vagy S után és O előtt.",
+        "question": "Ha O közvetlenül T után kerül előadásra, akkor F-et kell előadni vagy",
+        "options": [
+            "(A) elsőként vagy másodikként",
+            "(B) másodikként vagy harmadikként",
+            "(C) negyedikként vagy hatodikként",
+            "(D) negyedikként vagy hetedikként",
+            "(E) hatodikként vagy hetedikként"
+        ],
+        "label": "E",
+        "ind": 14
+    },
+    {
+        "passage": "Egy koncerten pontosan nyolc kompozíciót - F, H, L, O, P, R, S és T - adnak elő, mindegyiket pontosan egyszer, egymás után, egyenként. Az előadás sorrendjének meg kell felelnie a következő feltételeknek: T-t vagy közvetlenül F előtt vagy közvetlenül R után adják elő. Legalább két kompozíciót adnak elő vagy F után és R előtt, vagy R után és F előtt. O-t vagy elsőként vagy ötödikként adják elő. A nyolcadik előadott kompozíció vagy L vagy H. P-t valamikor S előtt adják elő. Legalább egy kompozíciót adnak elő vagy O után és S előtt, vagy S után és O előtt.",
+        "question": "Ha S-t negyedikként adják elő, melyik lehet a következők közül az első, második és harmadik előadott kompozíció pontos listája?",
+        "options": [
+            "(A) F, H, P",
+            "(B) H, P, L",
+            "(C) O, P, R",
+            "(D) O, P, T",
+            "(E) P, R, T"
+        ],
+        "label": "C",
+        "ind": 15
+    },
+    {
+        "passage": "Egy koncerten pontosan nyolc zeneművet – F, H, L, O, P, R, S és T – adnak elő, mindegyiket pontosan egyszer, egymás után és egyszerre csak egy zeneművet. Az előadás sorrendjének meg kell felelnie a következő feltételeknek: T-t vagy közvetlenül F előtt, vagy közvetlenül R után adják elő. Legalább két zeneművet adnak elő vagy F után és R előtt, vagy R után és F előtt. O-t vagy elsőként, vagy ötödikként adják elő. A nyolcadik előadott zenemű vagy L, vagy H. P-t valamikor S előtt adják elő. Legalább egy zeneművet adnak elő vagy O után és S előtt, vagy S után és O előtt.",
+        "question": "Ha P-t harmadikként, és S-t hatodikként adják elő, akkor az ötödikként előadott zeneműnek vagy",
+        "options": [
+            "(A)F vagy H  ",
+            "(B)F vagy O  ",
+            "(C)F vagy T  ",
+            "(D)H vagy L  ",
+            "(E)O vagy R"
+        ],
+        "label": "C",
+        "ind": 16
+    },
+    {
+        "passage": "Egy koncerten pontosan nyolc zeneművet adnak elő – F, H, L, O, P, R, S és T – mindegyiket pontosan egyszer, egymás után és egyenként. Az előadás sorrendjének meg kell felelnie a következő feltételeknek: T vagy közvetlenül F előtt, vagy közvetlenül R után kerül előadásra. Legalább két zeneművet kell előadni vagy F után és R előtt, vagy R után és F előtt. O vagy elsőként, vagy ötödikként kerül előadásra. A nyolcadik előadott zenemű vagy L, vagy H. P-t előbb adják elő, mint S-t. Legalább egy zeneművet elő kell adni vagy O után és S előtt, vagy S után és O előtt.",
+        "question": "Ha pontosan két zeneművet adnak elő F után, de O előtt, akkor R-t kell előadni",
+        "options": [
+            "(A) elsőként, (B) harmadikként, (C) negyedikként, (D) hatodikként, (E) hetedikként"
+        ],
+        "label": "D",
+        "ind": 17
+    },
+    {
+        "passage": "Pontosan hét egymást követő napon (1. naptól a 7. napig) egy állatkereskedés pontosan egyet mutat be három macskafajta közül – Himalája, Manx, Sziámi – és pontosan egyet három kutyafajta közül – Agár, Újfundlandi, Rottweiler. A következő feltételeknek kell érvényesülniük: Az agarak az 1. napon kerülnek bemutatásra. Egyik fajta sem szerepelhet két egymást követő napon. Az 1. napon bemutatott fajták nem szerepelhetnek a 7. napon. A himalájai macskák pontosan három napon szerepelnek, de nem az 1. napon. A rottweilerek nem szerepelnek a 7. napon, és nem szerepelhetnek olyan napon, amikor himalájai macskák szerepelnek.",
+        "question": "Melyik lehet a következő lehetőség a macskafajták bemutatásának sorrendjére az állatkereskedésben az 1. naptól a 7. napig?",
+        "options": [
+            "(A)Himalája, Manx, Sziámi, Himalája, Manx, Himalája, Sziámi  ",
+            "(B)Manx, Himalája, Sziámi, Himalája, Manx, Himalája, Manx  ",
+            "(C)Manx, Himalája, Manx, Himalája, Sziámi, Manx, Sziámi  ",
+            "(D)Sziámi, Himalája, Manx, Himalája, Sziámi, Sziámi, Himalája  ",
+            "(E)Sziámi, Himalája, Sziámi, Himalája, Manx, Sziámi, Himalája"
+        ],
+        "label": "E",
+        "ind": 18
+    },
+    {
+        "passage": "A kisállatkereskedés pontosan hét egymást követő napon (1. naptól 7. napig) pontosan egy macskafajta – Himalája, Manx, Sziámi – és pontosan egy kutyafajta – Agár, Újfoundlandi, Rottweiler – közül egyet mutat be. A következő feltételeknek kell megfelelniük: Agarakat mutatnak be az 1. napon. Egyetlen fajta sem szerepel két egymást követő napon. Bármely fajta, amelyet az 1. napon mutatnak be, nem szerepel a 7. napon. A himalájaiakat pontosan három napon mutatják be, de nem az 1. napon. A rottweilerek nem szerepelnek a 7. napon, sem azon a napon, amikor himalájaiakat mutatnak be.",
+        "question": "Ha a himalájaiakat nem mutatják be a 2. napon, akkor melyik lehet az alábbiak közül igaz?",
+        "options": [
+            "(A) Manxokat mutatnak be a 3. napon.",
+            "(B) Sziámikat mutatnak be a 4. napon.",
+            "(C) Rottweilerek szerepelnek az 5. napon.",
+            "(D) Himalájaiakat mutatnak be a 6. napon.",
+            "(E) Agarak szerepelnek a 7. napon."
+        ],
+        "label": "B",
+        "ind": 19
+    },
+    {
+        "passage": "Pontosan hét egymást követő napon (1. naptól a 7. napig) egy állatkereskedés pontosan egyet mutat be három macskafajtából – Himalája, Manx, Sziámi – és pontosan egyet három kutyafajtából – Agár, Újfundlandi, Rottweiler. A következő feltételek alkalmazandók: Az agarak az 1. napon szerepelnek. Egy fajta sem szerepelhet két egymást követő napon. Az 1. napon szereplő bármely fajta nem szerepelhet a 7. napon. A Himaláják pontosan három napon szerepelnek, de nem az 1. napon. A rottweilerek nem szerepelnek a 7. napon, és nem szerepelnek semmilyen napon, amelyen Himaláják szerepelnek.",
+        "question": "Melyik lehet igaz a következők közül?",
+        "options": [
+            "(A) Az agarak és a sziámiak egyaránt szerepelnek a 2. napon.",
+            "(B) Az agarak és a Himaláják egyaránt szerepelnek a 7. napon.",
+            "(C) A rottweilerek és a Himaláják egyaránt szerepelnek a 4. napon.",
+            "(D) A rottweilerek és a manxok egyaránt szerepelnek az 5. napon.",
+            "(E) Az újfundlandiak és a manxok egyaránt szerepelnek a 6. napon."
+        ],
+        "label": "D",
+        "ind": 20
+    },
+    {
+        "passage": "Pontosan hét egymást követő napon (1. naptól a 7. napig) egy kisállatkereskedés pontosan egy fajta kiscicát mutat be, a következő három közül: Himalája, Manx, Sziámi, és pontosan egy fajta kiskutyát, a következő három közül: Agár, Újfundlandi, Rottweiler. A következő feltételeknek kell teljesülniük: Az agarak az 1. napon szerepelnek. Egy fajta sem szerepelhet két egymást követő napon. Bármelyik fajta, amely az 1. napon szerepel, nem szerepel a 7. napon. A Himaláják pontosan három napon szerepelnek, de nem az 1. napon. A Rottweilerek nem szerepelnek a 7. napon, és nem szerepelnek olyan napon, amikor Himaláják szerepelnek.",
+        "question": "Ha a Himaláják nem szerepelnek a 7. napon, akkor az alábbi napok közül melyik pár NEM szerepelhet ugyanaz a kiscica fajta és ugyanaz a kiskutya fajta?",
+        "options": [
+            "(A) 1. nap és 3. nap",
+            "(B) 2. nap és 6. nap",
+            "(C) 3. nap és 5. nap",
+            "(D) 4. nap és 6. nap",
+            "(E) 5. nap és 7. nap"
+        ],
+        "label": "B",
+        "ind": 21
+    },
+    {
+        "passage": "Pontosan hét egymást követő napon (1. nap és 7. nap között) egy állatkereskedésben pontosan egy háromféle macskafajtából – himalájai, manx, sziámi – és pontosan egy háromféle kutyafajtából – agár, newfoundlandi, rottweiler – szerepel. A következő feltételeknek kell megfelelni: Az agarak az 1. napon szerepelnek. Egyetlen fajta sem szerepel két egymást követő napon. Az 1. napon szereplő fajták nem szerepelnek a 7. napon. A himalájaiak pontosan három napon szerepelnek, de nem az 1. napon. A rottweilerek nem szerepelnek a 7. napon, sem olyan napon, amikor himalájaiak szerepelnek.",
+        "question": "Melyik lehet igaz az alábbiak közül?",
+        "options": [
+            "(A) Pontosan négy fajta van, amelyek mindegyike három napon szerepel.",
+            "(B) Az agarak minden napon szerepelnek, amikor himalájaiak is szerepelnek.",
+            "(C) A himalájaiak minden napon szerepelnek, amikor az agarak is.",
+            "(D) A himalájaiak minden napon szerepelnek, amikor a rottweilerek nem.",
+            "(E) A rottweilerek minden napon szerepelnek, amikor a himalájaiak nem."
+        ],
+        "label": "A",
+        "ind": 22
+    },
+    {
+        "passage": "Pontosan hét egymást követő napon (1. naptól a 7. napig) egy állatkereskedés pontosan egy fajtájú kiscicát mutat be a három közül - Himalája, Manx, Sziámi - és pontosan egy fajtájú kiskutyát a három közül - Agár, Újfundlandi, Rottweiler. A következő feltételeknek kell megfelelni: Az agár az 1. napon szerepel. Egyetlen fajta sem szerepel két egymást követő napon. Az a fajta, amely az 1. napon szerepel, nem szerepel a 7. napon. A Himaláják pontosan három napon szerepelnek, de nem az 1. napon. A rottweilerek nem szerepelnek a 7. napon, és nem szerepelnek egyetlen olyan napon sem, amikor a himaláják szerepelnek.",
+        "question": "Ha a himaláják nem szerepelnek a 7. napon, melyik lehet igaz az alábbiak közül?",
+        "options": [
+            "(A) Az agarak a 3. és az 5. napon szerepelnek.",
+            "(B) Az újfundlandik a 3. napon szerepelnek.",
+            "(C) A rottweilerek a 6. napon szerepelnek.",
+            "(D) A rottweilerek csak a 3. napon szerepelnek.",
+            "(E) A rottweilerek pontosan három napon szerepelnek."
+        ],
+        "label": "D",
+        "ind": 23
+    },
+    {
+        "passage": "Egy öt tudósból álló testületet állítanak össze. A tagokat három botanikus—F, G és H—, három kémikus—K, L és M—, valamint három zoológus—P, Q és R—közül választják ki. A kiválasztás az alábbi feltételek alapján történik: A testületnek legalább egy tudóst kell tartalmaznia mindhárom típusból. Ha egynél több botanikust választanak ki, akkor legfeljebb egy zoológust lehet kiválasztani. F és K nem választhatók ki egyszerre. K és M nem választhatók ki egyszerre. Ha M kiválasztásra kerül, akkor mind P, mind R kiválasztása kötelező.",
+        "question": "Melyik a következő lehetőségek közül egy elfogadható tudósokból álló választás a testület számára?",
+        "options": [
+            "(A)F, G, K, P, Q  ",
+            "(B)G, H, K, L, M  ",
+            "(C)G, H, K, L, R  ",
+            "(D)H, K, M, P, R  ",
+            "(E)H, L, M, P, Q"
+        ],
+        "label": "C",
+        "ind": 24
+    },
+    {
+        "passage": "Egy öttagú tudományos testületet kell létrehozni. A testület tagjait három botanikus—F, G és H—, három vegyész—K, L és M—, valamint három zoológus—P, Q és R—közül választják ki. A kiválasztást a következő feltételek szabályozzák: A testületnek legalább egy tudóst kell tartalmaznia mindhárom típusból. Ha egynél több botanikust választanak ki, akkor legfeljebb egy zoológust lehet kiválasztani. F és K nem választhatók mindketten. K és M nem választhatók mindketten. Ha M-et választják ki, akkor mind P-t, mind R-t ki kell választani.",
+        "question": "Ha M az egyetlen kiválasztott vegyész a testületbe, melyik állításnak kell igaznak lennie az alábbiak közül?",
+        "options": [
+            "(A) F és G mindketten kiválasztottak.",
+            "(B) G és H mindketten kiválasztottak.",
+            "(C) H és P mindketten kiválasztottak.",
+            "(D) F, G és H mind kiválasztottak.",
+            "(E) P, Q és R mind kiválasztottak."
+        ],
+        "label": "E",
+        "ind": 25
+    },
+    {
+        "passage": "Egy öttagú tudóscsoportot kell létrehozni. A panel tagjait három botanikus - F, G és H -, három kémikus - K, L és M - és három zoológus - P, Q és R - közül választják ki. A kiválasztást a következő feltételek szabályozzák: A csoportnak legalább egy tudóst kell tartalmaznia mindhárom típusból. Ha több mint egy botanikust választanak ki, akkor legfeljebb egy zoológust lehet kiválasztani. F és K nem lehetnek mindketten kiválasztva. K és M nem lehetnek mindketten kiválasztva. Ha M-t kiválasztják, akkor mind P-nek, mind R-nek szerepelnie kell.",
+        "question": "Ha a kiválasztott négy tudós F, L, Q és R, akkor a következő tudósok közül melyiknek kell lennie az ötödik kiválasztottnak?",
+        "options": [
+            "['(A)G', '(B)H', '(C)K', '(D)M', '(E)P']"
+        ],
+        "label": "E",
+        "ind": 26
+    },
+    {
+        "passage": "Egy öttagú tudományos testületet fognak létrehozni. A testület tagjait három botanikus - F, G és H -, három kémikus - K, L és M -, valamint három zoológus - P, Q és R - közül választják ki. A kiválasztást a következő feltételek szabályozzák: A testületnek legalább egy tudóst kell tartalmaznia mindhárom típusból. Ha egynél több botanikust választanak ki, akkor legfeljebb egy zoológust választhatnak ki. F és K nem választhatók ki egyszerre. K és M nem választhatók ki egyszerre. Ha M-et választják ki, akkor P-nek és R-nek is szerepelnie kell.",
+        "question": "Ha P az egyetlen kiválasztott zoológus, akkor melyik állításnak kell igaznak lennie?",
+        "options": [
+            "(A) Ha K-t választják ki, akkor G nem választható.",
+            "(B) Ha L-t választják ki, akkor F nem választható.",
+            "(C) Ha pontosan egy kémikust választanak ki, akkor annak K-nek kell lennie.",
+            "(D) Ha pontosan két kémikust választanak ki, akkor F nem választható.",
+            "(E) Ha pontosan két kémikust választanak ki, akkor G nem választható."
+        ],
+        "label": "D",
+        "ind": 27
+    },
+    {
+        "passage": "Öt tudósból álló testületet fognak összeállítani. A testület tagjait három botanikus—F, G és H—, három kémikus—K, L és M—, valamint három zoológus—P, Q és R—közül választják ki. A kiválasztás az alábbi feltételek szerint történik: A testületnek legalább egy tudósnak kell lennie mindhárom típusból. Ha több mint egy botanikust választanak, akkor legfeljebb egy zoológust választhatnak. F és K nem lehetnek mindketten kiválasztva. K és M nem lehetnek mindketten kiválasztva. Ha M-t választják, akkor P-t és R-t is választani kell.",
+        "question": "Ha G és H is a kiválasztott tudósok között van, akkor a testületnek tartalmaznia kell vagy",
+        "options": [
+            "(A)F-et vagy K-t",
+            "(B)F-et vagy M-t",
+            "(C)K-t vagy M-t",
+            "(D)M-t vagy Q-t",
+            "(E)P-t vagy Q-t"
+        ],
+        "label": "A",
+        "ind": 28
+    }
+]

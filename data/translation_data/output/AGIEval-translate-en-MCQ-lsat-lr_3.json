@@ -1,0 +1,854 @@
+[
+    {
+        "passage": "A kéztőalagút-szindróma, egy idegrendszeri rendellenesség, amely a kezeket és csuklókat érinti, gyakran ismétlődő mozgások, például billentyűzeten való gépelés következtében alakul ki. Egy nemrégiben végzett tanulmány szerint az irodai dolgozók körében, akik hasonló mennyiségű gépelést végeznek, azoknak a munkásoknak, akik a legkevésbé irányítják saját munkájukat, majdnem háromszor nagyobb a kockázata a kéztőalagút-szindróma kialakulásának, mint azoknak, akik a legnagyobb kontrollt jelentették.",
+        "question": "Melyik az alábbiak közül, ha igaz, segít leginkább megmagyarázni a tanulmány eredményét?",
+        "options": [
+            "(A) Azok az irodai dolgozók, akik a legnagyobb kontrollt gyakorolják saját munkájuk felett, hajlamosak jelentősen kevesebbet gépelni, mint azok, akik a legkevesebb kontrollt gyakorolják.",
+            "(B) Az az érzés, hogy valaki nem irányítja saját munkáját, érzelmi stressz alá helyezheti az illetőt, ami érzékenyebbé teszi az idegrendszeri rendellenességekre.",
+            "(C) Az irodai dolgozók által használt billentyűzetek hajlamosítják a gépelők karjait és kezeit olyan pozíciókba, amelyek elősegítik a kéztőalagút-szindróma kialakulását.",
+            "(D) Azoknál az irodai dolgozóknál, akik ritkán használnak billentyűzetet, a kéztőalagút-szindróma aránya sokkal magasabb azoknál, akik úgy érzik, hogy nem irányítják saját munkájukat.",
+            "(E) Azok az irodai dolgozók, akik a legnagyobb kontrollt gyakorolják saját munkájuk felett, hajlamosak gyakrabban végezni ismétlődő mozgásokat, mint például gépelés, mint azok az irodai dolgozók, akik a legkevesebb kontrollt gyakorolják."
+        ],
+        "label": "B",
+        "ind": 0
+    },
+    {
+        "passage": "Elv: A telemarketing ügynökségek alkalmazottai soha nem tehetnek semmit, ami arra késztetné az embereket, hogy nehezteljenek az ügynökségek ügyfeleire. Alkalmazás: Ha egy telemarketing ügynökség alkalmazottját egy általa felhívott személy közli, hogy nem akarja megvásárolni az ügynökség ügyfelének termékét, akkor az alkalmazottnak",
+        "question": "Melyik az alábbiak közül, ha igaz, indokolja a fenti elv alkalmazását?",
+        "options": [
+            "(A) Bármely telemarketing ügynökség alkalmazottja valószínűleg képes meghatározni, hogy az ügynökség ügyfelének termékének megvásárlására való rábeszélés, miután a személy közölte, hogy nem akarja, valószínűleg ellenségeskedést vált-e ki az ügyfél iránt.",
+            "(B) Néhány telemarketing ügynökség alkalmazottja valószínűleg nem biztos abban, hogy az ügynökség ügyfelének termékének megvásárlására való rábeszélés, miután a személy közölte, hogy nem akarja, valószínűleg ellenségeskedést vált-e ki az ügyfél iránt.",
+            "(C) Bármely telemarketing ügynökség alkalmazottja, aki megpróbálja rávenni valakit az ügynökség ügyfelének termékének megvásárlására, miután a személy közölte, hogy nem akarja, ellenségeskedést vált ki az ügyfél iránt.",
+            "(D) Néhány személy, akit egy telemarketing ügynökség alkalmazottja felhív, hogy megkérje őket az ügynökség ügyfelének termékének megvásárlására, akkor is elutasítja, ha nem hajlamosak ellenszenvet táplálni az ügyfél iránt.",
+            "(E) Az emberek, akik már hajlamosak ellenszenvezni egy telemarketing ügynökség ügyfelét, nagyobb valószínűséggel utasítják el az ügyfél termékének megvásárlását, mint azok, akik hajlamosak kedvelni az ügyfelet."
+        ],
+        "label": "C",
+        "ind": 1
+    },
+    {
+        "passage": "Bár a Plútónak van légköre és sokkal nagyobb, mint bármelyik aszteroida, a Plútó nem igazi bolygó. A Plútó a Neptunusz körül keringve keletkezett, majd kikerült a Neptunusz körüli pályájáról, amikor Tritont, a Neptunusz legnagyobb holdját a Neptunusz gravitációja befogta.",
+        "question": "Az érvelés következtetése logikusan következik, ha feltételezzük az alábbiak közül melyiket?",
+        "options": [
+            "(A) Egy égitest nem lehet egyszerre hold és bolygó.  ",
+            "(B) Nem minden égitest, amelynek légköre van és a Nap körül kering, igazi bolygó.  ",
+            "(C) Ha a Plútó nem került volna ki a Neptunusz körüli pályájáról, akkor nem lenne a jelenlegi pályáján a Nap körül, és még mindig hold lenne.  ",
+            "(D) Egy égitest mérete, amely a Nap körül kering, nem releváns annak meghatározásában, hogy igazi bolygó-e vagy sem.  ",
+            "(E) Ahhoz, hogy egy égitest igazi bolygó legyen, kizárólag a Nap körüli pályán kellett kialakulnia."
+        ],
+        "label": "E",
+        "ind": 2
+    },
+    {
+        "passage": "A magas kalóriatartalmú étrend, amely elegendő zsírt biztosít, kulcsfontosságú követelmény volt az anatómiailag modern emberi agy evolúciójához, amely folyamat korai emberősünk körében kezdődött. Az ilyen étrendet támogató élelmiszerforrások leginkább a part menti környezetekben voltak bőségesek és megbízhatóak, amelyek elérhetők voltak a korai emberek számára. Mindazonáltal az emberi agy evolúciója szinte kizárólag szavanna és erdős területeken történt.",
+        "question": "Melyik állítás segítene leginkább megoldani a fent bemutatott látszólagos ellentmondást, ha igaz lenne?",
+        "options": [
+            "(A) A korai emberek anyagcseréje jelentősen alacsonyabb volt, mint az anatómiailag modern embereké, lehetővé téve számukra, hogy hatékonyabban használják fel zsírtartalékaikat.",
+            "(B) Az ismert legkorábbi emberek agya 30 százalékkal kisebb volt, mint az anatómiailag modern emberi agy.",
+            "(C) A történelmi szavannák és erdős területek megbízhatóbb és bőségesebb erőforrásokat kínáltak, mint manapság.",
+            "(D) A történelmi part menti lelőhelyek régészeti feltárására használt technikák csak a közelmúltban fejlődtek ki.",
+            "(E) Az élelmiszerek gyűjtése a part menti környezetekben jelentősen nagyobb kalóriafelhasználást igényelt a korai emberektől, mint az élelmiszerek gyűjtése más környezetekben."
+        ],
+        "label": "D",
+        "ind": 3
+    },
+    {
+        "passage": "Szerkesztő Y: Ez egy jó fénykép: a kompozíció vonzó, különösen azáltal, ahogy a kép egyik sarkában a füst elhomályosítja a látványt. Szerkesztő Z: Nagyon szép, de rossz fénykép. Nem közvetít semmilyen mondanivalót; nincs nyilvánvaló oka annak, hogy a füst ott legyen.",
+        "question": "A szerkesztők párbeszéde leginkább azt a kijelentést támasztja alá, hogy nem értenek egyet abban, hogy vajon",
+        "options": [
+            "(A) egy fénykép kompozíciójának kapcsolódnia kell-e a fénykép által közvetített mondanivalóhoz",
+            "(B) egy nem vonzó fénykép még mindig lehet jó fénykép",
+            "(C) egy fénykép, amelynek nincs mondanivalója, még mindig lehet vonzó",
+            "(D) a vonzóság önmagában jó fényképpé tehet-e egy fényképet",
+            "(E) a vonzó kompozíció és a szépség ugyanaz a jellemző"
+        ],
+        "label": "D",
+        "ind": 4
+    },
+    {
+        "passage": "Az egyetemi elnök: Kénytelenek leszünk csökkenteni a kiadásainkat a következő évben, ha nem növeljük a beiratkozások számát. Tehát, ha meg akarjuk őrizni az általunk nyújtott oktatás minőségét, agresszívebben kell népszerűsítenünk a programjainkat. E nélkül a marketing nélkül nem leszünk képesek növelni a beiratkozások számát.",
+        "question": "Az egyetemi elnök érvelésének következtetése helyesen levonható, ha az alábbiak közül melyik feltételezhető?",
+        "options": [
+            "(A) Az egyetem nem fogja megőrizni az általa nyújtott oktatás minőségét, ha növeli a beiratkozások számát.",
+            "(B) Az egyetemnek nem kell csökkentenie a kiadásait a következő évben, ha növeli a beiratkozások számát.",
+            "(C) Az egyetem növelni fogja a beiratkozások számát, ha agresszívebben népszerűsíti a programjait.",
+            "(D) Az egyetem nem fogja megőrizni az általa nyújtott oktatás minőségét, ha a következő évben csökkenti a kiadásait.",
+            "(E) Az egyetemnek nem kell csökkentenie a kiadásait a következő évben, ha agresszívebben népszerűsíti a programjait."
+        ],
+        "label": "D",
+        "ind": 5
+    },
+    {
+        "passage": "Ha a város megköveteli a lakosoktól, hogy válogassák szét az újrahasznosításra szánt anyagokat, akkor sok lakos több újrahasznosítható anyagot fog a rendes szemét közé tenni. Ez azt eredményezi, hogy több újrahasznosítható anyag kerül eltemetésre a város hulladéklerakójában. Azonban, mivel a városi munkások általi válogatás költségei miatt a közegészségügyi osztály nem tudja tartani a költségvetését, hacsak nem valósítják meg a lakosok számára előírt válogatási követelményt.",
+        "question": "Melyik az alábbi állítások közül következik logikusan a fentiekből?",
+        "options": [
+            "(A) A város legtöbb lakosa továbbra is újrahasznosít, még akkor is, ha egy válogatási követelményt vezetnek be.",
+            "(B) Ha a város megköveteli a lakosoktól az újrahasznosítható anyagok válogatását, akkor minden lakos, aki továbbra is újrahasznosít, válogatni fogja az újrahasznosítható anyagokat.",
+            "(C) A válogatási követelmény bevezetése nem okozná, hogy a város éves költsége a szemét lerakóba küldése miatt meghaladja az újrahasznosítható anyagok válogatásának jelenlegi éves költségét.",
+            "(D) Az újrahasznosítható anyagok mennyisége, amely a város hulladéklerakójába kerül, növekedni fog, ha a közegészségügyi osztály tartja a költségvetését.",
+            "(E) Ha a város bevezeti a válogatási követelményt, a közegészségügyi osztály tartani fogja a költségvetését."
+        ],
+        "label": "D",
+        "ind": 6
+    },
+    {
+        "passage": "A szurikáta \"őrszemek\", akiket így neveznek, mert ragadozókra figyelnek, miközben a többi szurikáta csoporttag táplálékot keres, szinte soha nem esnek áldozatul ezeknek a ragadozóknak, míg a táplálékot keresők gyakran igen. Az őrszem számára ebből származó előny nem jelenti azt, hogy figyelmes viselkedése teljesen önérdekű. Éppen ellenkezőleg, az őrszem viselkedése példa az állati viselkedésre, amelyet legalább részben az altruizmus motivál. Az őrszem által kibocsátott hangos ugatás, miközben a legközelebbi lyuk fedezékébe rohan, figyelmezteti a többi csoporttagot a veszély jelenlétére.",
+        "question": "Melyik a következő lehetőségek közül egy megkérdőjelezhető érvelési technika, amelyet az érvelés alkalmaz?",
+        "options": [
+            "(A) Olyan bizonyítékokra hivatkozik, amelyek inkább aláássák, mintsem alátámasztják az érvelés következtetését.",
+            "(B) Olyan bizonyítékokra hivatkozik, amelyek feltételezik az érvelés következtetésének igazságát.",
+            "(C) Csak egy cselekvés által előidézett hatásból következtet arra, hogy a cselekvés célja az volt, hogy ezt a hatást érje el.",
+            "(D) Csak abból a kijelentésből következtet arra, hogy a szurikáta őrszem viselkedése nem teljesen önző, hogy ez a viselkedés teljesen altruista.",
+            "(E) Arra a következtetésre jut, hogy egy állítás hamis, azon az alapon, hogy nem áll rendelkezésre elegendő bizonyíték annak alátámasztására."
+        ],
+        "label": "C",
+        "ind": 7
+    },
+    {
+        "passage": "Alex: A garnélatenyésztés károsítja a környezetet, mert a befektetők gyors haszonra tesznek szert az ilyen tenyésztésből, majd elhagyják a farmokat. Jolene: Nem értek egyet. Bár néhány garnélafarm fenntarthatatlannak bizonyult, és gyorsan elhagyták őket, a megfelelően épített garnélafarmok hosszú időt vesznek igénybe az építéshez és drága az üzemeltetésük. A legtöbb tulajdonos igyekszik biztosítani, hogy farmjaik sok éven át termelékenyek maradjanak.",
+        "question": "Párbeszédük leginkább azt a kijelentést támasztja alá, hogy Alex és Jolene abban nem értenek egyet, hogy vajon",
+        "options": [
+            "(A) a garnélafarmok többségének tulajdonosai végül elhagyják-e farmjaikat",
+            "(B) a garnélatenyésztés gyakran gyors, könnyű hasznot hoz-e",
+            "(C) a garnélatenyésztés szinte soha nem károsítja-e a környezetet",
+            "(D) egy garnélafarm elhagyása káros-e a környezetre",
+            "(E) néhány garnélatenyésztő környezeti szempontból felelőtlen-e"
+        ],
+        "label": "B",
+        "ind": 8
+    },
+    {
+        "passage": "Senki, aki Leila Elektronikánál dolgozik, nem kapott egyszerre gyenge teljesítményértékelést és fizetésemelést. Lester nem kapott fizetésemelést, tehát biztosan gyenge teljesítményértékelést kapott.",
+        "question": "A fenti érvelés hibás következtetése leginkább melyik alábbi érvelés következtetéséhez hasonlít?",
+        "options": [
+            "(A) Senki, aki házban él, nem birtokolja azt, és nem fizet érte bérleti díjat. Tehát, mivel a szomszédaim bérleti díjat fizetnek a házukért, biztosan nem birtokolják azt.",
+            "(B) Senki, aki házban él, nem birtokolja azt, és nem fizet érte bérleti díjat. A szomszédaim birtokolják a házukat. Ezért biztosan nem fizetnek érte bérleti díjat.",
+            "(C) A szomszédaim nem fizettek bérleti díjat a házukért. Mivel bárki, aki házban él, de nem bérel, az birtokolja azt, biztosan birtokolják azt.",
+            "(D) A szomszédaim nem birtokolják a házukat. Mivel senki, aki házban él, nem birtokolja azt, és nem fizet érte bérleti díjat, biztosan bérleti díjat fizetnek a házukért.",
+            "(E) Bárki, aki házban él, de nem birtokolja azt, bérleti díjat fizet érte. A szomszédaim nem birtokolják a házukat. Ezért biztosan bérleti díjat fizetnek érte."
+        ],
+        "label": "D",
+        "ind": 9
+    },
+    {
+        "passage": "Számos tanulmány kimutatta, hogy jelentős negatív korreláció van a magas rosttartalmú étrendek és a vastagbélrák előfordulása között. Például a vastagbélrák aránya a nyugati országokban sokkal magasabb, mint sok nem nyugati országban, ahol az emberek több rostban gazdag ételt, például gyümölcsöt és zöldséget fogyasztanak. Továbbá Skandináviában meggyőzően kimutatták, hogy minél magasabb egy adott területen a vastagbélrák aránya, annál alacsonyabb az adott területen a gabonafélék fogyasztása, amelyek, akárcsak a gyümölcsök és zöldségek, magas rosttartalmúak. Mindez azt mutatja, hogy a rost elégtelen fogyasztása vastagbélrákot okoz, és a rost megfelelő fogyasztása megelőzi azt.",
+        "question": "Az érvelés sebezhető a kritikával szemben, mert az érvelés figyelmen kívül hagyja annak lehetőségét, hogy",
+        "options": [
+            "(A) sok országban jelentősen növekszik a rostfogyasztás",
+            "(B) sokféle rák kockázatát csökkentik a magas rosttartalmú étrendek",
+            "(C) sok ember számára nehéz beépíteni a rostot az étrendjébe",
+            "(D) a gyümölcsökben és zöldségekben található rost és a gabonafélékben található rost különböző mértékben rendelkezik rákellenes tulajdonságokkal",
+            "(E) a rostot tartalmazó élelmiszerek más anyagokat is tartalmaznak, amelyek fogyasztása hajlamos megelőzni a vastagbélrákot"
+        ],
+        "label": "E",
+        "ind": 10
+    },
+    {
+        "passage": "Antropológus: sokan azt gondolják, hogy ha az emberi nyelv kialakult, akkor valami hasonlónak jelen kell lennie azokban a fajokban, amelyek a legközelebbi rokonai az embereknek, mint például a csimpánzok. Úgy érvelnek, hogy mivel az új tulajdonságok fokozatosan fejlődnek ki, valami az emberi nyelvhez hasonló, bár kezdetlegesebb formában, léteznie kell abban a fajban, amelyből az ember fejlődött ki. Ez az általános érvelés lehet, hogy ésszerű, de egyszerűen nem következik belőle, hogy a csimpánzoknak van valami az emberi nyelvhez hasonlójuk, mert az emberek nem a csimpánzokból fejlődtek ki. Bár a csimpánzok valóban közeli rokonai az embereknek, ez azért van, mert mindketten egy közös őstől fejlődtek ki. Az emberi nyelv evolúciója könnyen elkezdődhetett azután, hogy ez a közös ős kihalt.",
+        "question": "A következők közül melyik fejezi ki legpontosabban az antropológus érvelésének fő következtetését?",
+        "options": [
+            "(A) Az emberek nem a csimpánzokból fejlődtek ki, hanem valamilyen kihalt fajból.",
+            "(B) Az a feltételezés, hogy valami az emberi nyelvhez hasonlónak léteznie kell abban a fajban, amelyből az ember fejlődött ki, nincs világos nyelvészeti következménye a csimpánzokra nézve.",
+            "(C) A csimpánzok kommunikációs rendszerei kezdetlegesebbek, mint az emberi nyelv.",
+            "(D) Az emberi nyelv az emberi intelligencia mellékterméke, amely hiányzik a csimpánzokból.",
+            "(E) Az emberi nyelv evolúciója azután kezdődött, hogy eltűnt egy kihalt faj, amelyből mind az emberek, mind a csimpánzok kifejlődtek."
+        ],
+        "label": "B",
+        "ind": 11
+    },
+    {
+        "passage": "Technikus: Az egészség javítását célzó kutatásokhoz használt laboratóriumi egereket általában kicsi ketrecekben tartják. Az ilyen környezet sem normális, sem egészséges az egerek számára. Ráadásul az állatokkal végzett kutatások megbízhatósága csökken, ha ezek az állatok nem a számukra normális környezetben vannak.",
+        "question": "Melyik állítás következtethető helyesen a technikus kijelentéseiből?",
+        "options": [
+            "(A) Azok a körülmények, amelyek között a laboratóriumi egereket tartják, valószínűleg nem fognak változni a közeljövőben.",
+            "(B) Ha a laboratóriumi egereket jobb körülmények között tartanák, akkor megfelelő lenne őket az egészség javítását célzó kutatásokhoz használni.",
+            "(C) Az egészség javítását célzó kutatások, amelyekben laboratóriumi egereket használnak, a körülmények miatt, amelyek között az egereket tartják, veszélybe kerülnek.",
+            "(D) Azok, akik az egészség javítását célzó kutatásokat végeznek, új kutatási technikákat fognak kifejleszteni.",
+            "(E) Azok a laboratóriumi egerek, amelyeket nem közvetlenül az emberi egészséggel kapcsolatos kutatásokhoz használnak, általában nem kis ketrecekben vannak tartva."
+        ],
+        "label": "C",
+        "ind": 12
+    },
+    {
+        "passage": "A \"dömping\" definíciója szerint egy termék értékesítése egy másik országban a termelési költségnél alacsonyabb áron történik. Az F ország garnélarák-termelői G országban a garnélarákot a G országban történő termelés költsége alatt adják el. Így az F ország termelői dömpingelik a garnélarákot.",
+        "question": "Az érvelés értékeléséhez szükséges megállapítani, hogy",
+        "options": [
+            "(A) a \"termelési költség\" a dömping definíciójában arra az országra vonatkozik-e, ahol a termék származik, vagy arra, ahol eladják",
+            "(B) a szakértők egyetértenek-e abban, hogy a dömping káros-e annak az országnak a gazdaságára, ahol a termékeket a termelési költségnél olcsóbban adják el",
+            "(C) az F ország garnélarák-termelői többet kérnek-e a garnélarákért, amit saját országukban adnak el, mint amit a G országban adnak el",
+            "(D) az F ország garnélarák-termelői végül csődbe mennek-e, ha továbbra is a termelési költség alatti áron adják el a garnélarákot G országban",
+            "(E) az F ország garnélarák-termelői jelentősen a termelési költség alatt, vagy csak kicsit az alatt adják-e el a garnélarákot G országban"
+        ],
+        "label": "A",
+        "ind": 13
+    },
+    {
+        "passage": "Tudós: A Vénusznak forró olvadt magja van, mint a Földnek. A Földhöz hasonlóan a Vénusznak is el kell vezetnie a mag által termelt felesleges hőt. A Földön ez teljes egészében aktív vulkánokon és a tektonikus lemezek szétválásakor keletkező hasadékokon keresztül történik. A Vénuszon azonban nincsenek sem aktív vulkánok, sem a tektonikus lemezek mozgása által okozott hasadékok.",
+        "question": "A következő lehetőségek közül melyik oldja fel leginkább a tudós által leírt látszólagos ellentmondást, ha igaz?",
+        "options": [
+            "(A) A Vénusz felszínén lévő kőzet sokkal magasabb hőmérsékleten marad szilárd, mint a Földön lévő kőzet.",
+            "(B) A Vénusz felszíne viszonylag vékony, lehetővé téve, hogy a belső hő az űrbe sugározzon.",
+            "(C) A Vénusz belsejének hőmérséklete nagyobb ingadozásokon megy keresztül, mint a Föld belsejéé.",
+            "(D) Bár a Vénuszon nincsenek aktív vulkánok és hőeloszlató hasadékok, van némi felszíni mozgás, ami hasonló a Földéhez.",
+            "(E) A Vénusz légköre jelentősen melegebb, mint a Földé."
+        ],
+        "label": "B",
+        "ind": 14
+    },
+    {
+        "passage": "Rovatvezető: Néhány vállalat vezetői rutinszerűen adományoznak évente egy bizonyos százalékot a vállalatuk nyereségéből jótékony célokra. Bár ez a gyakorlat teljesen indokoltnak és még csodálatra méltónak is tűnhet, valójában nem az. Végül is a vállalati nyereség nem a vezetők tulajdona, hanem a vállalatok tulajdonosaié. A legendás Robin Hood lehet, hogy a gazdagoktól lopott, hogy a szegényeknek adjon, de ettől még lopás volt.",
+        "question": "Melyik az alábbiak közül gyengíti legjobban az érvelésben használt analógiát, ha igaz?",
+        "options": [
+            "(A) Az adott évben elért vállalati nyereség egy részét visszafizetik a vállalat tulajdonosainak.",
+            "(B) Azok a vezetők, akik rutinszerűen adományoznak a vállalati nyereség egy bizonyos százalékát jótékony célokra, ezt a tulajdonosok hallgatólagos beleegyezésével teszik.",
+            "(C) A vállalatvezetők gyakran adományoznak saját bevételük egy részét jótékonysági vagy más filantróp szervezeteknek.",
+            "(D) Bármely jótékonysági szervezet, amely vállalati adományokat fogad el, képesnek kell lennie elszámolni azzal, hogyan költik el azt a pénzt.",
+            "(E) A jótékonysági szervezetek gyakran kérnek hozzájárulást vállalatoktól, valamint magánszemélyektől is."
+        ],
+        "label": "B",
+        "ind": 15
+    },
+    {
+        "passage": "Elv: Egy olyan törvényt, amelynek célja a vadon élő állatpopulációk védelme, nem szabad érvényesíteni azokkal szemben, akiknek a tevékenysége nem fenyegeti a vadon élő állatpopulációkat. Alkalmazás: Annak ellenére, hogy van egy törvény, amely megtiltja a vadkígyók befogását, amelyet a vadkígyó-populációk védelme érdekében hoztak, a kígyóbűvölőket, akik megsértik ezt a törvényt, nem szabad büntetőeljárás alá vonni.",
+        "question": "Melyik állítás indokolja legjobban az elv fenti alkalmazását, ha igaz?",
+        "options": [
+            "(A) Mivel viszonylag kevés kígyóbűvölő van, és ők évente viszonylag kevés kígyót fognak be, a kígyóbűvölők minimális hatással vannak a vadon élő populációkra.",
+            "(B) Számos kísérlet a kígyóbűvölők elleni vádemelésre ezen törvény alapján kudarcot vallott, mert az ügyészek nem rendelkeztek megfelelő ismeretekkel a kígyók befogására használt eljárásokról.",
+            "(C) Nagyon kevés, ha egyáltalán van, kígyóbűvölő tud arról, hogy létezik egy törvény, amely tiltja a vadkígyók befogását.",
+            "(D) A kígyópopulációkat sokkal kevésbé fenyegeti veszély, mint számos más olyan faj populációit, amelyek befogása engedélyezett.",
+            "(E) A kígyóbűvölők csak azért fognak be vadkígyókat, mert úgy vélik, hogy másképp nem tudnának megélni."
+        ],
+        "label": "A",
+        "ind": 16
+    },
+    {
+        "passage": "Egy film nyereséget termel, ha elegendő ember nézi meg ahhoz, hogy a jegyeladásból származó bevétel meghaladja a film elkészítésére fordított összeget. Ezért a filmipari vezetők elsődleges célja, hogy a lehető legtöbb ember nézze meg a filmet. Azonban a televíziós vezetők esetében nem az a fő cél, hogy maximalizálják a nézők számát a műsoraiknál.",
+        "question": "Melyik az alábbiak közül, ha igaz, segít leginkább megmagyarázni a filmipari vezetők és a televíziós vezetők céljai közötti különbséget?",
+        "options": [
+            "(A) Több ember hajlandó többször is megnézni egy filmet, mint amennyien hajlandóak többször megnézni egy televíziós műsort.",
+            "(B) A televíziózásban nincs megfelelője annak a nagy nyereségnek, amit a mozitulajdonosok azáltal érnek el, hogy frissítőket adnak el a nézőiknek.",
+            "(C) Egy film egy órájának előállítási költsége sokkal nagyobb, mint egy televíziós óra előállítási költsége.",
+            "(D) A televíziós műsorok a szponzorok révén termelik ki a profitjukat, akik elsősorban a televíziós műsort néző emberek vásárlóerejével törődnek.",
+            "(E) A legnépszerűbb televíziós műsorok több mint fele olyan műsor, amelyeket a nézők nem fizetnek megtekinteni."
+        ],
+        "label": "D",
+        "ind": 17
+    },
+    {
+        "passage": "Számos cég, amely ginsenget tartalmazó gyógyteákat készít, azt állítja marketing kampányaiban, hogy a ginzeng ellensúlyozza a stressz hatásait. Ennek eredményeként sokan vásárolják ezeket a termékeket abban a reményben, hogy javítják egészségüket. Azonban egyetlen meghatározó tudományos tanulmány sem köti össze a ginzenget a stressz enyhítésével. Így ezek a marketing kampányok hamis állításokat tesznek.",
+        "question": "Az érvelés hibás, mert az érv",
+        "options": [
+            "(A) elutasít egy érvet annak forrása miatt anélkül, hogy az érv logikai erősségét értékelné",
+            "(B) arra a következtetésre jut, hogy egy állítás hamis, pusztán azon az alapon, hogy nem bizonyították be, hogy igaz",
+            "(C) következtetést von le egy olyan minta alapján, amely valószínűleg nem reprezentatív",
+            "(D) nem foglalkozik azzal a lehetőséggel, hogy sokan azért vásárolják a ginsenget tartalmazó gyógyteákat, mert élvezik a tea fogyasztását",
+            "(E) nem foglalkozik azzal a lehetőséggel, hogy a ginzenget tartalmazó gyógyteákban lévő más összetevők ellensúlyozzák a stressz hatásait"
+        ],
+        "label": "B",
+        "ind": 18
+    },
+    {
+        "passage": "A tudósok azt feltételezik, hogy bizonyos mikrobák szerves molekulákat fogyasztanak el a felszínre került palában és hasonló üledékekben. Ezzel a mikrobák eltávolítják az oxigént a légkörből, és szén-dioxidot termelnek, egy olyan gázt, amely a bizonyítékok szerint elősegíti a globális felmelegedést. Azt is feltételezik, hogy ezek a mikrobák gyorsabban szaporodnak magasabb hőmérsékleten.",
+        "question": "A tudósok feltevései, ha igazak, a legnagyobb mértékben melyik következő állítást támasztják alá?",
+        "options": [
+            "(A) A mikrobák tevékenysége hamarosan csökkenni fog, amint a felszínre került üledékekben lévő szerves molekulák kimerülnek. ",
+            "(B) Minden élőlény, amely szén-dioxidot termel, gyorsabban szaporodik magas hőmérsékleten. ",
+            "(C) Ha globális felmelegedés következik be, azt a mikrobák tevékenysége súlyosbítani fogja. ",
+            "(D) A mikrobák semmilyen más elemet nem távolítanak el a légkörből az oxigénen kívül. ",
+            "(E) A Föld légkörében lévő szén-dioxid jelentős részét a mikrobák termelték."
+        ],
+        "label": "C",
+        "ind": 19
+    },
+    {
+        "passage": "Azok az étrendek, amelyekben a fehérje halból származik, sokkal egészségesebbek, mint azok, amelyekben a fehérje vörös húsból származik. Ha azonban mindenki ezt az egészségesebb étrendet követné, a tengeri fajok többsége, amelyeken ez alapul, kihalna, így lehetetlenné téve ezt az étrendet. Ezért nem kellene javasolnunk ennek az étrendnek az általános bevezetését.",
+        "question": "Melyik érvelés hasonlít leginkább a fenti érveléshez?",
+        "options": [
+            "(A) Néhány tanulmány bizonyítékot szolgáltatott arra, hogy napi E-vitamin kiegészítő szedése csökkenti a szívroham kockázatát. Azonban nem bizonyították egyértelműen, hogy az E-vitamin kiegészítők minden ember számára biztonságosak. Tehát nem kellene javasolnunk, hogy mindenki naponta szedjen E-vitamin kiegészítőket.",
+            "",
+            "(B) A kormányoknak jogukban áll erősen megadóztatni a dohányt, és ezt az adóbevételt az oktatásra fordítani. Ha azonban ezek az adók túl magasak lesznek, az emberek kevesebbet dohányozhatnak, ezáltal csökkentve az oktatásra generált bevételt. Így előfordulhat, hogy ezeket az adókat végül más bevételi forrásokkal kell kiegészíteni.",
+            "",
+            "(C) A fogyasztó jobban jár, ha korlátozza vásárlásait arra, amire valóban szüksége van, és a fennmaradó jövedelmet megtakarítja vagy befekteti. Ha azonban mindenki ezt tenné, a gazdaság súlyos recesszióba süllyedne, ezáltal a megtakarítás és befektetés lehetetlenné válna a legtöbb ember számára. Ezért nem kellene ezt a vásárlási mintát mindenkinek ajánlanunk.",
+            "",
+            "(D) Ha a törvényhozók kevesebb időt töltenének kampányolással, több idejük lenne elvégezni azokat a feladatokat, amelyekre megválasztották őket. De ha nem töltenének annyi időt kampányolással, valószínűleg nem választanák újra őket. Ezért nem meglepő, hogy a törvényhozók ilyen sok időt töltenek kampányolással.",
+            "",
+            "(E) Ha korlátozzuk a földfejlesztést a vadon területeken, segítünk megőrizni sok olyan fajt, amely jelenleg ezekben a területekben él. De így egyúttal csökkentjük azon kisebb számú fajok elterjedését is, mint például a szarvasok, amelyek a fejlett területeken virágoznak. Ezért nem mindig egyértelmű, hogy mely területeket kell vadonként kijelölni."
+        ],
+        "label": "C",
+        "ind": 20
+    },
+    {
+        "passage": "Azok az emberek, akik allergiásak a macskákra, valójában az állatok bőr kiválasztásában és nyálában található bizonyos fehérjékre allergiásak; hogy pontosan mely fehérjék felelősek, azonban allergiás személyenként változik. Mivel minden macska bőrt hámlaszt és nyálat terjeszt a környezetében, nincs olyan macska, amely képtelen lenne allergiás reakciót kiváltani, bár gyakori, hogy egy adott macska allergiás reakciót okoz néhány, de nem minden, macskákra allergiás embernél.",
+        "question": "Az alábbi állítások közül melyik van leginkább alátámasztva a fenti információk alapján?",
+        "options": [
+            "(A) Bármely adott személy allergiás lesz bizonyos macskafajtákra, de másokra nem.  ",
+            "(B) Nincs olyan macska, amely képes lenne allergiás reakciót kiváltani mindenféle allergiás betegben.  ",
+            "(C) Nem minden macska azonos a bőr kiválasztásában és nyálában található fehérjék tekintetében.  ",
+            "(D) Azoknak az embereknek az allergiás reakciói, akik allergiásak a macskákra, intenzívebbek, mint más allergiás betegek reakciói.  ",
+            "(E) Nincs mód megjósolni, hogy egy adott macska allergiás reakciót vált-e ki egy adott allergiás betegben."
+        ],
+        "label": "C",
+        "ind": 21
+    },
+    {
+        "passage": "Térképész: A térképek olyanok, mint a nyelv: manipulálhatók azért, hogy félrevezessenek. Az, hogy a legtöbb embert általában nem vezetik félre a szavak, azonban nem szabad, hogy azt a gondolatot ébressze bennünk, hogy a legtöbb ember nem fogékony arra, hogy a térképek félrevezessék. A legtöbb embert megtanítják arra, hogy óvatosan értelmezze a nyelvet, de a térképek kifinomult használatának oktatása szinte nem létezik.",
+        "question": "A következők közül melyik írja le a legpontosabban, hogyan működik a térképész érvelésében az a kijelentés, hogy a legtöbb embert megtanítják arra, hogy óvatosan értelmezze a nyelvet?",
+        "options": [
+            "(A) Olyan analóg esetként van felajánlva, amely segít tisztázni az érvelés következtetésének jelentését.",
+            "(B) Ez egy következtetés, amelyet abból a kijelentésből vonnak le, hogy a térképek kifinomult használatának oktatása szinte nem létezik.",
+            "(C) Része egy megkülönböztetésnek, amelyet azért tesznek, hogy támogassák az érvelés következtetését.",
+            "(D) Azt a tartalmat támogatja, hogy a térképek bizonyos releváns hasonlóságokat mutatnak a nyelvvel.",
+            "(E) Ez az érvelésben levont következtetés."
+        ],
+        "label": "C",
+        "ind": 22
+    },
+    {
+        "passage": "Újságíró: Egy könyvet, amely azt állítja, hogy egy új gyógyszernek veszélyes mellékhatásai vannak, nemrégiben kritizált egy neves orvos. Azonban az orvos annak a cégnek az alkalmazottja, amelyik ezt a gyógyszert gyártja, ezért valószínűleg személyes okai vannak arra, hogy tagadja, hogy a gyógyszer veszélyes. Ezért a kritika nem nyújt jogos alapot a könyvnek a gyógyszer mellékhatásaira vonatkozó állításainak elutasítására.",
+        "question": "A következő okok közül melyikre a leginkább érzékeny a kritika az újságíró érvelésében?",
+        "options": [
+            "(A) Nem foglalkozik megfelelően azzal a lehetőséggel, hogy a könyv kritikája megkérdőjelezett más állításokat is a könyvben, amellett az állítás mellett, hogy a gyógyszernek veszélyes mellékhatásai vannak.",
+            "(B) Magától értetődőnek veszi, hogy bárki, aki akár csak távolról is kapcsolatban áll egy gyógyszert gyártó céggel, nem képes tisztességesen mérlegelni a lehetséges veszélyes mellékhatásokra vonatkozó bizonyítékokat.",
+            "(C) Figyelmen kívül hagyja annak a lehetőségét, hogy a könyv szerzője személyes okokból elfogult volt a gyógyszer veszélyes mellékhatásaira vonatkozó állítás mellett.",
+            "(D) Nem foglalkozik megfelelően azzal a lehetőséggel, hogy valaki, akinek személyes okai vannak egy állítás tagadására, ennek ellenére jogos alapokat adhat az állítás tagadására.",
+            "(E) Figyelmen kívül hagyja annak a lehetőségét, hogy még ha egy kritika nem is ad jogos alapot egy állítás elutasítására, ez a kudarc nem feltétlenül a szerző személyes elfogultságainak eredménye."
+        ],
+        "label": "D",
+        "ind": 23
+    },
+    {
+        "passage": "Egy számítógépes játék kiadó nemrég adta ki legújabb kalandjátékát. A játék találékony rejtvényei és lebilincselő cselekménye még az alkalmi játékosokat is arra ösztönzik, hogy megszállottan befejezzék azt. A játékot kiskereskedelmi üzletekből lehet megvásárolni, vagy két napos időtartamra bérelni. A kiadó visszatérítést kínál, amely megegyezik egy bérlés költségével azon bérlők számára, akik megvásárolják a játékot, ezzel jelentős összeget megtakarítva a vételárból. Mivel az eladások üteme most már megfelel az elvárásoknak, és a bérlések meghaladják az elvárásokat, a kiadó azt jósolja, hogy hamarosan a játék eladásai is meghaladják az elvárásokat.",
+        "question": "Az alábbiak közül melyik segít leginkább igazolni a kiadó előrejelzését, ha igaz?",
+        "options": [
+            "(A) A játékot közvetlenül a kiadótól is meg lehet vásárolni, valamint kiskereskedőktől.  ",
+            "(B) Több hétbe telik, amíg a legtöbb játékos befejezi a játékot.  ",
+            "(C) A kiadó játékai a piacon található legnépszerűbb számítógépes játékok közé tartoznak.  ",
+            "(D) A legtöbb ember, aki befejezi a játékot, nem játszik vele sokat utána.  ",
+            "(E) Néhány ember megvásárolja és befejezi a játékot, majd odaadja egy barátjának."
+        ],
+        "label": "B",
+        "ind": 24
+    },
+    {
+        "passage": "A városi kutyaengedély-nyilvántartások azt mutatják, hogy több cocker spánielt regisztráltak a Flynn Heights környékbeli címekre, mint az összes többi szomszédság címére összesen. Ezért, ha egy állatfelügyeleti tisztviselő kóbor cocker spánielt talál valahol Flynn Heights közelében, valószínű, hogy a kutya valakihez tartozik Flynn Heights-ban.",
+        "question": "Melyik lenne a leghasznosabb információ az érvelés értékeléséhez?",
+        "options": [
+            "(A) hogy a cocker spánielek valószínűbb-e, mint más kutyafajták, hogy elszökjenek a gazdáiktól  ",
+            "(B) hogy több cocker spánielt regisztráltak-e Flynn Heights címekre, mint bármely más kutyafajtát  ",
+            "(C) hogy a város állatfelügyeleti tisztviselői több kóbor kutyát találnak-e Flynn Heights környékén, mint a város bármely más részén  ",
+            "(D) hogy Flynn Heights lakosainak fejenkénti háziállattulajdonosi száma nagyobb-e, mint bármely más szomszédság lakosaié  ",
+            "(E) hogy Flynn Heights lakosai valószínűbb-e, hogy regisztrálják kutyáikat, mint más szomszédságok lakosai"
+        ],
+        "label": "E",
+        "ind": 25
+    },
+    {
+        "passage": "A pszichológusok nemrégiben végeztek egy tanulmányt, amelyben különböző kultúrákból származó embereket kértek meg, hogy vizsgáljanak meg öt fényképet. Mindegyik fénykép egy személy arcát ábrázolta, aki az öt alapvető emberi érzelem egyikét fejezte ki: félelem, boldogság, undor, harag és szomorúság. A tanulmányban részt vevőket arra kérték, hogy azonosítsák az egyes fényképeken kifejezett érzelmet. Minden fényképnél mindenki ugyanazt az érzelmet azonosította. Ez azt mutatja, hogy az emberek genetikailag hajlamosak bizonyos arckifejezéseket bizonyos alapvető érzelmekkel társítani.",
+        "question": "Melyik az alábbiak közül az az előfeltevés, amelytől az érvelés függ?",
+        "options": [
+            "(A) Minden fénykép esetében az az érzelem, amelyről a résztvevők egyetértettek, hogy kifejezésre került, az az érzelem volt, amelyet a lefényképezett személy valójában érzett.",
+            "(B) Az ember érzelmi hajlamát nem befolyásolja a kultúrája.",
+            "(C) Néhány viselkedés, amely jelen van teljesen eltérő kultúrájú emberekben, mégis kulturálisan befolyásolt.",
+            "(D) Ha van egy viselkedés, amely közös teljesen eltérő kultúrájú emberekben, akkor valószínűleg genetikai hajlam van erre a viselkedésre.",
+            "(E) Azok az emberek, akiknek az arca a fényképeken volt ábrázolva, nem mind ugyanabból a kultúrából származtak."
+        ],
+        "label": "D",
+        "ind": 26
+    },
+    {
+        "passage": "Bíró: Az alperes elismeri, hogy nem felelt meg az országos építési előírásoknak, de azt kéri, hogy ne szabjanak ki büntetést, mert összezavarodott abban a tekintetben, hogy az országos vagy a helyi építési előírások vonatkoznak-e arra a területre, ahol építkezett. Ez a mentség elfogadható lehetne, ha a helyi előírásoknak való meg nem felelés miatt vádolták volna, de mivel az országos előírásoknak való meg nem felelés miatt vádolják, a mentsége elfogadhatatlan.",
+        "question": "Melyik az alábbi elvek közül, ha érvényes, segíti leginkább a bíró érvelésének igazolását?",
+        "options": [
+            "(A) A helyi előírások és az országos előírások nem fedhetik át egymást.",
+            "(B) A helyi előírások lehetnek kevésbé szigorúak, de nem szigorúbbak, mint az országos előírások.",
+            "(C) Bármely viselkedés, amelyet az országos előírások megkövetelnek, a helyi előírások által is megkövetelt.",
+            "(D) Két előírás közötti különbség nem ismerete nem megfelelő mentség a meg nem felelésre.",
+            "(E) Az a viselkedés, amely megfelel egy törvénynek, nem feltétlenül felel meg egy másiknak."
+        ],
+        "label": "C",
+        "ind": 27
+    },
+    {
+        "passage": "Brianna: Jobb lett volna tavaly nyáron venni egy fát, mint idén nyáron. Az, amit idén nyáron vettünk, küzd az idei nyári aszály túléléséért. Ha tavaly nyáron vettünk volna egyet, képes lett volna túlélni az idei nyári aszályt, mert a tavaly nyári normális csapadék lehetővé tette volna, hogy kifejlődjenek a gyökerei. A jól gyökeresedett fák jobban ellenállnak az aszályoknak.",
+        "question": "Melyik a következő lehetőségek közül fejezi ki a legpontosabban Brianna érvelésének összefoglaló következtetését?",
+        "options": [
+            "(A) Jobb lett volna tavaly nyáron venni egy fát, mint idén nyáron.",
+            "(B) Az idén nyáron vásárolt fa küzd az idei nyári aszály túléléséért.",
+            "(C) Ha tavaly nyáron vásároltak volna egy fát, az jobban túlélte volna az idei nyári aszályt.",
+            "(D) A tavaly nyáron vásárolt fa megerősödött gyökereket fejlesztett volna ki.",
+            "(E) A jól gyökeresedett fák jobban ellenállnak az aszályoknak."
+        ],
+        "label": "A",
+        "ind": 28
+    },
+    {
+        "passage": "Minden küldött a kongresszuson egy párttag. Néhány küldött a kongresszuson kormánytisztviselő, és minden kormánytisztviselő, aki a kongresszuson van, egyben felszólaló is a kongresszuson.",
+        "question": "Ha a fenti állítások igazak, akkor az alábbi állítások közül melyiknek kell igaznak lennie?",
+        "options": [
+            "(A) Minden párttag a kongresszuson küldött a kongresszuson.",
+            "(B) Legalább néhány felszólaló a kongresszuson sem nem küldött, sem nem párttag.",
+            "(C) Legalább néhány felszólaló a kongresszuson küldött a kongresszuson.",
+            "(D) Minden felszólaló a kongresszuson kormánytisztviselő.",
+            "(E) Minden kormánytisztviselő a kongresszuson párttag."
+        ],
+        "label": "C",
+        "ind": 29
+    },
+    {
+        "passage": "A mesterséges intelligencia kutatása kudarcot vall abban, hogy valóban intelligens gépeket hozzon létre, hacsak a tudományág fókusza nem változik meg radikálisan. Előrelépés történt a rendkívüli számítógépes kifinomultságú eszközök létrehozásában, de a jelenlegi, kizárólag a számítógépes képességekre összpontosító megközelítés csak olyan eszközöket fog eredményezni, amelyek annyira képesek valódi intelligenciát mutatni, mint egy olyan ember, aki teljesen mentes az érzelmi és más nem kognitív reakcióktól.",
+        "question": "Az alábbiak közül melyik fejezi ki a legpontosabban a fent érvelt fő következtetést?",
+        "options": [
+            "(A) A mesterséges intelligencia kutatásának jelenlegi fókusza nem fog olyan eszközöket előállítani, amelyek jobban képesek valódi intelligenciát mutatni, mint egy olyan ember, aki mentes az érzelmektől és más nem kognitív reakcióktól.",
+            "",
+            "(B) Ha a mesterséges intelligencia kutatásának jelenlegi fókusza nem változik meg radikálisan, akkor ez a kutatás nem lesz képes valódi intelligenciára képes gépeket létrehozni.",
+            "",
+            "(C) Annak ellenére, hogy előrelépés történt a nagy számítógépes kifinomultságú gépek létrehozásában, a mesterséges intelligencia jelenlegi kutatása nem tudta teljesíteni céljait.",
+            "",
+            "(D) A nem kognitív reakciók, mint például az érzelem kifejezésének képessége legalább annyira fontos a valódi intelligencia szempontjából, mint a számítógépes kifinomultság.",
+            "",
+            "(E) Ha egy gép nem képes emberi jellegű nem kognitív reakciókat produkálni, akkor nem tekinthető valóban intelligensnek."
+        ],
+        "label": "B",
+        "ind": 30
+    },
+    {
+        "passage": "Egy tanulmány megállapította, hogy amikor a szülők egyes gyermektelevíziós műsorok oktatási értékét értékelik, hajlamosak elsősorban arra alapozni megítélésüket, hogy mennyire élvezték maguk a műsorokat, és ritkán veszik figyelembe az oktatási pszichológusok véleményét a műsorok oktatási értékéről. Következésképpen, ha a pszichológusok véleménye megalapozott, a szülőknek kevés okuk van arra, hogy megbízzanak a gyermektelevíziós műsorok oktatási értékéről alkotott saját értékelésükben.",
+        "question": "Az érvelés leginkább azzal a kritikával szemben sebezhető, hogy",
+        "options": [
+            "(A) egy olyan mintára támaszkodik, amely valószínűleg nem reprezentatív azzal a népességgel kapcsolatban, amelyre a következtetés vonatkozik.",
+            "(B) adottnak veszi, hogy a szülők nem ugyanazokat a gyermektelevíziós műsorokat élvezik, mint amiket maguk a gyerekek.",
+            "(C) adottnak veszi, hogy egy televíziós műsor oktatási értéke legyen az egyetlen szempont, amelyet egy szülőnek figyelembe kell vennie, amikor eldönti, hogy egy gyermek nézheti-e a műsort.",
+            "(D) nem zárja ki annak lehetőségét, hogy a szülők saját élvezetük alapján adott értékelései szorosan egybeesnek az oktatási pszichológusok véleményével a műsorok oktatási értékeiről.",
+            "(E) adottnak veszi, hogy az oktatási pszichológusok az egyetlenek, akik nagy pontossággal tudják megítélni a gyermektelevíziós műsorok oktatási értékét."
+        ],
+        "label": "D",
+        "ind": 31
+    },
+    {
+        "passage": "Justine: Pellman, Inc. peren kívül egyezett meg az ügyben, 1 millió dollárt fizetve. Az, hogy a Pellman peren kívül egyezett meg ahelyett, hogy bíróságra ment volna, azt jelzi, hogy a vállalat vezetői arra számítottak, hogy veszítenek a bíróságon. Simon: Nem világos, hogy a Pellman vezetői arra számítottak-e, hogy veszítenek a bíróságon. De szerintem úgy gondolták, hogy akár nyernek, akár veszítenek az ügyben, a bírósági eljárással járó jogi költségek drágábbak lettek volna, mint a megállapodás. Így a peren kívüli megállapodás tűnt a legköltséghatékonyabb megoldásnak.",
+        "question": "A párbeszéd a leginkább azt a kijelentést támasztja alá, hogy Justine és Simon miben nem értenek egyet a következők közül?",
+        "options": [
+            "(A) Ha a Pellman elleni per bíróság elé került volna, valószínű, hogy a Pellman vesztett volna a bíróságon.",
+            "(B) A Pellman vállalati vezetői képesek voltak pontosan megbecsülni a bírósági győzelem esélyeit.",
+            "(C) Ha a Pellman bírósági eljárásának jogi költségei drágábbak lettek volna, mint a megállapodás, akkor a peren kívüli megállapodás volt a vállalat számára a legköltséghatékonyabb megoldás.",
+            "(D) Ha a Pellman vállalati vezetői azt várták volna, hogy a bírósági eljárás jogi költségei olcsóbbak lesznek, mint a megállapodás, akkor bíróság elé vitték volna az ügyet.",
+            "(E) Ha a Pellman vállalat vezetői arra számítottak volna, hogy nyernek a bíróságon, akkor nem egyeztek volna meg peren kívül 1 millió dollárért."
+        ],
+        "label": "E",
+        "ind": 32
+    },
+    {
+        "passage": "Asztrológus: Bár egyes tudósok azt állították, hogy nincs összefüggés az emberek asztrológiai jegyei és személyiségtípusai között, ez az állítás tudományosan nem megalapozott. Mivel a tudománynak nincsenek pontos kritériumai a különböző személyiségtípusok megkülönböztetésére, a tudományos tanulmányok nem használhatók fel a személyiségtípus és bármely más jelenség közötti összefüggés cáfolására.",
+        "question": "A következők közül melyik írja le legpontosabban a szerepet, amelyet az asztrológus érvelésében az a kijelentés játszik, hogy a tudományos tanulmányok nem használhatók fel a személyiségtípus és bármely más jelenség közötti összefüggés cáfolására?",
+        "options": [
+            "['(A) Ez egy olyan állítás, amelyet egy következtetés alátámasztására ajánlanak fel, amely viszont a teljes érvelésben levont következtetés alátámasztására szolgál.', '(B) Ez egy következtetés, amelyhez támogatást nyújtanak, és amely viszont a teljes érvelésben levont következtetés alátámasztására szolgál.', '(C) Ez a teljes érvelésben levont következtetés.', '(D) Ez összefoglalja azt az álláspontot, amelyet az érvelés egésze hitelteleníteni kíván.', '(E) Ez egy konkrét példa arra az általános elvre, amelynek az érvelés egésze alátámasztására irányul.']"
+        ],
+        "label": "B",
+        "ind": 33
+    },
+    {
+        "passage": "Etikus: Csak akkor vagyunk jogosultak dicsérni vagy hibáztatni valakit egy cselekedetért - ahogyan néha vagyunk -, ha sokat tudunk a cselekvést megelőző eseményekről. Ezért el kell vetnünk Tolsztoj elhamarkodott állítását, miszerint ha sokat tudnánk a bármely cselekedetet megelőző eseményekről, megszűnnénk úgy tekinteni arra a cselekedetre, mint ami szabadon történt.",
+        "question": "Melyik az alábbiak közül, ha feltételezzük, teszi lehetővé az etikus érvelésének helyes következtetését?",
+        "options": [
+            "(A) Az embereket nem szabad dicséretre vagy hibáztatásra méltónak tekinteni az olyan cselekedetekért, amelyeket az irányításukon kívül eső körülmények okoztak.",
+            "(B) Az, hogy egy cselekedetért az azt végrehajtó személy valóban felelős-e, nem azon múlik, hogy mások mennyi információval rendelkeznek arról a cselekedetről.",
+            "(C) Csak akkor vagyunk jogosultak dicsérni vagy hibáztatni valakit egy cselekedetért, ha azt a cselekedetet szabadon elvégzettnek tekintjük.",
+            "(D) Egy személy felelőssége egy cselekedetért nem fokozatos kérdés; azonban hajlandóságunk dicsérni vagy hibáztatni azt, aki a cselekedetet végrehajtotta, változik a rendelkezésre álló információ mennyiségével.",
+            "(E) Ha nem tudunk sokat a bármely adott cselekedetet megelőző eseményekről, akkor azt a cselekedetet szabadon végrehajtottnak tekintjük."
+        ],
+        "label": "C",
+        "ind": 34
+    },
+    {
+        "passage": "Tanulmányok kimutatták, hogy az emberi könnyek sok olyan hormont tartalmaznak, amelyet az emberi test érzelmi stressz idején termel. Ezért a könnyek hullatása jelentős mennyiségű ilyen hormont távolít el a testből. Tehát a sírásnak az a hatása, hogy csökkenti az érzelmi stresszt.",
+        "question": "Az érvelés leginkább azért kritizálható, mert az érvelés",
+        "options": [
+            "(A) figyelmen kívül hagyja annak lehetőségét, hogy ha a sírás hajlamos csökkenteni az érzelmi stresszt, akkor ez a hajlam valami másból fakadhat, mint a könnyek hullatása",
+            "(B) összezavar egy olyan feltételt, amely szükséges egy adott jelenség előállításához, egy olyan feltétellel, amely önmagában elegendő lenne a jelenség előállításához",
+            "(C) nem tárgyalja megfelelően annak lehetőségét, hogy még ha az egyik jelenség okozati hozzájárulást is tesz a második jelenséghez, a második jelenség szintén okozati hatással lehet az elsőre",
+            "(D) nem különbözteti meg megfelelően a két különálló tényezőt, amelyek együttesen felelősek egy adott jelenség okozásáért",
+            "(E) adottnak veszi, hogy mivel bizonyos anyagok jelen vannak, amikor egy feltétel bekövetkezik, ezek az anyagok okozzák azt a feltételt"
+        ],
+        "label": "E",
+        "ind": 35
+    },
+    {
+        "passage": "Ha a mókusok egy madáretetőből esznek, az nem fog sok madarat vonzani. Azonban a mókusok csak akkor esznek egy madáretetőből, ha annak nincs védőburkolata. Tehát egy madáretető nem fog sok madarat vonzani, ha nincs védőburkolata.",
+        "question": "A fenti érvelés hibás érvelési mintája leginkább melyik alábbi érvek hibás érvelési mintájához hasonlít?",
+        "options": [
+            "(A) Ha egy gumiabroncs nyomása túl alacsony, az abroncs idő előtt el fog kopni, és ha egy abroncs idő előtt elkopik, valószínű oka az, hogy a nyomás túl alacsony volt. Tehát, ha egy autótulajdonos rendszeresen ellenőrzi a gumiabroncs nyomását, az abroncsok nem fognak idő előtt elkopni.",
+            "",
+            "(B) Ha egy gumiabroncs nyomása túl alacsony, az abroncs idő előtt el fog kopni. De a gumiabroncs nyomása csak akkor lesz túl alacsony, ha az autótulajdonos elhanyagolja a nyomás rendszeres ellenőrzését. Tehát egy gumiabroncs idő előtt el fog kopni, ha az autótulajdonos elhanyagolja a nyomás rendszeres ellenőrzését.",
+            "",
+            "(C) Az abroncsok idő előtt elkopnak, ha az autótulajdonosok elhanyagolják a gumiabroncs nyomásának rendszeres ellenőrzését. Hacsak az autótulajdonosok nincsenek tisztában ezzel a ténnyel, rendszeresen ellenőrzik a gumiabroncs nyomását. Tehát az autótulajdonosokat tájékoztatni kell a gumiabroncs nyomásának ellenőrzésének elhanyagolásának következményeiről.",
+            "",
+            "(D) Ha egy gumiabroncs nyomása túl alacsony, az abroncs idő előtt el fog kopni. De a gumiabroncs nyomása túl alacsony lesz, ha az autótulajdonos elhanyagolja a nyomás rendszeres ellenőrzését. Ezért, ha az autótulajdonos elhanyagolja a nyomás rendszeres ellenőrzését, egy gumiabroncs idő előtt el fog kopni.",
+            "",
+            "(E) Ha egy gumiabroncs nyomása túl alacsony, az abroncs idő előtt el fog kopni. De idő előtt el fog kopni akkor is, ha gyakran hajtanak vele murvás úton. Ezért, ha egy abroncsot gyakran hajtanak murvás úton, a nyomás alacsonnyá válásának megelőzése nem segít abban, hogy tovább tartson."
+        ],
+        "label": "B",
+        "ind": 36
+    },
+    {
+        "passage": "Sarah: Amikor a kereskedelmi halászhajók bizonyos fajokra vonatkozó engedéllyel rendelkeznek, de véletlenül olyan halat fognak, amelyre nincs engedélyük, az utóbbit vissza kell dobniuk. Ez nagyon pazarló gyakorlat, mert sok, ha nem a legtöbb, elutasított hal nem éli túl. Ezért a halászati engedélyeket úgy kellene módosítani, hogy a halászok megtarthassák a véletlenül fogott halakat. Amar: Az, hogy a halakat megtartását legálissá tennénk, valószínűleg sokkal több \"balesethez\" vezetne.",
+        "question": "Az a technika, amelyet Amar használ Sarah érvelésére való reagálásában, az",
+        "options": [
+            "(A) megkérdőjelezi, hogy Sarah ajánlása megvalósítható-e",
+            "(B) rámutat arra, hogy Sarah egy kulcsfontosságú kifejezést két különböző értelemben használt",
+            "(C) utal egy tényezőre, amely állítólag erősíti Sarah ajánlásának indokait",
+            "(D) azt állítja, hogy Sarah ajánlásának van egy fontos negatív következménye",
+            "(E) fenntartja, hogy Sarah figyelmen kívül hagyja a múltbeli politikák fontos tanulságait"
+        ],
+        "label": "D",
+        "ind": 37
+    },
+    {
+        "passage": "Kurátor: A kritikusok jogosan állítják, hogy Michelangelo freskóinak évszázados szennyeződéseinek eltávolítása során azok ki lesznek téve a vízgőz és a levegőben lévő szennyező anyagok kombinációjából származó savaknak. E tény ellenére a restaurálásnak folytatódnia kell, mert a freskók jelenlegi állapotukban nem láthatók úgy, ahogyan Michelangelo festette őket.",
+        "question": "Melyik az alábbi elvek közül, ha érvényes, segít leginkább igazolni a kurátor érvelését?",
+        "options": [
+            "(A) Egy műalkotás restaurálásának indokoltságáról szóló döntésnek kizárólag esztétikai szempontok alapján kellene történnie.",
+            "(B) Egy műalkotás csak akkor rendelkezik esztétikai értékkel, ha vannak emberek, akik megfigyelik és értékelik azt.",
+            "(C) Elfogadható egy műalkotás jövőbeli károsodásának kockázata, ha a cél az, hogy eredeti formájában lehessen értékelni.",
+            "(D) Helyes nagy összegeket költeni egy régi műalkotás restaurálására, ha ez a restaurálás nagy számú ember számára teszi hozzáférhetővé a műalkotást.",
+            "(E) Egy kép, amely hosszú idő alatt piszokkal lett bevonva, már nem tekinthető ugyanannak a műalkotásnak, mint amit a művész festett."
+        ],
+        "label": "C",
+        "ind": 38
+    },
+    {
+        "passage": "Az erdőfragmentáció akkor következik be, amikor a fejlesztések megszakítanak egy összefüggő erdőterületet, és kis foltokra bontják azt. Néhány állat, például a fehérlábú egér, jól boldogul az erdőfragmentációs körülmények között, és a legmagasabb populációsűrűségüket kis erdőfoltokban érik el. Ezek az egerek a Lyme-kórt okozó baktériumok fő hordozói, egy legyengítő betegség, amelyet gyakran a fehérlábú egerekről az emberekre szarvas kullancsok közvetítenek.",
+        "question": "A fentiek alapján melyik állítás támasztja alá leginkább az információkat?",
+        "options": [
+            "(A) A fehérlábú egerek nagyon ritkán fordulnak elő összefüggő erdőkben.  ",
+            "(B) A legtöbb kisállatfaj populációsűrűsége növekszik, amikor egy összefüggő erdőterület töredezetté válik.  ",
+            "(C) Az erdőfragmentáció csökkenti azon állatfajok számát és változatosságát, amelyeket egy terület képes eltartani.  ",
+            "(D) Az erdők fragmentációjának megakadályozására tett erőfeszítések jótékony hatással lehetnek az emberi egészségre.  ",
+            "(E) A szarvas kullancsok a legmagasabb populációsűrűséget kis erdőfoltokban érik el."
+        ],
+        "label": "D",
+        "ind": 39
+    },
+    {
+        "passage": "A statisztikák azt mutatják, hogy több ütközés történik kerékpárok és gépjárművek között azokon az utakon, ahol kifejezetten kijelölt kerékpársávok vannak, mint azokon, ahol nincsenek ilyen sávok. Ezért valószínűtlen, hogy ilyen sávok hozzáadása a meglévő utakhoz növelné a kerékpárosok biztonságát.",
+        "question": "Az érvelés leginkább azért támadható, mert",
+        "options": [
+            "(A) figyelmen kívül hagyja annak lehetőségét, hogy a kerékpárosok által elszenvedett sérülések az utakon történt balesetek során, ahol kerékpársávok vannak, átlagosan ugyanolyan súlyosak, mint azokon az utakon, ahol nincsenek ilyen sávok",
+            "",
+            "(B) nem veszi figyelembe annak lehetőségét, hogy több kerékpáros közlekedik az utakon, ahol kerékpársávok vannak, mint azokon, ahol nincsenek ilyen sávok",
+            "",
+            "(C) adottnak veszi, hogy bármilyen útmódosítás, ami növeli a kerékpárosok biztonságát, a gépjárművezetők biztonságát is növeli",
+            "",
+            "(D) arra a következtetésre jut, hogy a kerékpársávok hozzáadása az utakon nem növeli a kerékpárosok biztonságát, azon az alapon, hogy csak néhány út, amelyen jelenleg is vannak ilyen sávok, biztonságos",
+            "",
+            "(E) olyan statisztikai bizonyítékot vesz alapul, amely nem támaszt alá következtetést a kerékpárosok biztonságával kapcsolatban, mint bizonyítékot, amely az ellenkező következtetést bizonyítja"
+        ],
+        "label": "B",
+        "ind": 40
+    },
+    {
+        "passage": "Az elmúlt néhány évtizedben a szennyezés elleni nyilvános tiltakozások szigorúbb kibocsátási szabályozásokat eredményeztek. Azok a városok, amelyek 30 évvel ezelőtt a legszennyezettebb levegővel rendelkeztek, ma már jelentősen javult levegőminőséggel bírnak. Ez nem történt volna meg ezek nélkül a szigorúbb szabályozások nélkül.",
+        "question": "Melyik következtetés vonható le helyesen a fenti állításokból?",
+        "options": [
+            "(A) A mai legrosszabb levegőszennyezettségű városban a levegő minősége jobb, mint 30 évvel ezelőtt volt.",
+            "(B) Nincs olyan város, ahol ma rosszabb a levegőszennyezettség, mint 30 évvel ezelőtt.",
+            "(C) A szennyezés elleni nyilvános tiltakozások többsége azokból a városokból származott, amelyek a legszennyezettebb levegővel rendelkeztek.",
+            "(D) A mai legszennyezettebb városok nem azok a városok, amelyek 30 évvel ezelőtt a legszennyezettebbek voltak.",
+            "(E) A nyilvános kritikák javulást eredményeztek azoknak a városoknak a levegőminőségében, amelyek 30 évvel ezelőtt a legszennyezettebbek voltak."
+        ],
+        "label": "E",
+        "ind": 41
+    },
+    {
+        "passage": "Szerkesztő: Számos hivatásos zenész állítja, hogy az illetéktelen zene-megosztó szolgáltatások, amelyek lehetővé teszik a hallgatók számára, hogy ingyen jussanak zenéhez, megfosztják a zenészeket a jogdíjaktól. Bár igaz, hogy a zenészek meg vannak fosztva a megérdemelt jogdíjaktól, a zene-megosztó szolgáltatásokat nem hibáztathatjuk, mivel a lemezkiadók, kiadók, menedzserek és más közvetítők aránytalanul nagy részt vesznek el a zenei eladások bevételeiből.",
+        "question": "A szerkesztő érvelése leginkább azzal a kritikával szemben sebezhető, hogy az érvelés",
+        "options": [
+            "(A) arra a következtetésre jut, hogy egy fél nem hibáztatható pusztán azért, mert egy másik fél hibáztatható",
+            "(B) megpróbál előmozdítani egy bizonyos viselkedést pusztán azáltal, hogy megmutatja, sok ember követi azt a viselkedést",
+            "(C) egy álláspontot kizárólag azon emberek jelleme alapján támad, akik azt az álláspontot képviselik",
+            "(D) megpróbálja megmutatni, hogy egy álláspont hamis, pusztán azáltal, hogy rámutat annak az álláspontnak egy nemkívánatos következményére",
+            "(E) úgy kezeli a hibáztatás szükséges feltételét, mintha az elegendő feltétel lenne a hibáztatásra"
+        ],
+        "label": "A",
+        "ind": 42
+    },
+    {
+        "passage": "Orvosi rovatvezető: Egyes orvosok javasolják a C-vitamin szedését az általános egészség megőrzése érdekében, mert a C-vitamin egy antioxidáns, amely megvédi a testet bizonyos típusú oxigénrészecskéktől, amelyek betegséget okozhatnak. Különböző betegségekkel küzdő embereket ösztönöznek a C-vitamin szedésére, hogy megvédjék magukat más egészségügyi problémák kialakulásától. Azonban az orvosok mostanában arra intenek néhány rákos beteget, hogy ne szedjenek C-vitamint, még akkor sem, ha olyan terápiákon vesznek részt, amelyek mellékhatásai károsak lehetnek az általános egészségükre.",
+        "question": "Melyik az alábbiak közül, ha igaz, segít leginkább megmagyarázni, hogy miért különbözik az orvosok ajánlása néhány rákos beteg esetében a C-vitaminra vonatkozó általános ajánlástól?",
+        "options": [
+            "(A) Egyes ráktípusok sejtjei nagy mennyiségű C-vitamint szívnak fel, ami zavarja azt az oxidációs mechanizmust, amellyel sok rákterápia elpusztítja a rákos sejteket.",
+            "(B) Nem bizonyították, hogy a C-vitamin csökkenti a rák kialakulásának kockázatát, még az orvosok által javasolt nagyon magas dózisú szinteken sem.",
+            "(C) Azok a rákos sejtek, amelyek érzékenyek bizonyos típusú rákterápiákra, valószínűleg nem érinti őket a C-vitamin jelenléte.",
+            "(D) Minél jobb az általános egészségi állapota a rákos betegeknek a terápia során, annál valószínűbb, hogy teljesen felépülnek.",
+            "(E) A rákterápiák bizonyos, a betegek általános egészségére káros mellékhatásait nem befolyásolja a C-vitamin."
+        ],
+        "label": "A",
+        "ind": 43
+    },
+    {
+        "passage": "Kutató: A légszennyezés pontos mérése költséges. A zuzmók összetett, növényszerű organizmusok, amelyek elnyelik a levegőben lévő szennyező anyagokat, és így olcsóbb módot kínálhatnak a levegő minőségének ellenőrzésére. Ennek vizsgálatára zuzmókat gyűjtöttem a réz légszennyezéssel sújtott területeken, meghatároztam a zuzmók réztartalmát, és összehasonlítottam a mechanikai mérőeszközökkel szerzett eredményekkel. A zuzmók ugyanolyan pontosak voltak, mint a legjobb elérhető eszközök. Így a zuzmók hatékonyan helyettesíthetik a drága szennyezésfigyelő eszközöket információveszteség nélkül.",
+        "question": "Melyik az alábbiak közül, ha igaz, erősíti meg leginkább a kutató érvelését?",
+        "options": [
+            "(A) Mechanikai mérőeszközöket még nem telepítettek olyan területeken, ahol a légszennyezés komoly probléma.",
+            "(B) A réz részecskék a légszennyezés összetevői több helyszínen.",
+            "(C) Kísérletek kimutatták, hogy a zuzmók jól fejlődnek olyan területeken, ahol a légszennyezés minimális.",
+            "(D) A zuzmók könnyen termeszthetők laboratóriumokban.",
+            "(E) A zuzmók minden más jelentős légszennyező anyagot hasonló módon szívnak fel, mint a rezet."
+        ],
+        "label": "E",
+        "ind": 44
+    },
+    {
+        "passage": "Egyesek azt állítják, hogy a vándormadaraknak van egy veleszületett hazatérési érzékük, amely lehetővé teszi számukra, hogy évről évre visszatérjenek ugyanazokra a területekre. Azonban kevés bizonyíték támasztja alá ezt a hitet, mivel azok a tanulmányok, amelyek azt vizsgálják, hogy a madarak vándorlási mintáinak pontossága ilyen veleszületett képességnek köszönhető-e, nem meggyőzőek. Végül is a madarak egyszerűen tájékozódhatnak tereptárgyak alapján, ahogyan az emberek is, és nem mondjuk, hogy az embereknek veleszületett tájékozódási érzékük van, csak azért, mert újra meg újra hazatalálnak.",
+        "question": "A következő állítások közül melyik fejezi ki a legpontosabban az érvelésben levont fő következtetést?",
+        "options": [
+            "(A) Sem a vándormadaraknak, sem az embereknek nincs veleszületett hazatérési érzékük.",
+            "(B) Még kevés az ok arra, hogy elfogadjuk, a madaraknak veleszületett hazatérési érzékük van.",
+            "(C) A tanulmányok, amelyek azt vizsgálják, hogy a madarak vándorlási mintáinak pontossága egy veleszületett hazatérési érzéknek köszönhető-e, nem meggyőzőek.",
+            "(D) Az a képesség, hogy tereptárgyakat használva találja meg valaki az utat haza, valószínűleg nem veleszületett képesség a madaraknál.",
+            "(E) Annyira hamis azt állítani, hogy az embereknek veleszületett tájékozódási érzékük van, mint azt, hogy a madaraknak veleszületett hazatérési érzékük van."
+        ],
+        "label": "B",
+        "ind": 45
+    },
+    {
+        "passage": "Minden mosószer tartalmaz felületaktív anyagokat, amelyek károsíthatják a vízi élővilágot. Azonban a mosószerek legtöbb összetevőjének, beleértve az úgynevezett „ökológiailag barát” mosószerek összetevőit is, a környezeti hatásai ismeretlenek. Ezért nincs ok feltételezni, hogy az ökológiailag barátként hirdetett mosószerek kevésbé károsak a környezetre, mint más mosószerek.",
+        "question": "Melyik állítás gyengíti leginkább az érvelést, ha igaz?",
+        "options": [
+            "(A) Az ökológiailag barátként hirdetett mosószerek átlagosan sokkal kisebb mennyiségű felületaktív anyagot tartalmaznak, mint más mosószerek.",
+            "(B) Nincs ok feltételezni, hogy a nem ökológiailag barátként hirdetett mosószerek legtöbb összetevője jelentősen károsítaná a környezetet.",
+            "(C) Különböző mosószerek különböző típusú felületaktív anyagokat tartalmaznak, amelyek eltérő mértékben károsíthatják a vízi élővilágot.",
+            "(D) Van ok feltételezni, hogy a mosószerekben található egyéb összetevők, amelyek nem felületaktív anyagok, jobban károsítják a környezetet, mint a felületaktív anyagok.",
+            "(E) Az ökológiailag barátként hirdetett mosószerek jellemzően kevésbé hatékonyak, mint más mosószerek, így nagyobb mennyiséget kell használni belőlük."
+        ],
+        "label": "A",
+        "ind": 46
+    },
+    {
+        "passage": "A halászati hivatalnokok még mindig fontolgatják a lehetőségeket a Lake Davis-i, borotva fogazatú északi csuka, egy heves sporthal populációjának kiirtására, amely veszélyeztetheti a lazac- és pisztrángpopulációkat, ha bejut a szomszédos folyó rendszerbe. A csukaspecifikus betegségek bevezetését és a tó lecsapolását kizárták. Négy évvel ezelőtt mérget adtak a tóhoz, hogy elpusztítsák a csukákat. Ez feldühítette a helyi lakosokat, mivel a víz hónapokig szennyezett maradt, és a régió turizmusának gazdasága megsínylette.",
+        "question": "A következők közül melyik támasztja alá legjobban a fenti információkat?",
+        "options": [
+            "(A) A tó lecsapolása nem okozná a régió turizmusának gazdasági szenvedését.",
+            "(B) Négy évvel ezelőtt volt az egyetlen alkalom, amikor mérget használtak a tóban lévő csukák ellen.",
+            "(C) A négy évvel ezelőtt a tóhoz adott méreg nem volt sikeres a csukák eltávolításában.",
+            "(D) Négy évvel ezelőtt a halászati hivatalnokok nem fontolgattak más lehetőségeket, mint a méreg használatát.",
+            "(E) A Lake Davis környéki lazac- és pisztrángpopulációk létfontosságúak a régió gazdasága számára."
+        ],
+        "label": "C",
+        "ind": 47
+    },
+    {
+        "passage": "Tanácsadó: Sokan úgy vélik, hogy a személyes konfliktusok elkerülhetetlenek, de ez a feltételezés egyszerűen nem igaz. A személyes konfliktusok elsősorban azért alakulnak ki, mert az emberek irracionálisan viselkednek. Például az emberek gyakran könnyebben tulajdonítanak valakinek rossz tulajdonságokat, mint jókat - még akkor is, ha az utóbbira több bizonyíték van. Ha valaki gyanítja, hogy egy barát megbízhatatlan, például egyetlen eset is elég lehet ahhoz, hogy ezt a gyanút bizonyossággá tegye, míg az a hit, hogy valaki megbízható, általában csak sok évnyi személyes interakció után alakul ki.",
+        "question": "Az alábbiak közül melyik fejezi ki a legpontosabban az érvelés során levont fő következtetést?",
+        "options": [
+            "['(A)Sokan úgy vélik, hogy a személyes konfliktusok elkerülhetetlenek.', '(B)Még akkor is, ha több bizonyíték van a jó tulajdonságokra, mint a rosszakra, az emberek könnyebben tulajdonítanak rossz tulajdonságokat, mint jókat.', \"(C)Irracionális egyetlen eset alapján azt a gyanút bizonyossággá tenni, hogy egy barát megbízhatatlan.\", '(D)A személyes konfliktusok nem elkerülhetetlenek.', '(E)Ellentétben azzal a gyanúval, hogy egy barát megbízhatatlan, az a hit, hogy valaki megbízható, általában csak sok évnyi személyes interakció után alakul ki.']"
+        ],
+        "label": "D",
+        "ind": 48
+    },
+    {
+        "passage": "A szárított petrezselymet soha nem szabad főzéshez használni, mivel sokkal kevésbé ízletes és egészséges, mint a friss petrezselyem.",
+        "question": "Az alábbi elvek közül melyik, ha érvényes, segít a legvilágosabban igazolni a fenti érvet?",
+        "options": [
+            "['(A) A friss hozzávalókat mindig használni kell főzéshez, amikor csak lehetséges.', '(B) Csak a legízletesebb hozzávalókat szabad főzéshez használni.', '(C) Azokat a hozzávalókat, amelyeket soha nem szabad főzéshez használni, általában sem ízletesek, sem egészségesek.', '(D) Az olyan petrezselymet, amely nem ízletes és egészséges, soha nem szabad főzéshez használni.', '(E) Főzésnél a szárított hozzávalók alacsonyabb rendűek, mint a friss hozzávalók.']"
+        ],
+        "label": "B",
+        "ind": 49
+    },
+    {
+        "passage": "Az északi medvefókák mérete megbízható jelzést nyújt a populációszintjeikről—minél kisebb az átlagos testméret egy populációban, annál nagyobb a populáció. Régészek egy 800 éves időszakot lefedő fóka fosszíliákat tanulmányoztak, amikor a fókákat az észak-amerikai bennszülött népek táplálék céljából vadászták, és megállapították, hogy a fókák átlagos testmérete nem változott jelentősen.",
+        "question": "A fenti kijelentések, ha igazak, a legjobban melyik következő állítást támasztják alá?",
+        "options": [
+            "(A) A vizsgált 800 éves időszak alatt a fóka vadászati gyakorlatok nem változtak lényegesen az észak-amerikai bennszülött népcsoportok között.",
+            "(B) Az északi medvefókák testmérete nincs erős összefüggésben a fókák általános egészségi állapotával.",
+            "(C) A vizsgált 800 éves időszak előtt az északi medvefókák átlagos testmérete drámai mértékben ingadozott.",
+            "(D) Az észak-amerikai bennszülött népek arra törekedtek, hogy korlátozzák az északi medvefókák vadászatát, hogy megakadályozzák a fókák populációinak kimerülését.",
+            "(E) Az észak-amerikai bennszülött népek vadászata nem csökkentette jelentősen az északi medvefókák populációját a vizsgált 800 éves időszak alatt."
+        ],
+        "label": "E",
+        "ind": 50
+    },
+    {
+        "passage": "Polgármester: Városunk komoly környezeti problémával néz szembe, amit az okoz, hogy hatalmas mennyiségű szemetet kell eltávolítanunk. Bár az újrahasznosítási projektek jelentősen csökkenthetnék ezt a mennyiséget, ezek a projektek valójában kontraproduktívak lennének a környezeti károk összmennyiségének minimalizálásának céljával szemben.",
+        "question": "Melyik lehetőség segítene a legjobban feloldani a polgármester állításai közötti látszólagos ellentmondást az újrahasznosítási projektekkel kapcsolatban?",
+        "options": [
+            "(A) Azok a járművek, amelyek az újrahasznosításra szánt anyagokat gyűjtik, kevesebb szennyezést okoznak, mint az anyagok elégetése okozna.",
+            "(B) Az új újrahasznosítási projektek hatalmas költségei megakadályoznák más szennyezéscsökkentő projektek megvalósítását.",
+            "(C) A polgármester városában szinte teljesen kimerült a szemétlerakó helyek kapacitása, ezért sok szemetet el kell égetni.",
+            "(D) Az újrahasznosítás ösztönözné a polgármester városában működő iparágakat, hogy több újrahasznosított anyagot használjanak fel gyártási folyamataikban.",
+            "(E) Azok az emberek, akik újrahasznosítanak, kevésbé érzik jogosnak, hogy többet fogyasszanak, mint amennyire szükségük van, mint azok, akik nem újrahasznosítanak."
+        ],
+        "label": "B",
+        "ind": 51
+    },
+    {
+        "passage": "Bárki, aki ismeri Ellsworth-t, tudja, hogy tele van önigazolással, és az ő generációjának idealizmusát a korábbi generáció mohósága fölé helyezi. Tehát senkit sem lep meg, aki ismeri őt, hogy Ellsworth sértve érzi magát a médiában megjelent olyan javaslatok miatt, amelyek szerint etikátlan üzleti gyakorlatokban vett részt.",
+        "question": "A fenti következtetés logikusan következik, ha feltételezzük az alábbiak közül melyiket?",
+        "options": [
+            "(A) Mindenki gyanítja, hogy az önigazoló emberek valójában etikátlanok.",
+            "(B) Ellsworth-t már korábban is vádolták etikátlan üzleti gyakorlatokkal.",
+            "(C) A képmutatók gyakran az igazságtalan felháborodás mögé bújnak.",
+            "(D) Ellsworth valójában ártatlan mindenféle rossz cselekedetben.",
+            "(E) Mindenki elvárja, hogy az önigazoló emberek könnyen megsértődjenek."
+        ],
+        "label": "E",
+        "ind": 52
+    },
+    {
+        "passage": "Politikai tudós: Az emberek akkor válnak lelkesedéstelenné a szavazás iránt, ha úgy vélik, hogy fontos problémákat csak úgy lehet megoldani, ha nagyszámú ember drasztikusan megváltoztatja a hozzáállását, és hogy ezek a hozzáállásbeli változások általában nem a kormányzati intézkedések eredményeként következnek be. A csökkenő választási részvétel tehát teljes mértékben annak a növekvő meggyőződésnek tudható be, hogy a politikusok nem tudják megoldani a legfontosabb problémákat.",
+        "question": "A politikai tudós érvelése a leginkább azért kritizálható, mert az érvelés",
+        "options": [
+            "(A) feltételezi, anélkül hogy igazolná, hogy a csökkenő választási részvételnek nincs más oka, mint az a meggyőződés, hogy kevés fontos problémát lehet kormányzati intézkedésekkel megoldani",
+            "",
+            "(B) feltételezi, anélkül hogy igazolná, hogy a legfontosabb problémákra nincsenek politikai megoldások",
+            "",
+            "(C) arra következtet, hogy fontos problémákat komolyan lehet kezelni, ha az emberek hozzáállása megváltozik, abból a premisszából, hogy ezek a problémák nem kezelhetők, ha az emberek hozzáállása nem változik",
+            "",
+            "(D) aláássa azt az állítását, hogy az emberek már nem hisznek abban, hogy vannak politikai megoldások fontos problémákra, azzal, hogy azt sugallja, hogy az emberek elégedetlenek a politikusokkal",
+            "",
+            "(E) feltételezi, anélkül hogy igazolná, hogy a választói közöny megakadályozza azokat a hozzáállásbeli változásokat, amelyek a fontos problémák megoldásához vezetnek"
+        ],
+        "label": "A",
+        "ind": 53
+    },
+    {
+        "passage": "A hagyományos nézet szerint az aszteroidák véletlenszerű helyeken csapódnak be a Földbe, és ezáltal véletlenszerűen befolyásolják a Föld fejlődésének különböző aspektusait. Egy ikonoklasztikus geofizikus ezzel szemben azt állítja, hogy az aszteroidák egy rendkívül szervezett természetes folyamat révén csapódtak be a Földbe. Bizonyítékként az északi féltekén keresztül húzódó, glóriaszerű mintázatot alkotó becsapódási kráterek szokatlan mintázatát említik. Konszenzus van abban, hogy ezek a kráterek a kréta időszak végén jelentek meg, amit sok szárazföldi és óceáni élet tömeges kihalása követett.",
+        "question": "Melyik a következők közül, ha igaz, segítene leginkább alátámasztani az ikonoklasztikus geofizikus állítását?",
+        "options": [
+            "(A) Számos aszteroida becsapódása rövid időn belül vulkáni tevékenységet okozhat, amely melegíti az óceánokat, és légköri törmeléket, amely elzárja a napfényt, és az ilyen változások tömeges kihalásokat okozhatnak.",
+            "(B) Ha az aszteroidák ismételten ugyanazokat a helyeket érik, a csapások befolyásolhatják az olvadt kőzet áramlását a Föld belsejében, ami befolyásolná a kontinensek vándorlásának mértékét a Föld felszínén.",
+            "(C) Az északi féltekén keresztül húzódó, glóriaszerű mintázatot alkotó becsapódási kráterek egyetlen meteorklaszter Földbe csapódásának eredményeként jöttek létre.",
+            "(D) A Föld belsejében lévő csomós tömegek gravitációs kölcsönhatásokat okoznak a közeledő aszteroidákkal, amelyek arra kényszerítik őket, hogy meghatározott pályára álljanak a becsapódás előtt.",
+            "(E) A Föld történetének egyetlen más időszakában sem alakult ki hasonló becsapódási kráter minta."
+        ],
+        "label": "D",
+        "ind": 54
+    },
+    {
+        "passage": "Az Acme Corporation elnöke úgy döntött, hogy a céget jelenlegi helyéről, Milltownból Ocean View-ba költözteti. Az Acme alkalmazottainak többsége nem engedheti meg magának, hogy Ocean View-tól 30 percen belüli ingázási távolságon belül lakjon. Tehát, ha a cég átköltözik, az Acme alkalmazottainak többsége több mint 30 percet fog ingázni.",
+        "question": "Az érvelés melyik feltételezést igényli az alábbiak közül?",
+        "options": [
+            "(A) Az összes Acme alkalmazott megengedheti magának, hogy Milltown-tól 30 percen belüli ingázási távolságon belül lakjon.",
+            "(B) Az Acme elnökének jó pénzügyi okai vannak, hogy a céget Ocean View-ba költöztesse.",
+            "(C) Az Acme alkalmazottai közül senki, az elnököt kivéve, nem támogatja a cég Ocean View-ba költözését.",
+            "(D) Jelenleg az Acme alkalmazottainak többsége kevesebb, mint 30 percet ingázik.",
+            "(E) Az Acme Ocean View-ba való költözése nem jár az Acme alkalmazottak jelentős fizetésemelésével."
+        ],
+        "label": "E",
+        "ind": 55
+    },
+    {
+        "passage": "Szerkesztőség: A festés rétegek egymás utáni felvitelét jelenti, amelyek közül mindegyik csak akkor tapad megfelelően, ha az alatta lévő réteg helyesen lett felhordva. Az oktatás ebből a szempontból hasonlít a festészet mesterségére. Mivel a festés legfontosabb lépései a festendő felület előkészítése és az alapozó réteg felvitele, logikus feltételezni, hogy .",
+        "question": "Melyik a következő állítások közül egészíti ki a leglogikusabban a szerkesztőség érvelését?",
+        "options": [
+            "(A) amikor az oktató először találkozik a diákkal, a lehető legkevésbé követelőzőnek kell lennie",
+            "(B) azok a diákok, akik biztosan értik egy tantárgy alapvetéseit, valószínűleg haladást érnek el abban a tantárgyban",
+            "(C) azok az oktatók, akik nem érik el a kitűzött céljaikat, felül kell vizsgálniuk az oktatási módszereiket",
+            "(D) az új diákok tanítása jutalmazó, de sokkal nehezebb, mint a haladó diákok tanítása",
+            "(E) egy diák teljes oktatási élményének sikere mindenekelőtt azon a diák első oktatási élményétől függ"
+        ],
+        "label": "E",
+        "ind": 56
+    },
+    {
+        "passage": "Tudós: Figyelembe véve az emberi hajlamot az új területek felfedezésére és gyarmatosítására, néhányan úgy vélik, hogy a galaxis végül trillió ember által lesz gyarmatosítva. Ha ez így lenne, az emberek túlnyomó többsége, akik valaha éltek, ebben a gyarmatosítási időszakban élne. Mivel mindannyian emberek vagyunk, és nincs okunk azt gondolni, hogy nem vagyunk reprezentatívak, az esélyek túlnyomóan azt mutatják, hogy mi is ebben az időszakban élnénk. De mivel nem ebben az időszakban élünk, csekély az esélye annak, hogy ilyen gyarmatosítás valaha is megvalósul.",
+        "question": "A tudós érvelése a következőképpen halad",
+        "options": [
+            "(A) azzal érvel, hogy mivel egy esemény nem történt meg, az esemény bekövetkezésének alacsony a valószínűsége",
+            "(B) olyan következtetést von le, amely burkoltan ellentmond az érvelés által elfogadott egyik premisszának",
+            "(C) magától értetődőnek veszi, hogy megbízható jövőbeli előrejelzések soha nem készíthetők pusztán a jelenlegi tények alapján",
+            "(D) azt a következtetést vonja le, hogy mivel egy adott hipotézis alapján valószínűnek tartott esemény nem történt meg, a hipotézis valószínűleg hamis",
+            "(E) messze a jövőbe mutató előrejelzést készít a bevett emberi hajlamok alapján"
+        ],
+        "label": "D",
+        "ind": 57
+    },
+    {
+        "passage": "Riley professzor úgy jellemezte az egyetemi elnök beszédét, mint gyújtogató jellegűt, és azzal érvelt, hogy ezért nem volt megfelelő. Azonban Riley hosszú ideje viszályban áll az elnökkel, ezért nem szabad arra a következtetésre jutnunk, hogy az elnök beszéde gyújtogató jellegű volt pusztán Riley tanúvallomása alapján. Ezért, hacsak nincsenek független okok arra, hogy az elnök beszédét gyújtogatónak tekintsük, nem igaz, hogy a beszéde nem volt megfelelő.",
+        "question": "Az érvelés hibás, mert",
+        "options": [
+            "(A) adottnak veszi, hogy a beszéd nem lehetett nem megfelelő, ha nem volt gyújtogató jellegű",
+            "(B) nem foglalkozik megfelelően azzal a lehetőséggel, hogy gyújtogató jellegű beszédek bizonyos közönségek számára megfelelőek lehetnek",
+            "(C) az egyetemi elnök oldalára áll egy vitában, pusztán az elnök kiváltságos helyzete miatt",
+            "(D) arra a következtetésre jut, hogy Riley állítása hamis, csupán azon az alapon, hogy Riley-nak van mit nyernie, ha az állítást igaznak fogadják el",
+            "(E) nem foglalkozik megfelelően azzal a lehetőséggel, hogy Riley ellenszenve az egyetemi elnökkel szemben megalapozott"
+        ],
+        "label": "A",
+        "ind": 58
+    },
+    {
+        "passage": "Rádió producer: Az, hogy az elmúlt néhány évben nem sikerült új hallgatókat vonzanunk, arra kényszerített minket, hogy válasszunk aközött, hogy némi adásidőt más, népszerűbb zenei műfajoknak szentelünk, vagy ragaszkodunk a klasszikus zenéhez, ami csak a kis, de hűséges közönségünknek szól. Ez a közönség azonban, bármennyire is hűséges, nem termelt elegendő reklámbevételt ahhoz, hogy ki tudjuk fizetni a számláinkat, így ha csak nekik szólunk, a rádiónk a bezárás veszélyének van kitéve. Nem vállalhatjuk ezt a kockázatot. Ezért némi adásidőt más, népszerűbb zenei műfajoknak kell szentelnünk.",
+        "question": "Az alábbi érvek közül melyiknek a gondolatmenete hasonlít leginkább a rádió producerének gondolatmenetéhez?",
+        "options": [
+            "(A) Vakokat kellene vennünk az ablakokra, vagy teljes hosszúságú függönyöket készítenünk. A vakok vásárlása nagyon drága lenne. Így, ha a költség a legnagyobb aggodalmunk, függönyöket kell készítenünk.",
+            "",
+            "(B) Függönyöket kellene készítenünk az ablakokra, vagy vakokat vásárolnunk. Mivel az ablakok nem szabvány méretűek, ha vakokat vásárolunk, külön rendelésre lesz szükség. Mivel nincs időnk várni a külön rendelésekre, függönyöket kell készítenünk.",
+            "",
+            "(C) Az nappali ablakaira készíthetünk függönyöket, lambériát vagy mindkettőt. Szeretnénk magánéletet biztosítani; míg a függönyök biztosítják a magánéletet, a lambériák nem. Tehát függönyöket kell készítenünk, de lambériát nem.",
+            "",
+            "(D) Mivel nagyon kevés anyagunk van, vagy többet kell vásárolnunk, vagy lambériát kell készítenünk függönyök helyett. Azonban, ha ezt az anyagot lambériák készítéséhez használjuk, akkor vakokat kell vásárolnunk. Mivel nehéz lenne olyan anyagot vásárolni, amely megegyezik azzal, ami már van, vakokat kell vásárolnunk.",
+            "",
+            "(E) Vakokat kellene vásárolnunk, vagy függönyöket készítenünk az ablakokra. Ha vakokat vásárolunk, de nem készítünk lambériát, az ablakok csupasznak tűnnek. Nem lehetnek csupasz ablakaink. Tehát ha nem készítünk függönyöket, lambériát kell készítenünk."
+        ],
+        "label": "B",
+        "ind": 59
+    },
+    {
+        "passage": "Művészettörténész: Ez a festmény, amelyet állítólag Mary Cassatt készített, hamisítvány. Bár a vászon és egyéb anyagok összhangban vannak Cassatt munkáinak többségével, és a téma hasonló Cassatt legkiválóbb festményeihez, ennek a festménynek az ecsetkezelési stílusa nem található meg egyetlen olyan munkában sem, amelyről ismert, hogy Cassatt készítette. Ezért ez a festmény biztosan nem eredeti Cassatt.",
+        "question": "A művészettörténész érvelése melyik feltételezésen alapul az alábbiak közül?",
+        "options": [
+            "(A) Az a fajta vászon és egyéb anyagok, amelyeket Cassatt a munkáinak többségében használt, mások számára is könnyen elérhetők voltak.  ",
+            "(B) Cassatt egyetlen munkáját sem festette olyan ecsetkezelési stílussal, amely nem jelenik meg egyetlen ismert munkájában sem.  ",
+            "(C) Cassatt munkái általában olyan jellegzetes témával rendelkeztek, amelyek megkülönböztették a korszak más festőinek munkáitól.  ",
+            "(D) Cassatt munkáinak legjellemzőbb vonása az ecsetkezelési stílusa.  ",
+            "(E) Cassatton kívül egyetlen festő sem tudná tökéletesen utánozni Cassatt ecsetkezelési stílusát."
+        ],
+        "label": "B",
+        "ind": 60
+    },
+    {
+        "passage": "A Riverview épületben minden erkélyes lakásnak van kandallója is. Az erkélyes lakások közül egyik sem egyszobás lakás. Tehát egyik egyszobás lakásnak sincs kandallója.",
+        "question": "A fenti érvelés hibás jellege a leghatékonyabban azzal mutatható ki, ha észrevesszük, hogy párhuzamos érveléssel arra a következtetésre juthatunk, hogy",
+        "options": [
+            "(A)minden halnak van bundája, mivel egyetlen macskának sincs bundája, és egyik macska sem hal  ",
+            "(B)néhány macskának nincs bundája, mivel minden kutyának van bundája és egyik macska sem kutya  ",
+            "(C)egyik kutyának sincs bundája, mivel minden macskának van bundája, és egyik macska sem kutya  ",
+            "(D)minden macska hal, mivel egyik macska sem kutya, és egyik kutya sem hal  ",
+            "(E)egyik hal sem kutya, mivel minden kutya emlős, és egyik hal sem emlős"
+        ],
+        "label": "C",
+        "ind": 61
+    },
+    {
+        "passage": "Alissa: Ha, ahogy a polgármester mondja, a város már nem tudja tovább finanszírozni mind a gyermekmúzeumot, mind a helyi gyermek televíziós műsorokat, akkor abba kellene hagynia a televíziós műsorok finanszírozását. A múzeum interaktív kiállításai gazdagabb oktatási élményt nyújtanak, mint a televízió nézése, ami nagyrészt passzív. Greta: A múzeum finanszírozását kellene abbahagynunk, nem pedig a televíziós műsorokét, mert, ahogy a polgármester is rámutatott, a múzeum sokkal kisebb közönséget ér el.",
+        "question": "A nyilatkozataik alapján mire lehet következtetni, hogy Alissa és Greta melyik következő pontban nem értenek egyet?",
+        "options": [
+            "(A) hogy a városnak abba kell-e hagynia a helyi gyermek televíziós műsorok finanszírozását, ha folytatja a gyermekmúzeum finanszírozását",
+            "",
+            "(B) hogy a polgármester igazat mondott-e arról, hogy mi fog történni, ha a város nem hagyja abba a helyi gyermek televíziós műsorok finanszírozását",
+            "",
+            "(C) hogy a városnak abba kell-e hagynia a helyi gyermek televíziós műsorok finanszírozását, ha annak folytatása azt jelentené, hogy a városnak abba kellene hagynia a gyermekmúzeum finanszírozását",
+            "",
+            "(D) hogy a helyi gyermek televíziós műsorok több gyermek számára nyújtanak-e hasznos oktatási élményt a városban, mint a gyermekmúzeum",
+            "",
+            "(E) hogy a gyermekmúzeum gazdag oktatási élményt nyújt-e azoknak a gyermekeknek, akik ellátogatnak oda"
+        ],
+        "label": "C",
+        "ind": 62
+    },
+    {
+        "passage": "A televíziós sztár, Markus Hermann nem hajlandó interjút adni újságoknak, hacsak nem kapja meg a jogot, hogy a cikket jóváhagyja a megjelenés előtt. A Greburg Messenger újság visszautasít bármit, amit szerkesztői úgy ítélnek meg, hogy veszélyeztetné szerkesztői integritásukat. Ezért a Messenger nem készít interjút Hermánnal, mivel",
+        "question": "Az érvelés következtetése helyesen vonható le, ha az alábbiak közül melyik egészíti ki a szöveget?",
+        "options": [
+            "(A) a Messenger szerkesztői úgy vélik, hogy az interjúalanynak az a joga, hogy a cikket a megjelenés előtt jóváhagyja, veszélyeztetné szerkesztői integritásukat",
+            "",
+            "(B) a Messenger korábban soha nem adta meg egy interjúalanynak sem a jogot, hogy a cikket a megjelenés előtt jóváhagyja",
+            "",
+            "(C) a legtöbb televíziós sztár hajlandó interjút adni a Messengernek, még akkor is, ha nem kapják meg a jogot, hogy a cikkeket a megjelenés előtt jóváhagyják",
+            "",
+            "(D) Hermann általában jelentős változtatásokat kér az interjúcikkeken, mielőtt azokat jóváhagyná",
+            "",
+            "(E) Hermann úgy véli, hogy a Messenger gyakran olyan módon szerkeszti az interjúkat, amely az interjúalanyokat hízelgőtlen módon ábrázolja"
+        ],
+        "label": "A",
+        "ind": 63
+    }
+]

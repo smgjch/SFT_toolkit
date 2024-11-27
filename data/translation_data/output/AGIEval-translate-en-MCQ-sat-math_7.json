@@ -1,0 +1,242 @@
+[
+    {
+        "passage": "Hátteret nem adtak meg ehhez a kérdéshez.",
+        "question": "$$\\frac{x}{x-3}=\\frac{2 x}{2}$$ Melyik a következő lehetőségek közül tartalmazza az $x$ összes lehetséges értékét, amelyek kielégítik a fenti egyenletet?",
+        "options": [
+            "['(A)0 és 2', '(B)0 és 4', '(C)-4 és 4', '(D)4']"
+        ],
+        "label": "B",
+        "ind": 0
+    },
+    {
+        "passage": "[Háttérinformációk itt]",
+        "question": "$$\\frac{1}{2 x+1}+5$$\nMelyik a következő kifejezések közül egyenértékű a fenti kifejezéssel, ha $x>0$?",
+        "options": [
+            "['(A)$\\\\frac{2 x+5}{2 x+1}$', '(B)$\\\\frac{2 x+6}{2 x+1}$', '(C)$\\\\frac{10 x+5}{2 x+1}$', '(D)$\\\\frac{10 x+6}{2 x+1}$']"
+        ],
+        "label": "D",
+        "ind": 1
+    },
+    {
+        "passage": "[nincs háttérinformáció]",
+        "question": "Mi a $\\sqrt{x+2}=-x$ egyenlet összes megoldásának halmaza?",
+        "options": [
+            "['(A)$\\\\{-1,2\\\\}$', '(B)$\\\\{-1\\\\}$', '(C)$\\\\{2\\\\}$', '(D)Nincs megoldása a megadott egyenletnek.']"
+        ],
+        "label": "B",
+        "ind": 2
+    },
+    {
+        "passage": "Háttér információ nincs megadva ehhez a kérdéshez.",
+        "question": "Milyen értéke van az $x$-nek, amely kielégíti a $3x + 3 = 27$ egyenletet?",
+        "options": [
+            "['(A)3', '(B)8', '(C)10', '(D)27']"
+        ],
+        "label": "B",
+        "ind": 3
+    },
+    {
+        "passage": "[No background information provided]",
+        "question": "Ha $\\frac{2n}{5}=10$, akkor mennyi $2n-1$ értéke?",
+        "options": [
+            "['(A)24', '(B)49', '(C)50', '(D)99']"
+        ],
+        "label": "B",
+        "ind": 4
+    },
+    {
+        "passage": "Nincs háttérinformáció megadva.",
+        "question": "Melyik alábbi $x$ érték NEM megoldása a fenti egyenletnek: $$\\sqrt{x^{2}}=x$$ ?",
+        "options": [
+            "(A) -4",
+            "(B) 0",
+            "(C) 1",
+            "(D) 3"
+        ],
+        "label": "A",
+        "ind": 5
+    },
+    {
+        "passage": "Nincs háttérinformáció megadva.",
+        "question": "A Washington High School véletlenszerűen választott ki gólya, másodéves, harmadéves és végzős diákokat egy felméréshez a jövő évi órarend esetleges változásairól. A felmérésre kiválasztott diákok közül $\\frac{1}{4}$ gólya és $\\frac{1}{3}$ másodéves volt. A fennmaradó kiválasztott diákok felét harmadévesek tették ki. Ha összesen 336 diákot választottak ki a felmérésre, hányan voltak közülük végzősök?",
+        "options": [
+            "['(A)240', '(B)140', '(C)120', '(D)70']"
+        ],
+        "label": "D",
+        "ind": 6
+    },
+    {
+        "passage": "Plant A is currently 20 centimeters tall, and Plant B is currently 12 centimeters tall. The ratio of the heights of Plant A to Plant B is equal to the ratio of the heights of Plant $\\mathrm{C}$ to Plant D.",
+        "question": "If Plant $\\mathrm{C}$ is 54 centimeters tall, what is the height of Plant $\\mathrm{D}$, in centimeters?",
+        "options": [
+            "(A)32.4, (B)44.0, (C)62.0, (D)90.0"
+        ],
+        "label": "A",
+        "ind": 7
+    },
+    {
+        "passage": "Biológusok egy új pale garnélarák fajt találtak a világ legmélyebb tengeri ventjénél, a Beebe Vent Mezőn. A vent a tenger felszíne alatt 3.1 mérföld mélyen található.",
+        "question": "Körülbelül hány kilométer mélyen található a vent a tenger felszíne alatt? (1 kilométer $\\approx 0.6214$ mérföld)",
+        "options": [
+            "['(A)2', '(B)3', '(C)4', '(D)5']"
+        ],
+        "label": "D",
+        "ind": 8
+    },
+    {
+        "passage": "Egy teherhelikopter csak 100 fontos és 120 fontos csomagokat szállít. Minden szállítóút során a helikopternek legalább 10 csomagot kell vinnie, és a csomagok összsúlya legfeljebb 1100 font lehet.",
+        "question": "Mi a maximális száma a 120 fontos csomagoknak, amelyeket a helikopter egy út során szállíthat?",
+        "options": [
+            "(A)2, (B)4, (C)5, (D)6"
+        ],
+        "label": "C",
+        "ind": 9
+    },
+    {
+        "passage": "[Háttér információk itt]",
+        "question": "Egy vállalat vásárolt egy gépet, amelynek értéke 120 000 dollár. A gép értéke minden évben ugyanannyival csökken, így 10 év után az értéke 30 000 dollár lesz. Az alábbi egyenletek közül melyik adja meg a gép értékét, $v$ dollárban, $t$ évvel a vásárlás után, ahol $0 \\leq t \\leq 10 ?$",
+        "options": [
+            "['(A)$v=30,000-9,000 t$', '(B)$v=120,000-9,000 t$', '(C)$v=120,000+9,000 t$', '(D)$v=120,000-30,000 t$']"
+        ],
+        "label": "B",
+        "ind": 10
+    },
+    {
+        "passage": "",
+        "question": "Az $xy$-síkon lévő $m$ egyenes áthalad a $(2,4)$ és $(0,1)$ pontokon. Az alábbiak közül melyik egyenlet írja le az $m$ egyenest?",
+        "options": [
+            "(A)$y=2 x+3$  ",
+            "(B)$y=2 x+4$  ",
+            "(C)$y=\\frac{3}{2} x+3$  ",
+            "(D)$y=\\frac{3}{2} x+1$"
+        ],
+        "label": "D",
+        "ind": 11
+    },
+    {
+        "passage": "Háttérinformációk",
+        "question": "$$(4 x+4)(a x-1)-x^{2}+4$$ A fenti kifejezésben $a$ egy állandó. Ha a kifejezés ekvivalens $b x$-szel, ahol $b$ egy állandó, mi $b$ értéke?",
+        "options": [
+            "['(A)-5', '(B)-3', '(C)0', '(D)12']"
+        ],
+        "label": "B",
+        "ind": 12
+    },
+    {
+        "passage": "background:",
+        "question": "Kérdés: Ha $2 w+4 t=14$ és $4 w+5 t=25$, akkor mennyi a $2 w+3 t$ értéke?",
+        "options": [
+            "['(A)6', '(B)10', '(C)13', '(D)17']"
+        ],
+        "label": "C",
+        "ind": 13
+    },
+    {
+        "passage": "Jennifer vett egy doboz Crunchy Grain gabonapelyhet. A dobozon található tápértékadatok szerint a gabonapehely adagja $\\frac{3}{4}$ csésze, és 210 kalóriát tartalmaz, amelyből 50 kalória származik zsírból. Továbbá, minden adag gabonapehely 180 milligramm káliumot biztosít, ami a felnőttek napi szükségletének $5 \\%$-a.",
+        "question": "Ha egy felnőtt napi káliumszükségletének $p$ százalékát biztosítja naponta $x$ adag Crunchy Grain gabonapehely, akkor az alábbiak közül melyik fejezi ki $p$-t $x$ függvényében?",
+        "options": [
+            "(A)$p=0.5 x$, (B)$p=5 x$, (C)$p=(0.05)^{x}$, (D)$p=(1.05)^{x}$"
+        ],
+        "label": "B",
+        "ind": 14
+    },
+    {
+        "passage": "Jennifer vásárolt egy doboz Crunchy Grain gabonapelyhet. A doboz tápértékadatai szerint egy adag gabonapehely mérete $\\frac{3}{4}$ csésze, és 210 kalóriát tartalmaz, amelyből 50 kalória zsír eredetű. Ezen felül, minden adag gabonapehely 180 milligramm káliumot biztosít, ami a felnőttek napi ajánlott mennyiségének $5\\%$-a.",
+        "question": "Kedden Jennifer Crunchy Grain gabonapelyhet fog keverni Super Grain gabonapehellyel a reggelijéhez. A Super Grain gabonapehely 240 kalóriát biztosít csészénként. Ha Jennifer keverékének egy csészéje összesen 270 kalóriát tartalmaz, akkor mennyi Super Grain gabonapehely van a keverék egy csészéjében?",
+        "options": [
+            "['(A)$\\\\frac{1}{8} \\\\operatorname{csésze}$', '(B)$\\\\frac{1}{4} \\\\operatorname{csésze}$', '(C)$\\\\frac{1}{3} \\\\operatorname{csésze}$', '(D)$\\\\frac{1}{2} \\\\operatorname{csésze}$']"
+        ],
+        "label": "B",
+        "ind": 15
+    },
+    {
+        "passage": "",
+        "question": "Az exponenciális függvény, $h$, grafikonja az $x y$-síkon, ahol $y=h(x)$, $y$-metszete $d$, ahol $d$ egy pozitív állandó. Az alábbiak közül melyik határozhatja meg a $h$ függvényt?",
+        "options": [
+            "(A) $h(x)=-3(d)^{x}$  ",
+            "(B) $h(x)=3(x) d$  ",
+            "(C) $h(x)=d(-x)^{3}$  ",
+            "(D) $h(x)=d(3)^{x}$"
+        ],
+        "label": "D",
+        "ind": 16
+    },
+    {
+        "passage": "A háttér információ nem adott meg, így erre nincs szükség a fordításban.",
+        "question": "Egy istállóban 15 ló súlyát fontban jelentették, és kiszámították az adatok átlagát, mediánját, terjedelmét és szórását. Kiderült, hogy a legalacsonyabb jelentett súlyú ló valójában 10 fonttal kevesebbet nyom, mint a jelentett súlya. Melyik érték marad változatlan, ha a négy értéket a korrigált súly alapján jelentik?",
+        "options": [
+            "(A) Átlag",
+            "(B) Medián",
+            "(C) Terjedelem",
+            "(D) Szórás"
+        ],
+        "label": "B",
+        "ind": 17
+    },
+    {
+        "passage": "background:",
+        "question": "A műsor végén egy amerikai kábeltelevíziós hírműsor házigazdája arra kérte a nézőket, hogy válaszoljanak a műsor honlapján található szavazásra, amely azt kérdezte: \"Támogatja-e az adás során megvitatott új szövetségi politikát?\" A műsor végén a házigazda arról számolt be, hogy $28 \\%$ válaszolt \"Igen\", és $70 \\%$ válaszolt \"Nem\". Az alábbiak közül melyik magyarázza meg legjobban, miért valószínűtlen, hogy az eredmények az Egyesült Államok lakosságának véleményét képviselik?",
+        "options": [
+            "['(A) Az százalékos arányok nem adják ki a $100 \\\\%$-ot, így a szavazásból levont bármilyen következtetés érvénytelen.', '(B) Azok, akik válaszoltak a szavazásra, nem az Egyesült Államok lakosságának véletlenszerű mintájából származtak.', '(C) Nem volt $50 \\\\%$ \"Igen\" válasz és $50 \\\\%$ \"Nem\" válasz.', '(D) A műsor nem adott elegendő időt a nézőknek arra, hogy válaszoljanak a szavazásra.']"
+        ],
+        "label": "B",
+        "ind": 18
+    },
+    {
+        "passage": "background:",
+        "question": "question: Ha $f(x)=5 x^{2}-3$ és $f(x+a)=5 x^{2}+30 x+42$, mi az $a$ értéke?",
+        "options": [
+            "['(A)-30', '(B)$\\\\quad-3$', '(C)3', '(D)30']"
+        ],
+        "label": "C",
+        "ind": 19
+    },
+    {
+        "passage": "Háttérinformáció:",
+        "question": "Ha $\\sin x^{\\circ}=a$, melyik állítás igaz minden $x$ értékre?",
+        "options": [
+            "(A)$\\cos x^{\\circ}=a$  ",
+            "(B)$\\sin \\left(90^{\\circ}-x^{\\circ}\\right)=a$  ",
+            "(C)$\\cos \\left(90^{\\circ}-x^{\\circ}\\right)=a$  ",
+            "(D)$\\sin \\left(x^{2}\\right)^{\\circ}=a^{2}$"
+        ],
+        "label": "C",
+        "ind": 20
+    },
+    {
+        "passage": "A fenti másodfokú függvény a föld feletti magasságot, $h$-t modellezi lábban, egy lövedék $x$ másodperccel azután, hogy függőlegesen kilőtték.",
+        "question": "Ha $y=h(x)$-et ábrázoljuk az $x y$-síkon, akkor az alábbiak közül melyik képviseli a grafikon pozitív $x$-tengely metszésének valós jelentését?",
+        "options": [
+            "(A) A lövedék kezdeti magassága",
+            "",
+            "(B) A lövedék maximális magassága",
+            "",
+            "(C) Az az idő, amikor a lövedék eléri a maximális magasságát",
+            "",
+            "(D) Az az idő, amikor a lövedék eléri a földet"
+        ],
+        "label": "D",
+        "ind": 21
+    },
+    {
+        "passage": "",
+        "question": "Az \\(xy\\)-síkon a polinom függvény \\(f\\) grafikonja pontosan két pontban metszi az \\(x\\)-tengelyt, mégpedig \\((a, 0)\\) és \\((b, 0)\\) pontokban, ahol \\(a\\) és \\(b\\) mindkettő pozitív. Az alábbiak közül melyik határozhatja meg \\(f\\)-et?",
+        "options": [
+            "(A)\\(f(x)=(x-a)(x-b)\\)  ",
+            "(B)\\(f(x)=(x+a)(x+b)\\)  ",
+            "(C)\\(f(x)=(x-a)(x+b)\\)  ",
+            "(D)\\(f(x)=x(x-a)(x-b)\\)"
+        ],
+        "label": "A",
+        "ind": 22
+    },
+    {
+        "passage": "",
+        "question": "Ha $y=3 x^{2}+6 x+2$ grafikont ábrázolunk az $x y$ síkban, akkor a grafikon melyik jellemzőjét jeleníti meg az egyenletben szereplő konstans vagy együttható?",
+        "options": [
+            "['(A) A csúcspont $y$ koordinátája', '(B) $x$-metszet(ek)', '(C) $y$-metszet', '(D) A szimmetriatengely $x$-metszete']"
+        ],
+        "label": "C",
+        "ind": 23
+    }
+]

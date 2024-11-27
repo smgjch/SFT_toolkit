@@ -1,0 +1,302 @@
+[
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Egy autót egyenes vonalban és egyenletes sebességgel vezetnek egy függőleges torony alapja felé. Az autóból megfigyelik a torony tetejét, és a folyamat során 10 percbe telik, amíg az emelkedési szög 45°-ról 60°-ra változik. Mennyi idő múlva ér ez az autó a torony alapjához?",
+        "options": [
+            "['(A)5(√3 + 1)', '(B)6(√3 + √2)', '(C)7(√3 – 1)', '(D)8(√3 – 2)', '(E)Egyik sem']"
+        ],
+        "label": "A",
+        "ind": 0
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Egy termék eredeti ára 22%-kal van leárazva. Egy vásárló megveszi a terméket ezen a leárazott áron egy 20 dolláros kupon felhasználásával. A termékre nincs adó, és ez volt az egyetlen termék, amit a vásárló vásárolt. Ha a vásárló 1,90 dollárral többet fizetett, mint a termék eredeti árának a fele, mennyi volt a termék eredeti ára?",
+        "options": [
+            "['(A)$61', '(B)$65', '(C)$67.40', '(D)$70', '(E)$78.20']"
+        ],
+        "label": "E",
+        "ind": 1
+    },
+    {
+        "passage": "Nincs",
+        "question": "Tudd meg, hogy az alábbi értékek közül melyik az X többszöröse, ha osztható 9-cel és 12-vel?",
+        "options": [
+            "['(A)36', '(B)15', '(C)17', '(D)5', '(E)7']"
+        ],
+        "label": "A",
+        "ind": 2
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Ha az A részvény értékének növekedésének valószínűsége a következő hónap során 0,56, és a B részvény értékének növekedésének valószínűsége a következő hónap során 0,74, akkor mi a legnagyobb érték annak a valószínűségnek, hogy egyik esemény sem következik be?",
+        "options": [
+            "['(A)0,22', '(B)0,26', '(C)0,37', '(D)0,46', '(E)0,63']"
+        ],
+        "label": "B",
+        "ind": 3
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Egy kereskedő 20%-os haszonnal adott el egy cikket 360 rúpiáért. Mennyi a cikk bekerülési ára?",
+        "options": [
+            "(A)270",
+            "(B)300",
+            "(C)280",
+            "(D)320",
+            "(E)315"
+        ],
+        "label": "B",
+        "ind": 4
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Egy zsákból, amely csak fehér golyókat tartalmazott, 20 golyót húztak ki, feketére festették, majd visszatették. Ezután újabb 20 golyót húztak ki, amelyek közül 1 fekete volt, majd mindet visszatették a zsákba. Ha a másodszor kihúzott fekete golyók százalékos aránya megegyezik a zsákban lévő fekete golyók százalékos arányával, hány golyót tartalmaz összesen a zsák jelenleg?",
+        "options": [
+            "['(A)40', '(B)200', '(C)380', '(D)400', '(E)3200']"
+        ],
+        "label": "D",
+        "ind": 5
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Határozza meg, hogy hány különböző kerékpárszám készíthető 2 betűből, amelyeket 2 szám követ. Hány betűnek kell különbözőnek lennie?",
+        "options": [
+            "['(A)74453', '(B)64543', '(C)74325', '(D)65000', '(E)97656']"
+        ],
+        "label": "D",
+        "ind": 6
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Egy vonat, amely 100 mérföld/óra sebességgel halad, 10 óra alatt éri el célját. Miután a távolság negyedét megtette, elered az eső, és a vonat sebességét 75 mérföld/órára kell csökkenteni. Mi a teljes utazási időtartam?",
+        "options": [
+            "['(A)10', '(B)11.5', '(C)12.5', '(D)13.5', '(E)15']"
+        ],
+        "label": "C",
+        "ind": 7
+    },
+    {
+        "passage": "Nincs",
+        "question": "Egy iskolában a 200 diák közül legalább 45% részt vett a szalagavató bálon, és legalább 35% vett részt a vitaszekcióban. Mi a maximális létszám azoknak a diákoknak, akik sem a szalagavató bálon, sem a vitaszekcióban nem vettek részt?",
+        "options": [
+            "['(A)27', '(B)81', '(C)90', '(D)99', '(E)110']"
+        ],
+        "label": "E",
+        "ind": 8
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Egy értékesítő 10% jutalékot kap minden eladás után, amit megcsinál. Hány darab 250 dolláros eladást kell végrehajtania, hogy legalább 1000 dollár fizetést érjen el?",
+        "options": [
+            "['(A)15', '(B)24', '(C)25', '(D)40', '(E)52']"
+        ],
+        "label": "D",
+        "ind": 9
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Egy vállalat havonta 420 darab egy adott számítógép alkatrészt gyárt, az előállítás költsége a vállalat számára 110 dollár alkatrészenként, és minden alkatrészt elad a hónap végéig. Mi a minimális eladási ár alkatrészenként, amely garantálja, hogy az éves nyereség (az eladásokból származó bevétel mínusz a gyártási költségek) legalább 626 400 dollár legyen?",
+        "options": [
+            "(A) 226, (B) 230, (C) 240, (D) 260, (E) 280"
+        ],
+        "label": "B",
+        "ind": 10
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Egy bizonyos gyárban a hétfőn gyártott tűzőgépek 10 százaléka hibás volt, és a nem hibás tűzőgépek 2 százalékát tévedésből elutasították. Ha 72 nem hibás tűzőgépet utasítottak el, hány tűzőgépet gyártottak azon a napon?",
+        "options": [
+            "['(A)4,000', '(B)4,200', '(C)4,500', '(D)4,800', '(E)5,000']"
+        ],
+        "label": "A",
+        "ind": 11
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Gép A 6 percenként készít el egy jojót. Gép B 9 percenként készít el egy jojót. Hány perc múlva készítenek el összesen 10 jojót?",
+        "options": [
+            "(A)24 perc, (B)32 perc, (C)36 perc, (D)64 perc, (E)72 perc"
+        ],
+        "label": "C",
+        "ind": 12
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Adja össze: +45 és -30",
+        "options": [
+            "['(A)-30', '(B)+30', '(C)0', '(D)15', '(E)-15']"
+        ],
+        "label": "D",
+        "ind": 13
+    },
+    {
+        "passage": "Nincs háttérinformáció",
+        "question": "Hányféleképpen lehet a \"PROBLEC\" szó betűit átrendezni úgy, hogy 7 betűs szavakat alkossanak, és egyik betű sem ismétlődjön?",
+        "options": [
+            "['(A)2!', '(B)3!', '(C)7!', '(D)8!', '(E)9!']"
+        ],
+        "label": "C",
+        "ind": 14
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Legyen A és B két független esemény, ahol P(A) = 0,2 és P(B) = 0,8. Mi P(A/B)?",
+        "options": [
+            "(A) 0,2",
+            "(B) 0,4",
+            "(C) 0,6",
+            "(D) 1,2",
+            "(E) 1,5"
+        ],
+        "label": "A",
+        "ind": 15
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Tegyük fel, hogy van egy lépcsőfelvonó, és lefelé jössz. Ha 20 lépést teszel és megállsz, akkor 10 perc alatt érsz le az aljára. Ha 10 lépést teszel és megállsz, akkor 20 perc alatt érsz le a földre. Mi a felvonó sebessége?",
+        "options": [
+            "['(A)1 lépés/perc', '(B)2 lépés/perc', '(C)3 lépés/perc', '(D)4 lépés/perc', '(E)Egyik sem a fentiek közül']"
+        ],
+        "label": "A",
+        "ind": 16
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Tavaly egy háztartási gépbolt havonta átlagosan (számtani közép) 42 mikrohullámú sütőt adott el. Az idei év első 10 hónapjában a bolt havonta átlagosan csak 20 mikrohullámú sütőt adott el. Mennyi volt az átlagosan eladott mikrohullámú sütők száma havonta a teljes 22 hónapos időszak alatt?",
+        "options": [
+            "(A) 21, (B) 30, (C) 31, (D) 32, (E) Egyik sem a fentiek közül"
+        ],
+        "label": "D",
+        "ind": 17
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Egy vizsgát tartanak egy bizonyos osztályban. A legmagasabb és a legalacsonyabb pontszám átlaga (számtani közepe) x. Ha az egész osztály átlagpontszáma y, és az osztályban z diák van, ahol z > 5, akkor x, y és z kifejezésével mi az osztály átlagpontszáma a legmagasabb és legalacsonyabb pontszámot elért diákok kizárásával?",
+        "options": [
+            "'(A)(zy – 2x)/z', '(B)(zy – 2)/z', '(C)(zx – y)/(z – 2)', '(D)(zy – 2x)/(z -2)', '(E)(zy – x)/(z + 2)'"
+        ],
+        "label": "D",
+        "ind": 18
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "\\[ \\frac{5 + ? \\times 19 - 15 - 7}{13 \\times 13 - 156} = 6 \\]",
+        "options": [
+            "['(A)4', '(B)4.5', '(C)5', '(D)5.5', '(E)6.5']"
+        ],
+        "label": "C",
+        "ind": 19
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Egy fűszeres 25%-os haszonnal ad el minden zsák lisztet az eladási áron. Ha minden zsákot 100 dollárért ad el, és 3,000 dollár hasznot termel, hány zsákot adott el?",
+        "options": [
+            "['(A)12', '(B)16', '(C)24', '(D)30', '(E)40']"
+        ],
+        "label": "C",
+        "ind": 20
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Alex és Jacob egy játékboltban dolgoznak, ahol játékokat készítenek. Alex 7 órát vesz igénybe egy játék elkészítéséhez, míg Jacobnak 9 órába telik egy játék elkészítése. Egy hónap alatt összesen 35 játékot készítenek el. Ha mindketten nagyjából hasonló számú órát dolgoztak, hány játékot készített Jacob?",
+        "options": [
+            "(A)15",
+            "(B)16",
+            "(C)17",
+            "(D)18",
+            "(E)19"
+        ],
+        "label": "A",
+        "ind": 21
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "John szereti, ha minden este enyhén ízesített teát iszik. Egy 50%-os erősségű tejteában kétszer is 15%-ot kicserél tejjel. Ezután a kapott oldat 10%-át további tejjel helyettesíti. Mi a végső tea koncentrációja, amit John iszik?",
+        "options": [
+            "['(A)15,38%', '(B)42%', '(C)39,86%', '(D)22,35%', '(E)32,51%']"
+        ],
+        "label": "E",
+        "ind": 22
+    },
+    {
+        "passage": "None",
+        "question": "Egy osztályban a diákok 1/16-a tanul matematikát, 1/10-e biológiát, 1/8-a angolt. A diákok összlétszáma egy négyjegyű szám. Keresse meg a maximális és minimális diákok számának különbségét.",
+        "options": [
+            "['(A)8880', '(B)8870', '(C)8890', '(D)7890', '(E)6780']"
+        ],
+        "label": "A",
+        "ind": 23
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Egy átlagos napon Bill általában körülbelül 15 mérföld/órás sebességgel kerékpározik. Szeles napon a sebessége 4 mérföld/órával csökken. Milyen messzire tud eljutni Bill szeles napon 21 perc alatt? Kerekítsen a legközelebbi századra.",
+        "options": [
+            "['(A)2 mérföld', '(B)2,25 mérföld', '(C)3,25 mérföld', '(D)3,85 mérföld', '(E)2,85 mérföld']"
+        ],
+        "label": "D",
+        "ind": 24
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Egy kiskereskedő egy készüléket 40 százalékkal magasabb áron adott el a beszerzési árnál, ami 20 dollár bruttó nyereséget jelentett. Milyen áron adta el a kiskereskedő a készüléket?",
+        "options": [
+            "['(A) $27.30', '(B) $51.00', '(C) $63.00', '(D) $70.00', '(E) $91.00']"
+        ],
+        "label": "D",
+        "ind": 25
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Rahul 6%-os éves egyszerű kamatra kölcsönzött 500 rúpiát. Mekkora összeget fog fizetni az adósság rendezésére 4 év után?",
+        "options": [
+            "['(A)750', '(B)700', '(C)620', '(D)600', '(E)Egyik sem']"
+        ],
+        "label": "C",
+        "ind": 26
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Egy számítógépes rutin készült két szám (x,y) generálására, ahol az első egy véletlenszám 0 és 100 között (beleértve), a második pedig kisebb vagy egyenlő az első négyzetgyökével. Az alábbi párok mindegyike megfelel a rutinnak, kivéve:",
+        "options": [
+            "(A)(99,10), (B)(85,9), (C)(50,7), (D)(1,1), (E)(1,0)"
+        ],
+        "label": "A",
+        "ind": 27
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Egy dzsip egy bizonyos távolságot tesz meg, az előre úton 6 órát vesz igénybe. A visszaúton 12 km/h-val növelte a sebességét, és 4 órát vett igénybe. Mekkora távolságot tett meg a dzsip?",
+        "options": [
+            "['(A)126 km', '(B)144 km', '(C)127 km', '(D)228 km', '(E)128 km']"
+        ],
+        "label": "B",
+        "ind": 28
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Amikor 2 éves voltam, a bátyám fél annyi idős volt, mint én. Most 60 éves vagyok, hány éves a bátyám?",
+        "options": [
+            "['(A)A)59', '(B)B)69', '(C)C)79', '(D)D)89', '(E)E)99']"
+        ],
+        "label": "A",
+        "ind": 29
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Egy háztartási gép eredeti kiskereskedelmi ára 60 százalékkal volt több, mint a nagykereskedelmi költsége. Ha a gépet valójában az eredeti kiskereskedelmi árnál 20 százalékkal kevesebbért adták el, akkor hány százalékkal többért adták el, mint a nagykereskedelmi költsége?",
+        "options": [
+            "['(A)20%', '(B)28%', '(C)36%', '(D)40%', '(E)42%']"
+        ],
+        "label": "B",
+        "ind": 30
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Egy térképen a F városból G városba vezető út hossza 20 hüvelyk. Ezen a térképen 1/4 hüvelyk valós távolságként 10 mérföldet jelent. Mennyi a valós távolság, mérföldben, F várostól G városig ezen az úton?",
+        "options": [
+            "(A)800, (B)720, (C)960, (D)1140, (E)1160"
+        ],
+        "label": "A",
+        "ind": 31
+    }
+]

@@ -1,0 +1,422 @@
+[
+    {
+        "passage": "San Francisco Tűzoltóautó Túrák____San Francisco Borászat Túr____Futás: Február 1-től április 30-ig. Ez az ínycsiklandó túra a városon keresztül vezet el Kincses-szigetig, ahol megállunk a híres Winery SF-nél. Itt megkóstolhat négy pohár bort San Francisco legjobb boraiból. (Benne van a jegy árában) Indulás a Cannery-től: Túr időpontok igény szerint. Időtartam: 2 óra. Ár: 90 dollár __Vissza az Ötvenes Évekbe Túra__Futás: Augusztus 16-tól augusztus 31-ig. Ez a túra visszarepíti önt az időben San Francisco egyik legfantasztikusabb időszakába, az 1950-es évekbe! Élvezze a vidám történelmet, miközben San Franciscón keresztülhalad és ingyen fagylaltot kóstolhat. Indulás a Cannery-től: 17:00 és 19:00. Időtartam: 2 óra. Ár: 90 dollár __Kísérteties Halloween Túra__Futás: Október 10-től október 31-ig. Csatlakozzon hozzánk egy utazásra a történelmi Presidio negyeden keresztül. Valódi tűzoltó felszerelést biztosítunk a melegedéshez, miközben szórakoztatóink San Francisco legizgalmasabb részeire viszik el. Indulás a Cannery-től: 18:30 és 20:30. Időtartam: 1 óra és 30 perc. Ár: Kérésre elérhető __Ünnepi Fények Túra__Futás: December 6-tól december 23-ig. Ez a vonzó túra San Francisco legvidámabb ünnepi jeleneteihez vezet el. Valódi tűzoltó felszerelést biztosítunk a melegedéshez, miközben ünnepi hangulatba kerül. Indulás a Cannery-től: 19:00 és 21:00. Időtartam: 1 óra és 30 perc. Előzetes foglalás szükséges.",
+        "question": "Mit tehetnek a turisták a Vissza az Ötvenes Évekbe Túrákon?",
+        "options": [
+            "(A) Elmennek a Kincses-szigetre.",
+            "(B) Élvezik az ünnepi jeleneteket.",
+            "(C) Ingyen fagylaltot kapnak.",
+            "(D) Látogatást tesznek a Presidio negyedben."
+        ],
+        "label": "C",
+        "ind": 0
+    },
+    {
+        "passage": "San Francisco Tűzoltóautó Túrák — San Francisco Borászat Túra — Időtartam: február 1-től április 30-ig. Ez az ínycsiklandó túra a városon keresztül vezet a Treasure Island felé, ahol megállunk a híres Winery SF-nél. Itt megkóstolhatja San Francisco legjobb borainak négy pohárnyi kóstolóját. (A jegyár tartalmazza.) Indulás a Cannery-től: túraidőpontok kérésre. Időtartam: 2 óra. Ár: 90 dollár. — Vissza az ötvenes évekbe Túra — Időtartam: augusztus 16-tól augusztus 31-ig. Ez a túra visszarepít az időben San Francisco egyik legfantasztikusabb korszakába, az 1950-es évekbe! Élvezze a szórakoztató történelmet, miközben San Francisco-n keresztül vezetjük egy ingyenes fagylaltkóstolóval. Indulás a Cannery-től: 17:00 és 19:00. Időtartam: 2 óra. Ár: 90 dollár. — Kísérteties Halloween Túra — Időtartam: október 10-től október 31-ig. Csatlakozzon hozzánk egy utazásra a történelmi Presidio kerületben. Autentikus tűzoltó felszerelést biztosítunk a melegedéshez, miközben szórakoztatóink San Francisco legizgalmasabb részeire kalauzolják el Önt. Indulás a Cannery-től: 18:30 és 20:30. Időtartam: 1 óra 30 perc. Ár: kérésre elérhető. — Ünnepi Fények Túra — Időtartam: december 6-tól december 23-ig. Ez a vonzó túra San Francisco legvidámabb ünnepi helyszíneire viszi el Önt. Autentikus tűzoltó felszerelést biztosítunk a melegedéshez, miközben átélheti az ünnepi hangulatot. Indulás a Cannery-től: 19:00 és 21:00. Időtartam: 1 óra 30 perc. Előzetes foglalások szükségesek.",
+        "question": "Mit kell tenniük a turistáknak, hogy részt vehessenek az Ünnepi Fények Túráján?",
+        "options": [
+            "(A) Vegyenek néhány italt.",
+            "(B) Induljanak korán reggel.",
+            "(C) Viseljenek meleg ruhát.",
+            "(D) Foglaljanak előre."
+        ],
+        "label": "D",
+        "ind": 1
+    },
+    {
+        "passage": "Percekkel azután, hogy tegnap véget ért az utolsó film a Plaza Színházban, az alkalmazottak serényen söpörték fel a pattogatott kukoricát és gyűjtötték össze a kólás poharakat. Ez egy olyan jelenet volt, amely sokszor megismétlődött a színház 75 éves története során. Ezúttal azonban a takarítás kicsit más volt. Miközben az egyik munkáscsoport kivitte a szemetet, egy másik csoport elkezdte eltávolítani az üléseket és más színházi felszereléseket az épület bezárására való felkészülés jegyében. A filmklasszikus *Az utolsó mozielőadás* volt az utolsó film, amelyet a régi színházban vetítettek. Bár a film 30 éves, a 250 ülőhely nagy része tele volt könnyes szemű közönséggel, akik el akartak búcsúzni a régi épülettől. Ed Bradford színháztulajdonos azt mondta, hogy azért választotta ezt a filmet, mert megfelelőnek tűnt. A film egy kisvárosban játszódik, ahol az egyetlen mozi készül bezárni. Bradford szerint a városi nagy modern mozik lehetetlenné tették a Plaza számára, hogy versenyezzen. Hozzátette, hogy a színház elhelyezkedése is egy ok volt. \"Ez valaha a város központja volt,\" mondta. \"Most az terület leginkább irodaházakból és raktárakból áll.\" Múlt héten néhány városi tisztviselő azt javasolta, hogy a város érdeklődhetne a régi színház múzeummá és nyilvános találkozóhellyé alakítása iránt. Azonban ezek a tervek pénzügyi problémák miatt el lettek vetve. Bradford eladta az épületet és a földet egy helyi fejlesztő cégnek, amely bevásárlóközpontot tervez építeni a színház helyén. A színházi közönség elbúcsúzott, miközben Bradford utoljára zárta be az ajtókat. 75 év után a Plaza Színház bemutatta utolsó filmjét. A színház hiányozni fog.",
+        "question": "Milyen módon volt különleges a tegnapi takarítás a Plazában?",
+        "options": [
+            "['(A) Új berendezésnek csinált helyet.', '(B) A színház bezárását jelezte.', '(C) A közönség segítségével történt.', '(D) A színház 75. évfordulóját jelölte.']"
+        ],
+        "label": "B",
+        "ind": 2
+    },
+    {
+        "passage": "Percekkel azután, hogy tegnap véget ért az utolsó film a Plaza Színházban, a dolgozók serényen takarították a pattogatott kukoricát és gyűjtötték össze a kólás poharakat. Ez a jelenet már sokszor megismétlődött a színház 75 éves történetében. Ezúttal azonban a takarítás kicsit más volt. Miközben az egyik munkáscsoport kivitte a szemetet, egy másik csoport elkezdte eltávolítani az üléseket és más színházi felszereléseket, felkészülve az épület végére. A filmklasszikus *The Last Picture Show* volt az utolsó film, amelyet a régi színházban vetítettek. Bár a film 30 éves, a 250 hely többsége megtelt könnyes szemű közönséggel, akik el akartak búcsúzni a régi épülettől. A színház tulajdonosa, Ed Bradford azt mondta, hogy azért választotta ezt a filmet, mert megfelelőnek tűnt. A film egy kisvárosban játszódik, ahol az egyetlen mozi bezárásra készül. Bradford elmondta, hogy a város nagy, modern színházai miatt lehetetlenné vált a Plazának a verseny. Hozzátette, hogy a színház elhelyezkedése is egy ok volt. \"Ez régen a város központja volt,\" mondta. \"Most az area főként irodaházak és raktárak.\" Múlt héten néhány városi tisztviselő azt javasolta, hogy a város érdeklődhetne a régi színház múzeummá és közösségi találkozóhellyé alakítása iránt. Azonban ezek a tervek pénzügyi problémák miatt el lettek vetve. Bradford eladta az épületet és a földet egy helyi fejlesztési cégnek, amely bevásárlóközpontot tervez építeni a színház helyére. A színház közönsége búcsút intett, amikor Bradford utoljára bezárta az ajtókat. 75 év után a Plaza Színház levetítette az utolsó filmjét. A színház hiányozni fog.",
+        "question": "Miért vetítették a *The Last Picture Show*-t?",
+        "options": [
+            "(A) Ez egy örök klasszikus volt.     ",
+            "(B) A város történelméről szólt.     ",
+            "(C) A közönség kérte.     ",
+            "(D) A színház tulajdonosa megfelelőnek találta."
+        ],
+        "label": "D",
+        "ind": 3
+    },
+    {
+        "passage": "Percekkel azután, hogy tegnap véget ért az utolsó film a Plaza Színházban, az alkalmazottak már javában söpörték össze a pattogatott kukoricát és gyűjtötték össze a kólás poharakat. Ez egy olyan jelenet volt, amelyet a színház 75 éves története során sokszor megismételtek. Ezúttal azonban a takarítás kicsit más volt. Miközben az egyik munkáscsoport kivitte a szemetet, egy másik csoport elkezdte eltávolítani az üléseket és más színházi felszereléseket az épület bezárásának előkészítéseként. A filmes klasszikus *Az utolsó mozielőadás* volt az utolsó film, amit a régi színházban vetítettek. Bár a film már 30 éves, a 250 férőhely nagy részét könnyes szemű közönség töltötte meg, akik búcsút akartak mondani a régi épületnek. A színház tulajdonosa, Ed Bradford elmondta, hogy a filmet azért választotta, mert megfelelőnek tűnt. A film egy kisvárosban játszódik, ahol az egyetlen mozi készül bezárni. Bradford elmondta, hogy a város nagy, modern színházai miatt a Plaza nem tudott versenyezni. Hozzátette, hogy a színház elhelyezkedése is egy oka volt. „Ez régebben a városközpont volt” – mondta. „Mostanra a terület jórészt irodaházakból és raktárakból áll.” Múlt héten néhány városi tisztviselő javasolta, hogy a város talán érdeklődne az iránt, hogy a régi színházat múzeummá és közösségi találkozóhellyé alakítsák. Azonban ezeket a terveket pénzügyi problémák miatt elvetették. Bradford eladta az épületet és a földet egy helyi fejlesztési cégnek, amely bevásárlóközpontot tervez építeni a színház helyén. A színházi közönség búcsút mondott, miközben Bradford utoljára zárta be az ajtókat. 75 év után a Plaza Színház levetítette utolsó filmjét. A színház hiányozni fog.",
+        "question": "Mi fog valószínűleg történni az épülettel?",
+        "options": [
+            "['(A) Megjavítják.', '(B) Múzeummá alakítják.', '(C) Lebontják.', '(D) Eladják a városi önkormányzatnak.']"
+        ],
+        "label": "C",
+        "ind": 4
+    },
+    {
+        "passage": "Percekkel azután, hogy tegnap véget ért az utolsó film a Plaza Színházban, az alkalmazottak máris a pattogatott kukorica összesöprésével és a kólás poharak összegyűjtésével voltak elfoglalva. Ez egy olyan jelenet volt, amely a színház 75 éves történetében sokszor megismétlődött. Ezúttal azonban a takarítás kicsit más volt. Miközben az egyik munkáscsoport kivitte a szemetet, egy másik csoport elkezdte eltávolítani az üléseket és más színházi berendezéseket, előkészítve az épület végét. Az *Utolsó mozielőadás* című filmklasszikus volt az utolsó film, amelyet a régi színházban vetítettek. Bár a film 30 éves, a 250 ülőhely többségét könnyes szemű nézők töltötték meg, akik búcsút akartak mondani a régi épületnek. Ed Bradford színháztulajdonos szerint azért választotta ezt a filmet, mert megfelelőnek tűnt. A film egy kisvárosban játszódik, ahol az egyetlen mozi éppen bezárni készül. Bradford elmondta, hogy a város nagy modern színházai miatt a Plaza nem tudott versenyezni. Hozzátette, hogy a színház elhelyezkedése (位置) is egy ok volt. „Ez régen a város központja volt” – mondta. \"Mostanra a terület többnyire irodaházakból és raktárakból áll.\" Múlt héten néhány városi tisztviselő azt javasolta, hogy a város érdeklődhetne a régi színház múzeummá és nyilvános találkozóhellyé alakítása iránt. Azonban ezeket a terveket pénzügyi problémák miatt elvetették. Bradford eladta az épületet és a telket egy helyi fejlesztési cégnek, amely bevásárlóközpontot tervez építeni a színház helyére. A színházi közönség búcsút intett, miközben Bradford utoljára zárta be az ajtókat. 75 év után a Plaza Színház bemutatta utolsó filmjét. A színház hiányozni fog.",
+        "question": "Mit vonhatunk le a közönségről?",
+        "options": [
+            "(A) Csalódottak Bradfordban.",
+            "(B) Szomorúak, hogy el kell válniuk a régi színháztól.",
+            "(C) Támogatják a városi tisztviselőket.",
+            "(D) Alig várják, hogy bevásárlóközpont legyen."
+        ],
+        "label": "B",
+        "ind": 5
+    },
+    {
+        "passage": "Évekig tartó heves vita után a szürke farkasokat újra betelepítették a Yellowstone Nemzeti Parkba. Tizennégy farkast fogtak be Kanadában, és szállítottak a parkba. Tavalyra a Yellowstone-i farkas populáció több mint 170 egyedre nőtt. A szürke farkasok valaha itt-ott előfordultak a Yellowstone területén és az Egyesült Államok kontinentális részének nagy részén, de fokozatosan kiszorította őket az emberi fejlődés. Az 1920-as évekre a farkasok gyakorlatilag eltűntek a Yellowstone-i területről. Északabbra mentek Kanada sűrű erdeibe, ahol kevesebb ember volt körülöttük. A farkasok eltűnésének számos váratlan következménye volt. A szarvas és jávorszarvas populációk – a farkasok fő táplálékforrásai – gyorsan megnőttek. Ezek az állatok nagy mennyiségű növényzetet fogyasztottak el, ami csökkentette a növényi diverzitást a parkban. A farkasok hiányában a prérifarkas populációk is gyorsan növekedtek. A prérifarkasok megölték a park vörös rókáinak nagy részét, és teljesen elűzték a park hódjait. Már 1966-ban a biológusok arra kérték a kormányt, hogy fontolja meg a farkasok újratelepítését a Yellowstone Parkba. Remélték, hogy a farkasok képesek lesznek ellenőrzés alatt tartani a jávorszarvas és prérifarkas problémákat. Sok farmer ellenezte a tervet, mert attól tartottak, hogy a farkasok megölik haszonállataikat vagy házi kedvenceiket. A kormány közel 30 évet töltött azzal, hogy kidolgozzon egy tervet a farkasok újratelepítésére. Az amerikai Hal- és Vadvédelmi Szolgálat gondosan figyelemmel kíséri és irányítja a farkascsapatokat Yellowstone-ban. Ma is folytatódik a vita arról, hogy a szürke farkasok mennyire illeszkednek be Yellowstone-ban. A jávorszarvas, szarvas és prérifarkas populációk csökkentek, míg a hódok és vörös rókák visszatértek. A Yellowstone-i farkas projekt értékes kísérlet volt, hogy segítsen a biológusoknak eldönteni, újratelepítsenek-e farkasokat az ország más részeibe is.",
+        "question": "Miről szól elsősorban a szöveg?",
+        "options": [
+            "(A)Vadvilág-kutatás az Egyesült Államokban.",
+            "(B)Növényi diverzitás a Yellowstone területén.",
+            "(C)A farmerek és a szürke farkasok közötti konfliktus.",
+            "(D)A farkasok újratelepítése a Yellowstone Parkba."
+        ],
+        "label": "D",
+        "ind": 6
+    },
+    {
+        "passage": "Évekig tartó heves vita után a szürke farkasokat újra betelepítették a Yellowstone Nemzeti Parkba. Tizennégy farkast fogtak el Kanadában és szállítottak a parkba. Tavaly a Yellowstone-i farkaspopuláció már több mint 170 egyedre nőtt. A szürke farkasok valaha itt-ott előfordultak a Yellowstone területén és az Egyesült Államok szárazföldi részének nagy részén, de az emberi fejlődés fokozatosan kiszorította őket. Az 1920-as évekre a farkasok gyakorlatilag eltűntek a Yellowstone környékéről. Északabbra vonultak Kanada mély erdeibe, ahol kevesebb ember volt a közelben. A farkasok eltűnése számos váratlan következménnyel járt. A szarvas- és jávorszarvas-populációk – a farkas fő táplálékforrásai – gyorsan növekedtek. Ezek az állatok nagy mennyiségű növényzetet fogyasztottak, ami csökkentette a növényi sokféleséget a parkban. A farkasok hiányában a prérifarkas-populációk is gyorsan növekedtek. A prérifarkasok a park vörös rókáinak nagy százalékát megölték, és teljesen elüldözték a park hódjait. Már 1966-ban a biológusok arra kérték a kormányt, hogy vegye fontolóra a farkasok visszatelepítését a Yellowstone Parkba. Remélték, hogy a farkasok képesek lesznek megoldani a jávorszarvas- és prérifarkas-problémákat. Sok gazdálkodó ellenezte a tervet, mert attól tartottak, hogy a farkasok megölik háziállataikat vagy házi kedvenceiket. A kormánynak közel 30 évébe telt, hogy kidolgozzon egy tervet a farkasok visszatelepítésére. Az Egyesült Államok Hal- és Vadvédelmi Szolgálata gondosan ellenőrzi és irányítja a farkasfalkákat a Yellowstone-ban. Ma is folytatódik a vita arról, hogy a szürke farkas mennyire illeszkedik be a Yellowstone-ba. A jávorszarvas-, szarvas- és prérifarkas-populációk csökkentek, míg a hódok és vörös rókák visszatértek. A Yellowstone-i farkas projekt értékes kísérlet volt, amely segített a biológusoknak eldönteni, hogy érdemes-e farkasokat visszatelepíteni az ország más részeire is.",
+        "question": "Mit jelent a második bekezdésben aláhúzott „kiszorítva” szó?",
+        "options": [
+            "(A) Tesztelték.",
+            "(B) Elválasztották.",
+            "(C) Kiszorították.",
+            "(D) Felkutatták."
+        ],
+        "label": "C",
+        "ind": 7
+    },
+    {
+        "passage": "Évekig tartó heves vita után a szürke farkasokat újra betelepítették a Yellowstone Nemzeti Parkba. Tizennégy farkast fogtak be Kanadában és szállították a parkba. Tavaly a Yellowstone farkaspopulációja már több mint 170 farkasra nőtt. A szürke farkasokat egykor itt-ott lehetett látni a Yellowstone területén és az Egyesült Államok nagy részén, de fokozatosan kiszorította őket az emberi fejlődés. Az 1920-as évekre a farkasok gyakorlatilag eltűntek a Yellowstone területéről. Északabbra mentek a kanadai mély erdőkbe, ahol kevesebb ember volt körülöttük. A farkasok eltűnése számos váratlan eredményt hozott. A szarvas és jávorszarvas populációk – a farkas fő táplálékforrásai – gyorsan növekedtek. Ezek az állatok nagy mennyiségű növényzetet fogyasztottak, ami csökkentette a növényi sokféleséget a parkban. A farkasok hiányában a prérifarkas populációk is gyorsan növekedtek. A prérifarkasok a park vörös rókáinak nagy százalékát megölték, és teljesen elűzték a park hódjait. Már 1966-ban a biológusok arra kérték a kormányt, hogy fontolják meg a farkasok újbóli betelepítését a Yellowstone Parkba. Remélték, hogy a farkasok képesek lesznek kezelni a jávorszarvas és prérifarkas problémákat. Sok gazda ellenezte a tervet, mert attól tartottak, hogy a farkasok megölik haszonállataikat vagy kedvenceiket. A kormány közel 30 évet töltött azzal, hogy kidolgozzon egy tervet a farkasok újbóli betelepítésére. Az Egyesült Államok Hal- és Vadvédelmi Szolgálata gondosan ellenőrzi és kezeli a farkascsordákat a Yellowstone-ban. Ma is folytatódik a vita arról, hogy a szürke farkasok mennyire illeszkednek be a Yellowstone-ba. A jávorszarvas, szarvas és prérifarkas populációk lecsökkentek, míg a hódok és vörös rókák visszatértek. A Yellowstone farkas projekt értékes kísérlet volt, amely segített a biológusoknak eldönteni, hogy érdemes-e farkasokat újra betelepíteni az ország más részeibe is.",
+        "question": "Mit eredményezett a szürke farkasok eltűnése?",
+        "options": [
+            "(A) Károkat a helyi ökológiában.",
+            "(B) A park bevételeinek csökkenését.",
+            "(C) A növényzet megőrzését.",
+            "(D) Az állatfajták változatosságának növekedését."
+        ],
+        "label": "A",
+        "ind": 8
+    },
+    {
+        "passage": "Évekig tartó heves vita után a szürke farkasokat visszatelepítették a Yellowstone Nemzeti Parkba. Tizennégy farkast fogtak el Kanadában és szállítottak a parkba. Tavalyra a yellowstone-i farkaspopuláció több mint 170 egyedre nőtt. A szürke farkasok egykor itt-ott felbukkantak a Yellowstone területén és az Egyesült Államok kontinentális részének nagy részén, de fokozatosan kiszorította őket az emberi fejlődés. Az 1920-as évekre a farkasok gyakorlatilag eltűntek a Yellowstone környékéről. Északabbra húzódtak Kanada mély erdeibe, ahol kevesebb volt az ember. A farkasok eltűnésének számos váratlan következménye volt. A szarvas- és jávorszarvas-populációk - a farkasok fő táplálékforrásai - gyorsan növekedtek. Ezek az állatok nagy mennyiségű növényt fogyasztottak, ami csökkentette a növények sokféleségét a parkban. A farkasok hiányában a prérifarkas-populációk is gyorsan növekedtek. A prérifarkasok a park vörös rókáinak nagy százalékát megölték, és teljesen elűzték a park hódjait. Már 1966-ban biológusok kérték a kormányt, hogy fontolja meg a farkasok visszatelepítését a Yellowstone Parkba. Azt remélték, hogy a farkasok képesek lesznek ellenőrizni a jávorszarvas és prérifarkas problémákat. Sok gazda ellenezte a tervet, mert attól tartottak, hogy a farkasok megölnék háziállataikat vagy kedvenceiket. A kormány közel 30 évet töltött azzal, hogy kidolgozzon egy tervet a farkasok visszatelepítésére. Az Egyesült Államok Hal- és Vadvilág Szolgálata gondosan figyelemmel kíséri és kezeli a farkasfalkákat a Yellowstone-ban. Ma is folytatódik a vita arról, hogy a szürke farkas mennyire illeszkedik be a Yellowstone-ban. A jávorszarvas, szarvas és prérifarkas populációk csökkentek, míg a hódok és vörös rókák újra megjelentek. A Yellowstone farkas projekt értékes kísérlet volt, hogy segítse a biológusokat eldönteni, érdemes-e farkasokat visszatelepíteni az ország más részeire is.",
+        "question": "Mi a szerző hozzáállása a Yellowstone farkas projekthez?",
+        "options": [
+            "(A) Kételkedő.       ",
+            "(B) Pozitív.      ",
+            "(C) Helytelenítő.      ",
+            "(D) Közömbös."
+        ],
+        "label": "B",
+        "ind": 9
+    },
+    {
+        "passage": "A Newcastle University Intelligens Közlekedési csapata egy elektromos autót mobil laboratóriummá alakított át, amit \"DriveLAB\"-nek neveztek el, hogy jobban megértsék az idősebb sofőrök által tapasztalt kihívásokat, és felfedezzék, hol vannak a fő stresszpontok. A kutatások azt mutatják, hogy a vezetés feladása az egyik kulcsfontosságú oka az idősebb emberek egészségi állapotának és jólétének romlásának, ami elszigeteltséghez és passzivitáshoz vezet. Phil Blythe professzor vezetésével a Newcastle-i csapat olyan járműtechnológiákat fejleszt az idősebb sofőrök számára, amelyek remélhetőleg segítenek nekik tovább vezetni az idősebb korban. Ezek közé tartoznak az egyedi navigációs eszközök, az éjjellátó rendszerek és az intelligens sebességadaptációk. Phil Blythe elmagyarázza: „Sok idősebb ember számára, különösen azoknak, akik egyedül vagy vidéken élnek, a vezetés fontos a függetlenségük megőrzése érdekében, lehetővé téve számukra, hogy szabadon közlekedjenek anélkül, hogy másokra támaszkodnának.” „De mindannyiunknak el kell fogadnia, hogy ahogy öregszünk, a reakcióink lassulnak, és ez gyakran vezet ahhoz, hogy az emberek elkerülik a potenciálisan kihívást jelentő vezetési körülményeket, és elveszítik a bizalmukat a vezetési képességeikben. Az eredmény az, hogy az emberek abbahagyják a vezetést, mielőtt valóban szükségük lenne rá.” Dr. Amy Guo, az idősebb sofőrökkel kapcsolatos tanulmány vezető kutatója, elmagyarázza: „A DriveLAB segít megérteni, mik a kulcspontok és nehézségek az idősebb sofőrök számára, és hogyan tudnánk technológiával megoldani ezeket a problémákat.” „Például, a legtöbben azt várnánk, hogy az idősebb sofőrök mindig lassabban mennek, mint mások, de meglepő módon azt találtuk, hogy a 30 mérföld/órás zónákban nehezen tartják az állandó sebességet, így nagyobb valószínűséggel lépik túl a sebességhatárt, és kockázatot jelent, hogy megbüntetik őket. Vizsgáljuk az olyan rendszerek előnyeit, amelyek szabályozzák a sebességüket, hogy ezt megelőzzük.” „Reméljük, hogy munkánk technológiai megoldásokkal segít biztosítani, hogy az idősebb sofőrök biztonságban maradjanak a volán mögött.”",
+        "question": "Mi a DriveLAB célja?",
+        "options": [
+            "(A) Új közlekedési eszközök felfedezése. ",
+            "(B) Új típusú autók tervezése. ",
+            "(C) Az idősebb sofőrök problémáinak feltárása. ",
+            "(D) Az emberek közlekedési szabályok tanítása."
+        ],
+        "label": "C",
+        "ind": 10
+    },
+    {
+        "passage": "A Newcastle-i Egyetem Intelligens Közlekedési csapata egy elektromos autót egy mozgó laboratóriummá alakított \"DriveLAB\" néven, hogy megértse az idősebb sofőrök által szembesített kihívásokat, és felfedezze, hol vannak a fő stresszpontok. Kutatások kimutatták, hogy a vezetés feladása az egyik kulcsfontosságú oka az idősebb emberek egészségi állapotának és jólétének romlásának, ami elszigetelődéshez és inaktivitáshoz vezet. Phil Blythe professzor vezetésével a Newcastle-i csapat járműbe épített technológiákat fejleszt az idősebb sofőrök számára, amelyek reményeik szerint segíthetnek nekik folytatni a vezetést idősebb korban is. Ezek közé tartoznak az egyedi navigációs eszközök, éjjellátó rendszerek és intelligens sebességadaptációk. Phil Blythe elmagyarázza: \"Sok idősebb ember számára, különösen azok számára, akik egyedül vagy vidéken élnek, a vezetés fontos a függetlenségük megőrzéséhez, szabadságot adva számukra, hogy kimozduljanak anélkül, hogy másokra kellene támaszkodniuk.\" \"De mindannyiunknak el kell fogadnunk, hogy ahogy öregszünk, a reakcióink lassulnak, és ez gyakran azt eredményezi, hogy az emberek elkerülnek minden potenciálisan kihívást jelentő vezetési körülményt, és elveszítik önbizalmukat a vezetési képességeikben. Ennek eredményeként az emberek abbahagyják a vezetést, mielőtt valóban szükségük lenne rá.\" Dr. Amy Guo, az idősebb sofőrök tanulmányának vezető kutatója elmagyarázza: \"A DriveLAB segít megérteni, hogy mik a kulcsfontosságú pontok és nehézségek az idősebb sofőrök számára, és hogyan használhatnánk a technológiát ezeknek a problémáknak a megoldására.\" \"Például, legtöbbünk azt várná, hogy az idősebb sofőrök mindig lassabban mennek, mint bárki más, de meglepő módon azt találtuk, hogy a 30 mérföld/órás zónákban nehezen tartják az állandó sebességet, és így nagyobb valószínűséggel lépik túl a sebességhatárt, ami bírságolási kockázatot jelent. Vizsgáljuk azoknak a rendszereknek az előnyeit, amelyek a sebességüket szabályozzák, mint ennek megelőzésének módját.\" \"Reméljük, hogy munkánk technológiai megoldásokkal segíthet abban, hogy az idősebb sofőrök biztonságosabbak maradjanak a volán mögött.\"",
+        "question": "Miért fontos a vezetés az idősebb emberek számára Phil Blythe szerint?",
+        "options": [
+            "(A) Megőrzi függetlenségüket.  ",
+            "(B) Segít időt megtakarítani.  ",
+            "(C) Erősíti őket.  ",
+            "(D) Gyógyítja mentális betegségeiket."
+        ],
+        "label": "A",
+        "ind": 11
+    },
+    {
+        "passage": "A Newcastle Egyetem Intelligens Közlekedési csapata egy elektromos autót mobil laboratóriummá alakított át, amelyet „DriveLAB”-nak neveztek el, hogy megértsék az idősebb sofőrök által tapasztalt kihívásokat, és felfedezzék, hol vannak a legnagyobb stresszpontok. A kutatások azt mutatják, hogy a vezetés feladása az egyik fő oka az idősebb emberek egészségi állapotának és jólétének csökkenésének, ami ahhoz vezet, hogy elszigetelődnek és inaktívvá válnak. Phil Blythe professzor vezetésével a Newcastle-i csapat olyan járműbe épített technológiákat fejleszt az idősebb sofőrök számára, amelyek reményeik szerint segíthetnek nekik abban, hogy életük későbbi szakaszaiban is folytathassák a vezetést. Ezek közé tartoznak a személyre szabott navigációs eszközök, éjjellátó rendszerek és intelligens sebességszabályozás. Phil Blythe elmagyarázza: „Sok idősebb ember számára, különösen azok számára, akik egyedül vagy vidéken élnek, a vezetés fontos az önállóságuk megőrzése érdekében, szabadságot adva nekik, hogy kijussanak és mozogjanak anélkül, hogy másokra támaszkodnának.” „De mindannyiunknak el kell fogadnunk, hogy ahogy öregszünk, reakcióink lelassulnak, és ez gyakran ahhoz vezet, hogy az emberek elkerülik a potenciálisan kihívást jelentő vezetési körülményeket, és elveszítik az önbizalmukat vezetési képességeikben. Az eredmény az, hogy az emberek abbahagyják a vezetést, mielőtt valóban szükségük lenne rá.” Dr. Amy Guo, az idősebb sofőrökkel foglalkozó tanulmány vezető kutatója elmagyarázza: „A DriveLAB segít megérteni, mik a kulcspontok és nehézségek az idősebb sofőrök számára, és hogyan használhatjuk a technológiát ezeknek a problémáknak a megoldására.” „Például, legtöbbünk azt várná, hogy az idősebb sofőrök mindig lassabban mennek, mint mindenki más, de meglepő módon azt találtuk, hogy a 30 mph zónákban nehezen tudták tartani a sebességet, és így nagyobb valószínűséggel lépték túl a sebességhatárt, ami bírsághoz vezethetett. Azt vizsgáljuk, hogy a sebességüket szabályozó rendszerek milyen előnyökkel járnának ennek megelőzésére.” „Reméljük, hogy munkánk technológiai megoldásokkal segít abban, hogy az idősebb sofőrök biztonságosabbak maradjanak a volán mögött.”",
+        "question": "Mit remélnek a kutatók az idősebb sofőrök számára?",
+        "options": [
+            "(A) Javítják a vezetési képességeiket.",
+            "(B) Fejlesztik a vezetést segítő technológiákat.",
+            "(C) Tippeket adnak az autók javításához.",
+            "(D) Rendszeres egészségügyi ellenőrzéseket szerveznek."
+        ],
+        "label": "B",
+        "ind": 12
+    },
+    {
+        "passage": "A Newcastle University Intelligens Közlekedési csapata egy elektromos autót egy mobil laboratóriummá alakított „DriveLAB” néven, hogy megértsék az idősebb vezetők által szembesített kihívásokat, és felfedezzék, hol vannak a fő stresszpontosok. A kutatások azt mutatják, hogy a vezetés feladása az egyik kulcsfontosságú oka az idősebb emberek egészségének és jólétének csökkenésének, ami elszigetelődésükhöz és inaktivitásukhoz vezet. A Phil Blythe professzor által vezetett Newcastle-i csapat járműbe épített technológiákat fejleszt az idősebb vezetők számára, amelyek reményeik szerint segíthetnek nekik abban, hogy az élet későbbi szakaszában is vezethessenek. Ezek közé tartoznak az egyedi navigációs eszközök, az éjjellátó rendszerek és az intelligens sebességmódosítások. Phil Blythe elmagyarázza: „Sok idősebb ember számára, különösen azoknak, akik egyedül élnek vagy vidéken, a vezetés fontos a függetlenségük megőrzése szempontjából, lehetőséget adva nekik arra, hogy szabadon közlekedjenek anélkül, hogy másokra kellene támaszkodniuk.” „De mindannyiunknak el kell fogadnunk, hogy ahogy idősebbé válunk, reakcióink lelassulnak, és ez gyakran azt eredményezi, hogy elkerüljük a potenciálisan kihívást jelentő vezetési körülményeket, és elveszítjük önbizalmunkat a vezetési képességeinkben. Az eredmény az, hogy az emberek abbahagyják a vezetést, mielőtt valóban szükségük lenne rá.” Dr. Amy Guo, az idősebb vezetőket vizsgáló tanulmány vezető kutatója, elmagyarázza: „A DriveLAB segít megérteni, hogy mik a kulcspontok és nehézségek az idősebb vezetők számára, és hogyan használhatjuk a technológiát ezeknek a problémáknak a megoldására.” „Például, a legtöbben elvárnánk, hogy az idősebb vezetők mindig lassabban mennek, mint mindenki más, de meglepően azt találtuk, hogy a 30 mérföld/órás zónákban nehezen tudták tartani az állandó sebességet, és így nagyobb valószínűséggel lépték túl a sebességhatárt, ami bírság kockázatával járt. Vizsgáljuk azokat a rendszereket, amelyek sebességtartásukat szabályozzák, mint a megelőzés eszközét.” „Reméljük, hogy munkánk technológiai megoldásokkal segít biztosítani, hogy az idősebb vezetők biztonságosabbak maradjanak a volán mögött.”",
+        "question": "Mi a legjobb cím a szöveghez?",
+        "options": [
+            "['(A) Egy új elektromos autó modell', '(B) Megoldás a közlekedési problémákra', '(C) Vezetési szolgáltatások időseknek', '(D) Az idősebb vezetők úton tartása']"
+        ],
+        "label": "D",
+        "ind": 13
+    },
+    {
+        "passage": "__Passage 1__Az információs sztráda az az út, amely összeköti a számítógép-felhasználókat számos online szolgáltatással; a web, az e-mail és a szoftverek, hogy csak néhányat említsünk. Nem is olyan régen, az információs sztráda egy új út volt, kevés felhasználóval. Most úgy tűnik, hogy mindenki vezetni akar, világszerte több mint 30 millió család csatlakozott. Nem meglepő, hogy ez a jól bejárt sztráda kezd hasonlítani egy forgalmas útra. A forgalmi dugók számos súlyos problémát okozhatnak, ami miatt a rendszert javításra le kell zárni. Természetesen balesetek is előfordulhatnak egy ilyen zsúfolt úton, és az áldozatok általában néhány fájl, amelyek örökre eltűnnek. És persze ott van Mr. Cool, az új szélessávú kapcsolatával, aki gyorsabban hajt le a sztrádán, mint ahogy mi legtöbben tudunk haladni. De ne áltasd magad; ő megfizeti ennek az árát.__Passage 2__Szeretnél többet megtudni a globális felmelegedésről, és arról, hogyan segíthetsz megelőzni? Dr. Herman Friedman, akit a téma egyik vezető szakértőjének tartanak, a következő pénteken a Grayson Hallban tart előadást. Friedman három világhírű egyetemen tanult környezettudományt, mielőtt professzor lett volna a témában. Világszerte utazott, hogy megfigyelje a környezeti problémákat. A Nagy-korallzátony fokozatos kifehéredése, amely 2002-ben került a nyilvánosság figyelmébe, a legújabb érdeklődési területe. Színes könyvének aláírt példányai, amelyet csak a múlt hónapban adtak ki, az előadása után megvásárolhatók lesznek.",
+        "question": "56．Az információs sztráda ________.",
+        "options": [
+            "['(A) mentes a közlekedési balesetektől', '(B) tele van autóvezetőkkel', '(C) csak néhány online szolgáltatást kínál', '(D) sok felhasználó számára vonzó']"
+        ],
+        "label": "D",
+        "ind": 14
+    },
+    {
+        "passage": "__Szöveg 1__ Az információs sztráda az az út, amely a számítógép-felhasználókat számos online szolgáltatáshoz kapcsolja: a webhez, az e-mailhez és a szoftverekhez, hogy csak néhányat említsünk. Nem is olyan régen az információs sztráda még új út volt, nem sok felhasználóval. Most úgy tűnik, mindenki szeretne egy próbakört tenni, több mint 30 millió család kapcsolódik világszerte. Nem meglepő módon, ez a gyakran használt sztráda kezd úgy kinézni, mint egy jól utazott autópálya. A forgalmi dugók sok komoly problémát okozhatnak, és a rendszert javítás céljából le kell állítani. Természetesen, ilyen zsúfolt úton balesetek is előfordulhatnak, és az áldozatok általában néhány fájl, amelyek örökre elvesznek. Aztán, persze, ott van Mr. Cool az új szélessávú kapcsolatával, aki gyorsabban száguld le az autópályán, mint ahogy mi legtöbben tudnánk. De ne áltasd magad; ő megfizeti az árát ennek a gyorshajtásnak. __Szöveg 2__ Szeretnél többet megtudni a globális felmelegedésről és arról, hogyan segíthetsz annak megelőzésében? Dr. Herman Friedman, akit a téma egyik vezető szakértőjének tartanak, a jövő pénteken a Grayson Hallban fog beszélni. Friedman a környezettudományt három ismert egyetemen tanulta a világ különböző részein, mielőtt a tantárgy professzora lett. Emellett beutazta a világot, hogy megfigyelje a környezeti problémákat. A Nagy-korallzátony fokozatos fehéredése, amely 2002-ben került a nyilvánosság elé, a legújabb érdeklődési köre. Az előadása után dedikált példányok kaphatók lesznek színes könyvéből, amelyet épp a múlt hónapban adtak ki.",
+        "question": "57. Hogyan képes Mr. Cool ilyen gyorsan közlekedni az információs sztrádán?",
+        "options": [
+            "['(A) Kevesebb fájl tárolásával.', '(B) A rendszer javításával.', '(C) Egy jobb számítógép vásárlásával.', '(D) Szélessávú kapcsolat használatával.']"
+        ],
+        "label": "D",
+        "ind": 15
+    },
+    {
+        "passage": "__Passage 1__ Az Információs Sztráda az az út, amely összeköti a számítógép-használókat számos online szolgáltatással; a Web, e-mail és szoftverek, hogy csak néhányat említsünk. Nem is olyan régen az Információs Sztráda egy új út volt, nem sok felhasználóval. Most úgy tűnik, mindenki akar egy utat tenni, több mint 30 millió család csatlakozott világszerte. Nem meglepő, hogy ez a jól bejárt út kezd úgy kinézni, mint egy forgalmas autópálya. A forgalmi dugók számos komoly problémát okozhatnak, arra kényszerítve a rendszert, hogy lezárjon javítás miatt. Természetesen balesetek is történnek egy ilyen zsúfolt úton, és általában az áldozatok néhány fájlok, amelyek örökre eltűnnek. Aztán ott van persze Mr. Cool, az új szélessávú kapcsolatával, aki gyorsabban száguld az úton, mint ahogy a legtöbben tudunk. De ne áltasd magad; ő fizet azért a sebességért. __Passage 2__ Szeretnél többet tudni a globális felmelegedésről és arról, hogyan segíthetsz megelőzni azt? Dr. Herman Friedman, akit a téma egyik vezető szakértőjének tartanak, a jövő pénteken fog előadást tartani a Grayson Hallban. Friedman három neves egyetemen tanult környezettudományt a világ különböző részein, mielőtt professzor lett a témában. Világszerte utazott, hogy megfigyelje a környezeti problémákat. A Nagy-korallzátony fokozatos fehéredése, amely 2002-ben került a köztudatba, a legújabb érdeklődési köre. Színes könyvének dedikált példányai, amelyet éppen a múlt hónapban adtak ki, megvásárolhatók lesznek az előadása után.",
+        "question": "58. Mit lehet megtudni a 2. szövegből?",
+        "options": [
+            "['(A) Könyvbemutató lesz a Grayson Hallban', '(B) Friedman jelenleg a Nagy-korallzátonyt tanulmányozza.', '(C) A globális felmelegedésről szóló előadás lesz ezen a héten.', '(D) Friedman a számítástechnika vezető szakértője.']"
+        ],
+        "label": "B",
+        "ind": 16
+    },
+    {
+        "passage": "__1. Szöveg__ Az Információs Autópálya az az út, amely a számítógép-felhasználókat számos online szolgáltatáshoz köti; például a webhez, az e-mailhez és a szoftverekhez. Nem is olyan régen az Információs Autópálya egy új út volt, kevés felhasználóval. Most úgy tűnik, mindenki szeretne egy kört tenni rajta, világszerte több mint 30 millió család csatlakozott hozzá. Nem meglepő, hogy ez a sokat járt autópálya kezd úgy kinézni, mint egy sokat járt autópálya. A forgalmi dugók számos komoly problémát okozhatnak, kényszerítve a rendszert a javítás miatti leállásra. Természetesen ezen a zsúfolt úton balesetek is előfordulhatnak, és az áldozatok általában néhány fájl, amelyek örökre eltűnnek. Aztán persze ott van Mr. Cool, az új szélessávú kapcsolatával, aki gyorsabban száguld az autópályán, mint ahogyan a legtöbben tudnánk. De ne áltasd magad; ő fizet ezért a gyorsaságért. __2. Szöveg__ Szeretnél többet megtudni a globális felmelegedésről és arról, hogyan segíthetsz annak megelőzésében? Dr. Herman Friedman, aki a téma vezető szakértőjének számít, a következő pénteken Grayson Hallban fog előadást tartani. Friedman három világhírű egyetemen tanult környezettudományokat, mielőtt a témában professzor lett. Emellett a világot bejárva figyelte a környezeti aggodalmakat. A Nagy-korallzátony fokozatos fehéredése, amely 2002-ben került a közvélemény figyelmébe, a legújabb érdeklődése. Színes könyvének dedikált példányai, amelyet csak múlt hónapban adtak ki, az előadása után megvásárolhatók lesznek.",
+        "question": "59. A 2. szöveg valószínűleg     .",
+        "options": [
+            "['(A)egy előadásról szóló poszter', '(B)egy új könyv hirdetése', '(C)egy egyetemi doktornak írt jegyzet', '(D)egy professzor bemutatása']"
+        ],
+        "label": "A",
+        "ind": 17
+    },
+    {
+        "passage": "Gondolj a különböző módokra, ahogy az emberek használják a szelet. Lehet vele papírsárkányt reptetni vagy vitorlás hajót irányítani. A szél az egyik legtisztább és leggazdagabb energiaforrásunk, valamint az egyik legrégebbi is. Bizonyítékok mutatják, hogy a szélmalmokat már az ókori Iránban is használták a Kr.e. 7. században. Először a 1100-as években vezették be Európába, amikor a Közel-Keletről visszatérő hadseregek tudásukkal hozták el a szélenergia hasznosítását. Sok évszázadon át az emberek szélmalmokat használtak a búza lisztté őrlésére vagy a mélyen a föld alól történő vízszivattyúzásra. Amikor az elektromosságot felfedezték az 1800-as évek végén, a távoli területeken élők elkezdték használni azokat áramtermelésre. Ez lehetővé tette számukra, hogy elektromos világítást és rádiót használjanak. Azonban az 1940-es évekre, amikor az Egyesült Államok szinte minden területén elérhetővé vált az elektromosság, a szélmalmokat ritkán használták. Az 1970-es években az emberek aggódni kezdtek a szén és a gáz égetése során keletkező szennyezés miatt, hogy elektromosságot termeljenek. Ráadásul az emberek rájöttek, hogy a szén és a gáz készlete nem tart örökké. Ekkor fedezték fel újra a szelet, bár ez magasabb költségekkel jár. Ma világméretű mozgalom van arra, hogy egyre több elektromosságot a szélenergia felhasználásával állítsanak elő.",
+        "question": "60. A szöveg alapján tudjuk, hogy a szélmalmok ________.",
+        "options": [
+            "(A) európai hadseregek találták fel",
+            "(B) több mint 2800 éves múltra tekintenek vissza",
+            "(C) áramot szolgáltattak rádióhoz távoli területeken",
+            "(D) ritkán használták őket az elektromosság felfedezése óta"
+        ],
+        "label": "C",
+        "ind": 18
+    },
+    {
+        "passage": "Gondolj azokra a különböző módokra, ahogy az emberek a szelet használják. Használhatod sárkányeregetésre vagy vitorlázásra. A szél az egyik legtisztább és leggazdagabb energiaforrásunk, valamint az egyik legrégebbi. Bizonyítékok mutatják, hogy a szélmalmokat már az ókori Iránban is használták a Kr. e. 7. században. Először a 1100-as években kerültek be Európába, amikor a hadseregek visszatértek a Közel-Keletről a szélenergia felhasználásának ismeretével. Sok évszázadon keresztül az emberek szélmalmokat használtak búza őrlésére lisztté vagy víz szivattyúzására mélyről, amikor a villamos energia az 1800-as évek végén felfedezésre került. Azok az emberek, akik távoli területeken éltek, elkezdték használni őket áramtermelésre. Ez lehetővé tette számukra, hogy elektromos világítással és rádióval rendelkezzenek. Azonban az 1940-es évekre, amikor szinte az Egyesült Államok minden területén elérhetővé vált az elektromosság, a szélmalmok ritkán voltak használatban. Az 1970-es években az emberek kezdtek aggódni a szén és gáz elégetésével előállított elektromosság okozta szennyezés miatt. Az emberek azt is felismerték, hogy a szén és a gáz készletei nem tartanak örökké. Ezután a szelet újra felfedezték, bár ez magasabb költségeket jelentett. Ma világszerte egyre nagyobb mozgalom van arra, hogy egyre több elektromosságunkat a szélenergia felhasználásával biztosítsuk.",
+        "question": "61. Mi volt a szélenergia új felhasználási módja a 19. század végén?",
+        "options": [
+            "(A) Hajóvitorlázás.",
+            "(B) Villamosenergia-termelés.",
+            "(C) Búza őrlése lisztté.",
+            "(D) Víz kiszivattyúzása a föld alól."
+        ],
+        "label": "B",
+        "ind": 19
+    },
+    {
+        "passage": "Gondolj azokra a különböző módokra, ahogyan az emberek használják a szelet. Használhatod sárkányeregetéshez vagy hajóvitorlázáshoz. A szél az egyik legtisztább és leggazdagabb energiaforrásunk, valamint az egyik legrégebbi is. Bizonyítékok mutatják, hogy a szélmalmokat az ókori Iránban kezdték el használni már a Kr. e. hetedik században. Európába először az 1100-as években vezették be, amikor a Közel-Keletről visszatérő seregek hoztak tudást a szélenergia használatáról. Sok évszázadon keresztül az emberek szélmalmokat használtak a búza lisztté őrlésére vagy a víz mélyen a föld alól történő kiszivattyúzására. Amikor az 1800-as évek végén felfedezték az elektromosságot, a távoli területeken élők kezdték el használni azokat elektromosság előállítására. Ez lehetővé tette számukra, hogy elektromos világítást és rádiót használjanak. Azonban az 1940-es évekre, amikor az elektromosság szinte minden területen elérhetővé vált az Egyesült Államokban, a szélmalmokat ritkán használták. Az 1970-es években az emberek elkezdtek aggódni a szén és gáz elégetésekor keletkezett szennyezés miatt, amely az elektromosság előállításához szükséges. Az emberek azt is felismerték, hogy a szén és gáz készletek nem tartanak örökké. Ekkor fedezték fel újra a szelet, bár ez magasabb költségeket jelentett. Ma világszerte mozgalom van arra, hogy egyre több elektromosságot biztosítsunk a szélenergia használatával.",
+        "question": "62. Az egyik ok, amiért a szelet az 1970-es években újra felfedezték, az az, hogy _______.",
+        "options": [
+            "(A) a szélenergia tisztább",
+            "(B) ez az egyik legrégebbi energiaforrás",
+            "(C) olcsóbb volt energiát létrehozni a szélből",
+            "(D) a szén és gáz készletek nem tudták kielégíteni az igényeket"
+        ],
+        "label": "A",
+        "ind": 20
+    },
+    {
+        "passage": "Gondolj azokra a különböző módokra, ahogyan az emberek használják a szelet. Felhasználhatod arra, hogy sárkányt eregess, vagy hajót vitorlázz. A szél az egyik legtisztább és leggazdagabb energiaforrásunk, valamint az egyik legrégebbi. Bizonyítékok mutatják, hogy szélmalmokat már az ókori Iránban is használtak időszámításunk előtt a hetedik században. Európába először az 1100-as években vezették be, amikor a Közel-Keletről visszatérő seregek hozták magukkal a szélenergia használatának tudását. Számos évszázadon keresztül az emberek szélmalmokat használtak a búza lisztté őrlésére vagy a mélyről való vízszivattyúzásra, amikor az 1800-as évek végén felfedezték az elektromosságot, a távoli vidékeken élők elkezdték használni azokat elektromosság termelésére. Ez lehetővé tette számukra, hogy elektromos világítást és rádiót használjanak. Azonban az 1940-es évekre, amikor szinte az Egyesült Államok minden területén elérhetővé vált az elektromosság, a szélmalmokat ritkán használták. Az 1970-es évek során az emberek elkezdtek aggódni a szén és gáz égetésével történő elektromosságtermelés által okozott szennyezés miatt. Az emberek azt is felismerték, hogy a szén és gáz készlete nem tart örökké. Ekkor újra felfedezték a szelet, bár ez magasabb költségeket jelentett. Ma globális mozgalom van arra, hogy egyre több elektromosságunkat a szél használatával biztosítsuk.",
+        "question": "63. Mit valószínűleg tárgyalna a szerző a következő bekezdésben?",
+        "options": [
+            "(A) A szélenergia előnyei.",
+            "(B) A szélenergia-erőművek tervezése.",
+            "(C) A világszintű energia-megtakarítási mozgalom.",
+            "(D) A globális trend a szélből történő energiaelőállítás felé."
+        ],
+        "label": "D",
+        "ind": 21
+    },
+    {
+        "passage": "Ők azok a barátok, akik annyira közel állnak egymáshoz, hogy életüket is rábízzák a másikra. Ha az egyik elesik, a másik ott van, hogy elkapja. Ők Wellman, akinek a lábai kilenc évvel ezelőtt egy sziklamászó balesetben maradandóan megsérültek, és Corbett, egy tapasztalt sziklamászó. Együtt másztak fel a Yosemite Nemzeti Park híres 2,000 láb magas sziklájára, a Half Dome-ra, az egyik legnehezebb útvonalon keresztül. A mászás során Corbett vezette a csapatot, beütötte a fém tüskéket, amelyek vezették a köteleket, és felmászott. Ezután, miután Wellman felhúzta magát a kötélen, Corbett visszament, hogy eltávolítsa a tüskéket, majd ismét felmászott. Ez a folyamat újra és újra megismétlődött, centiméterről centiméterre, 13 napon keresztül. Wellman munkája sem volt könnyű. Csupán a felsőtestének erejével húzta fel magát a kötélen. Összességében Wellman úgy számolta, hogy 5,000 húzódzkodást végzett a mászás során. Azonban amikor a két férfi először találkozott, sosem beszéltek a mászásról. \"Tudta, hogy így sérültem meg\" - mondta Wellman. Egészen addig, amíg egy nap Wellman úgy nem döntött, hogy újra mászni akar, és elkezdtek edzeni. A Half Dome megmászása nem ment zökkenőmentesen. Egy ponton szikladarabok váltak le, és Corbett gyorsan zuhant lefelé. Wellman a helyére zárta a kötelet, megállítva a zuhanást 20 láb magasságban. Gyors cselekedete valószínűleg megmentette barátja életét. \"A partnered megmentheti az életed - te is megmentheted a partnered életét,\" mondta Wellman, amikor az pár gratulációkat kapott barátaitól. \"Valóban szoros kötelékek vannak.\"",
+        "question": "64. Melyik volt Corbett számára kihívás a Half Dome megmászásában?",
+        "options": [
+            "(A) Felmászni, hogy eltávolítsa a tüskéket.",
+            "(B) Kétszer megmászni.",
+            "(C) 5,000 húzódzkodást végezni a kötélen.",
+            "(D) A kötelet a helyére zárni."
+        ],
+        "label": "B",
+        "ind": 22
+    },
+    {
+        "passage": "Ők azok a barátok, akik annyira közel állnak egymáshoz, hogy életüket is rábíznák egymásra. Ha egyikük elesik, a másik ott van, hogy elkapja. Ők Wellman, akinek a lábai egy sziklamászó balesetben kilenc évvel ezelőtt maradandóan megsérültek, és Corbett, egy tapasztalt sziklamászó. Együtt megmászták a Half Dome-ot, a híres 2000 láb magas sziklát a Yosemite Nemzeti Parkban, az egyik legnehezebb útvonalon keresztül. A mászás során Corbett vezette a csapatot, beütötte a kötelet vezető fém tüskéket, és felmászott. Ezután, miután Wellman felhúzta magát a kötélen, Corbett visszament, hogy eltávolítsa a tüskéket, majd újra felmászott. Ezt a folyamatot újra és újra megismételték, centiről centire, 13 napon át. Wellman munkája sem volt könnyű. Csak a felsőtest erejével húzta fel magát a kötélen. Összesen Wellman úgy számolta, hogy 5000 húzódzkodást végzett a mászás során. Azonban, amikor a két férfi először találkozott, soha nem beszéltek a mászásról. „Tudta, hogy így sérültem meg.” mondta Wellman. Egészen addig, amíg egy nap Wellman úgy döntött, hogy újra mászni akar, és elkezdtek edzeni. A Half Dome megmászása azonban nem volt zökkenőmentes. Egy ponton a szikladarabok elmozdultak, és Corbett gyorsan leesett. Wellman rögzítette a kötelet, megállítva a zuhanást 20 lábnál. Gyors cselekedete valószínűleg megmentette barátja életét. „A partnered megmentheti az életedet --- megmentheted a partnered életét,” mondta Wellman, amikor a pár gratulációkat kapott barátaiktól. „Nagyon közeli kötelékek vannak.”",
+        "question": "65．Miért nem beszéltek a két férfi soha a mászásról, amikor először találkoztak?",
+        "options": [
+            "['(A) Corbett nem volt jól képzett.', '(B) Wellman elvesztette érdeklődését a mászás iránt.', '(C) Corbett nem akarta megsérteni Wellmant.', '(D) Wellman még nem döntötte el, hogy újra mászni fog-e.']"
+        ],
+        "label": "C",
+        "ind": 23
+    },
+    {
+        "passage": "Olyan barátok ők, akik annyira közel állnak egymáshoz, hogy az életüket is rábízzák egymásra. Ha egyikük leesik, a másik ott van, hogy elkapja. Ők Wellman, akinek a lábai kilenc éve egy sziklamászó balesetben maradandóan megsérültek, és Corbett, egy tapasztalt sziklamászó. Együtt mászták meg a Yosemite Nemzeti Park híres 2000 láb magas szikláját, a Half Dome-ot, az egyik legnehezebb útvonalon keresztül. A mászás során Corbett vezette a csapatot, beütötte a köteleket vezető fém tüskéket, és felmászott. Ezután, miután Wellman felhúzta magát a kötélen, Corbett visszament, hogy eltávolítsa a tüskéket, és újra felmászott. Ez a folyamat megismétlődött újra és újra, centiméterről centiméterre, 13 napon keresztül. Wellman munkája sem volt könnyű. Csak a felsőtestének erejével húzta fel magát a kötélen. Összesen Wellman kiszámolta, hogy 5000 húzódzkodást végzett a mászás során. Azonban, amikor a két férfi először találkozott, soha nem beszéltek a mászásról. \"Tudta, hogy így sérültem meg,\" mondta Wellman. Egészen addig a napig, amikor Wellman úgy döntött, hogy újra mászni akar, és elkezdtek edzeni. A Half Dome megmászása nem volt zökkenőmentes. Egy ponton szikladarabok váltak le, és Corbett gyorsan lezuhant. Wellman rögzítette a kötelüket, megállítva a zuhanást 20 lábnál. Gyors cselekedete valószínűleg megmentette barátja életét. \"A partnered megmentheti az életedet --- te megmentheted a partnered életét,\" mondta Wellman, miközben a pár gratulációt kapott a barátoktól. \"Valódi közeli kötelékek vannak.\"",
+        "question": "66. Mit tudunk Wellmanről?",
+        "options": [
+            "['(A) Egyedül mászta meg a Half Dome-ot.', '(B) Közlekedési balesetben sérült meg.', '(C) Egy időre abbahagyta a sziklamászást.', '(D) Corbett mentette meg a mászás során.']"
+        ],
+        "label": "C",
+        "ind": 24
+    },
+    {
+        "passage": "Olyan barátok ők, akik annyira közel állnak egymáshoz, hogy az életüket is rábíznák a másikra. Ha az egyik elesik, a másik ott van, hogy elkapja. Ők Wellman, akinek a lábai kilenc évvel ezelőtt egy sziklamászó balesetben véglegesen megsérültek, és Corbett, egy tapasztalt sziklamászó. Együtt mászták meg a Half Dome-ot, a híres 2,000 láb magas sziklát a Yosemite Nemzeti Parkban, az egyik legnehezebb útvonalon keresztül. A mászás során Corbett vezette a csoportot, beütötte a kötelet vezető fém tüskéket, és felmászott. Ezután, miután Wellman felhúzta magát a kötélen, Corbett lement, hogy eltávolítsa a tüskéket, majd újra felmászott. Ez a folyamat 13 napon keresztül ismétlődött újra és újra, centiről centire. Wellman feladata sem volt könnyű. Csak a felsőtestének erejével húzta fel magát a kötélen. Összességében Wellman úgy számolta, hogy 5,000 húzódzkodást végzett a mászás során. Azonban, amikor a két férfi először találkozott, sosem beszéltek a mászásról. „Tudta, hogy így sérültem meg.” - mondta Wellman. Egészen addig, amíg egy nap Wellman úgy döntött, hogy újra mászni akar, és elkezdtek edzeni. A Half Dome megmászása nem volt teljesen zökkenőmentes. Egy ponton szikladarabok váltak le, és Corbett gyorsan lezuhant. Wellman rögzítette a kötelüket, megállítva az esést 20 lábnál. Gyors cselekedete valószínűleg megmentette barátja életét. „A társad megmentheti az életed - te megmentheted a társad életét.” - mondta Wellman, miközben a pár gratulációkat kapott a barátoktól. „Valóban szoros kötelékek vannak.”",
+        "question": "Mi a szöveg fő gondolata?",
+        "options": [
+            "(A) Két fej jobb, mint egy.",
+            "(B) A barátság értékes az életben.",
+            "(C) A fogyatékkal élőknek soha nem szabad feladni.",
+            "(D) Az embert el lehet pusztítani, de nem lehet legyőzni."
+        ],
+        "label": "B",
+        "ind": 25
+    },
+    {
+        "passage": "Írországnak nagyon nehéz történelme van. A problémák a 16. században kezdődtek, amikor az angol uralkodók megpróbálták meghódítani Írországot. Évszázadokon át az ír nép az angolok ellen harcolt. Végül, 1921-ben a brit kormány kénytelen volt függetlenséget adni Írország déli részének. Ennek eredményeként ma két \"Írország\" létezik. Észak-Írország, északon, az Egyesült Királyság része. Az Ír Köztársaság, délen, független ország. Az 1840-es években a fő termény, a burgonya, betegséggel fertőződött meg, és körülbelül 750 000 ember halt meg éhínségben. Ez, valamint a munkahiány sok embert kényszerített arra, hogy elhagyja Írországot, és az Egyesült Államokban, az Egyesült Királyságban, Ausztráliában és Kanadában éljen. Ezeknek a problémáknak az eredményeként a népesség az 1841-es 8,2 millióról 1851-re 6,6 millióra csökkent. Sok éven át az ír emberek többsége földművelésből élt. Ma sokan még mindig a földeken dolgoznak, de egyre többen költöznek a városokba, hogy gyárakban és irodákban dolgozzanak. Az élet a városokban nagyon különbözik a vidéki élettől, ahol a dolgok csendesebben és lassabban zajlanak. Az írek híresek melegszívűségükről és barátságosságukról, Oscar Wilde, egy híres ír író egyszer azt mondta, hogy az írek \"a legnagyobb beszélgetők a görögök óta\". A függetlenség óta Írország újjáélesztette saját zenei, nyelvi, irodalmi és éneklési kultúráját. Különböző területeken különböző stílusú régi ír dalokat énekelnek hangszer nélkül. Másfajta ír zene sokféle hangszert használ, például hegedűt, furulyát stb.",
+        "question": "68. Mit mond el a szerző az 1. bekezdésben?",
+        "options": [
+            "(A) Hogyan harcoltak az írek az angolok ellen.",
+            "(B) Hogyan nyerte el Írország a függetlenséget.",
+            "(C) Hogyan próbálták meg az angol uralkodók meghódítani Írországot.",
+            "(D) Hogyan jött létre a két \"Írország\"."
+        ],
+        "label": "D",
+        "ind": 26
+    },
+    {
+        "passage": "Írországnak nagyon nehéz történelme volt. A problémák a 16. században kezdődtek, amikor az angol uralkodók megpróbálták meghódítani Írországot. Évszázadokon keresztül az ír nép harcolt az angolok ellen. Végül 1921-ben a brit kormány kénytelen volt függetlenséget adni Írország déli részének. Ennek eredményeként ma két „Írország” létezik. Észak-Írország, amely északon található, az Egyesült Királyság része. A Dél-Írországi Köztársaság pedig független ország. Az 1840-es években a fő termény, a burgonya, betegséggel fertőződött meg, és körülbelül 750 000 ember halt meg éhínségben. Ez, valamint a munkahelyek hiánya sok embert kényszerített arra, hogy elhagyja Írországot, és az Egyesült Államokban, az Egyesült Királyságban, Ausztráliában és Kanadában éljen. Ezeknek a problémáknak a következtében a lakosság száma 1841-ben 8,2 millióról 1851-re 6,6 millióra csökkent. Sok éven át az ír emberek többsége gazdálkodással kereste a kenyerét. Ma is sokan dolgoznak a földeken, de egyre többen költöznek városokba, hogy gyárakban és irodákban dolgozzanak. Az élet a városokban nagyon különbözik a vidéki élettől, ahol a dolgok csendesebb és lassabb tempóban haladnak. Az írek híresek meleg szívükről és barátságosságukról. Oscar Wilde, egy híres ír író egyszer azt mondta, hogy az írek „a legnagyobb beszélgetők a görögök óta”. A függetlenség óta Írország újjáélesztette saját zenei, nyelvi, irodalmi és éneklési kultúráját. Különböző területeken különböző stílusú régi ír dalok léteznek, amelyeket hangszer nélkül énekelnek. Más fajta ír zenék sokféle hangszert használnak, mint például a hegedű, sípok stb.",
+        "question": "70. Az utolsó bekezdés főként a ____.",
+        "options": [
+            "(A) az ír jellem",
+            "(B) az ír kultúra",
+            "(C) ír hangszerek",
+            "(D) egy híres ír író"
+        ],
+        "label": "B",
+        "ind": 27
+    },
+    {
+        "passage": "Írországnak nagyon nehéz múltja volt. A problémák a 16. században kezdődtek, amikor az angol uralkodók megpróbálták meghódítani Írországot. Évszázadokon keresztül az ír nép harcolt az angolok ellen. Végül, 1921-ben a brit kormány kénytelen volt függetlenséget adni Dél-Írországnak. Ennek eredményeként ma két „Írország” létezik. Észak-Írország, északon, az Egyesült Királyság része. Az Ír Köztársaság, délen, független ország. Az 1840-es években a fő termény, a burgonya, betegségtől szenvedett, és körülbelül 750 000 ember halt meg éhínségben. Ez, valamint a munkahiány sok embert kényszerített arra, hogy elhagyja Írországot és az USA-ban, az Egyesült Királyságban, Ausztráliában és Kanadában éljen. Ezeknek a problémáknak az eredményeként a népesség 1841-ben 8,2 millióról 1851-re 6,6 millióra csökkent. Sok éven át az írek többsége mezőgazdaságból élt. Ma is sokan dolgoznak a földeken, de egyre több ember költözik a városokba, hogy gyárakban és irodákban dolgozzon. Az élet a városokban nagyon különbözik a vidéki élettől, ahol a dolgok csendesebben és lassabban zajlanak. Az írek híresek melegszívűségükről és barátságosságukról. Oscar Wilde, egy híres ír író, egyszer azt mondta, hogy az írek „a legnagyobb beszélgetők a görögök óta”. A függetlenség óta Írország újjáélesztette saját zenéjét, nyelvét, irodalmát és énekét. Különböző területeken különböző stílusú régi ír dalokat énekelnek hangszer nélkül. Az ír zene más típusai sok különböző hangszert használnak, mint például a hegedű, a sípok stb.",
+        "question": "Mi lehet a legjobb cím a szöveghez?",
+        "options": [
+            "(A)Élet Írországban, (B)Egy nagyon nehéz történelem, (C)Írország, múlt és jelen, (D)Írország függetlensége"
+        ],
+        "label": "C",
+        "ind": 28
+    },
+    {
+        "passage": "George Prochnik szeretné, ha csend lenne. Ezt egy új könyvében fejti ki, a *Listening for Meaning in a World of Noise* című műben. Itt így magyarázza el (szobai hangon): „Annyira hozzászoktunk a zajhoz, hogy szinte mély előítélet él azzal szemben, hogy a csend jótékony hatású lehet. Ha valakinek azt mondod, hogy legyen csendben, úgy hangzol, mint egy öregember. De még soha nem volt ennyire fontos, hogy folyamatos csendet találjunk. A csend összpontosít minket, javítja egészségünket, és a tartós béke és elégedettség kulcsa.” „Fel kell izgatnunk az embereket azokkal a hangokkal kapcsolatban, amelyeket elkezdesz hallani, ha csak egy kicsit lecsendesíted a dolgokat. Egy japán teaceremónia során a legkisebb hangok is egyfajta művészetté válnak - a kanalak könnyed csilingelése egy tálon, a kimonó széleinek (和服) a padlóhoz érintkezése.” „A siket emberek szinte az élet minden területén nagyon figyelmesek (专注的). Ha két siket ember együtt sétál, jelnyelvet használva, állandóan figyelnek egymásra és védik egymást, folyamatos figyelmet fordítva a másikra. Kapcsolatban vannak, de közben teljesen tisztában vannak a környezetükkel is. Még a siket tinédzserek is! Mi, halló világban élők, tanulhatunk tőlük. Ha eltávolítjuk az erős zajokat, rendkívül gazdag világot fedezünk fel magunk körül - apró, lágy hangokkal, léptek hangjával, madárdalokkal és a jég repedésével (开裂声). Megdöbbentő, milyen szép dolgok hangzanak, amikor igazán tudsz hallgatni.”",
+        "question": "72. Mit jelenthet az 1. bekezdésben a „to put a sock in it” kifejezés?",
+        "options": [
+            "(A) csendben lenni   ",
+            "(B) színesnek lenni   ",
+            "(C) tele lenni szeretettel   ",
+            "(D) figyelmesnek lenni valakire"
+        ],
+        "label": "A",
+        "ind": 29
+    },
+    {
+        "passage": "George Prochnik szeretné elnémítani a zajt. Új könyvében érvel amellett, hogy miért fontos a csend: *Listening for Meaning in a World of Noise*. Itt magyarázza el (belső hangján): „Annyira megszoktuk a zajt, hogy szinte mély előítélet él bennünk azzal szemben, hogy a csend jótékony lehet. Ha azt mondod valakinek, hogy legyen csendben, úgy hangzik, mintha egy öregember lennél. De soha nem volt még fontosabb állandó csendet találni. A csend koncentrál minket, javítja az egészségünket, és kulcsa a tartós békének és elégedettségnek.” „Fel kell izgatnunk az embereket azokkal a hangokkal kapcsolatban, amelyeket hallani kezdenek, ha csak egy kicsit is elcsendesítik a dolgokat. Egy japán teaszertartáson a legkisebb hangok is egyfajta művészetté válnak – a kanalak könnyű csengő hangja a tálon, a kimonó szegélyének súrlódása a padlón.” „A siketek szinte minden élethelyzetben nagyon figyelmesek. Ha két siket ember együtt sétál, jelnyelvet használva, folyamatosan figyelnek egymásra és védelmezik egymást azáltal, hogy állandó figyelmet szentelnek a másiknak. Kapcsolatban vannak, ugyanakkor teljesen tudatában vannak a környezetüknek is. Még a siket tinédzserek is! Mi, halló világban élők, tanulhatunk tőlük. Ha eltávolítjuk a zaj erős robbanásait, ráébredünk az elképesztően gazdag világra, ami körülvesz minket – a kis, lágy hangokra, a lépések zajára, a madarak énekére és a jég repedezésére. Megdöbbentő, milyen szépen hangzanak a dolgok, amikor valóban oda tudunk figyelni.”",
+        "question": "73. Mit mond Prochnik rólunk?",
+        "options": [
+            "(A) Megszoktuk a csendet. (B) El kell viselnünk a zajt. (C) Nem gondoljuk, hogy a csend jótékony lenne. (D) Nem hisszük, hogy tartós béke lehetséges."
+        ],
+        "label": "C",
+        "ind": 30
+    },
+    {
+        "passage": "George Prochnik szeretné, ha csend lenne. Az új könyvében, a *Listening for Meaning in a World of Noise*-ban fejti ki nézeteit (beltéri hangon): „Annyira megszoktuk a zajt, hogy szinte mély előítélet van azzal szemben, hogy a csend hasznos lehet. Ha azt mondod valakinek, hogy legyen csendben, úgy hangzik, mintha egy öregember lennél. De soha nem volt még fontosabb, hogy folyamatos csendet találjunk. A csend összpontosít minket, javítja egészségünket, és kulcsa a tartós békének és elégedettségnek.” „Fel kell izgatnunk az embereket azokkal a hangokkal kapcsolatban, amelyeket akkor hallunk, ha csak kicsit lecsendesítjük a dolgokat. Egy japán teaceremónia során a legkisebb hangok is egyfajta művészetté válnak - a kanalak könnyed csengetése a tálon, a kimono (和服) szélének súrlódása a padlón.” „A siketek szinte minden életterületen nagyon figyelmesek. Ha két siket együtt sétál, jelelve, folyamatosan ügyelnek egymásra és védik egymást azáltal, hogy állandóan figyelnek a másikra. Kapcsolatban vannak, ugyanakkor teljes mértékben tudatában vannak környezetüknek. Még a siket tinédzserek is! Mi, a halló világban, tanulhatunk tőlük. Ha eltávolítjuk a zaj hatalmas robbanásait, ráébredünk a körülöttünk lévő rendkívül gazdag világra - a kis, lágy hangokra és a lépések hangjára, a madárdalra és a jég repedésére (开裂声). Megdöbbentő, milyen gyönyörűen hangzanak a dolgok, amikor igazán tudunk hallgatni.”",
+        "question": "74. Melyik állítás igaz Prochnik szerint?",
+        "options": [
+            "(A) Több hangra van szükségünk az életünkben.",
+            "(B) Semmit sem lehet tanulni a siketektől.",
+            "(C) Nem vagyunk tisztában azzal, milyen gazdag a világ körülöttünk.",
+            "(D) Túl sok zaj van egy japán teaceremónián."
+        ],
+        "label": "C",
+        "ind": 31
+    },
+    {
+        "passage": "George Prochnik szeretné, ha csend lenne. Egy új könyvben, *Listening for Meaning in a World of Noise* (A zaj világában való hallgatás jelentősége), érvel e mellett. Itt magyarázza el magát (beltéri hangján): \"Annyira hozzászoktunk a zajhoz, hogy szinte mély előítélet van azzal szemben, hogy a csend hasznos lehet. Ha azt mondod valakinek, hogy maradjon csendben, úgy hangzol, mint egy öregember. De soha nem volt fontosabb, hogy folyamatos csendet találjunk. A csend koncentrál minket, javítja egészségünket, és a tartós béke és megelégedettség kulcsa.\" \"Fel kell keltenünk az emberek érdeklődését azok iránt a hangok iránt, amelyeket hallhatunk, ha csak egy kicsit lecsendesítjük a dolgokat. Egy japán teaceremónia során a legkisebb hangok egyfajta művészetté válnak - a kanál könnyű csilingelése a tálon, a kimono (和服) széleinek suhogása a padlón.\" \"A süket emberek szinte minden életterületen nagyon figyelmesek. Ha két süket ember együtt sétál, jelnyelvet használva, folyamatosan figyelnek egymásra és védik egymást, állandó figyelmet fordítva a másikra. Kapcsolatban vannak, mégis teljesen tudatában vannak környezetüknek. Még a süket tinédzserek is! Mi, a halló világban, tanulhatunk tőlük. Ha eltávolítjuk a zaj erős robbanásait, rendkívül gazdag világra leszünk figyelmesek magunk körül - kis lágy hangokra és lépések hangjára, madárdalokra és jég repedésének hangjára. Megdöbbentő, milyen szépen hangzanak a dolgok, amikor igazán hallhatjuk őket.\"",
+        "question": "75. A szövegből arra lehet következtetni, hogy­      .",
+        "options": [
+            "(A) sokat profitálhatunk az idősebb emberekből",
+            "(B) jó ötlet a jelnyelv használata",
+            "(C) nincs menekvés a hang világából",
+            "(D) lehetséges felfedezni, milyen szépen hangzanak a dolgok"
+        ],
+        "label": "D",
+        "ind": 32
+    },
+    {
+        "passage": "Valószínűleg tudja, ki volt Marie Curie, de lehet, hogy Rachel Carsonról még nem hallott. Az alábbi kiváló hölgyek közül kit tart a legfontosabb nőnek az elmúlt 100 évben? __Jane Addams(1860-1935)__ Bárki, akinek valaha egy szociális munkás segített, Jane Addamsnek köszönheti. Addams segítette a szegényeket és a békéért dolgozott. Közösségi érzést (社区) ösztönzött menhelyek létrehozásával, valamint oktatás és szolgáltatások előmozdításával a rászorulók számára. 1931-ben Addams lett az első amerikai nő, aki Nobel-békedíjat nyert. __Rachel Carson(1907-1964)__ Ha nem lenne Rachel Carson, a környezetvédelmi mozgalom talán ma nem létezne. Népszerű 1962-es könyve, a *Néma tavasz* felhívta a figyelmet a szennyezés veszélyeire és a vegyi anyagok káros hatásaira az emberekre, valamint a világ tavaira és óceánjaira. __Sandra Day O’Connor(1930-jelen)__ Amikor Sandra Day O’Connor 1952-ben a Stanford Law School osztályában harmadik helyen végzett, nem talált munkát ügyvédi irodában, mert nő volt. Arizona állam szenátora lett, és 1981-ben az első nő, aki csatlakozott az Egyesült Államok Legfelsőbb Bíróságához. O’Connor számos fontos ügyben döntő szavazatot adott az ő 24 éve alatt a legfelsőbb bíróságon. __Rosa Parks(1913-2005)__ 1955. december 1-jén Montgomery-ben, Alabamában Rasa Parks nem adta át a helyét a buszon egy utasnak. Egyszerű cselekedete börtönbe juttatta Parkst. De ez elindította a Montgomery buszbojkottot. Több mint egy évig tartott, és elindította a polgárjogi mozgalmat. „Az egyetlen fáradtságom az volt, hogy belefáradtam a megadásba” – mondta Parks.",
+        "question": "Miért ismert Jane Addams a történelemben?",
+        "options": [
+            "['(A) A szociális munkájáért.', '(B) Tanítási képességeiért.', '(C) Azért tett erőfeszítéseiért, hogy díjat nyerjen.', '(D) Közösségi hátteréért.']"
+        ],
+        "label": "A",
+        "ind": 33
+    },
+    {
+        "passage": "Valószínűleg ismeri Marie Curie nevét, de lehet, hogy nem hallott Rachel Carsonról. Az alább felsorolt kiemelkedő hölgyek közül Ön szerint ki volt a legfontosabb nő az elmúlt 100 évben? __Jane Addams (1860-1935)__ Bárki, akinek valaha is segített szociális munkás, Jane Addamsnek köszönheti. Addams segítette a szegényeket és a békéért dolgozott. A közösségi érzést támogatta menedékhelyek létrehozásával, valamint oktatás és szolgáltatások előmozdításával a rászorulók számára. 1931-ben Addams lett az első amerikai nő, aki elnyerte a Nobel-békedíjat.__Rachel Carson (1907-1964)__ Ha Rachel Carson nem lett volna, akkor lehet, hogy ma nem létezne környezetvédelmi mozgalom. 1962-es népszerű könyve, a *Silent Spring* felhívta a figyelmet a szennyezés veszélyeire és a vegyi anyagok káros hatásaira az emberekre, valamint a világ tavaira és óceánjaira.__Sandra Day O’Connor (1930-jelen)__ Amikor Sandra Day O’Connor 1952-ben a Stanfordi Jogi Kar harmadik helyezettjeként végzett az osztályában, nem talált munkát egyetlen ügyvédi irodában sem, mert nő volt. Arizona állam szenátora lett, és 1981-ben az első nő, aki csatlakozott az Egyesült Államok Legfelsőbb Bíróságához. O’Connor sok fontos ügyben hozott döntést a legfelsőbb bíróságon töltött 24 éve alatt.__Rosa Parks (1913-2005)__ 1955. december 1-jén Montgomeryben, Alabamában, Rosa Parks nem adta át helyét a buszon egy utasnak. Egyszerű tette miatt Parkst börtönbe zárták. De ez kiváltotta a Montgomery buszbojkottot. Több mint egy évig tartott, és elindította a polgári jogi mozgalmat. \"Az egyetlen fáradtság, amit éreztem, az a behódolás fáradtsága volt,\" mondta Parks.",
+        "question": "Mi volt az oka annak, hogy O’Connort elutasították az ügyvédi irodában?",
+        "options": [
+            "['(A) A megfelelő jogi képzés hiánya.', '(B) Kevés bírósági munkatapasztalata.', '(C) A nők elleni diszkrimináció.', '(D) Rossz anyagi helyzet.']"
+        ],
+        "label": "C",
+        "ind": 34
+    },
+    {
+        "passage": "Valószínűleg ismeri Marie Curie nevét, de lehet, hogy Rachel Carsonról még nem hallott. Az alábbi kiemelkedő hölgyek közül, Ön szerint ki volt a legfontosabb nő az elmúlt 100 évben? __Jane Addams (1860-1935)__ Akik valaha is kaptak segítséget egy szociális munkástól, Jane Addamsnek mondhatnak köszönetet. Addams segítette a szegényeket és a békéért dolgozott. Közösségi érzést (社区) bátorított menhelyek létrehozásával és oktatás és szolgáltatások előmozdításával a rászorulók számára. 1931-ben Addams lett az első amerikai nő, aki elnyerte a Nobel-békedíjat. __Rachel Carson (1907-1964)__ Ha nem lenne Rachel Carson, ma talán nem létezne a környezetvédelmi mozgalom. Népszerű, 1962-ben megjelent *Silent Spring* (Néma tavasz) című könyve felhívta a figyelmet a szennyezés veszélyeire és a vegyi anyagok káros hatásaira az emberekre és a világ tavaira és óceánjaira. __Sandra Day O’Connor (1930-napjainkig)__ Amikor Sandra Day O’Connor 1952-ben a harmadik helyen végzett a Stanford Law School-on, nem talált munkát ügyvédi irodában, mert nő volt. Arizonai állami szenátor lett, és 1981-ben az első nő, aki csatlakozott az Egyesült Államok Legfelsőbb Bíróságához. O’Connor számos fontos ügyben döntő szavazatot adott az ő 24 éves legfelsőbb bírósági pályafutása során. __Rosa Parks (1913-2005)__ 1955. december 1-jén, Montgomeryben, Alabamában, Rosa Parks nem volt hajlandó átadni az ülőhelyét egy utasnak egy buszon. Egyszerű tette miatt Parkst börtönbe vetették. De ez is elindította a Montgomery buszbojkottot. Több mint egy évig tartott, és beindította a polgárjogi mozgalmat. \"Az egyetlen fáradtság, amit éreztem, az a beleegyezés fáradtsága volt,\" mondta Parks.",
+        "question": "Ki tett nagy hozzájárulást az Egyesült Államok polgárjogi mozgalmához?",
+        "options": [
+            "(A) Jane Addams.",
+            "(B) Rachel Carson.",
+            "(C) Sandra Day O’Connor.",
+            "(D) Rosa Parks."
+        ],
+        "label": "D",
+        "ind": 35
+    },
+    {
+        "passage": "Valószínűleg tudod, ki volt Marie Curie, de lehet, hogy nem hallottál Rachel Carsonról. Az alábbi kiemelkedő hölgyek közül kit tartasz az elmúlt 100 év legfontosabb nőjének? __Jane Addams (1860-1935)__ Bárki, akinek valaha is segített egy szociális munkás, Jane Addamsnek köszönheti. Addams segítette a szegényeket és a békéért dolgozott. A közösségi érzést ösztönözte azáltal, hogy menedékhelyeket hozott létre, és oktatást és szolgáltatásokat támogatott rászorulóknak. 1931-ben Addams lett az első amerikai nő, aki megnyerte a Nobel-békedíjat. __Rachel Carson (1907-1964)__ Ha nem lett volna Rachel Carson, lehet, hogy ma nem létezne a környezetvédelmi mozgalom. 1962-ben megjelent népszerű könyve, a *Silent Spring* felhívta a figyelmet a szennyezés veszélyeire és a vegyi anyagok káros hatásaira az emberekre, valamint a világ tavaira és óceánjaira. __Sandra Day O’Connor (1930-jelen)__ Amikor Sandra Day O’Connor 1952-ben a Stanford Law School harmadik helyén végzett, nem talált munkát ügyvédi irodában, mert nő volt. Arizona állam szenátora lett, majd 1981-ben az első nő, aki csatlakozott az Egyesült Államok Legfelsőbb Bíróságához. O’Connor sok fontos ügyben adott döntő szavazatot 24 éves bírósági pályafutása során. __Rosa Parks (1913-2005)__ 1955. december 1-jén Montgomeryben, Alabamában, Rosa Parks nem adta át a helyét egy buszon egy utasnak. Egyszerű tette börtönbe juttatta Parkst. De ez elindította a Montgomery buszbojkottot, amely több mint egy évig tartott, és elindította a polgárjogi mozgalmat. \"Az egyetlen fáradtság, amit éreztem, az az volt, hogy belefáradtam az engedésbe,\" mondta Parks.",
+        "question": "Mit tudunk feltételezni a szövegben említett nőkről?",
+        "options": [
+            "['(A) Magasan képzettek.', '(B) Igazán kreatívak.', '(C) Úttörők.', '(D) Békeszeretők.']"
+        ],
+        "label": "C",
+        "ind": 36
+    },
+    {
+        "passage": "__Nagyszülők válaszolnak egy hívásra__ Mildred Garza, a harmadik generációs brownsville-i (Texas) születésű soha nem tervezte, hogy elköltözik. Még akkor sem, amikor lánya és fia megkérte, hogy költözzön San Antonióba, hogy segítsen a gyermekeikkel, udvariasan visszautasította. Csak egy év baráti beszélgetés után mondott végül igent Ms. Garza. Ez négy évvel ezelőtt volt. Ma mindhárom generáció sikeresnek tartja a költözést, és közelebbi kapcsolatot alakítottak ki, mint amilyen külön városokban lett volna. Nincsenek statisztikák az olyan nagyszülőkről, mint Garza, akik közelebb költöznek felnőtt gyermekeikhez és unokáikhoz. Azonban van bizonyíték arra, hogy ez a tendencia növekszik. Még Obama elnök anyósa, Marian Robinson is beleegyezett, hogy elhagyja Chicagót, és beköltözik a Fehér Házba, hogy segítsen gondozni az unokáit. A grandparents.com tanulmánya szerint az emberek 83 százaléka szerint Mrs. Robinson döntése hatással lesz az amerikai családok nagyszüleire. A kétharmad úgy véli, hogy több család követi majd Obama családjának példáját. „A '60-as években mindannyian kissé vadak voltunk, és nem tudtunk elég távolra vagy elég gyorsan elmenni otthonról, hogy bizonyítsuk, hogy saját magunk is meg tudjuk csinálni” – mondja Christine Crosby, a nagyszülőknek szóló *Grand* magazin kiadója. „Most már rájöttünk, milyen fontos a család, és mennyire fontos közel lenni hozzájuk, különösen, ha gyerekeket nevelünk.” A költözés nem mindenkinek való. Szinte minden nagyszülő szeretne az unokáival lenni, és hajlandó áldozatokat hozni, de néha bölcsebb nemet mondani, és inkább gyakran látogatni. Nehéz, ha az unokáink messze vannak, különösen, ha tudjuk, hogy felnőtt gyermekünk küzd, de feladni az életet, amit ismerünk, talán még nehezebb.",
+        "question": "Miért volt Garza költözése sikeres?",
+        "options": [
+            "['(A) Megerősítette a családi kötelékeit.', '(B) Javította az életkörülményeit.', '(C) Lehetővé tette számára, hogy több barátot szerezzen.', '(D) Segített neki több új helyet megismerni.']"
+        ],
+        "label": "A",
+        "ind": 37
+    },
+    {
+        "passage": "__A nagyszülők válaszolnak egy hívásra__ Mildred Garza, a texasi Brownsville harmadik generációs őslakosa soha nem tervezett elköltözni. Még akkor sem, amikor lánya és fia arra kérték, hogy költözzön San Antonióba, hogy segítsen az unokáik nevelésében, udvariasan visszautasította. Csak egy év baráti beszélgetés után mondta végül igent Ms. Garza. Ez négy évvel ezelőtt történt. Ma mindhárom generáció sikeresnek tartja a költözést, szorosabb kapcsolatot alakítva ki, mint ha külön városokban élnének. Nincsenek statisztikák arról, hogy hány Garza-szerű nagyszülő költözik közelebb a felnőtt gyermekekhez és unokákhoz. Mégis vannak bizonyítékok, amelyek azt sugallják, hogy a tendencia növekszik. Még Barack Obama elnök anyósa, Marian Robinson is beleegyezett, hogy elhagyja Chicagót és beköltözzön a Fehér Házba, hogy segítsen unokái gondozásában. A grandparents.com által készített tanulmány szerint az emberek 83 százaléka azt mondta, hogy Mrs. Robinson döntése befolyásolja az amerikai család nagyszüleit. Kétharmaduk úgy véli, hogy több család követi Obama családjának példáját. „Az 1960-as években mindannyian kissé vadak voltunk, és nem tudtunk elég messzire vagy elég gyorsan eljutni otthonról, hogy bebizonyítsuk, saját erőnkből is meg tudjuk csinálni” – mondja Christine Crosby, a *Grand*, a nagyszülőknek szóló magazin kiadója. „Most már rájövünk, mennyire fontos a család, és mennyire fontos, hogy közel legyünk hozzájuk, különösen, amikor gyerekeket nevelünk.” A költözés nem való mindenkinek. Majdnem minden nagyszülő szeretne az unokáival lenni, és hajlandó áldozatokat hozni, de néha bölcsebb nemet mondani, és inkább gyakran látogatni. Az unokák távolban léte nehéz, különösen, ha tudod, hogy felnőtt gyermeked küzd, de lemondani az életedről, amit ismersz, még nehezebb lehet.",
+        "question": "Mi volt a közönség reakciója Mrs. Robinson döntésére?",
+        "options": [
+            "['(A) 17% kifejezte támogatását.', '(B) Kevés ember válaszolt együttérzően.', '(C) 83% úgy vélte, hogy rossz hatással volt.', '(D) A többség úgy gondolta, hogy ez egy trend.']"
+        ],
+        "label": "D",
+        "ind": 38
+    }
+]

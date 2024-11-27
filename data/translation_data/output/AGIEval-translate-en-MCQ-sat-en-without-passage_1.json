@@ -1,0 +1,293 @@
+[
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "A szöveg alapján miben különbözött G.L. Olausson többi tesztalanyától?",
+        "options": [
+            "(A) Az agyban a gyengéd simogatás során aktivált kérgi területek száma.",
+            "(B) A szomatoszenzoros kéreg fizikai méretei.",
+            "(C) Az insuláris kéreg aktiválásához szükséges idegi jelek intenzitása.",
+            "(D) Az MRI vizsgálat hatása az agyi kérgek alapfunkciójára."
+        ],
+        "label": "A",
+        "ind": 0
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "A szöveg szerint az emberek akkor tapasztalják meg az érintés érzelmi aspektusát, amikor",
+        "options": [
+            "(A) az agykéreg védve van az idegi jelektől.",
+            "(B) a CT rostokat érintés éri.",
+            "(C) az idegrostok, amelyek a fájdalmat érzékelik, elnyomásra kerülnek.",
+            "(D) az érzékelés tudatos aspektusai figyelmen kívül maradnak."
+        ],
+        "label": "B",
+        "ind": 1
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Az 1. szövegben Beveridge azt állítja, hogy az Egyesült Államok erőforrásai és hatalmassága",
+        "options": [
+            "(A) védelmet nyújtanak a külföldi invázió ellen.",
+            "(B) az európai viszonyok megismétlődését jelentik.",
+            "(C) isteni ajándék az amerikai nép számára.",
+            "(D) irigység forrása más országok népei számára."
+        ],
+        "label": "C",
+        "ind": 2
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "A 2. szakaszból ésszerűen levonható következtetés szerint Bryan a nemzeti szuverenitás előnyben részesítését az idegen uralommal szemben",
+        "options": [
+            "(A) az imperialista kormányok modern kori túlkapásaira adott reakciónak tekinti.",
+            "(B) annak jelének tekinti, hogy az emberi egyenlőségbe vetett hit széles körben elterjedt.",
+            "(C) az Egyesült Államok külpolitikájának hatásait tanúsító jelnek tekinti.",
+            "(D) az emberi önkormányzatiság iránti veleszületett hajtóerő megnyilvánulásának tekinti."
+        ],
+        "label": "D",
+        "ind": 3
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Érvelésük kidolgozása során Beveridge (1. szöveg) és Bryan (2. szöveg) egyaránt kifejezik csodálatukat a",
+        "options": [
+            "['(A)Egyesült Államok alapítása és történelme iránt.', '(B)amerikai kultúra élénksége és sokszínűsége iránt.', '(C)függetlenségért folytatott világméretű küzdelmek történelme iránt.', '(D)ideálizmus iránt, amely az amerikai társadalom számos aspektusát áthatja.']"
+        ],
+        "label": "A",
+        "ind": 4
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Melyik választás írja le legjobban a központi különbséget abban, ahogyan Beveridge (1. szöveg) és Bryan (2. szöveg) az Egyesült Államokban megvalósuló szabadság fogalmát szemlélik?",
+        "options": [
+            "(A) Beveridge azt közvetlenül az európai gyarmatosítás örökségeként mutatja be, míg Bryan azt az európai kormányzatoktól való éles eltérésként mutatja be.",
+            "(B) Beveridge olyan példamutatónak tartja, hogy az más régiók meghódítását is igazolná, míg Bryan arra figyelmeztet, hogy annak példamutató mivoltát aláásná a birodalmi terjeszkedés.",
+            "(C) Beveridge azt állítja, hogy organikusan fejlődött ki, ahogy az Egyesült Államok éretté vált, míg Bryan azt állítja, hogy az már az ország kezdetektől fogva jelen volt.",
+            "(D) Beveridge úgy tekinti, mint egy modellt, amelyet meg kell osztani más országokkal, míg Bryan úgy véli, hogy az egyedülálló az Egyesült Államok számára, és máshol nem működhetne."
+        ],
+        "label": "B",
+        "ind": 5
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "A 2. szakaszból leginkább ésszerűen levonható következtetés szerint Bryan kritizálná az amerikai szigetterületek kormányzásának azt a vízióját, amelyet Beveridge az 1. szakaszban bemutat, mert az",
+        "options": [
+            "(A) irreális, mivel a legtöbb amerikai nem lenne hajlandó távoli szigetekre költözni.",
+            "(B) megtévesztő, mivel a gazdasági dominancia lenne az amerikai kormány valódi célja.",
+            "(C) kivitelezhetetlen, mivel a szigetlakók ragaszkodnának az erőforrások egyenlő elosztásához.",
+            "(D) naiv, mivel a szigetlakók tiltakoznának az ellen, hogy amerikaiak kormányozzák őket."
+        ],
+        "label": "D",
+        "ind": 6
+    },
+    {
+        "passage": "None",
+        "question": "A szöveg alapján a fénynek való kitettség lehetővé teszi, hogy a magok",
+        "options": [
+            "(A) elkezdjenek fejlődni.",
+            "(B) felszívják a szükséges tápanyagokat.",
+            "(C) ellenálljanak a szélsőséges hőmérsékleteknek.",
+            "(D) elérjék a maximális növekedést."
+        ],
+        "label": "A",
+        "ind": 7
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "A szöveg arra utal, hogy ha Seydel búzát vagy kukoricát ültetett volna Hartmann kísérletében a két mezőgazdasági sávra, akkor valószínűleg az egyes sávok felületének gyomokkal borított százaléka",
+        "options": [
+            "['(A) alacsonyabb lett volna, mint a Hartmann által talált százalék.', '(B) magasabb lett volna, mint a Hartmann által előre jelzett százalék.', '(C) Hartmann számára szinte lehetetlen lett volna meghatározni.', '(D) összehasonlítható lett volna Hartmann eredeti előrejelzésével.']"
+        ],
+        "label": "A",
+        "ind": 8
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "A táblázat szerint a sötétben megzavart talajminták közül melyikben bújt ki a legkevesebb számú palánta?",
+        "options": [
+            "(A) Minta A",
+            "(B) Minta B",
+            "(C) Minta C",
+            "(D) Minta D"
+        ],
+        "label": "A",
+        "ind": 9
+    },
+    {
+        "passage": "Nincs háttérinformáció",
+        "question": "Amint az a táblázatban látható, melyik minta termelte a legtöbb palántát, amikor a talajt fényben zavarták meg?",
+        "options": [
+            "(A) Minta G",
+            "(B) Minta H",
+            "(C) Minta I",
+            "(D) Minta J"
+        ],
+        "label": "C",
+        "ind": 10
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Melyik választás foglalja össze legjobban a szöveget?",
+        "options": [
+            "(A) Egy nő mérlegeli egy új munka elfogadásának pozitív és negatív aspektusait.",
+            "(B) Egy nő nem javítja ki azt az idegent, aki összekeveri valakivel.",
+            "(C) Egy nő másnak adja ki magát, hogy bosszút álljon egy ismerősén.",
+            "(D) Egy nő azonnal ellenszenvet érez új munkaadója iránt."
+        ],
+        "label": "B",
+        "ind": 11
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "A szöveg egyértelműen azt sugallja, hogy más emberek Lady Carlotta-t úgy tekintették, mint aki",
+        "options": [
+            "(A) szókimondó.",
+            "(B) tapintatos.",
+            "(C) ambiciózus.",
+            "(D) barátságtalan."
+        ],
+        "label": "A",
+        "ind": 12
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Az elbeszélő azt jelzi, hogy Claude, Wilfrid, Irene és Viola",
+        "options": [
+            "(A) hasonlóak sok kortársukhoz.",
+            "(B) szokatlanul kreatívak és intelligensek.",
+            "(C) ellenségesek a nevelőnő ötletével szemben.",
+            "(D) jobban képzettek, mint az ő korukbeliek."
+        ],
+        "label": "A",
+        "ind": 13
+    },
+    {
+        "passage": "None",
+        "question": "A narrátor arra utal, hogy Mrs. Quabarl egy olyan oktatási formát részesít előnyben, amely hangsúlyozza",
+        "options": [
+            "(A) a hagyományos értékeket.",
+            "(B) az aktív részvételt.",
+            "(C) a művészi kísérletezést.",
+            "(D) a tények megtartását."
+        ],
+        "label": "B",
+        "ind": 14
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Ahogyan a szövegben bemutatják, Mrs. Quabarl legjobban az alábbiak szerint írható le:",
+        "options": [
+            "['(A)felszínesen kedves, de valójában önző.', '(B)kívülről tekintélyt parancsoló, de könnyen meghátrál.', '(C)társadalmilag sikeres, de irracionálisan keserű.', '(D)természetesen nagylelkű, de gyakran meggondolatlan.']"
+        ],
+        "label": "B",
+        "ind": 15
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Melyik választás tükrözi legjobban a szövegben szereplő események sorrendjét?",
+        "options": [
+            "(A) Egy kísérletet javasolnak, de az nem bizonyul megvalósíthatónak; egy kevésbé ambiciózus kísérletet végeznek, és az adatok új kérdéseket vetnek fel.",
+            "(B) Egy új felfedezés a teória újragondolásához vezet; egy klasszikus tanulmányt adaptálnak, és az eredményeket összegzik.",
+            "(C) Egy anomáliát figyelnek meg és kísérletileg szimulálnak; az eredményeket összehasonlítják korábbi megállapításokkal, és egy új hipotézist javasolnak.",
+            "(D) Egy váratlan eredmény merül fel a tanulmány korai szakaszában; a tanulmányt ennek megfelelően módosítják, és az eredményeket értelmezik és értékelik."
+        ],
+        "label": "D",
+        "ind": 16
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Melyik állítás foglalja össze legjobban Ken Dial központi feltételezését a kutatásának beállításában?",
+        "options": [
+            "['(A) A fiatal madarak repülésének elsajátítása rávilágít a repülés megszerzésére az evolúciós őseiknél.', '(B) Bizonyos fiatal madarak szabálytalan ugrálási hajlama viszonylag újonnan kifejlődött viselkedés.', '(C) A kontrollált kutatási környezetben lévő fiatal madarak kevésbé valószínű, hogy szükségük van ülőhelyekre, amikor pihennek, mint a vadon élő madarak.', '(D) A földön élő és fára mászó madarak elődei párhuzamosan fejlődtek.']"
+        ],
+        "label": "A",
+        "ind": 17
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "A szöveg az alábbiak közül melyiket azonosította olyan tényezőként, amely megkönnyítette a kis Csukárok tapadását a meredek rámpákon?",
+        "options": [
+            "['(A) Az a sebesség, amellyel felmásztak', '(B) A csapkodó szárnyaik helyzete', '(C) A szárny- és lábmozgás váltakozása', '(D) A folyamatos ugráló mozgásuk']"
+        ],
+        "label": "B",
+        "ind": 18
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Mit lehet ésszerűen feltételezni a sikló állatokról a szöveg alapján?",
+        "options": [
+            "['(A)Fiataljaik hajlamosak a szüleik mellett ugrálni, ahelyett hogy velük repülnének.', '(B)Helyváltoztatási módszerük hasonló a talajmadarakéhoz.', '(C)Gyakrabban használják a talajt táplálkozásra, mint pihenésre.', '(D)Nem használnak csapó mozdulatot a lejtők megmászásához.']"
+        ],
+        "label": "D",
+        "ind": 19
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "A szöveg alapján arra lehet következtetni, hogy az 1. szöveg szerzői úgy vélik, hogy a háztartás vezetése és a gyermeknevelés",
+        "options": [
+            "(A) a férfiak számára éppolyan kielégítő, mint a nők számára.",
+            "(B) kevesebb értéket nyújtanak a társadalom számára, mint a férfiak által ellátott szerepek.",
+            "(C) nagyon kevés olyan tevékenységet foglalnak magukba, amelyek nehezek vagy kellemetlenek.",
+            "(D) hasonló készségeket igényelnek, mint amelyek egy ország vagy vállalat vezetéséhez szükségesek."
+        ],
+        "label": "C",
+        "ind": 20
+    },
+    {
+        "passage": "Nincs háttérinformáció",
+        "question": "A 2. szöveg szerzője szerint a társadalom fejlődéséhez a nőknek",
+        "options": [
+            "(A) személyes boldogságot és anyagi biztonságot kell élvezniük.",
+            "(B) követniük kell az összes jelenleg előírt társadalmi szabályt.",
+            "(C) a férfiakat kell felváltaniuk a hatalom és tekintély szereplőiként.",
+            "(D) a férfiakéval összehasonlítható oktatásban kell részesülniük."
+        ],
+        "label": "D",
+        "ind": 21
+    },
+    {
+        "passage": "Nincs háttérinformáció",
+        "question": "A 2. szakaszban a szerző azt állítja, hogy a társadalom vezetői által biztosított szabadságok",
+        "options": [
+            "(A) előnyben részesítettek egy nemet a másikkal szemben.",
+            "(B) általános csökkenést eredményeztek az egyéni erényben.",
+            "(C) vitákat okoztak a boldogság természetéről.",
+            "(D) biztosították az egyenlőséget mindenki számára."
+        ],
+        "label": "A",
+        "ind": 22
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Melyik írja le legjobban az összefüggést az 1. és a 2. szöveg között?",
+        "options": [
+            "(A) A 2. szöveg erőteljesen vitatja az 1. szöveg nézőpontját.",
+            "(B) A 2. szöveg alternatív következtetéseket von le az 1. szövegben bemutatott bizonyítékok alapján.",
+            "(C) A 2. szöveg kifejti az 1. szövegben bemutatott javaslatot.",
+            "(D) A 2. szöveg más szavakkal megismétli az 1. szövegben bemutatott érvet."
+        ],
+        "label": "A",
+        "ind": 23
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "A két szöveg szerzői valószínűleg melyik állítással értenének egyet a tizennyolcadik századi nőkkel kapcsolatban?",
+        "options": [
+            "['(A) Természetes preferenciáik megegyeztek a férfiakéval.', '(B) Jó oktatásra volt szükségük ahhoz, hogy sikeresek legyenek a társadalomban.', '(C) Éppolyan boldogok voltak az életben, mint a férfiak.', '(D) Általában kevesebb jogot élveztek, mint a férfiak.']"
+        ],
+        "label": "D",
+        "ind": 24
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Hogyan reagálnának az 1. szöveg szerzői a 2. szöveg utolsó bekezdésében tett megállapításokra?",
+        "options": [
+            "(A) A nők természetüknél fogva nem alkalmasak a polgári és politikai jogok gyakorlására.",
+            "(B) A férfiak és nők hasonló mértékű érvelési képességgel rendelkeznek.",
+            "(C) A nőknek nem kell a hagyományos családi feladataikra korlátozódniuk.",
+            "(D) A természetjog elveit nem szabad figyelembe venni a nemi szerepek megfontolásakor."
+        ],
+        "label": "A",
+        "ind": 25
+    }
+]

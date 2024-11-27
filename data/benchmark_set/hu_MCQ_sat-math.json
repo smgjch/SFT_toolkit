@@ -1,0 +1,2240 @@
+[
+    {
+        "passage": "",
+        "question": "$$x^{2}+6 x+4$$ Melyik következő kifejezés egyenértékű a fenti kifejezéssel?",
+        "options": [
+            "['(A)$(x+3)^{2}+5$', '(B)$(x+3)^{2}-5$', '(C)$(x-3)^{2}+5$', '(D)$(x-3)^{2}-5$']"
+        ],
+        "label": "B",
+        "ind": 0
+    },
+    {
+        "passage": "[Background information here]",
+        "question": "Ken ezen a nyáron egy farmon dolgozik egy csapat tagjaként. A hét első 10 ledolgozott órájáért óránként 8 dollárt keresett. Teljesítménye miatt a csapatvezetője megemelte a fizetését óránként 10 dollárra a hét hátralévő részére. Ken a heti keresetének 90%-át megtakarítja. Mi a legkisebb óraszám, amit a hét hátralévő részében dolgoznia kell ahhoz, hogy legalább 270 dollárt takarítson meg a héten?",
+        "options": [
+            "(A)38, (B)33, (C)22, (D)16"
+        ],
+        "label": "C",
+        "ind": 1
+    },
+    {
+        "passage": "",
+        "question": "Marisának legalább 10 alkalmazottat kell felvennie egy közelgő projekthez. Az alkalmazottak junior igazgatókból fognak állni, akik heti 640 dollárt kapnak, és senior igazgatókból, akik heti 880 dollárt kapnak. Az alkalmazottak bérére szánt költségvetése nem haladhatja meg a heti 9 700 dollárt. Legalább 3 junior igazgatót és legalább 1 senior igazgatót kell felvennie. Az alábbi egyenlőtlenségek rendszerei közül melyik írja le a megadott feltételeket, ha $x$ a junior igazgatók száma és $y$ a senior igazgatók száma?",
+        "options": [
+            "(A)$640 x+880 y \\\\geq 9,700$ $x+y \\\\leq 10$ $x \\\\geq 3$ $y \\\\geq 1$",
+            "",
+            "(B)$640 x+880 y \\\\leq 9,700$ $x+y \\\\geq 10$ $x \\\\geq 3$ $y \\\\geq 1$",
+            "",
+            "(C)$640 x+880 y \\\\geq 9,700$ $x+y \\\\geq 10$ $x \\\\leq 3$ $y \\\\leq 1$",
+            "",
+            "(D)$640 x+880 y \\\\leq 9,700$ $x+y \\\\leq 10$ $x \\\\leq 3$ $y \\\\leq 1$"
+        ],
+        "label": "B",
+        "ind": 2
+    },
+    {
+        "passage": "Az alábbi egyenletben az $a, b, c$, és $d$ állandók. Ha az egyenlet gyökei $-1,-3$, és 5, akkor az alábbiak közül melyik tényezője az $a x^{3}+b x^{2}+c x+d$ kifejezésnek?",
+        "question": "$$a x^{3}+b x^{2}+c x+d=0$$",
+        "options": [
+            "['(A)$x-1$', '(B)$x+1$', '(C)$x-3$', '(D)$x+5$']"
+        ],
+        "label": "B",
+        "ind": 3
+    },
+    {
+        "passage": "A függvény $f$ úgy van definiálva, hogy $f(x)=(x+3)(x+1)$. Az $f$ grafikonja az $x y$ síkban egy parabolát alkot.",
+        "question": "A következő intervallumok közül melyik tartalmazza az $f$ grafikonjának csúcsának $x$ koordinátáját?",
+        "options": [
+            "(A)$-4<x<-3$ ",
+            "(B)$-3<x<1$ ",
+            "(C)$1<x<3$ ",
+            "(D)$3<x<4$"
+        ],
+        "label": "B",
+        "ind": 4
+    },
+    {
+        "passage": "background:",
+        "question": "Melyik a következő kifejezések közül ekvivalens $\\frac{x^{2}-2 x-5}{x-3}$-mal?",
+        "options": [
+            "['(A)$x-5-\\\\frac{20}{x-3}$', '(B)$x-5-\\\\frac{10}{x-3}$', '(C)$x+1-\\\\frac{8}{x-3}$', '(D)$x+1-\\\\frac{2}{x-3}$']"
+        ],
+        "label": "D",
+        "ind": 5
+    },
+    {
+        "passage": "Egy szállítmányozási szolgáltatás korlátozza a dobozok méreteit, amelyeket egy bizonyos típusú szolgáltatás keretében szállít. A korlátozás kimondja, hogy téglatest alakú dobozok esetén a doboz alapterületének kerülete és a doboz magasságának összege nem haladhatja meg a 130 hüvelyket. Az alapterület kerületét a doboz szélessége és hossza határozza meg.",
+        "question": "Ha egy doboz magassága 60 hüvelyk és a hossza 2,5-szerese a szélességének, melyik egyenlőtlenség mutatja a doboz megengedett szélességét $x$ hüvelykben?",
+        "options": [
+            "(A)$0<x \\\\leq 10$  ",
+            "(B)$0<x \\\\leq 11 \\\\frac{2}{3}$  ",
+            "(C)$0<x \\\\leq 17 \\\\frac{1}{2}$  ",
+            "(D)$0<x \\\\leq 20$"
+        ],
+        "label": "A",
+        "ind": 6
+    },
+    {
+        "passage": "[No background information provided]",
+        "question": "Az $\\frac{1}{3} x^{2}-2$ kifejezés átírható $\\frac{1}{3}(x-k)(x+k)$ formára, ahol $k$ egy pozitív konstans. Mi $k$ értéke?",
+        "options": [
+            "['(A) 2', '(B) 6', '(C) $\\sqrt{2}$', '(D) $\\sqrt{6}$']"
+        ],
+        "label": "D",
+        "ind": 7
+    },
+    {
+        "passage": "A fenti táblázat azt mutatja, hogy milyen típusú ételeket kapnak a macskák és kutyák egy állatgondozási létesítményben.",
+        "question": "\\begin{center}\\begin{tabular}{|c|c|c|c|}\\hline& $\\begin{array}{c}\\text { Csak száraz } \\\\ \\text { étellel etetve }\\end{array}$ & $\\begin{array}{c}\\text { Nedves és száraz } \\\\ \\text { étellel etetve }\\end{array}$ & Összesen \\\\\\hlineMacskák & 5 & 11 & 16 \\\\\\hlineKutyák & 2 & 23 & 25 \\\\\\hlineÖsszesen & 7 & 34 & 41 \\\\\\hline\\end{tabular}\\end{center}\nMekkora hányada a kutyáknak van csak száraz táppal etetve?",
+        "options": [
+            "['(A)$\\\\frac{2}{41}$', '(B)$\\\\frac{2}{25}$', '(C)$\\\\frac{7}{41}$', '(D)$\\\\frac{2}{7}$']"
+        ],
+        "label": "B",
+        "ind": 8
+    },
+    {
+        "passage": "[Háttérinformációk itt]",
+        "question": "$$\\left(x^{2}-3\\right)-\\left(-3 x^{2}+5\\right)$$ Melyik kifejezés egyenértékű az alábbival?",
+        "options": [
+            "['(A)$4 x^{2}-8$', '(B)$4 x^{2}-2$', '(C)$-2 x^{2}-8$', '(D)$-2 x^{2}-2$']"
+        ],
+        "label": "A",
+        "ind": 9
+    },
+    {
+        "passage": "Egy bizonyos csomag lezárásához 3 centiméter szalag szükséges a biztos záráshoz.",
+        "question": "Hány ilyen típusú csomagot lehet maximálisan lezárni 6 méter szalaggal? (1 méter = 100 cm)",
+        "options": [
+            "(A) 100, (B) 150, (C) 200, (D) 300"
+        ],
+        "label": "C",
+        "ind": 10
+    },
+    {
+        "passage": "[Háttérinformáció itt]",
+        "question": "Egy piackutató véletlenszerűen kiválasztott 200 embert egy olyan csoportból, akik jelezték, hogy tetszett nekik egy bizonyos könyv. A 200 ember megnézte a könyv alapján készült filmet, majd megkérdezték őket, hogy tetszett-e nekik a film, vagy sem. A megkérdezettek $95 \\%$-a azt mondta, hogy nem tetszett nekik a film. Melyik következtetés vonható le megfelelően ebből a felmérési eredményből?",
+        "options": [
+            "['(A) Legalább $95 \\\\%$ azoknak, akik megnézik a filmet, nem fog tetszeni ez a film.', '(B) Legalább $95 \\\\%$ azoknak, akik könyveket olvasnak, nem fog tetszeni ez a film.', '(C) A legtöbb ember, akinek nem tetszik ez a könyv, szeretni fogja ezt a filmet.', '(D) A legtöbb ember, akinek tetszik ez a könyv, nem fogja szeretni ezt a filmet.']"
+        ],
+        "label": "D",
+        "ind": 11
+    },
+    {
+        "passage": "Kérdés: Melyik a következő rendezett párok közül $(x, y)$ elégíti ki a $5x - 3y < 4$ egyenlőtlenséget? I. $(1,1)$ II. $(2,5)$ III. $(3,2)$",
+        "question": "Melyik a következő rendezett párok közül $(x, y)$ elégíti ki a $5x - 3y < 4$ egyenlőtlenséget?",
+        "options": [
+            "(A) Csak I  ",
+            "(B) Csak II  ",
+            "(C) Csak I és II  ",
+            "(D) Csak I és III"
+        ],
+        "label": "C",
+        "ind": 12
+    },
+    {
+        "passage": "[Háttérinformáció itt]",
+        "question": "Az $(a x+3)^{2}=36$ egyenletben $a$ egy állandó. Ha $x=-3$ az egyenlet egyik megoldása, mi lehet $a$ egyik lehetséges értéke?",
+        "options": [
+            "['(A)-11', '(B)-5', '(C)-1', '(D)0']"
+        ],
+        "label": "C",
+        "ind": 13
+    },
+    {
+        "passage": "Nincs háttérinformáció megadva.",
+        "question": "$$9 a x+9 b-6=21$$ Az alábbi egyenlet alapján, mennyi $a x+b$ értéke?",
+        "options": [
+            "['(A)3', '(B)6', '(C)8', '(D)12']"
+        ],
+        "label": "A",
+        "ind": 14
+    },
+    {
+        "passage": "Háttérinformáció:",
+        "question": "Lani a 8 órás munkanapjának $15 \\%$-át értekezleteken töltötte. Hány percet töltött a munkanapjából értekezleteken?",
+        "options": [
+            "['(A) 1,2', '(B) 15', '(C) 48', '(D) 72']"
+        ],
+        "label": "D",
+        "ind": 15
+    },
+    {
+        "passage": "Egy szoftvercég egy új játékot árul standard és gyűjtői kiadásban. A standard kiadás dobozának térfogata 20 köbinch, míg a gyűjtői kiadás dobozának térfogata 30 köbinch. A cég 75 példányra kapott megrendelést, és a szállítandó rendelés teljes térfogata 1,870 köbinch.",
+        "question": "Melyik az alábbi egyenletrendszerek közül használható annak meghatározására, hogy hány standard kiadású játék, $s$, és hány gyűjtői kiadású játék, $c$, lett megrendelve?",
+        "options": [
+            "(A)$75-s=c$ $20 s+30 c=1,870$",
+            "",
+            "(B)$75-s=c$ $30 s+20 c=1,870$",
+            "",
+            "(C)$\\quad s-c=75$ $25(s+c)=1,870$",
+            "",
+            "(D)$\\quad s-c=75$ $30 s+20 c=1,870$"
+        ],
+        "label": "A",
+        "ind": 16
+    },
+    {
+        "passage": "[Háttérinformáció itt]",
+        "question": "Egy vásárló 53,00 dollárt fizetett egy kabátért, miután egy 6%-os forgalmi adót hozzáadtak. Mennyibe került a kabát az adó hozzáadása előtt?",
+        "options": [
+            "['(A) 47,60 dollár', '(B) 50,00 dollár', '(C) 52,60 dollár', '(D) 52,84 dollár']"
+        ],
+        "label": "B",
+        "ind": 17
+    },
+    {
+        "passage": "[No background information provided]",
+        "question": "Ha 50 egycentes érmét egymásra helyezünk egy oszlopban, az oszlop körülbelül $3 \\frac{7}{8}$ hüvelyk magas lesz. Ezzel az aránnyal a következők közül melyik van legközelebb ahhoz az érmeszámhoz, amely egy 8 hüvelyk magas oszlopot alkotna?",
+        "options": [
+            "['(A)75', '(B)100', '(C)200', '(D)390']"
+        ],
+        "label": "B",
+        "ind": 18
+    },
+    {
+        "passage": "Nincs háttérinformáció megadva.",
+        "question": "Ha $a-b=12$ és $\\frac{b}{2}=10$, akkor mennyi $a+b$ értéke?",
+        "options": [
+            "['(A)2', '(B)12', '(C)32', '(D)52']"
+        ],
+        "label": "D",
+        "ind": 19
+    },
+    {
+        "passage": "$$y=19.99+1.50 x$$ A fenti egyenlet modellezi a teljes költséget $y$ dollárban, amelyet egy cég felszámít egy ügyfélnek, hogy egy teherautót béreljen egy napra, és vezesse azt $x$ mérföldet. A teljes költség egy alapdíjból és egy megtett mérföldenkénti díjból áll.",
+        "question": "Amikor az egyenletet az $x y$-síkon ábrázoljuk, mit jelent a grafikon $y$-metszete a modell szempontjából?",
+        "options": [
+            "(A) Egy alapdíj $19.99$ dollárért",
+            "",
+            "(B) Egy megtett mérföldenkénti díj $1.50$ dollárért",
+            "",
+            "(C) Egy megtett mérföldenkénti díj $19.99$ dollárért",
+            "",
+            "(D) Teljes napi díjak $21.49$ dollárért"
+        ],
+        "label": "A",
+        "ind": 20
+    },
+    {
+        "passage": "$$.\\begin{aligned}.& \\text { Mosteller képlete: } A=\\frac{\\sqrt{h w}}{60} \\\\.& \\text { Current képlete: } A=\\frac{4+w}{30}.\\end{aligned}.$$. A fenti képleteket az orvostudományban használják az újszülöttek és gyermekek testfelületének $A$ négyzetméterben történő becslésére, akiknek testsúlya $w$ 3 és 30 kilogramm között van, és testmagasságukat $h$ centiméterben mérik.",
+        "question": "Current képlete alapján mi a $w$ $A$ függvényében?",
+        "options": [
+            "['(A)$w=30 A-4$', '(B)$w=30 A+4$', '(C)$w=30(A-4)$', '(D)$w=30(A+4)$']"
+        ],
+        "label": "A",
+        "ind": 21
+    },
+    {
+        "passage": "Mosteller képlete: \\( A=\\frac{\\sqrt{hw}}{60} \\). Current képlete: \\( A=\\frac{4+w}{30} \\). A fenti képleteket az orvostudományban használják a csecsemők és gyermekek testfelületének \\( A \\) négyzetméterben történő becslésére, akiknek súlya \\( w \\) 3 és 30 kilogramm között van, és magasságukat \\( h \\) centiméterben mérik.",
+        "question": "Ha a Mosteller és a Current képletek ugyanazt a becslést adják \\( A \\)-ra, akkor melyik következő kifejezés egyenértékű \\(\\sqrt{hw}\\)-vel?",
+        "options": [
+            "(A) \\(\\frac{4+w}{2}\\), (B) \\(\\frac{4+w}{1,800}\\), (C) \\(2(4+w)\\), (D) \\(\\frac{(4+w)^{2}}{2}\\)"
+        ],
+        "label": "C",
+        "ind": 22
+    },
+    {
+        "passage": "Egy felmérést végeztek az összes 50 állam lakosai között, hogy kiderítsék, hányan szereztek főiskolai vagy annál magasabb diplomát. A fenti táblázat 7 állam eredményeit mutatja.",
+        "question": "Azoknak a lakosoknak a százaléka, akik főiskolai vagy annál magasabb diplomát szereztek\n\n\\begin{center}\n\\begin{tabular}{|c|c|}\n\\hline\nÁllam & Lakosok százaléka \\\\\n\\hline\nÁllam A & $21.9 \\%$ \\\\\n\\hline\nÁllam B & $27.9 \\%$ \\\\\n\\hline\nÁllam C & $25.9 \\%$ \\\\\n\\hline\nÁllam D & $19.5 \\%$ \\\\\n\\hline\nÁllam E & $30.1 \\%$ \\\\\n\\hline\nÁllam F & $36.4 \\%$ \\\\\n\\hline\nÁllam G & $35.5 \\%$ \\\\\n\\hline\n\\end{tabular}\n\\end{center}\n\nA főiskolai vagy annál magasabb diplomát szerzett lakosok medián százaléka az összes 50 állam esetében $26.95 \\%$ volt. Mekkora a különbség a főiskolai vagy annál magasabb diplomát szerzett lakosok medián százaléka között ezeknél a 7 államnál és az összes 50 állam mediánja között?",
+        "options": [
+            "['(A)$0.05 \\\\%$', '(B)$0.95 \\\\%$', '(C)$1.22 \\\\%$', '(D)$7.45 \\\\%$']"
+        ],
+        "label": "B",
+        "ind": 23
+    },
+    {
+        "passage": "A cylindrical can containing pieces of fruit is filled to the top with syrup before being sealed. The base of the can has an area of \\(75 \\mathrm{~cm}^{2}\\), and the height of the can is \\(10 \\mathrm{~cm}\\).",
+        "question": "If \\(110 \\mathrm{~cm}^{3}\\) of syrup is needed to fill the can to the top, which of the following is closest to the total volume of the pieces of fruit in the can?",
+        "options": [
+            "(A) \\(7.5 \\mathrm{~cm}^{3}\\), (B) \\(185 \\mathrm{~cm}^{3}\\), (C) \\(640 \\mathrm{~cm}^{3}\\), (D) \\(750 \\mathrm{~cm}^{3}\\)"
+        ],
+        "label": "C",
+        "ind": 24
+    },
+    {
+        "passage": "A fenti függvény a magasságot $h$ lábban modellezi egy tárgy föld feletti magasságát, amelyet $t$ másodperccel azután lőttek fel egyenesen a levegőbe.",
+        "question": "$$h(t)=-16 t^{2}+110 t+72$$\nMit jelent a 72-es szám a függvényben?",
+        "options": [
+            "(A) A tárgy kezdeti magassága lábban",
+            "(B) A tárgy maximális magassága lábban",
+            "(C) A tárgy kezdeti sebessége láb másodpercenként",
+            "(D) A tárgy maximális sebessége láb másodpercenként"
+        ],
+        "label": "A",
+        "ind": 25
+    },
+    {
+        "passage": "A táblázat a tipikus energiát grammonként, ételkalóriában és kilojoule-ban kifejezve adja meg az élelmiszerek három makrotápanyagának.\n\\begin{center}\n\\begin{tabular}{|l|c|c|}\n\\hline\nMakrotápanyag & Ételkalóriák & Kilojoule \\\\\n\\hline\nFehérje & 4,0 & 16,7 \\\\\n\\hline\nZsír & 9,0 & 37,7 \\\\\n\\hline\nSzénhidrát & 4,0 & 16,7 \\\\\n\\hline\n\\end{tabular}\n\\end{center}",
+        "question": "Ha $x$ ételkalória egyenértékű $k$ kilojoule-lal, az alábbiak közül melyik írja le legjobban az $x$ és $k$ közötti kapcsolatot?",
+        "options": [
+            "(A)$k=0,24 x$ \\\\",
+            "(B)$k=4,2 x$ \\\\",
+            "(C)$x=4,2 k$ \\\\",
+            "(D)$x k=4,2$"
+        ],
+        "label": "B",
+        "ind": 26
+    },
+    {
+        "passage": "A tipikus makrotápanyagok energiatartalma grammonként.\n\\begin{center}\n\\begin{tabular}{|l|c|c|}\n\\hline\nMakrotápanyag & Élelmiszer kalória & Kilojoule \\\\\n\\hline\nFehérje & 4,0 & 16,7 \\\\\n\\hline\nZsír & 9,0 & 37,7 \\\\\n\\hline\nSzénhidrát & 4,0 & 16,7 \\\\\n\\hline\n\\end{tabular}\n\\end{center}\nA fenti táblázat megadja a három makrotápanyag grammonkénti tipikus energiatartalmát, élelmiszer kalória és kilojoule mértékegységekben kifejezve.",
+        "question": "Ha a müzliszelet 180 élelmiszer kalóriája teljes egészében $p$ gramm fehérjéből, $f$ gramm zsírból és $c$ gramm szénhidrátból származik, melyik az alábbiak közül fejezi ki $f$-et $p$ és $c$ függvényében?",
+        "options": [
+            "(A)$f=20+\\\\frac{4}{9}(p+c)$",
+            "",
+            "(B)$f=20-\\\\frac{4}{9}(p+c)$",
+            "",
+            "(C)$f=20-\\\\frac{4}{9}(p-c)$",
+            "",
+            "(D)$f=20+\\\\frac{9}{4}(p+c)$"
+        ],
+        "label": "B",
+        "ind": 27
+    },
+    {
+        "passage": "[Háttérinformációk itt]",
+        "question": "Nate 25 métert sétál 13,7 másodperc alatt. Ha ugyanezzel a sebességgel sétál, akkor az alábbiak közül melyik van a legközelebb ahhoz a távolsághoz, amit 4 perc alatt fog megtenni?",
+        "options": [
+            "(A) 150 méter, (B) 450 méter, (C) 700 méter, (D) 1.400 méter"
+        ],
+        "label": "B",
+        "ind": 0
+    },
+    {
+        "passage": "\\begin{center}\n\\begin{tabular}{|l|c|}\n\\hline\n\\multicolumn{1}{|c|}{Bolygó} & Gravitációs gyorsulás $\\left(\\frac{\\mathrm{m}}{\\mathrm{sec}^{2}}\\right)$ \\\\\n\\hline\\hline\nMerkúr & 3.6 \\\\\n\\hline\nVénusz & 8.9 \\\\\n\\hline\nFöld & 9.8 \\\\\n\\hline\nMars & 3.8 \\\\\n\\hline\nJupiter & 26.0 \\\\\n\\hline\nSzaturnusz & 11.1 \\\\\n\\hline\nUránusz & 10.7 \\\\\n\\hline\nNeptunusz & 14.1 \\\\\n\\hline\n\\end{tabular}\n\\end{center}\nA fenti táblázat közelítő értékeket mutat a gravitációs gyorsulásra vonatkozóan, méter per másodperc négyzetben $\\left(\\frac{\\mathrm{m}}{\\sec ^{2}}\\right)$, a naprendszerünk nyolc bolygójára. Egy tárgy súlyát egy adott bolygón a $W=m g$ képlet segítségével lehet meghatározni, ahol $W$ a tárgy súlya newtonban mérve, $m$ a tárgy tömege kilogrammban mérve, és $g$ a bolygó gravitációs gyorsulása $\\frac{m}{\\sec ^{2}}$-ben mérve.",
+        "question": "Mi a súlya newtonban egy 90 kilogrammos tárgynak a Merkúron?",
+        "options": [
+            "(A) 25, (B) 86, (C) 101, (D) 324"
+        ],
+        "label": "D",
+        "ind": 1
+    },
+    {
+        "passage": "\\begin{center}\n\\begin{tabular}{|l|c|}\n\\hline\n\\multicolumn{1}{|c|}{Bolygó} & Gravitációs gyorsulás $\\left(\\frac{\\mathrm{m}}{\\mathrm{sec}^{2}}\\right)$ \\\\\n\\hline\\hline\nMerkúr & 3.6 \\\\\n\\hline\nVénusz & 8.9 \\\\\n\\hline\nFöld & 9.8 \\\\\n\\hline\nMars & 3.8 \\\\\n\\hline\nJupiter & 26.0 \\\\\n\\hline\nSzaturnusz & 11.1 \\\\\n\\hline\nUránusz & 10.7 \\\\\n\\hline\nNeptunusz & 14.1 \\\\\n\\hline\n\\end{tabular}\n\\end{center}\nA fenti táblázat a Naprendszerünk nyolc bolygójának közelítő gravitációs gyorsulását mutatja méter per másodperc négyzetre $\\left(\\frac{\\mathrm{m}}{\\sec ^{2}}\\right)$ vonatkoztatva. Egy tárgy súlya egy adott bolygón az $W=m g$ képlettel számítható ki, ahol $W$ a tárgy súlya newtonban mérve, $m$ a tárgy tömege kilogrammban mérve, és $g$ a bolygó gravitációs gyorsulása $\\frac{m}{\\sec ^{2}}$ mértékegységben.",
+        "question": "Egy tárgy súlya a Földön 150 newton. Melyik bolygón lenne a tárgy súlya körülbelül 170 newton?",
+        "options": [
+            "(A) Vénusz",
+            "(B) Szaturnusz",
+            "(C) Uránusz",
+            "(D) Neptunusz"
+        ],
+        "label": "B",
+        "ind": 2
+    },
+    {
+        "passage": "A fenti egyenlet megadja a labda magasságát, $h$ lábban, $t$ másodperccel azután, hogy egyenes vonalban felfelé dobják egy $v$ láb per másodperces kezdősebességgel egy $k$ láb magasról.",
+        "question": "Melyik kifejezés adja meg $v$-t $h$, $t$, és $k$ függvényében?",
+        "options": [
+            "(A)$v=h+k-16 t$",
+            "",
+            "(B)$v=\\\\frac{h-k+16}{t}$",
+            "",
+            "(C)$v=\\\\frac{h+k}{t}-16 t$",
+            "",
+            "(D)$v=\\\\frac{h-k}{t}+16 t$"
+        ],
+        "label": "D",
+        "ind": 3
+    },
+    {
+        "passage": "Annak meghatározása érdekében, hogy az $X$ kezelés sikeres-e a látás javításában, egy kutatási tanulmányt végeztek. Egy nagy létszámú, rossz látással rendelkező populációból véletlenszerűen kiválasztottak 300 résztvevőt. A résztvevők felét véletlenszerűen az $X$ kezelésre osztották be, míg a másik felük nem kapta meg az $X$ kezelést. Az eredmények azt mutatták, hogy azoknak a résztvevőknek, akik megkapták az $X$ kezelést, jelentősen javult a látásuk azokhoz képest, akik nem kapták meg az $X$ kezelést.",
+        "question": "A tanulmány tervezése és eredményei alapján melyik a következő állítások közül a megfelelő következtetés?",
+        "options": [
+            "(A) Az $X$ kezelés valószínűleg javítja a rossz látással rendelkező emberek látását.",
+            "(B) Az $X$ kezelés jobban javítja a látást, mint az összes többi elérhető kezelés.",
+            "(C) Az $X$ kezelés bárkinek javítani fogja a látását, aki beveszi.",
+            "(D) Az $X$ kezelés jelentős javulást okoz a látásban."
+        ],
+        "label": "A",
+        "ind": 4
+    },
+    {
+        "passage": "$$.\\begin{aligned}.& S(P)=\\frac{1}{2} P+40 \\\\.& D(P)=220-P.\\end{aligned}.$$ A termék piacra kínált mennyisége és a termék iránti kereslet mennyisége a termék árának függvénye. A fenti függvények egy bizonyos termék becsült kínálati és keresleti függvényei. Az $S(P)$ függvény azt adja meg, hogy a terméket milyen mennyiségben kínálják a piacon, amikor az ár $P$ dollár, míg a $D(P)$ függvény azt adja meg, hogy a terméket milyen mennyiségben keresik a piacon, amikor az ár $P$ dollár.",
+        "question": "Hogyan változik a piacra kínált termék mennyisége, ha a termék ára $\\$ 10$-val emelkedik?",
+        "options": [
+            "(A) A kínálat 5 egységgel csökken.",
+            "(B) A kínálat 5 egységgel növekszik.",
+            "(C) A kínálat 10 egységgel növekszik.",
+            "(D) A kínálat 50 egységgel növekszik."
+        ],
+        "label": "B",
+        "ind": 5
+    },
+    {
+        "passage": "$$.\\begin{aligned}.& S(P)=\\frac{1}{2} P+40 \\\\.& D(P)=220-P.\\end{aligned}.$$. Egy gazdasági piacon az áru kínált mennyisége és az áru keresett mennyisége az áru árának függvénye. A fenti függvények egy bizonyos termék becsült kínálati és keresleti függvényei. Az $S(P)$ függvény megadja a terméknek a piacra szállított mennyiségét, amikor az ár $P$ dollár, míg a $D(P)$ függvény megadja a terméknek a piac által keresett mennyiségét, amikor az ár $P$ dollár.",
+        "question": "Milyen áron lesz a piacra szállított termék mennyisége egyenlő a piac által keresett termék mennyiségével?",
+        "options": [
+            "['(A)$\\\\$ 90$', '(B)$\\\\$ 120$', '(C)$\\\\$ 133$', '(D)$\\\\$ 155$']"
+        ],
+        "label": "B",
+        "ind": 6
+    },
+    {
+        "passage": "$$.\\begin{aligned}.& S(P)=\\frac{1}{2} P+40 \\\\.& D(P)=220-P.\\end{aligned}.$$ Egy gazdasági piacon a termék kínálatának és keresletének mennyisége a termék árának függvénye. A fenti függvények egy adott termék becsült kínálati és keresleti függvényei. Az $S(P)$ függvény megadja a termék kínált mennyiségét a piacon, ha az ár $P$ dollár, míg a $D(P)$ függvény megadja a termék piaci keresletének mennyiségét, ha az ár $P$ dollár.",
+        "question": "A grafént, amelyet integrált áramkörök gyártásához használnak, olyan vékony, hogy egy uncia tömegű lap akár 7 futballpályát is lefedhet. Ha egy futballpálya területe körülbelül $1 \\frac{1}{3}$ hektár, akkor körülbelül hány hektárt fedhetne le 48 uncia grafén?",
+        "options": [
+            "['(A)250', '(B)350', '(C)450', '(D)1,350']"
+        ],
+        "label": "C",
+        "ind": 7
+    },
+    {
+        "passage": "[Háttérinformáció itt]",
+        "question": "A következő négy megtakarítási számlatípus közül melyik opció eredményezné a számlán lévő pénz exponenciális növekedését?",
+        "options": [
+            "['(A) Minden következő évben a kezdeti megtakarítás $2 \\\\%$-a hozzáadódik a számla értékéhez.', '(B) Minden következő évben a kezdeti megtakarítás $1.5 \\\\%$-a és $\\\\$ 100$ hozzáadódik a számla értékéhez.', '(C) Minden következő évben az aktuális érték $1 \\\\%$-a hozzáadódik a számla értékéhez.', '(D) Minden következő évben $\\\\$ 100$ hozzáadódik a számla értékéhez.']"
+        ],
+        "label": "C",
+        "ind": 8
+    },
+    {
+        "passage": "",
+        "question": "Három szám összege 855. Az egyik szám, $x$, $50\\%$-kal több, mint a másik két szám összege. Mi az $x$ értéke?",
+        "options": [
+            "['(A)570', '(B)513', '(C)214', '(D)155']"
+        ],
+        "label": "B",
+        "ind": 9
+    },
+    {
+        "passage": "Mr. Kohl-nak van egy lombikja, amely $n$ milliliter oldatot tartalmaz, amit szét kell osztania a kémia osztály diákjai között.",
+        "question": "Ha minden diáknak 3 milliliter oldatot ad, akkor 5 milliliter marad. Ahhoz, hogy minden diáknak 4 milliliter oldatot tudjon adni, további 21 milliliterre lenne szüksége. Hány diák van az osztályban?",
+        "options": [
+            "(A) 16, (B) 21, (C) 23, (D) 26"
+        ],
+        "label": "D",
+        "ind": 10
+    },
+    {
+        "passage": "",
+        "question": "Az $x y$ síkon az a pontok által meghatározott egyenes, amely áthalad az origón, a $(2, k)$ és $(k, 32)$ pontokon megy keresztül. Az alábbiak közül melyik lehet $k$ értéke?",
+        "options": [
+            "(A) 0",
+            "(B) 4",
+            "(C) 8",
+            "(D) 16"
+        ],
+        "label": "C",
+        "ind": 11
+    },
+    {
+        "passage": "A rectangle was altered by increasing its length by 10 percent and decreasing its width by $p$ percent. If these alterations decreased the area of the rectangle by 12 percent, what is the value of $p$ ?",
+        "question": "Egy téglalapot úgy módosítottak, hogy a hosszát 10 százalékkal növelték és a szélességét $p$ százalékkal csökkentették. Ha ezek a módosítások a téglalap területét 12 százalékkal csökkentették, akkor mi $p$ értéke?",
+        "options": [
+            "(A)12 ",
+            "(B)15 ",
+            "(C)20 ",
+            "(D)22"
+        ],
+        "label": "C",
+        "ind": 12
+    },
+    {
+        "passage": "Egy város infrastruktúrájának karbantartásának tervezése során egy építőmérnök azt becsüli, hogy a város népessége a jelenlegi állapottól kezdve 20 évente 10 százalékkal csökken.",
+        "question": "Ha a város jelenlegi népessége 50,000, akkor az alábbi kifejezések közül melyik képviseli az építőmérnök becslését a város népességére $t$ év múlva?",
+        "options": [
+            "(A)$50,000(0.1)^{20 t}$, (B)$50,000(0.1)^{\\\\frac{t}{20}}$, (C)$50,000(0.9)^{20 t}$, (D)$50,000(0.9)^{\\\\frac{t}{20}}$"
+        ],
+        "label": "D",
+        "ind": 13
+    },
+    {
+        "passage": "A fenti hiányos táblázat összefoglalja a balkezes és jobbkezes diákok számát nemek szerint a Keisel Középiskola nyolcadikos diákjai között. Ötször annyi jobbkezes lány van, mint balkezes lány, és kilencszer annyi jobbkezes fiú van, mint balkezes fiú. Ha összesen 18 balkezes és 122 jobbkezes diák van az iskolában, akkor a következők közül melyik van legközelebb annak a valószínűségéhez, hogy egy véletlenszerűen kiválasztott jobbkezes diák lány? (Megjegyzés: Tegyük fel, hogy a nyolcadikos diákok között nincs olyan, aki egyszerre lenne jobbkezes és balkezes.)",
+        "question": "\\begin{center}\\begin{tabular}{|l|c|c|}\\cline { 2 - 3 }\\multicolumn{1}{c|}{} & \\multicolumn{2}{c|}{Kézdominancia} \\\\\\hlineNem & Bal & Jobb \\\\\\hline\\hlineNő &  &  \\\\\\hlineFérfi &  &  \\\\\\hline\\hlineÖsszesen & 18 & 122 \\\\\\hline\\end{tabular}\\end{center}",
+        "options": [
+            "['(A)0,410', '(B)0,357', '(C)0,333', '(D)0,250']"
+        ],
+        "label": "A",
+        "ind": 14
+    },
+    {
+        "passage": "",
+        "question": "$$\\begin{aligned}& 3 x+b=5 x-7 \\\\& 3 y+c=5 y-7\\end{aligned}$$A fenti egyenletekben $b$ és $c$ konstansok. Ha $b$ $c$ mínusz $\\frac{1}{2}$, melyik állítás igaz az alábbiak közül?",
+        "options": [
+            "['(A)$x$ $y$ mínusz $\\\\frac{1}{4}$.', '(B)$x$ $y$ mínusz $\\\\frac{1}{2}$.', '(C)$x$ $y$ mínusz 1.', '(D)$x$ $y$ plusz $\\\\frac{1}{2}$.']"
+        ],
+        "label": "A",
+        "ind": 15
+    },
+    {
+        "passage": "Háttérinformáció nem áll rendelkezésre ehhez a kérdéshez.",
+        "question": "Melyek a megoldásai a $4x^{2}-8x-12=0$ másodfokú egyenletnek?",
+        "options": [
+            "(A) $x=-1$ és $x=-3$  ",
+            "(B) $x=-1$ és $x=3$  ",
+            "(C) $x=1$ és $x=-3$  ",
+            "(D) $x=1$ és $x=3$"
+        ],
+        "label": "B",
+        "ind": 16
+    },
+    {
+        "passage": "Háttérinformáció itt",
+        "question": "$$\\sqrt{k+2}-x=0$$ A fenti egyenletben $k$ egy állandó. Ha $x=9$, mi $k$ értéke?",
+        "options": [
+            "['(A)1', '(B)7', '(C)16', '(D)79']"
+        ],
+        "label": "D",
+        "ind": 17
+    },
+    {
+        "passage": "Nincs háttérinformáció megadva.",
+        "question": "Melyik az alábbiak közül ekvivalens az $a^{2}-1$ és $a+1$ kifejezések összegével?",
+        "options": [
+            "(A) $a^{2}+a$  ",
+            "(B) $a^{3}-1$  ",
+            "(C) $2a^{2}$  ",
+            "(D) $a^{3}$"
+        ],
+        "label": "A",
+        "ind": 18
+    },
+    {
+        "passage": "A levegőben a hangsebesség, \\( S \\), méter per másodpercben, a levegő hőmérsékletének, \\( T \\), lineáris függvénye Celsius-fokban, és a következőképpen adható meg: \\( S(T) = 0.6T + 331.4 \\).",
+        "question": "Melyik a következő állítások közül a legjobb értelmezése a 331.4 számnak ebben a kontextusban?",
+        "options": [
+            "(A) A hangsebesség, méter per másodpercben, \\( 0^{\\circ} \\mathrm{C} \\)-on",
+            "",
+            "(B) A hangsebesség, méter per másodpercben, \\( 0.6^{\\circ} \\mathrm{C} \\)-on",
+            "",
+            "(C) A hangsebesség növekedése, méter per másodpercben, amely \\( 1^{\\circ} \\mathrm{C} \\)-os növekedésnek felel meg",
+            "",
+            "(D) A hangsebesség növekedése, méter per másodpercben, amely \\( 0.6^{\\circ} \\mathrm{C} \\)-os növekedésnek felel meg"
+        ],
+        "label": "A",
+        "ind": 19
+    },
+    {
+        "passage": "Nincs rendelkezésre álló háttérinformáció ehhez a kérdéshez.",
+        "question": "$$\\begin{aligned}y & =x^{2} \\\\2 y+6 & =2(x+3)\\end{aligned}$$Ha $(x, y)$ a fenti egyenletrendszer megoldása és $x>0$, akkor mi az $x y$ értéke?",
+        "options": [
+            "['(A)1', '(B)2', '(C)3', '(D)9']"
+        ],
+        "label": "A",
+        "ind": 20
+    },
+    {
+        "passage": "Nincs háttérinformáció megadva.",
+        "question": "Ha \\(a^{2}+b^{2}=z\\) és \\(a b=y\\), akkor melyik az alábbiak közül ekvivalens a \\(4 z+8 y\\) kifejezéssel?",
+        "options": [
+            "(A)\\((a+2 b)^{2}\\)",
+            "",
+            "(B)\\((2 a+2 b)^{2}\\)",
+            "",
+            "(C)\\((4 a+4 b)^{2}\\)",
+            "",
+            "(D)\\((4 a+8 b)^{2}\\)"
+        ],
+        "label": "B",
+        "ind": 21
+    },
+    {
+        "passage": "<nincs háttérinformáció>",
+        "question": "Egy A jelű egyenes körhenger térfogata 22 köbcentiméter. Mekkora az egyenes körhenger térfogata köbcentiméterben, ha a sugara kétszerese, a magassága pedig fele az A hengerének?",
+        "options": [
+            "['(A)11', '(B)22', '(C)44', '(D)66']"
+        ],
+        "label": "C",
+        "ind": 22
+    },
+    {
+        "passage": "",
+        "question": "Melyik az alábbiak közül egyenértékű a $9^{\\frac{3}{4}}$ kifejezéssel?",
+        "options": [
+            "['(A)$\\\\sqrt[3]{9}$', '(B)$\\\\sqrt[4]{9}$', '(C)$\\\\sqrt{3}$', '(D)$3 \\\\sqrt{3}$']"
+        ],
+        "label": "D",
+        "ind": 23
+    },
+    {
+        "passage": "",
+        "question": "Egy étteremben $n$ csésze teát készítenek úgy, hogy $t$ teafiltert adnak forró vízhez. Ha $t=n+2$, hány további teafilter szükséges minden további csésze tea elkészítéséhez?",
+        "options": [
+            "['(A) Egy sem', '(B) Egy', '(C) Kettő', '(D) Három']"
+        ],
+        "label": "B",
+        "ind": 24
+    },
+    {
+        "passage": "[Background information here]",
+        "question": "Alan hetente átlagosan 100 mérföldet vezet. Az autója átlagosan 25 mérföldet tud megtenni gallononként benzinnel. Alan szeretné heti benzinköltségét 5 dollárral csökkenteni. Feltételezve, hogy a benzin gallononként 4 dollárba kerül, melyik egyenletet használhatja Alan annak meghatározására, hogy hány mérfölddel kevesebbet, $m$, kellene vezetnie hetente?",
+        "options": [
+            "['(A)$\\\\frac{25}{4} m=95$', '(B)$\\\\frac{25}{4} m=5$', '(C)$\\\\frac{4}{25} m=95$', '(D)$\\\\frac{4}{25} m=5$']"
+        ],
+        "label": "D",
+        "ind": 25
+    },
+    {
+        "passage": "[Háttér információ]",
+        "question": "\\begin{center}\\begin{tabular}{|c|c|}\\hline$x$ & $f(x)$ \\\\\\hline1 & 5 \\\\\\hline3 & 13 \\\\\\hline5 & 21 \\\\\\hline\\end{tabular}\\end{center}A fenti táblázat néhány értéket mutat a $f$ lineáris függvényhez. Melyik a következőek közül határozza meg $f$-et?",
+        "options": [
+            "(A)$f(x)=2 x+3$  ",
+            "(B)$f(x)=3 x+2$  ",
+            "(C)$f(x)=4 x+1$  ",
+            "(D)$f(x)=5 x$"
+        ],
+        "label": "C",
+        "ind": 26
+    },
+    {
+        "passage": "Háttér:",
+        "question": "Egy pékség jellegzetes csokoládés muffin elkészítéséhez a péknek muffinonként 2,5 uncia csokoládéra van szüksége. Hány font csokoládéra van szükség 48 jellegzetes csokoládés muffin elkészítéséhez? (1 font = 16 uncia)",
+        "options": [
+            "['(A)7,5', '(B)10', '(C)50,5', '(D)120']"
+        ],
+        "label": "A",
+        "ind": 27
+    },
+    {
+        "passage": "A világ népessége átlagosan évi 1,9 százalékkal növekedett 1945 óta. 1975-ben körülbelül 4 milliárd ember élt a világon.",
+        "question": "Melyik függvény írja le a világ népességét $P$, milliárd főben kifejezve, $t$ évvel 1975 után? (1 milliárd = 1 000 000 000)",
+        "options": [
+            "(A)$P(t)=4(1.019)^{t}$ ",
+            "(B)$P(t)=4(1.9)^{t}$ ",
+            "(C)$P(t)=1.19 t+4$ ",
+            "(D)$P(t)=1.019 t+4$"
+        ],
+        "label": "A",
+        "ind": 0
+    },
+    {
+        "passage": "A háttér információ itt nincs megadva, ezért nem szükséges lefordítani.",
+        "question": "Egy kör az $x y$ síkban az alábbi egyenlettel van megadva: $(x+3)^{2}+(y-1)^{2}=25$. Az alábbi pontok közül melyik NEM fekszik a kör belsejében?",
+        "options": [
+            "(A)$(-7,3)$, (B)$(-3,1)$, (C)$(0,0)$, (D)$(3,2)$"
+        ],
+        "label": "D",
+        "ind": 1
+    },
+    {
+        "passage": "A kérdéshez nincs megadva háttérinformáció.",
+        "question": "\\begin{center}\\begin{tabular}{c|c}Év & $\\begin{array}{c}\\text { Eladott előfizetések } \\\\ \\text { száma }\\end{array}$ \\\\\\hline2012 & 5,600 \\\\2013 & 5,880 \\\\\\end{tabular}\\end{center}Az online hírszolgáltatás menedzsere megkapta a fenti jelentést az eladott előfizetések számáról. A menedzser úgy becsülte, hogy a 2012 és 2013 közötti százalékos növekedés kétszerese lesz a 2013 és 2014 közötti százalékos növekedésnek. Hány előfizetést várt, hogy eladnak 2014-ben?",
+        "options": [
+            "(A) 6,020",
+            "(B) 6,027",
+            "(C) 6,440",
+            "(D) 6,468"
+        ],
+        "label": "B",
+        "ind": 2
+    },
+    {
+        "passage": "Nincs háttérinformáció megadva.",
+        "question": "$$3x + x + x + x - 3 - 2 = 7 + x + x$$ Az egyenletben fent, mi az $x$ értéke?",
+        "options": [
+            "['(A)$-\\\\frac{5}{7}$', '(B)1', '(C)$\\\\frac{12}{7}$', '(D)3']"
+        ],
+        "label": "D",
+        "ind": 3
+    },
+    {
+        "passage": "A következő képletet gyakran használják a projektmenedzserek az E, azaz a becsült munka befejezési idejének kiszámításához, ahol O a legrövidebb befejezési idő, P a leghosszabb befejezési idő, és M a legvalószínűbb befejezési idő.",
+        "question": "A következő képlet alapján melyik adja meg helyesen P-t E, O és M függvényében?\n$$E=\\frac{O+4 M+P}{6}$$",
+        "options": [
+            "(A)$P=6 E-O-4 M$  ",
+            "(B)$P=-6 E+O+4 M$  ",
+            "(C)$P=\\frac{O+4 M+E}{6}$  ",
+            "(D)$P=\\frac{O+4 M-E}{6}$"
+        ],
+        "label": "A",
+        "ind": 4
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Egy téglalap alakú táncparkett szélessége $w$ láb. A parkett hossza 6 lábbal hosszabb, mint a szélessége. Az alábbiak közül melyik fejezi ki a táncparkett kerületét lábban, $w$-vel kifejezve?",
+        "options": [
+            "(A)$2w + 6$, (B)$4w + 12$, (C)$w^{2} + 6$, (D)$w^{2} + 6w$"
+        ],
+        "label": "B",
+        "ind": 5
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "$$\\begin{aligned}y & >2 x-1 \\\\2 x & >5\\end{aligned}$$ Melyik a következő lehetőségek közül tartalmazza az összes olyan $y$ koordinátát, amely kielégíti a fenti egyenlőtlenségek rendszerét?",
+        "options": [
+            "['(A)$y>6$', '(B)$y>4$', '(C)$y>\\frac{5}{2}$', '(D)$y>\\frac{3}{2}$']"
+        ],
+        "label": "B",
+        "ind": 6
+    },
+    {
+        "passage": "[Háttér információ itt]",
+        "question": "$$\\sqrt{2 x+6}+4=x+3$$ Mi a fenti egyenlet megoldáshalmaza?",
+        "options": [
+            "['(A)$\\\\{-1\\\\}$', '(B)$\\\\{5\\\\}$', '(C)$\\\\{-1,5\\\\}$', '(D)$\\\\{0,-1,5\\\\}$']"
+        ],
+        "label": "B",
+        "ind": 7
+    },
+    {
+        "passage": "Nincs háttérinformáció megadva.",
+        "question": "$$\\begin{aligned}& f(x)=x^{3}-9x \\\\& g(x)=x^{2}-2x-3\\end{aligned}$$ Melyik a következő kifejezések közül ekvivalens $\\frac{f(x)}{g(x)}$-vel, ha $x>3 ?$",
+        "options": [
+            "['(A)$\\\\frac{1}{x+1}$', '(B)$\\\\frac{x+3}{x+1}$', '(C)$\\\\frac{x(x-3)}{x+1}$', '(D)$\\\\frac{x(x+3)}{x+1}$']"
+        ],
+        "label": "D",
+        "ind": 8
+    },
+    {
+        "passage": "Egy csoport 202 ember egy éjszakai kempingezésre ment, és 60 sátrat vittek magukkal. Néhány sátorban 2 ember fért el, a többi sátorban pedig 4 ember. Feltételezzük, hogy minden sátor teljesen megtelt, és mindenki egy sátorban aludt.",
+        "question": "Pontosan hány sátor volt 2 személyes?",
+        "options": [
+            "(A) 30, (B) 20, (C) 19, (D) 18"
+        ],
+        "label": "C",
+        "ind": 9
+    },
+    {
+        "passage": "[No background information provided]",
+        "question": "Ha $\\frac{2a}{b} = \\frac{1}{2}$, akkor mennyi a $\\frac{b}{a}$ értéke?",
+        "options": [
+            "['(A)$\\\\frac{1}{8}$', '(B)$\\\\frac{1}{4}$', '(C)2', '(D)4']"
+        ],
+        "label": "D",
+        "ind": 10
+    },
+    {
+        "passage": "[Háttérinformáció: Nincs megadva]",
+        "question": "Az olaj- és gáztermelés egy bizonyos területen 2000-ben 4 millió hordóról 2013-ra 1,9 millió hordóra csökkent. Feltételezve, hogy az olaj- és gáztermelés állandó ütemben csökkent, az alábbi lineáris függvények közül melyik modellezi legjobban a termelést, millió hordóban, $t$ évvel 2000 után?",
+        "options": [
+            "(A)$f(t)=\\frac{21}{130} t+4$, (B)$f(t)=\\frac{19}{130} t+4$, (C)$f(t)=-\\frac{21}{130} t+4$, (D)$f(t)=-\\frac{19}{130} t+4$"
+        ],
+        "label": "C",
+        "ind": 11
+    },
+    {
+        "passage": "Háttérinformáció:",
+        "question": "$$\\begin{aligned}& y=x^{2}+3 x-7 \\\\& y-5 x+8=0\\end{aligned}$$Hány megoldása van a fenti egyenletrendszernek?",
+        "options": [
+            "['(A) Pontosan 4 megoldás van.', '(B) Pontosan 2 megoldás van.', '(C) Pontosan 1 megoldás van.', '(D) Nincs megoldás.']"
+        ],
+        "label": "C",
+        "ind": 12
+    },
+    {
+        "passage": "A függvények \\( g \\) és \\( h \\) a következők szerint vannak definiálva.",
+        "question": "$$\\begin{aligned}& g(x)=2 x-1 \\\\& h(x)=1-g(x)\\end{aligned}$$ Mekkora az \\( h(0) \\) értéke?",
+        "options": [
+            "['(A)-2', '(B)0', '(C)1', '(D)2']"
+        ],
+        "label": "D",
+        "ind": 13
+    },
+    {
+        "passage": "Nincs háttérinformáció megadva.",
+        "question": "Egy font szőlő ára 2 dollár. Ezzel az árral hány dollárba kerülne c font szőlő?",
+        "options": [
+            "(A) \\(2c\\)  ",
+            "(B) \\(2+c\\)  ",
+            "(C) \\(\\frac{2}{c}\\)  ",
+            "(D) \\(\\frac{c}{2}\\)"
+        ],
+        "label": "A",
+        "ind": 14
+    },
+    {
+        "passage": "[Háttérinformáció itt]",
+        "question": "Egy adott modell 200 véletlenszerűen kiválasztott autójából 3 gyártási hibás. Ebben az arányban hány autó lesz gyártási hibás 10 000 ugyanolyan modellű autóból?",
+        "options": [
+            "['(A)150', '(B)200', '(C)250', '(D)300']"
+        ],
+        "label": "A",
+        "ind": 15
+    },
+    {
+        "passage": "Kétféle jegyet árultak egy koncertre, amelyet egy amfiteátrumban tartottak. A koncert ideje alatt a padon ülő jegyek darabja 75 dollárba került, a gyepen ülő jegyek pedig 40 dollárba kerültek. A koncert szervezői bejelentették, hogy 350 jegyet adtak el, és a jegyeladásokból származó bevétel 19 250 dollárt tett ki.",
+        "question": "Melyik a következő egyenletrendszerek közül használható a padon ülő jegyek számának, $B$, és a gyepen ülő jegyek számának, $L$, meghatározására, amelyeket a koncertre eladtak?",
+        "options": [
+            "(A) $(75 B)(40 L)=1,950$ $B+L=350$  ",
+            "(B) $40 B+75 L=19,250$ $B+L=350$  ",
+            "(C) $75 B+40 L=350$ $B+L=19,250$  ",
+            "(D) $75 B+40 L=19,250$ $B+L=350$"
+        ],
+        "label": "D",
+        "ind": 16
+    },
+    {
+        "passage": "nincs háttérinformáció",
+        "question": "Az $x y$-síkon, az alábbi egyenletek közül melyik grafikonja egy olyan egyenes, amelynek meredeksége 3?",
+        "options": [
+            "(A)$y=\\\\frac{1}{3} x$  ",
+            "(B)$y=x-3$  ",
+            "(C)$y=3 x+2$  ",
+            "(D)$y=6 x+3$"
+        ],
+        "label": "C",
+        "ind": 17
+    },
+    {
+        "passage": "",
+        "question": "$$x+1=\\frac{2}{x+1}$$ A fenti egyenletben az alábbiak közül melyik lehet az $x+1$ lehetséges értéke?",
+        "options": [
+            "['(A)$1-\\\\sqrt{2}$', '(B)$\\\\sqrt{2}$', '(C)2', '(D)4']"
+        ],
+        "label": "B",
+        "ind": 18
+    },
+    {
+        "passage": "Roberto is an insurance agent who sells two types of policies: a $50,000$ policy and a $100,000$ policy. Last month, his goal was to sell at least 57 insurance policies. While he did not meet his goal, the total value of the policies he sold was over $3,000,000$.",
+        "question": "Which of the following systems of inequalities describes $x$, the possible number of $50,000$ policies, and $y$, the possible number of $100,000$ policies, that Roberto sold last month?",
+        "options": [
+            "(A)$x+y<57$ $50,000 x+100,000 y<3,000,000$",
+            "",
+            "(B)$x+y>57$ $50,000 x+100,000 y>3,000,000$",
+            "",
+            "(C)$x+y<57$ $50,000 x+100,000 y>3,000,000$",
+            "",
+            "(D)$x+y>57$ $50,000 x+100,000 y<3,000,000$"
+        ],
+        "label": "C",
+        "ind": 19
+    },
+    {
+        "passage": "Nincs háttérinformáció megadva.",
+        "question": "$$\\begin{aligned}& 2x-y=8 \\\\& x+2y=4\\end{aligned}$$ Az alábbi egyenletrendszerben mi az $x+y$ értéke?",
+        "options": [
+            "['(A)-1', '(B)4', '(C)5', '(D)20']"
+        ],
+        "label": "B",
+        "ind": 20
+    },
+    {
+        "passage": "Háttérinformáció itt",
+        "question": "Melyik az alábbiak közül ekvivalens a következő kifejezéssel: $2\\left(x^{2}-x\\right)+3\\left(x^{2}-x\\right) ?$",
+        "options": [
+            "['(A)$5 x^{2}-5 x$', '(B)$5 x^{2}+5 x$', '(C)$5 x$', '(D)$5 x^{2}$']"
+        ],
+        "label": "A",
+        "ind": 21
+    },
+    {
+        "passage": "Nincs háttérinformáció megadva.",
+        "question": "Az alábbi állítások közül melyik igaz a $2y - 3x = -4$ egyenlet grafikonjára az $xy$ síkban?",
+        "options": [
+            "(A) Negatív meredeksége és pozitív $y$-metszete van.  ",
+            "(B) Negatív meredeksége és negatív $y$-metszete van.  ",
+            "(C) Pozitív meredeksége és pozitív $y$-metszete van.  ",
+            "(D) Pozitív meredeksége és negatív $y$-metszete van."
+        ],
+        "label": "D",
+        "ind": 22
+    },
+    {
+        "passage": "[Háttérinformáció itt]",
+        "question": "A hullámvasút kocsijának eleje egy domb alján van, és 15 lábbal a talaj felett van. Ha a hullámvasút kocsijának eleje egyenletes sebességgel, 8 láb/másodperc sebességgel emelkedik, akkor az alábbi egyenletek közül melyik adja meg a hullámvasút kocsijának eleje magasságát $h$ lábban, $s$ másodperccel azután, hogy elindult felfelé a dombon?",
+        "options": [
+            "['(A)$h=8 s+15$', '(B)$h=15 s+\\\\frac{335}{8}$', '(C)$h=8 s+\\\\frac{335}{15}$', '(D)$h=15 s+8$']"
+        ],
+        "label": "A",
+        "ind": 23
+    },
+    {
+        "passage": "A fenti egyenlet megadja a $C$ összeget dollárban, amelyet egy villanyszerelő számít fel egy olyan munkáért, amely $h$ órát vesz igénybe. Ms. Sanchez és Mr. Roland is felbérelte ezt a villanyszerelőt. A villanyszerelő 2 órával többet dolgozott Ms. Sanchez munkáján, mint Mr. Roland munkáján.",
+        "question": "Mennyivel többet számított fel a villanyszerelő Ms. Sancheznek, mint Mr. Rolandnak?",
+        "options": [
+            "['(A)$\\\\$ 75$', '(B)$\\\\$ 125$', '(C)$\\\\$ 150$', '(D)$\\\\$ 275$']"
+        ],
+        "label": "C",
+        "ind": 24
+    },
+    {
+        "passage": "(nincs háttérinformáció)",
+        "question": "Ha $\\frac{8}{x}=160$, akkor mennyi $x$ értéke?",
+        "options": [
+            "['(A)1,280', '(B)80', '(C)20', '(D)0.05']"
+        ],
+        "label": "D",
+        "ind": 25
+    },
+    {
+        "passage": "Nincs háttérinformáció megadva ehhez a kérdéshez.",
+        "question": "$$2 a x-15=3(x+5)+5(x-1)$$ A fenti egyenletben $a$ egy állandó. Ha az egyenletet semmilyen $x$ érték nem elégíti ki, mi az $a$ értéke?",
+        "options": [
+            "(A) 1  ",
+            "(B) 2  ",
+            "(C) 4  ",
+            "(D) 8"
+        ],
+        "label": "C",
+        "ind": 26
+    },
+    {
+        "passage": "A kérdés a matematikai egyenletek tulajdonságait és az állandók értékeit vizsgálja, amikor a kifejezés minden x-re igaz.",
+        "question": "$$(a x+3)\\left(5 x^{2}-b x+4\\right)=20 x^{3}-9 x^{2}-2 x+12$$A fenti egyenlet minden $x$-re igaz, ahol $a$ és $b$ állandók. Mi az $a b$ értéke?",
+        "options": [
+            "['(A)18', '(B)20', '(C)24', '(D)40']"
+        ],
+        "label": "C",
+        "ind": 27
+    },
+    {
+        "passage": "background:",
+        "question": "A 25 pozitív egész számot tartalmazó adathalmaz maximális értéke 84. Egy új, 26 pozitív egész számot tartalmazó adathalmaz jön létre azáltal, hogy az eredeti adathalmazhoz hozzáadunk 96-ot. Az alábbi mértékek közül melyiknek kell 12-vel nagyobbnak lennie az új adathalmaz esetében az eredeti adathalmazhoz képest?",
+        "options": [
+            "['(A) Az átlag', '(B) A medián', '(C) A terjedelem', '(D) A szórás']"
+        ],
+        "label": "C",
+        "ind": 0
+    },
+    {
+        "passage": "Clayton $x$ millilitr 10%-os tömegű sóoldatot fog összekeverni $y$ millilitr 20%-os tömegű sóoldattal azért, hogy egy 18%-os tömegű sóoldatot hozzon létre. A fenti egyenlet ezt a helyzetet ábrázolja.",
+        "question": "$$0.10 x+0.20 y=0.18(x+y)$$ Ha Clayton 100 milliliter 20%-os tömegű sóoldatot használ, hány milliliter 10%-os tömegű sóoldatot kell használnia?",
+        "options": [
+            "['(A)5', '(B)25', '(C)50', '(D)100']"
+        ],
+        "label": "B",
+        "ind": 1
+    },
+    {
+        "passage": "Az első évben, amikor Eleanor adománygyűjtő eseményt szervezett, 30 embert hívott meg. A következő 5 év mindegyikében kétszer annyi embert hívott meg, mint az előző évben. Ha $f(n)$ az $n$ évvel azután meghívott emberek száma, hogy Eleanor elkezdte szervezni az eseményt, akkor melyik állítás írja le legjobban az $f$ függvényt?",
+        "question": "Az első évben Eleanor 30 embert hívott meg. A következő 5 év mindegyikében kétszer annyi embert hívott meg, mint az előző évben. Ha $f(n)$ az $n$ évvel azután meghívott emberek száma, hogy Eleanor elkezdte szervezni az eseményt, akkor melyik állítás írja le legjobban az $f$ függvényt?",
+        "options": [
+            "(A) Az $f$ függvény csökkenő lineáris függvény.  ",
+            "(B) Az $f$ függvény növekvő lineáris függvény.  ",
+            "(C) Az $f$ függvény csökkenő exponenciális függvény.  ",
+            "(D) Az $f$ függvény növekvő exponenciális függvény."
+        ],
+        "label": "D",
+        "ind": 2
+    },
+    {
+        "passage": "Néhány $x$ érték és hozzájuk tartozó $y$ értékek láthatóak a fenti táblázatban, ahol $a$ egy állandó. Ha van lineáris kapcsolat $x$ és $y$ között, melyik az alábbi egyenletek közül képviseli ezt a kapcsolatot?",
+        "question": "\\begin{center}\\begin{tabular}{|c|c|c|c|}\\hline$x$ & $a$ & $3 a$ & $5 a$ \\\\\\hline$y$ & 0 & $-a$ & $-2 a$ \\\\\\hline\\end{tabular}\\end{center}",
+        "options": [
+            "['(A)$x+2 y=a$', '(B)$x+2 y=5 a$', '(C)$2 x-y=-5 a$', '(D)$2 x-y=7 a$']"
+        ],
+        "label": "A",
+        "ind": 3
+    },
+    {
+        "passage": "A következő egyenletrendszert ábrázolták az \\(xy\\)-síkon.",
+        "question": "\\[\n\\begin{aligned}\n& 2.4x - 1.5y = 0.3 \\\\\n& 1.6x + 0.5y = -1.3\n\\end{aligned}\n\\]\nMi a rendszer metszéspontjának \\(x\\)-koordinátája \\((x, y)\\)?",
+        "options": [
+            "['(A) -0.5', '(B) -0.25', '(C) 0.8', '(D) 1.75']"
+        ],
+        "label": "A",
+        "ind": 4
+    },
+    {
+        "passage": "Nincs háttérinformáció megadva.",
+        "question": "Keith egy fa populáció növekedését modellezte több száz év alatt azáltal, hogy megbecsülte a fák pollen szemcséinek számát négyzetcentiméterenként, amelyeket évente rakódtak le egy tó üledékének rétegeiben. Becslése szerint az első évben, amikor a szemcséket lerakták, 310 pollen szemcse volt négyzetcentiméterenként, és ezt követően évente $1 \\%$-kal nőtt a szemcsék száma négyzetcentiméterenként. Az alábbi függvények közül melyik modellezi $P(t)$-t, a pollen szemcsék számát négyzetcentiméterenként $t$ évvel azután, hogy az első évben a szemcséket lerakták?",
+        "options": [
+            "(A)$P(t)=310^{t}$, (B)$P(t)=310^{1.01 t}$, (C)$P(t)=310(0.99)^{t}$, (D)$P(t)=310(1.01)^{t}$"
+        ],
+        "label": "D",
+        "ind": 5
+    },
+    {
+        "passage": "[Háttér információ nincs megadva]",
+        "question": "$$\\frac{2}{3}(9 x-6)-4=9 x-6$$ Az egyenlet alapján, mi a $3 x-2$ értéke?",
+        "options": [
+            "['(A)-4', '(B)$-\\\\frac{4}{5}$', '(C)$-\\\\frac{2}{3}$', '(D)4']"
+        ],
+        "label": "A",
+        "ind": 6
+    },
+    {
+        "passage": "A kérdéshez nincs külön háttérinformáció megadva.",
+        "question": "$$H=1.88 L+32.01$$A fenti képlet használható annak becslésére, hogy egy felnőtt férfi magassága $H$ hüvelykben mennyi a combcsontja $L$ hüvelykben mért hossza alapján. Mit jelent az 1,88 ebben az összefüggésben?",
+        "options": [
+            "['(A) Egy körülbelüli combcsont hossz, hüvelykben, egy 32,01 hüvelyk magasságú férfi esetében', '(B) A körülbelüli növekedés egy férfi combcsont hosszában, hüvelykben, minden 32,01 hüvelyk magasságnövekedés esetén', '(C) A körülbelüli növekedés egy férfi combcsont hosszában, hüvelykben, minden egy hüvelykes magasságnövekedés esetén', '(D) A körülbelüli növekedés egy férfi magasságában, hüvelykben, minden egy hüvelykes combcsont hossz növekedés esetén']"
+        ],
+        "label": "D",
+        "ind": 7
+    },
+    {
+        "passage": "Egy festő egy épületben $n$ darab, azonos méretű és alakú falat fog festeni egy adott festékmárkával.",
+        "question": "A festő díja a következő kifejezéssel számítható ki: $n K \\ell h$, ahol $n$ a falak száma, $K$ egy állandó, amely dollár per négyzetláb mértékegységű, $\\ell$ az egyes falak hossza lábban, és $h$ az egyes falak magassága lábban. Ha az ügyfél azt kéri a festőtől, hogy használjon egy drágább festékmárkát, a kifejezés melyik tényezője változna meg?",
+        "options": [
+            "(A)$h$  ",
+            "(B)$\\ell$  ",
+            "(C)$K$  ",
+            "(D)$n$"
+        ],
+        "label": "C",
+        "ind": 8
+    },
+    {
+        "passage": "<háttérinformáció itt>",
+        "question": "Ha $3r = 18$, mi az értéke a $6r+3$ kifejezésnek?",
+        "options": [
+            "(A) 6",
+            "(B) 27",
+            "(C) 36",
+            "(D) 39"
+        ],
+        "label": "D",
+        "ind": 9
+    },
+    {
+        "passage": "",
+        "question": "Melyik az alábbiak közül egyenlő $a^{\\frac{2}{3}}$-mal, minden $a$ értékre?",
+        "options": [
+            "(A)$\\\\sqrt{a^{\\\\frac{1}{3}}}$, (B)$\\\\sqrt{a^{3}}$, (C)$\\\\sqrt[3]{a^{\\\\frac{1}{2}}}$, (D)$\\\\sqrt[3]{a^{2}}$"
+        ],
+        "label": "D",
+        "ind": 10
+    },
+    {
+        "passage": "[Háttér információ nincs megadva]",
+        "question": "A 1776 és 1849 között az Egyesült Államokhoz csatlakozott államok száma kétszerese az 1850 és 1900 között csatlakozott államok számának. Ha 1776 és 1849 között 30 állam csatlakozott az Egyesült Államokhoz, és $x$ állam csatlakozott 1850 és 1900 között, akkor az alábbi egyenletek közül melyik igaz?",
+        "options": [
+            "(A)$30 x=2$  ",
+            "(B)$2 x=30$  ",
+            "(C)$\\frac{x}{2}=30$  ",
+            "(D)$x+30=2$"
+        ],
+        "label": "B",
+        "ind": 11
+    },
+    {
+        "passage": "",
+        "question": "Ha $\\frac{5}{x}=\\frac{15}{x+20}$, akkor mennyi $\\frac{x}{5}$ értéke?",
+        "options": [
+            "['(A)10', '(B)5', '(C)2', '(D)$\\\\frac{1}{2}$']"
+        ],
+        "label": "C",
+        "ind": 12
+    },
+    {
+        "passage": "",
+        "question": "$$\\begin{aligned}& 2 x-3 y=-14 \\\\& 3 x-2 y=-6\\end{aligned}$$Ha $(x, y)$ a fenti egyenletrendszer megoldása, akkor mennyi $x-y$ értéke?",
+        "options": [
+            "['(A)-20', '(B)$\\\\quad-8$', '(C)-4', '(D)8']"
+        ],
+        "label": "C",
+        "ind": 13
+    },
+    {
+        "passage": "A függvény \\( f \\) egy polinommal van definiálva. A fenti táblázat néhány \\( x \\) és \\( f(x) \\) értéket mutat.",
+        "question": "\\begin{center}\\begin{tabular}{|c|c|}\\hline$x$ & $f(x)$ \\\\\\hline0 & 3 \\\\\\hline2 & 1 \\\\\\hline4 & 0 \\\\\\hline5 & -2 \\\\\\hline\\end{tabular}\\end{center}Melyik a következő lehetőségek közül biztosan tényezője az \\( f(x) \\) függvénynek?",
+        "options": [
+            "(A)\\(x-2\\), (B)\\(x-3\\), (C)\\(x-4\\), (D)\\(x-5\\)"
+        ],
+        "label": "C",
+        "ind": 14
+    },
+    {
+        "passage": "A háttérinformáció nincs megadva ehhez a kérdéshez.",
+        "question": "A $y=k x+4$ egyenes, ahol $k$ egy állandó, az $xy$ síkon van ábrázolva. Ha az egyenes tartalmazza a $(c, d)$ pontot, ahol $c \\neq 0$ és $d \\neq 0$, mi az egyenes meredeksége $c$ és $d$ kifejezésében?",
+        "options": [
+            "(A)$\\frac{d-4}{c}$  ",
+            "(B)$\\frac{c-4}{d}$  ",
+            "(C)$\\frac{4-d}{c}$  ",
+            "(D)$\\frac{4-c}{d}$"
+        ],
+        "label": "A",
+        "ind": 15
+    },
+    {
+        "passage": "A fenti egyenletrendszerben $k$ egy konstans, $x$ és $y$ változók.",
+        "question": "$$\\begin{aligned}& k x-3 y=4 \\\\& 4 x-5 y=7\\end{aligned}$$ Milyen $k$ érték esetén nem lesz megoldása az egyenletrendszernek?",
+        "options": [
+            "['(A)$\\\\frac{12}{5}$', '(B)$\\\\frac{16}{7}$', '(C)$-\\\\frac{16}{7}$', '(D)$-\\\\frac{12}{5}$']"
+        ],
+        "label": "A",
+        "ind": 16
+    },
+    {
+        "passage": "",
+        "question": "Az $xy$-síkon a $y=(x-11)^{2}$ egyenletű parabola metsz két pontban, $A$ és $B$, a $y=25$ egyenletű egyenessel. Mekkora az $\\overline{A B}$ szakasz hossza?",
+        "options": [
+            "(A)10, (B)12, (C)14, (D)16"
+        ],
+        "label": "A",
+        "ind": 17
+    },
+    {
+        "passage": "[Háttérinformáció nincs megadva ebben az esetben]",
+        "question": "$$y=a(x-2)(x+4)$$ A fenti másodfokú egyenletben $a$ egy nullától különböző állandó. Az egyenlet grafikonja az $x y$ síkon egy parabola, amelynek csúcsa $(c, d)$. Az alábbiak közül melyik egyenlő $d$-vel?",
+        "options": [
+            "['(A)$-9 a$', '(B)$-8 a$', '(C)$-5 a$', '(D)$-2 a$']"
+        ],
+        "label": "A",
+        "ind": 18
+    },
+    {
+        "passage": "",
+        "question": "Az egyenlet $\\frac{24 x^{2}+25 x-47}{a x-2}=-8 x-3-\\frac{53}{a x-2}$ igaz minden $x \\neq \\frac{2}{a}$ értékre, ahol $a$ egy állandó. Mi $a$ értéke?",
+        "options": [
+            "['(A)-16', '(B)-3', '(C)3', '(D)16']"
+        ],
+        "label": "B",
+        "ind": 19
+    },
+    {
+        "passage": "[Háttérinformáció itt]",
+        "question": "Melyek a megoldások a $3x^{2}+12x+6=0$ egyenletre?",
+        "options": [
+            "['(A)$x=-2 \\\\pm \\\\sqrt{2}$', '(B)$x=-2 \\\\pm \\\\frac{\\\\sqrt{30}}{3}$', '(C)$x=-6 \\\\pm \\\\sqrt{2}$', '(D)$x=-6 \\\\pm 6 \\\\sqrt{2}$']"
+        ],
+        "label": "A",
+        "ind": 20
+    },
+    {
+        "passage": "A következő egyenlet megmutatja, hogyan kapcsolódik egy Fahrenheit-fokban mért hőmérséklet ($F$) egy Celsius-fokban mért hőmérséklethez ($C$).",
+        "question": "$$C=\\frac{5}{9}(F-32)$$\nAz egyenlet alapján melyik állításnak kell igaznak lennie?\nI. Egy Fahrenheit-fokos hőmérséklet-emelkedés egyenértékű egy $\\frac{5}{9}$ Celsius-fokos hőmérséklet-emelkedéssel.\nII. Egy Celsius-fokos hőmérséklet-emelkedés egyenértékű egy 1,8 Fahrenheit-fokos hőmérséklet-emelkedéssel.\nIII. Egy $\\frac{5}{9}$ Fahrenheit-fokos hőmérséklet-emelkedés egyenértékű egy Celsius-fokos hőmérséklet-emelkedéssel.",
+        "options": [
+            "['(A) Csak I', '(B) Csak II', '(C) Csak III', '(D) I és II']"
+        ],
+        "label": "D",
+        "ind": 21
+    },
+    {
+        "passage": "A következő táblázat 25 ember életkor és nem szerinti eloszlását mutatja, akik részt vettek egy versenyen.",
+        "question": "\\begin{center}\\begin{tabular}{|l||c|c||c|}\\cline { 2 - 4 }\\multicolumn{1}{c||}{} & \\multicolumn{2}{c||}{Életkor} & \\multirow{2}{c|}{Összesen} \\\\\\hlineNem & 40 év alatt & 40 éves vagy idősebb \\\\\\hline\\hlineFérfi & 12 & 2 & 14 \\\\\\hlineNő & 8 & 3 & 11 \\\\\\hline\\hlineÖsszesen & 20 & 5 & 25 \\\\\\hline\\end{tabular}\\end{center}A táblázat alapján, ha a verseny győztese véletlenszerűen kerül kiválasztásra, mekkora a valószínűsége annak, hogy a győztes egy 40 év alatti nő vagy egy 40 éves vagy idősebb férfi lesz?",
+        "options": [
+            "['(A)$\\\\frac{4}{25}$', '(B)$\\\\frac{10}{25}$', '(C)$\\\\frac{11}{25}$', '(D)$\\\\frac{16}{25}$']"
+        ],
+        "label": "B",
+        "ind": 22
+    },
+    {
+        "passage": "A táblázat néhány értéket mutat a lineáris függvény $f$-ből.",
+        "question": "\\begin{center}\\begin{tabular}{|c||c|c|c|c|}\\hline$n$ & 1 & 2 & 3 & 4 \\\\\\hline$f(n)$ & -2 & 1 & 4 & 7 \\\\\\hline\\end{tabular}\\end{center} Melyik az alábbiak közül definiálja az $f$ függvényt?",
+        "options": [
+            "(A)$f(n)=n-3$",
+            "",
+            "(B)$f(n)=2 n-4$",
+            "",
+            "(C)$f(n)=3 n-5$",
+            "",
+            "(D)$f(n)=4 n-6$"
+        ],
+        "label": "C",
+        "ind": 23
+    },
+    {
+        "passage": "[Háttérinformáció nincs megadva]",
+        "question": "A Lincoln Gimnáziumban körülbelül a beiratkozott harmadévesek 7 százalékát és a beiratkozott negyedévesek 5 százalékát vették fel a Nemzeti Tiszteletbeli Társaságba tavaly. Ha tavaly 562 harmadéves és 602 negyedéves diák volt beiratkozva a Lincoln Gimnáziumba, akkor az alábbiak közül melyik van legközelebb a Nemzeti Tiszteletbeli Társaságba felvett harmadévesek és negyedévesek összlétszámához a Lincoln Gimnáziumban tavaly?",
+        "options": [
+            "['(A)140', '(B)69', '(C)39', '(D)30']"
+        ],
+        "label": "B",
+        "ind": 24
+    },
+    {
+        "passage": "Nincs megadva háttérinformáció.",
+        "question": "$$\\begin{aligned}& 3 x^{2}-5 x+2 \\\\& 5 x^{2}-2 x-6\\end{aligned}$$ Mi az alábbiak közül a fenti két polinom összege?",
+        "options": [
+            "['(A)$8 x^{2}-7 x-4$', '(B)$8 x^{2}+7 x-4$', '(C)$8 x^{4}-7 x^{2}-4$', '(D)$8 x^{4}+7 x^{2}-4$']"
+        ],
+        "label": "A",
+        "ind": 25
+    },
+    {
+        "passage": "[Háttér információ itt]",
+        "question": "Ha $\\frac{3}{5} w = \\frac{4}{3}$, akkor mennyi $w$ értéke?",
+        "options": [
+            "['(A)$\\\\frac{9}{20}$', '(B)$\\\\frac{4}{5}$', '(C)$\\\\frac{5}{4}$', '(D)$\\\\frac{20}{9}$']"
+        ],
+        "label": "D",
+        "ind": 26
+    },
+    {
+        "passage": "[Background information here]",
+        "question": "A Central High Schoolban az osztályonkénti átlagos tanulólétszám 2000-től 2010-ig a következő egyenlettel modellezhető: $y=0.56 x+27.2$, ahol $x$ az évek számát jelenti 2000 óta, és $y$ az osztályonkénti átlagos tanulólétszámot jelöli. Az alábbiak közül melyik írja le legjobban a 0.56 szám jelentését az egyenletben?",
+        "options": [
+            "['(A) Az iskola teljes tanulólétszáma 2000-ben', '(B) Az osztályonkénti átlagos tanulólétszám 2000-ben', '(C) Az osztályonkénti átlagos tanulólétszám becsült évenkénti növekedése', '(D) Az osztályonkénti átlagos tanulólétszám becsült különbsége 2010 és 2000 között']"
+        ],
+        "label": "C",
+        "ind": 27
+    },
+    {
+        "passage": "",
+        "question": "Ha $3(c+d)=5$, akkor mennyi $c+d$ értéke?",
+        "options": [
+            "['(A)$\\\\frac{3}{5}$', '(B)$\\\\frac{5}{3}$', '(C)3', '(D)5']"
+        ],
+        "label": "B",
+        "ind": 0
+    },
+    {
+        "passage": "A kérdés a tárgyak súlyával kapcsolatos, különböző bolygókon.",
+        "question": "Egy tárgy súlya a Vénuszon körülbelül a földi súlyának $\\frac{9}{10}$-e. Egy tárgy súlya a Jupiteren körülbelül a földi súlyának $\\frac{23}{10}$-e. Ha egy tárgy 100 fontot nyom a Földön, akkor körülbelül hány fonttal többet nyom a Jupiteren, mint a Vénuszon?",
+        "options": [
+            "['(A)90', '(B)111', '(C)140', '(D)230']"
+        ],
+        "label": "C",
+        "ind": 1
+    },
+    {
+        "passage": "Egy online könyvesbolt regényeket és magazinokat árul.",
+        "question": "Sadie összesen 11 regényt és magazint vásárolt, amelyek együttes eladási ára \\$20. Hány regényt vásárolt?",
+        "options": [
+            "['(A)2', '(B)3', '(C)4', '(D)5']"
+        ],
+        "label": "B",
+        "ind": 2
+    },
+    {
+        "passage": "Nincs háttérinformáció megadva.",
+        "question": "A Downtown Business Association (DBA) egy bizonyos városban azt tervezi, hogy évente összesen $n$ új vállalkozással növeli a tagságát. Az év elején $b$ vállalkozás volt a DBA tagja. Melyik függvény modellezi legjobban a vállalkozások összesített számát, $y$, amellyel a DBA $x$ év múlva szeretne rendelkezni?",
+        "options": [
+            "(A)$y=n x+b$  ",
+            "(B)$y=n x-b$  ",
+            "(C)$y=b(n)^{x}$  ",
+            "(D)$y=n(b)^{x}$"
+        ],
+        "label": "A",
+        "ind": 3
+    },
+    {
+        "passage": "",
+        "question": "Melyik a következő lehetőségek közül az $(1.5 x-2.4)^{2}-\\left(5.2 x^{2}-6.4\\right)$ kifejezésnek megfelelő alakja?",
+        "options": [
+            "(A)$-2.2 x^{2}+1.6$  ",
+            "(B)$-2.2 x^{2}+11.2$  ",
+            "(C)$-2.95 x^{2}-7.2 x+12.16$  ",
+            "(D)$-2.95 x^{2}-7.2 x+0.64$"
+        ],
+        "label": "C",
+        "ind": 4
+    },
+    {
+        "passage": "A sűrűség $d$ egy tárgy esetében úgy található meg, hogy a tárgy tömegét $m$ elosztjuk a térfogatával $V$.",
+        "question": "Melyik a következő egyenletek közül adja meg a tömeget $m$ a $d$ és $V$ értékekkel kifejezve?",
+        "options": [
+            "(A)$m=d V$",
+            "",
+            "(B)$m=\\\\frac{d}{V}$",
+            "",
+            "(C)$m=\\\\frac{V}{d}$",
+            "",
+            "(D)$m=V+d$"
+        ],
+        "label": "A",
+        "ind": 5
+    },
+    {
+        "passage": "Nincs háttérinformáció megadva ehhez a kérdéshez.",
+        "question": "$$-2 x+3 y=6$$ Az $x y$-síkon az alábbi egyenletek közül melyik grafikonja merőleges a fenti egyenlet grafikonjára?",
+        "options": [
+            "(A)$3 x+2 y=6$  ",
+            "(B)$3 x+4 y=6$  ",
+            "(C)$2 x+4 y=6$  ",
+            "(D)$2 x+6 y=3$"
+        ],
+        "label": "A",
+        "ind": 6
+    },
+    {
+        "passage": "",
+        "question": "\\[\n\\begin{array}{r}\n\\frac{1}{2} y=4 \\\\\nx-\\frac{1}{2} y=2\n\\end{array}\n\\]\nA fenti egyenletrendszer megoldása \\((x, y)\\). Mi az \\(x\\) értéke?",
+        "options": [
+            "['(A)3', '(B)$\\\\frac{7}{2}$', '(C)4', '(D)6']"
+        ],
+        "label": "D",
+        "ind": 7
+    },
+    {
+        "passage": "A következő feladat egyenlőtlenségek rendszerével foglalkozik, ahol a cél egy olyan rendezett számpár megtalálása, amely kielégíti a rendszer minden egyenlőtlenségét.",
+        "question": "$$\\begin{gathered}y \\leq 3x + 1 \\\\x - y > 1\\end{gathered}$$ Melyik a következő rendezett számpárok közül elégíti ki a fenti egyenlőtlenségek rendszerét?",
+        "options": [
+            "(A)$(-2,-1)$, (B)$(-1,3)$, (C)$(1,5)$, (D)$(2,-1)$"
+        ],
+        "label": "D",
+        "ind": 8
+    },
+    {
+        "passage": "Egy felmérésben 607 általános és ortopéd sebész jelezte fő szakmai tevékenységét. Az eredményeket a fenti táblázat összegzi.",
+        "question": "\\begin{center}\\begin{tabular}{|l|c|c|c|}\\hline\\multirow{2}{*}{$\\begin{array}{c}\\text { Sebész típusa }\\end{array}$} & \\multicolumn{2}{|c|}{$\\begin{array}{c}\\text { Fő szakmai } \\\\\\text { tevékenység }\\end{array}$} & \\multirow{2}{*}{Összesen} \\\\\\cline { 2 - 3 }& Oktatás & Kutatás \\\\\\hlineÁltalános & 258 & 156 & 414 \\\\\\hlineOrtopéd & 119 & 74 & 193 \\\\\\hlineÖsszesen & 377 & 230 & 607 \\\\\\hline\\end{tabular}\\end{center}Ha véletlenszerűen kiválasztanak egy sebészt, melyik a következő lehetőségek közül a legközelebb annak a valószínűségéhez, hogy a kiválasztott sebész egy ortopéd sebész, akinek a megjelölt szakmai tevékenysége kutatás?",
+        "options": [
+            "(A) 0.122, (B) 0.196, (C) 0.318, (D) 0.379"
+        ],
+        "label": "A",
+        "ind": 9
+    },
+    {
+        "passage": "Egy közvélemény-kutató ügynökség nemrégiben 1,000 véletlenszerűen kiválasztott felnőttet kérdezett meg egy nagy városból, és mindegyik felnőttet megkérdezte: \"Elégedett azzal, hogy milyen a levegő minősége a városban?\" A megkérdezettek 78 százaléka azt válaszolta, hogy elégedett a város levegőminőségével. A felmérés eredményei alapján melyik állításnak kell igaznak lennie?",
+        "question": "I. A város összes felnőtt lakójának 78 százaléka elégedett a város levegőminőségével.\nII. Ha újabb 1,000 véletlenszerűen kiválasztott felnőttet kérdeznének meg a városból, 78 százalékuk azt mondaná, hogy elégedett a város levegőminőségével.\nIII. Ha egy másik városból 1,000 véletlenszerűen kiválasztott felnőttet kérdeznének meg, 78 százalékuk azt mondaná, hogy elégedett a város levegőminőségével.",
+        "options": [
+            "(A) Egyik sem",
+            "(B) Csak II",
+            "(C) Csak I és II",
+            "(D) Csak I és III"
+        ],
+        "label": "A",
+        "ind": 10
+    },
+    {
+        "passage": "Az egyik módszer a fa hozzávetőleges életkorának kiszámítására egy adott fafaj esetén, hogy a fa átmérőjét hüvelykben megszorozzuk egy állandóval, amit növekedési faktornak nevezünk az adott fajra vonatkozóan. Az alábbi táblázat nyolc fafaj növekedési faktorát mutatja:\n\\begin{center}\n\\begin{tabular}{|l|c|}\n\\hline\n\\multicolumn{1}{|c|}{Fajta} & Növekedési faktor \\\\\n\\hline\nVörös juhar & 4.5 \\\\\n\\hline\nFolyóparti nyír & 3.5 \\\\\n\\hline\nNyárfa & 2.0 \\\\\n\\hline\nFekete dió & 4.5 \\\\\n\\hline\nFehér nyír & 5.0 \\\\\n\\hline\nAmerikai szil & 4.0 \\\\\n\\hline\nPin tölgy & 3.0 \\\\\n\\hline\nHikoridió & 7.5 \\\\\n\\hline\n\\end{tabular}\n\\end{center}",
+        "question": "A táblázatban szereplő információk alapján, mennyi az amerikai szilfa hozzávetőleges életkora, ha átmérője 12 hüvelyk?",
+        "options": [
+            "(A) 24 év, (B) 36 év, (C) 40 év, (D) 48 év"
+        ],
+        "label": "D",
+        "ind": 11
+    },
+    {
+        "passage": "Egy fehér nyírfa és egy vörös tölgyfa jelenleg egyaránt 1 láb átmérőjű.",
+        "question": "Ha egy fehér nyírfa és egy vörös tölgyfa egyaránt most 1 láb átmérőjű, melyik lesz a legközelebb a különbséghez, hüvelykben, az átmérőjük között 10 év múlva? $(1$ láb $=12$ hüvelyk $)$",
+        "options": [
+            "(A) 1,0",
+            "(B) 1,2",
+            "(C) 1,3",
+            "(D) 1,4"
+        ],
+        "label": "C",
+        "ind": 12
+    },
+    {
+        "passage": "[Háttérinformáció itt]",
+        "question": "$$\\frac{a-b}{a}=c$$ A fenti egyenletben, ha $a$ negatív és $b$ pozitív, akkor az alábbiak közül melyik állításnak kell igaznak lennie?",
+        "options": [
+            "['(A)$c>1$', '(B)$c=1$', '(C)$c=-1$', '(D)$c<-1$']"
+        ],
+        "label": "A",
+        "ind": 13
+    },
+    {
+        "passage": "Az X államban Mr. Camp nyolcadik osztályos osztályát, amely 26 diákból áll, megkérdezték, és a diákok 34,6 százaléka azt mondta, hogy legalább két testvérük van. Az állam átlagos nyolcadik osztályos osztálylétszáma 26. Ha Mr. Camp osztályának diákjai reprezentatívak az állam nyolcadik osztályos osztályainak diákjai számára, és az államban 1 800 nyolcadik osztályos osztály van, akkor az alábbiak közül melyik becsüli meg legjobban azoknak a nyolcadik osztályos diákoknak a számát az államban, akiknek kevesebb mint két testvérük van?",
+        "question": "Az X államban Mr. Camp nyolcadik osztályos osztályát, amely 26 diákból áll, megkérdezték, és a diákok 34,6 százaléka azt mondta, hogy legalább két testvérük van. Az állam átlagos nyolcadik osztályos osztálylétszáma 26. Ha Mr. Camp osztályának diákjai reprezentatívak az állam nyolcadik osztályos osztályainak diákjai számára, és az államban 1 800 nyolcadik osztályos osztály van, akkor az alábbiak közül melyik becsüli meg legjobban azoknak a nyolcadik osztályos diákoknak a számát az államban, akiknek kevesebb mint két testvérük van?",
+        "options": [
+            "(A) 16,200",
+            "(B) 23,400",
+            "(C) 30,600",
+            "(D) 46,800 Kérdések 23 és 24 a következő információkra vonatkoznak."
+        ],
+        "label": "C",
+        "ind": 14
+    },
+    {
+        "passage": "A Townsend Realty Group az öt különböző ingatlanba fektetett be, amelyeket a fenti táblázat sorol fel. A táblázat azt mutatja, hogy a cég mennyit fizetett dollárban az egyes ingatlanokért és az adott öt helyszínen az ingatlanokért felszámított havi bérleti díjat dollárban.",
+        "question": "\\begin{center}\\begin{tabular}{|l|c|c|}\\hline\\multicolumn{3}{|c|}{Townsend Realty Group Befektetések} \\\\\\hlineIngatlan cím & $\\begin{array}{c}\\text { Vételár } \\\\ \\text { (dollár) }\\end{array}$ & $\\begin{array}{c}\\text { Havi bérleti díj } \\\\ \\text { (dollár) }\\end{array}$ \\\\\\hlineClearwater Lane & 128,000 & 950 \\\\\\hlineDriftwood Drive & 176,000 & 1,310 \\\\\\hlineEdgemont Street & 70,000 & 515 \\\\\\hlineGlenview Street & 140,000 & 1,040 \\\\\\hlineHamilton Circle & 450,000 & 3,365 \\\\\\hline\\end{tabular}\\end{center}A havi bérleti díj $r$ dollárban és az ingatlan vételára $p$ ezer dollárban kifejezve lineáris függvénnyel ábrázolható. Az alábbi függvények közül melyik ábrázolja a kapcsolatot?",
+        "options": [
+            "['(A)$r(p)=2.5 p-870$', '(B)$r(p)=5 p+165$', '(C)$r(p)=6.5 p+440$', '(D)$r(p)=7.5 p-10$']"
+        ],
+        "label": "D",
+        "ind": 15
+    },
+    {
+        "passage": "[Háttérinformáció jelenleg nem áll rendelkezésre]",
+        "question": "Townsend Realty megvásárolta a Glenview Street-i ingatlant, és az eredeti árra $40 \\%$ kedvezményt kapott, valamint további $20 \\%$ kedvezményt a kedvezményes árból, mivel készpénzben vásárolták meg az ingatlant. Az alábbiak közül melyik közelíti meg legjobban dollárban a Glenview Street-i ingatlan eredeti árát?",
+        "options": [
+            "['(A)\\\\$ 350,000$', '(B)\\\\$ 291,700$', '(C)\\\\$ 233,300$', '(D)\\\\$ 175,000$']"
+        ],
+        "label": "B",
+        "ind": 16
+    },
+    {
+        "passage": "Egy pszichológus kísérletet végzett annak tanulmányozására, hogy egy személy mennyire hajlik arra, hogy az első elemet válassza, amikor elemek sorozatát mutatják be neki. A kísérlet során 300 embernek mutattak be öt képből álló készletet véletlenszerű sorrendben. Minden résztvevőnek ki kellett választania a legvonzóbb képet. Az első 150 résztvevő közül 36-an választották a készlet első képét. A fennmaradó 150 résztvevő közül $p$ fő választotta a készlet első képét.",
+        "question": "Ha a résztvevők több mint $20 \\%$-a választotta a készlet első képét, melyik egyenlőtlenség írja le legjobban a $p$ lehetséges értékeit?",
+        "options": [
+            "(A)$p>0.20(300-36)$, ahol $p \\\\leq 150$",
+            "",
+            "(B)$p>0.20(300+36)$, ahol $p \\\\leq 150$",
+            "",
+            "(C)$p-36>0.20(300)$, ahol $p \\\\leq 150$",
+            "",
+            "(D)$p+36>0.20(300)$, ahol $p \\\\leq 150$"
+        ],
+        "label": "D",
+        "ind": 17
+    },
+    {
+        "passage": "A kocka felülete $6\\left(\\frac{a}{4}\\right)^{2}$, ahol $a$ egy pozitív állandó.",
+        "question": "Melyik adja meg a kocka egyik lapjának kerületét?",
+        "options": [
+            "(A)$\\\\frac{a}{4}$, (B)$a$, (C)$4 a$, (D)$6 a$"
+        ],
+        "label": "B",
+        "ind": 18
+    },
+    {
+        "passage": "Nincs háttérinformáció megadva.",
+        "question": "Egy kosárlabda mérkőzésen 8 játékos átlagpontszáma 14,5 pont volt. Ha a legmagasabb egyéni pontszámot eltávolítják, a fennmaradó 7 játékos átlagpontszáma 12 pont lesz. Mi volt a legmagasabb pontszám?",
+        "options": [
+            "['(A)20', '(B)24', '(C)32', '(D)36']"
+        ],
+        "label": "C",
+        "ind": 19
+    },
+    {
+        "passage": "Az alábbi egyenlet egy kört határoz meg az \\(xy\\)-síkban.",
+        "question": "Mi a kör középpontjának koordinátája?",
+        "options": [
+            "(A)$(-20,-16)$",
+            "(B)$(-10,-8)$",
+            "(C)$(10,8)$",
+            "(D)$(20,16)$"
+        ],
+        "label": "B",
+        "ind": 20
+    },
+    {
+        "passage": "In the equation above, \\(a\\) is a positive constant and the graph of the equation in the \\(xy\\)-plane is a parabola.",
+        "question": "Melyik a következő lehetőségek közül az egyenlet ekvivalens alakja?",
+        "options": [
+            "(A) \\(y=(x+a)(x-a)\\)  ",
+            "(B) \\(y=(x+\\sqrt{a})(x-\\sqrt{a})\\)  ",
+            "(C) \\(y=\\left(x+\\frac{a}{2}\\right)\\left(x-\\frac{a}{2}\\right)\\)  ",
+            "(D) \\(y=(x+a)^{2}\\)"
+        ],
+        "label": "B",
+        "ind": 21
+    },
+    {
+        "passage": "Az alábbi egyenlet összefüggésbe hozza a percek számát, amelyet Maria naponta futással tölt, $x$, és a percek számát, amelyet naponta kerékpározással tölt, $y$.",
+        "question": "$$x+y=75$$ Az egyenletben mit jelent a 75-ös szám?",
+        "options": [
+            "['(A) Az egy nap alatt futással töltött percek száma', '(B) Az egy nap alatt kerékpározással töltött percek száma', '(C) Az egy nap alatt futással és kerékpározással együtt töltött percek száma', '(D) Az egy perc futással töltött időre jutó kerékpározással töltött percek száma']"
+        ],
+        "label": "C",
+        "ind": 22
+    },
+    {
+        "passage": "[Háttérinformáció: Nincsenek különleges háttérinformációk ehhez a kérdéshez.]",
+        "question": "Melyik az alábbiak közül ekvivalens a $3(x+5)-6$ kifejezéssel?",
+        "options": [
+            "['(A)$3 x-3$', '(B)$3 x-1$', '(C)$3 x+9$', '(D)$15 x-6$']"
+        ],
+        "label": "C",
+        "ind": 23
+    },
+    {
+        "passage": "",
+        "question": "$$\\begin{aligned}& x=y-3 \\\\& \\frac{x}{2}+2 y=6\\end{aligned}$$ Melyik rendezett pár $(x, y)$ elégíti ki a fenti egyenletrendszert?",
+        "options": [
+            "['(A)$(-3,0)$', '(B)$(0,3)$', '(C)$(6,-3)$', '(D)$(36,-6)$']"
+        ],
+        "label": "B",
+        "ind": 24
+    },
+    {
+        "passage": "Nincs háttér-információ megadva.",
+        "question": "Melyik a következő komplex számok közül egyenlő $(5+12 i)-\\left(9 i^{2}-6 i\\right)$ értékével, ahol $i=\\sqrt{-1}$?",
+        "options": [
+            "(A)$-14-18 i$, (B)$-4-6 i$, (C)$4+6 i$, (D)$14+18 i$"
+        ],
+        "label": "D",
+        "ind": 25
+    },
+    {
+        "passage": "[No background information provided]",
+        "question": "Ha \\( f(x) = \\frac{x^{2} - 6x + 3}{x - 1} \\), akkor mennyi \\( f(-1) \\)?",
+        "options": [
+            "['(A) -5', '(B) -2', '(C) 2', '(D) 5']"
+        ],
+        "label": "A",
+        "ind": 26
+    },
+    {
+        "passage": "A company that makes wildlife videos purchases camera equipment for $\\$ 32,400$. The equipment depreciates in value at a constant rate for 12 years, after which it is considered to have no monetary value.",
+        "question": "How much is the camera equipment worth 4 years after it is purchased?",
+        "options": [
+            "['(A)$\\\\$ 10,800$', '(B)$\\\\$ 16,200$', '(C)$\\\\$ 21,600$', '(D)$\\\\$ 29,700$']"
+        ],
+        "label": "C",
+        "ind": 27
+    },
+    {
+        "passage": "[Háttérinformáció itt]",
+        "question": "Melyik a következőek közül egy kör egyenlete az $x y$ síkban, amelynek középpontja $(0,4)$ és sugara $\\left(\\frac{4}{3}, 5\\right)$ végponttal rendelkezik?",
+        "options": [
+            "(A)$x^{2}+(y-4)^{2}=\\\\frac{25}{9}$",
+            "",
+            "(B)$x^{2}+(y+4)^{2}=\\\\frac{25}{9}$",
+            "",
+            "(C)$x^{2}+(y-4)^{2}=\\\\frac{5}{3}$",
+            "",
+            "(D)$x^{2}+(y+4)^{2}=\\\\frac{3}{5}$"
+        ],
+        "label": "A",
+        "ind": 0
+    },
+    {
+        "passage": "A fenti egyenlet a kilőtt labda hozzávetőleges magasságát \\( h \\) méterben adja meg \\( t \\) másodperccel azután, hogy azt függőlegesen felfelé indították a talajról 25 méter/másodperc kezdősebességgel.",
+        "question": "Körülbelül hány másodperc múlva ér földet a labda?",
+        "options": [
+            "(A) 3,5  ",
+            "(B) 4,0  ",
+            "(C) 4,5  ",
+            "(D) 5,0"
+        ],
+        "label": "D",
+        "ind": 1
+    },
+    {
+        "passage": "Katarina botanikus, aki kétféle körtefa által termelt körték mennyiségét tanulmányozza. Megfigyelte, hogy az A típusú fák 20 százalékkal több körtét termeltek, mint a B típusú fák.",
+        "question": "Katarina megfigyelése alapján, ha az A típusú fák 144 körtét termeltek, hány körtét termeltek a B típusú fák?",
+        "options": [
+            "(A)115, (B)120, (C)124, (D)173"
+        ],
+        "label": "B",
+        "ind": 2
+    },
+    {
+        "passage": "Egy négyzet alakú mező 10 méter x 10 méter. Tíz diák mindegyike véletlenszerűen kijelöl egy területet a mezőn; mindegyik terület négyzet alakú, és oldala 1 méter hosszú, és nincs két átfedő terület. A diákok megszámolják a földigilisztákat a talaj felszíne alatt 5 centiméter mélységben minden területen. Az eredmények az alábbi táblázatban láthatók. \\begin{center}\\begin{tabular}{|c|c|c|c|}\\hlineTerület & $\\begin{array}{c}\\text { Földigiliszták száma }\\end{array}$ & Terület & $\\begin{array}{c}\\text { Földigiliszták száma }\\end{array}$ \\\\\\hlineA & 107 & $\\mathrm{~F}$ & 141 \\\\\\hlineB & 147 & $\\mathrm{G}$ & 150 \\\\\\hlineC & 146 & $\\mathrm{H}$ & 154 \\\\\\hlineD & 135 & $\\mathrm{I}$ & 176 \\\\\\hlineE & 149 & $\\mathrm{~J}$ & 166 \\\\\\hline\\end{tabular}\\end{center}",
+        "question": "Melyik a következő lehetőségek közül a földigiliszták számának ésszerű megközelítése a talaj felszíne alatt 5 centiméter mélységben az egész mezőn?",
+        "options": [
+            "['(A)$\\\\quad 150$', '(B)$\\\\quad 1,500$', '(C)15,000', '(D)150,000']"
+        ],
+        "label": "C",
+        "ind": 3
+    },
+    {
+        "passage": "A megadott kérdés egy polinom tulajdonságait vizsgálja, amikor egy adott értéken értékeljük ki.",
+        "question": "Egy $p(x)$ polinom esetén $p(3)$ értéke -2. Mi igaz a következő állítások közül a $p(x)$ polinomra?",
+        "options": [
+            "(A) $x-5$ osztója $p(x)$-nek.",
+            "(B) $x-2$ osztója $p(x)$-nek.",
+            "(C) $x+2$ osztója $p(x)$-nek.",
+            "(D) Amikor $p(x)$-et elosztjuk $x-3$-mal, a maradék -2."
+        ],
+        "label": "D",
+        "ind": 4
+    },
+    {
+        "passage": "background:",
+        "question": "Milyen értéke elégíti ki az $z$ változónak a fenti egyenletet: $$2z+1=z$$?",
+        "options": [
+            "['(A)-2', '(B)-1', '(C)$\\\\frac{1}{2}$', '(D)1']"
+        ],
+        "label": "B",
+        "ind": 5
+    },
+    {
+        "passage": "Egy televíziót, amelynek ára $300$ dollár, egy kezdeti $60$ dolláros befizetéssel és heti $30$ dolláros részletekkel kívánnak megvásárolni.",
+        "question": "Melyik egyenletet lehet használni annak megállapítására, hogy hány heti részlet, $w$, szükséges a vásárlás befejezéséhez, feltételezve, hogy nincsenek adók vagy díjak?",
+        "options": [
+            "(A)$300=30 w-60$  ",
+            "(B)$300=30 w$  ",
+            "(C)$300=30 w+60$  ",
+            "(D)$300=60 w-30$"
+        ],
+        "label": "C",
+        "ind": 6
+    },
+    {
+        "passage": "A fenti táblázat egy online sportfelszereléseket árusító kereskedő szállítási költségeit mutatja. A szállítási költség és az áru súlya között lineáris kapcsolat áll fenn.",
+        "question": "Melyik függvénnyel lehet meghatározni a teljes szállítási költséget, $f(x)$, dollárban, egy $x$ font súlyú áru rendelése esetén?",
+        "options": [
+            "['(A)$f(x)=0.99 x$', '(B)$f(x)=0.99 x+11.99$', '(C)$f(x)=3.39 x$', '(D)$f(x)=3.39 x+16.94$']"
+        ],
+        "label": "B",
+        "ind": 7
+    },
+    {
+        "passage": "<háttérinformáció>",
+        "question": "$$\\sqrt{9 x^{2}}$$ Ha $x>0$, melyik a következő kifejezések közül ekvivalens a megadott kifejezéssel?",
+        "options": [
+            "['(A)$3 x$', '(B)$3 x^{2}$', '(C)$18 x$', '(D)$18 x^{4}$']"
+        ],
+        "label": "A",
+        "ind": 8
+    },
+    {
+        "passage": "background:",
+        "question": "$$\\frac{x^{2}-1}{x-1}=-2$$ Melyek azok az $x$ értékek, amelyek kielégítik a fenti egyenletet?",
+        "options": [
+            "['(A)-3', '(B)0', '(C)1', '(D)-3 és -1']"
+        ],
+        "label": "A",
+        "ind": 9
+    },
+    {
+        "passage": "background:",
+        "question": "Egy kör az $x y$ síkon középpontja $(5,7)$ és sugara 2. Az alábbiak közül melyik egyenlete a körnek?",
+        "options": [
+            "['(A)$(x-5)^{2}+(y-7)^{2}=4$', '(B)$(x+5)^{2}+(y+7)^{2}=4$', '(C)$(x-5)^{2}+(y-7)^{2}=2$', '(D)$(x+5)^{2}+(y+7)^{2}=2$']"
+        ],
+        "label": "A",
+        "ind": 10
+    },
+    {
+        "passage": "Nincs háttérinformáció megadva.",
+        "question": "Az $x y$-síkban az $f(x)=x^{2}+5 x+4$ függvény grafikonjának két $x$-metszete van. Mekkora a távolság az $x$-metszetek között?",
+        "options": [
+            "['(A)1', '(B)2', '(C)3', '(D)4']"
+        ],
+        "label": "C",
+        "ind": 11
+    },
+    {
+        "passage": "Nincs háttérinformáció megadva ebben a kérdésben.",
+        "question": "$$\\sqrt{4x} = x - 3$$ Melyek azok az $x$ értékek, amelyek kielégítik a megadott egyenletet? I. 1 II. 9",
+        "options": [
+            "['(A) Csak I', '(B) Csak II', '(C) I és II', '(D) Sem I, sem II']"
+        ],
+        "label": "B",
+        "ind": 12
+    },
+    {
+        "passage": "Háttérinformáció:",
+        "question": "Kérdés: $$\\begin{aligned}& -3 x+y=6 \\\\& a x+2 y=4\\end{aligned}$$ A fenti egyenletrendszerben $a$ egy állandó. Az alábbi $a$ értékek közül melyik esetén nincs megoldása a rendszernek?",
+        "options": [
+            "Opciók: ['(A)-6', '(B)-3', '(C)3', '(D)6']"
+        ],
+        "label": "A",
+        "ind": 13
+    },
+    {
+        "passage": "Egy helikopter, amely kezdetben 40 láb magasan lebeg a föld felett, elkezd emelkedni 21 láb/másodperc sebességgel.",
+        "question": "Melyik az alábbi függvények közül írja le a helikopter magasságát a föld felett $y$ lábban, $t$ másodperccel azután, hogy a helikopter elkezd emelkedni?",
+        "options": [
+            "(A)$y=40+21$  ",
+            "(B)$y=40+21 t$  ",
+            "(C)$y=40-21 t$  ",
+            "(D)$y=40 t+21$"
+        ],
+        "label": "B",
+        "ind": 14
+    },
+    {
+        "passage": "[Háttér információ itt]",
+        "question": "Ha $20-x=15$, akkor mennyi $3x$ értéke?",
+        "options": [
+            "['(A)5', '(B)10', '(C)15', '(D)35']"
+        ],
+        "label": "C",
+        "ind": 15
+    },
+    {
+        "passage": "Nincs háttérinformáció megadva.",
+        "question": "$$f(x)=\\frac{x+3}{2}$$ Az $f$ függvényre, amelyet fent határoztunk meg, mennyi az $f(-1)$ értéke?",
+        "options": [
+            "['(A)-2', '(B)-1', '(C)1', '(D)2']"
+        ],
+        "label": "C",
+        "ind": 16
+    },
+    {
+        "passage": "background:",
+        "question": "Melyik az alábbiak közül egyenértékű a $2 x\\left(x^{2}-3 x\\right)$ kifejezéssel?",
+        "options": [
+            "['(A)$-4 x^{2}$', '(B)$3 x^{3}-x^{2}$', '(C)$2 x^{3}-3 x$', '(D)$2 x^{3}-6 x^{2}$']"
+        ],
+        "label": "D",
+        "ind": 17
+    },
+    {
+        "passage": "Egy kiskereskedelmi vállalatnak 50 nagy üzlete van egy állam különböző területein. A vállalat egyik kutatója úgy véli, hogy az alkalmazottak munkával való elégedettsége üzletről üzletre nagymértékben változik.",
+        "question": "Melyik a következő mintavételi módszerek közül a legmegfelelőbb annak becslésére, hogy a vállalat összes alkalmazottja közül milyen arányban elégedettek a munkájukkal?",
+        "options": [
+            "(A) Véletlenszerűen kiválasztani az 50 üzlet egyikét, majd megkérdezni az adott üzlet minden alkalmazottját.",
+            "(B) Véletlenszerűen kiválasztani 10 alkalmazottat minden üzletből, majd megkérdezni a kiválasztott alkalmazottakat.",
+            "(C) Megkérdezni a 25 legjobban fizetett és a 25 legrosszabbul fizetett alkalmazottat.",
+            "(D) Létrehozni egy weboldalt, ahol az alkalmazottak kifejezhetik véleményüket, majd az első 50 válasz alapján következtetni."
+        ],
+        "label": "B",
+        "ind": 18
+    },
+    {
+        "passage": "A $h$ függvény fent van definiálva.",
+        "question": "Mi az $h(5)-h(3) ?$",
+        "options": [
+            "['(A)2', '(B)4', '(C)24', '(D)28']"
+        ],
+        "label": "C",
+        "ind": 19
+    },
+    {
+        "passage": "Egy kutató egy nagy egyetem véletlenszerűen kiválasztott hallgatóinak mintáját vizsgálta arról, hogy milyen gyakran néznek filmeket. A minta adatai alapján a kutató becslése szerint a hallgatók $23 \\%$-a nézett meg legalább egyszer egy filmet havonta. A becslés hibahatára $4 \\%$.",
+        "question": "Melyik a legmegfelelőbb következtetés az egyetem összes hallgatójáról a megadott becslés és hibahatár alapján?",
+        "options": [
+            "(A) Valószínűtlen, hogy kevesebb mint $23 \\%$ hallgató néz meg legalább egyszer egy filmet havonta.",
+            "(B) Legalább $23 \\%$, de legfeljebb $25 \\%$ hallgató néz meg legalább egyszer egy filmet havonta.",
+            "(C) A kutató $19 \\%$ és $27 \\%$ között biztos abban, hogy a legtöbb hallgató legalább egyszer megnéz egy filmet havonta.",
+            "(D) Elképzelhető, hogy a hallgatók között azok aránya, akik legalább egyszer néznek filmet havonta, $19 \\%$ és $27 \\%$ között van."
+        ],
+        "label": "D",
+        "ind": 20
+    },
+    {
+        "passage": "A táblázat két számlistát mutat.",
+        "question": "\\begin{center}\\begin{tabular}{|c|c|c|c|c|c|c|}\\hline Lista A & 1 & 2 & 3 & 4 & 5 & 6 \\\\\\hline Lista B & 2 & 3 & 3 & 4 & 4 & 5 \\\\\\hline\\end{tabular}\\end{center} Melyik a következő állítások közül igaz a lista $\\mathrm{A}$ és a lista B összehasonlításában?",
+        "options": [
+            "(A) Az átlagok ugyanazok, és a szórások különbözőek.  ",
+            "(B) Az átlagok ugyanazok, és a szórások is ugyanazok.  ",
+            "(C) Az átlagok különbözőek, és a szórások különbözőek.  ",
+            "(D) Az átlagok különbözőek, és a szórások ugyanazok."
+        ],
+        "label": "A",
+        "ind": 21
+    },
+    {
+        "passage": "[There is no background information provided for this question.]",
+        "question": "Egy könyvet az eredeti árának $40 \\%$-os kedvezményével árusítottak. Ha a könyv akciós ára $\\$18.00$, akkor mennyi volt a könyv eredeti ára? (Tegyük fel, hogy nincs forgalmi adó.)",
+        "options": [
+            "['(A)$\\\\$ 7,20$', '(B)$\\\\$ 10,80$', '(C)$\\\\$ 30,00$', '(D)$\\\\$ 45,00$']"
+        ],
+        "label": "C",
+        "ind": 22
+    },
+    {
+        "passage": "Egy egyenes körkúp térfogata $24 \\pi$ köbhüvelyk.",
+        "question": "Ha a kúp magassága 2 hüvelyk, akkor mekkora a kúp alapjának sugara hüvelykben?",
+        "options": [
+            "['(A)$2 \\\\sqrt{3}$', '(B)6', '(C)12', '(D)36']"
+        ],
+        "label": "B",
+        "ind": 23
+    },
+    {
+        "passage": "2015-ben X város és Y város lakossága megegyezett egymással.",
+        "question": "2010 és 2015 között X város lakossága $20 \\%$-kal nőtt, míg Y város lakossága $10 \\%$-kal csökkent. Ha X város lakossága 120,000 volt 2010-ben, akkor mennyi volt Y város lakossága 2010-ben?",
+        "options": [
+            "(A)60,000, (B)90,000, (C)160,000, (D)240,000"
+        ],
+        "label": "C",
+        "ind": 24
+    },
+    {
+        "passage": "A gömb térfogatát a $V=\\frac{4}{3} \\pi r^{3}$ képlet adja meg, ahol $r$ a gömb sugara.",
+        "question": "Melyik adja meg a gömb sugarát a gömb térfogatának függvényében?",
+        "options": [
+            "(A)$\\\\frac{4 \\\\pi}{3 V}$, (B)$\\\\frac{3 V}{4 \\\\pi}$, (C)$\\\\sqrt[3]{\\\\frac{4 \\\\pi}{3 V}}$, (D)$\\\\sqrt[3]{\\\\frac{3 V}{4 \\\\pi}}$"
+        ],
+        "label": "D",
+        "ind": 25
+    },
+    {
+        "passage": "A fenti táblázat egy felmérés eredményeit mutatja, amelyben táblagép-használókat kérdeztek meg arról, hogy milyen gyakran néznének videohirdetéseket annak érdekében, hogy ingyenesen hozzáférjenek streaming tartalmakhoz.",
+        "question": "A táblázat alapján melyik az alábbiak közül a legközelebbi ahhoz a valószínűséghez, hogy egy táblagép-használó \"Mindig\"-et válaszolt, feltéve, hogy a táblagép-használó nem válaszolt \"Sohasem\"-et?",
+        "options": [
+            "(A) 0,31  ",
+            "(B) 0,38  ",
+            "(C) 0,45  ",
+            "(D) 0,69"
+        ],
+        "label": "C",
+        "ind": 26
+    },
+    {
+        "passage": "Az alábbi egyenletben az $a$ egy konstans. Az egyenlet grafikonja az $x y$ síkban egy parabola.",
+        "question": "$$y=-(x-3)^{2}+a$$\nMi igaz a parabolára nézve?",
+        "options": [
+            "(A) A minimuma a $(-3, a)$ pontban van.",
+            "(B) A minimuma a $(3, a)$ pontban van.",
+            "(C) A maximuma a $(-3, a)$ pontban van.",
+            "(D) A maximuma a $(3, a)$ pontban van."
+        ],
+        "label": "D",
+        "ind": 27
+    },
+    {
+        "passage": "Hátteret nem adtak meg ehhez a kérdéshez.",
+        "question": "$$\\frac{x}{x-3}=\\frac{2 x}{2}$$ Melyik a következő lehetőségek közül tartalmazza az $x$ összes lehetséges értékét, amelyek kielégítik a fenti egyenletet?",
+        "options": [
+            "['(A)0 és 2', '(B)0 és 4', '(C)-4 és 4', '(D)4']"
+        ],
+        "label": "B",
+        "ind": 0
+    },
+    {
+        "passage": "[Háttérinformációk itt]",
+        "question": "$$\\frac{1}{2 x+1}+5$$\nMelyik a következő kifejezések közül egyenértékű a fenti kifejezéssel, ha $x>0$?",
+        "options": [
+            "['(A)$\\\\frac{2 x+5}{2 x+1}$', '(B)$\\\\frac{2 x+6}{2 x+1}$', '(C)$\\\\frac{10 x+5}{2 x+1}$', '(D)$\\\\frac{10 x+6}{2 x+1}$']"
+        ],
+        "label": "D",
+        "ind": 1
+    },
+    {
+        "passage": "[nincs háttérinformáció]",
+        "question": "Mi a $\\sqrt{x+2}=-x$ egyenlet összes megoldásának halmaza?",
+        "options": [
+            "['(A)$\\\\{-1,2\\\\}$', '(B)$\\\\{-1\\\\}$', '(C)$\\\\{2\\\\}$', '(D)Nincs megoldása a megadott egyenletnek.']"
+        ],
+        "label": "B",
+        "ind": 2
+    },
+    {
+        "passage": "Háttér információ nincs megadva ehhez a kérdéshez.",
+        "question": "Milyen értéke van az $x$-nek, amely kielégíti a $3x + 3 = 27$ egyenletet?",
+        "options": [
+            "['(A)3', '(B)8', '(C)10', '(D)27']"
+        ],
+        "label": "B",
+        "ind": 3
+    },
+    {
+        "passage": "[No background information provided]",
+        "question": "Ha $\\frac{2n}{5}=10$, akkor mennyi $2n-1$ értéke?",
+        "options": [
+            "['(A)24', '(B)49', '(C)50', '(D)99']"
+        ],
+        "label": "B",
+        "ind": 4
+    },
+    {
+        "passage": "Nincs háttérinformáció megadva.",
+        "question": "Melyik alábbi $x$ érték NEM megoldása a fenti egyenletnek: $$\\sqrt{x^{2}}=x$$ ?",
+        "options": [
+            "(A) -4",
+            "(B) 0",
+            "(C) 1",
+            "(D) 3"
+        ],
+        "label": "A",
+        "ind": 5
+    },
+    {
+        "passage": "Nincs háttérinformáció megadva.",
+        "question": "A Washington High School véletlenszerűen választott ki gólya, másodéves, harmadéves és végzős diákokat egy felméréshez a jövő évi órarend esetleges változásairól. A felmérésre kiválasztott diákok közül $\\frac{1}{4}$ gólya és $\\frac{1}{3}$ másodéves volt. A fennmaradó kiválasztott diákok felét harmadévesek tették ki. Ha összesen 336 diákot választottak ki a felmérésre, hányan voltak közülük végzősök?",
+        "options": [
+            "['(A)240', '(B)140', '(C)120', '(D)70']"
+        ],
+        "label": "D",
+        "ind": 6
+    },
+    {
+        "passage": "Plant A is currently 20 centimeters tall, and Plant B is currently 12 centimeters tall. The ratio of the heights of Plant A to Plant B is equal to the ratio of the heights of Plant $\\mathrm{C}$ to Plant D.",
+        "question": "If Plant $\\mathrm{C}$ is 54 centimeters tall, what is the height of Plant $\\mathrm{D}$, in centimeters?",
+        "options": [
+            "(A)32.4, (B)44.0, (C)62.0, (D)90.0"
+        ],
+        "label": "A",
+        "ind": 7
+    },
+    {
+        "passage": "Biológusok egy új pale garnélarák fajt találtak a világ legmélyebb tengeri ventjénél, a Beebe Vent Mezőn. A vent a tenger felszíne alatt 3.1 mérföld mélyen található.",
+        "question": "Körülbelül hány kilométer mélyen található a vent a tenger felszíne alatt? (1 kilométer $\\approx 0.6214$ mérföld)",
+        "options": [
+            "['(A)2', '(B)3', '(C)4', '(D)5']"
+        ],
+        "label": "D",
+        "ind": 8
+    },
+    {
+        "passage": "Egy teherhelikopter csak 100 fontos és 120 fontos csomagokat szállít. Minden szállítóút során a helikopternek legalább 10 csomagot kell vinnie, és a csomagok összsúlya legfeljebb 1100 font lehet.",
+        "question": "Mi a maximális száma a 120 fontos csomagoknak, amelyeket a helikopter egy út során szállíthat?",
+        "options": [
+            "(A)2, (B)4, (C)5, (D)6"
+        ],
+        "label": "C",
+        "ind": 9
+    },
+    {
+        "passage": "[Háttér információk itt]",
+        "question": "Egy vállalat vásárolt egy gépet, amelynek értéke 120 000 dollár. A gép értéke minden évben ugyanannyival csökken, így 10 év után az értéke 30 000 dollár lesz. Az alábbi egyenletek közül melyik adja meg a gép értékét, $v$ dollárban, $t$ évvel a vásárlás után, ahol $0 \\leq t \\leq 10 ?$",
+        "options": [
+            "['(A)$v=30,000-9,000 t$', '(B)$v=120,000-9,000 t$', '(C)$v=120,000+9,000 t$', '(D)$v=120,000-30,000 t$']"
+        ],
+        "label": "B",
+        "ind": 10
+    },
+    {
+        "passage": "",
+        "question": "Az $xy$-síkon lévő $m$ egyenes áthalad a $(2,4)$ és $(0,1)$ pontokon. Az alábbiak közül melyik egyenlet írja le az $m$ egyenest?",
+        "options": [
+            "(A)$y=2 x+3$  ",
+            "(B)$y=2 x+4$  ",
+            "(C)$y=\\frac{3}{2} x+3$  ",
+            "(D)$y=\\frac{3}{2} x+1$"
+        ],
+        "label": "D",
+        "ind": 11
+    },
+    {
+        "passage": "Háttérinformációk",
+        "question": "$$(4 x+4)(a x-1)-x^{2}+4$$ A fenti kifejezésben $a$ egy állandó. Ha a kifejezés ekvivalens $b x$-szel, ahol $b$ egy állandó, mi $b$ értéke?",
+        "options": [
+            "['(A)-5', '(B)-3', '(C)0', '(D)12']"
+        ],
+        "label": "B",
+        "ind": 12
+    },
+    {
+        "passage": "background:",
+        "question": "Kérdés: Ha $2 w+4 t=14$ és $4 w+5 t=25$, akkor mennyi a $2 w+3 t$ értéke?",
+        "options": [
+            "['(A)6', '(B)10', '(C)13', '(D)17']"
+        ],
+        "label": "C",
+        "ind": 13
+    },
+    {
+        "passage": "Jennifer vett egy doboz Crunchy Grain gabonapelyhet. A dobozon található tápértékadatok szerint a gabonapehely adagja $\\frac{3}{4}$ csésze, és 210 kalóriát tartalmaz, amelyből 50 kalória származik zsírból. Továbbá, minden adag gabonapehely 180 milligramm káliumot biztosít, ami a felnőttek napi szükségletének $5 \\%$-a.",
+        "question": "Ha egy felnőtt napi káliumszükségletének $p$ százalékát biztosítja naponta $x$ adag Crunchy Grain gabonapehely, akkor az alábbiak közül melyik fejezi ki $p$-t $x$ függvényében?",
+        "options": [
+            "(A)$p=0.5 x$, (B)$p=5 x$, (C)$p=(0.05)^{x}$, (D)$p=(1.05)^{x}$"
+        ],
+        "label": "B",
+        "ind": 14
+    },
+    {
+        "passage": "Jennifer vásárolt egy doboz Crunchy Grain gabonapelyhet. A doboz tápértékadatai szerint egy adag gabonapehely mérete $\\frac{3}{4}$ csésze, és 210 kalóriát tartalmaz, amelyből 50 kalória zsír eredetű. Ezen felül, minden adag gabonapehely 180 milligramm káliumot biztosít, ami a felnőttek napi ajánlott mennyiségének $5\\%$-a.",
+        "question": "Kedden Jennifer Crunchy Grain gabonapelyhet fog keverni Super Grain gabonapehellyel a reggelijéhez. A Super Grain gabonapehely 240 kalóriát biztosít csészénként. Ha Jennifer keverékének egy csészéje összesen 270 kalóriát tartalmaz, akkor mennyi Super Grain gabonapehely van a keverék egy csészéjében?",
+        "options": [
+            "['(A)$\\\\frac{1}{8} \\\\operatorname{csésze}$', '(B)$\\\\frac{1}{4} \\\\operatorname{csésze}$', '(C)$\\\\frac{1}{3} \\\\operatorname{csésze}$', '(D)$\\\\frac{1}{2} \\\\operatorname{csésze}$']"
+        ],
+        "label": "B",
+        "ind": 15
+    },
+    {
+        "passage": "",
+        "question": "Az exponenciális függvény, $h$, grafikonja az $x y$-síkon, ahol $y=h(x)$, $y$-metszete $d$, ahol $d$ egy pozitív állandó. Az alábbiak közül melyik határozhatja meg a $h$ függvényt?",
+        "options": [
+            "(A) $h(x)=-3(d)^{x}$  ",
+            "(B) $h(x)=3(x) d$  ",
+            "(C) $h(x)=d(-x)^{3}$  ",
+            "(D) $h(x)=d(3)^{x}$"
+        ],
+        "label": "D",
+        "ind": 16
+    },
+    {
+        "passage": "A háttér információ nem adott meg, így erre nincs szükség a fordításban.",
+        "question": "Egy istállóban 15 ló súlyát fontban jelentették, és kiszámították az adatok átlagát, mediánját, terjedelmét és szórását. Kiderült, hogy a legalacsonyabb jelentett súlyú ló valójában 10 fonttal kevesebbet nyom, mint a jelentett súlya. Melyik érték marad változatlan, ha a négy értéket a korrigált súly alapján jelentik?",
+        "options": [
+            "(A) Átlag",
+            "(B) Medián",
+            "(C) Terjedelem",
+            "(D) Szórás"
+        ],
+        "label": "B",
+        "ind": 17
+    },
+    {
+        "passage": "background:",
+        "question": "A műsor végén egy amerikai kábeltelevíziós hírműsor házigazdája arra kérte a nézőket, hogy válaszoljanak a műsor honlapján található szavazásra, amely azt kérdezte: \"Támogatja-e az adás során megvitatott új szövetségi politikát?\" A műsor végén a házigazda arról számolt be, hogy $28 \\%$ válaszolt \"Igen\", és $70 \\%$ válaszolt \"Nem\". Az alábbiak közül melyik magyarázza meg legjobban, miért valószínűtlen, hogy az eredmények az Egyesült Államok lakosságának véleményét képviselik?",
+        "options": [
+            "['(A) Az százalékos arányok nem adják ki a $100 \\\\%$-ot, így a szavazásból levont bármilyen következtetés érvénytelen.', '(B) Azok, akik válaszoltak a szavazásra, nem az Egyesült Államok lakosságának véletlenszerű mintájából származtak.', '(C) Nem volt $50 \\\\%$ \"Igen\" válasz és $50 \\\\%$ \"Nem\" válasz.', '(D) A műsor nem adott elegendő időt a nézőknek arra, hogy válaszoljanak a szavazásra.']"
+        ],
+        "label": "B",
+        "ind": 18
+    },
+    {
+        "passage": "background:",
+        "question": "question: Ha $f(x)=5 x^{2}-3$ és $f(x+a)=5 x^{2}+30 x+42$, mi az $a$ értéke?",
+        "options": [
+            "['(A)-30', '(B)$\\\\quad-3$', '(C)3', '(D)30']"
+        ],
+        "label": "C",
+        "ind": 19
+    },
+    {
+        "passage": "Háttérinformáció:",
+        "question": "Ha $\\sin x^{\\circ}=a$, melyik állítás igaz minden $x$ értékre?",
+        "options": [
+            "(A)$\\cos x^{\\circ}=a$  ",
+            "(B)$\\sin \\left(90^{\\circ}-x^{\\circ}\\right)=a$  ",
+            "(C)$\\cos \\left(90^{\\circ}-x^{\\circ}\\right)=a$  ",
+            "(D)$\\sin \\left(x^{2}\\right)^{\\circ}=a^{2}$"
+        ],
+        "label": "C",
+        "ind": 20
+    },
+    {
+        "passage": "A fenti másodfokú függvény a föld feletti magasságot, $h$-t modellezi lábban, egy lövedék $x$ másodperccel azután, hogy függőlegesen kilőtték.",
+        "question": "Ha $y=h(x)$-et ábrázoljuk az $x y$-síkon, akkor az alábbiak közül melyik képviseli a grafikon pozitív $x$-tengely metszésének valós jelentését?",
+        "options": [
+            "(A) A lövedék kezdeti magassága",
+            "",
+            "(B) A lövedék maximális magassága",
+            "",
+            "(C) Az az idő, amikor a lövedék eléri a maximális magasságát",
+            "",
+            "(D) Az az idő, amikor a lövedék eléri a földet"
+        ],
+        "label": "D",
+        "ind": 21
+    },
+    {
+        "passage": "",
+        "question": "Az \\(xy\\)-síkon a polinom függvény \\(f\\) grafikonja pontosan két pontban metszi az \\(x\\)-tengelyt, mégpedig \\((a, 0)\\) és \\((b, 0)\\) pontokban, ahol \\(a\\) és \\(b\\) mindkettő pozitív. Az alábbiak közül melyik határozhatja meg \\(f\\)-et?",
+        "options": [
+            "(A)\\(f(x)=(x-a)(x-b)\\)  ",
+            "(B)\\(f(x)=(x+a)(x+b)\\)  ",
+            "(C)\\(f(x)=(x-a)(x+b)\\)  ",
+            "(D)\\(f(x)=x(x-a)(x-b)\\)"
+        ],
+        "label": "A",
+        "ind": 22
+    },
+    {
+        "passage": "",
+        "question": "Ha $y=3 x^{2}+6 x+2$ grafikont ábrázolunk az $x y$ síkban, akkor a grafikon melyik jellemzőjét jeleníti meg az egyenletben szereplő konstans vagy együttható?",
+        "options": [
+            "['(A) A csúcspont $y$ koordinátája', '(B) $x$-metszet(ek)', '(C) $y$-metszet', '(D) A szimmetriatengely $x$-metszete']"
+        ],
+        "label": "C",
+        "ind": 23
+    },
+    {
+        "passage": "",
+        "question": "Ha $\\frac{x-1}{3}=k$ és $k=3$, akkor mi az $x$ értéke?",
+        "options": [
+            "['(A)2', '(B)4', '(C)9', '(D)10']"
+        ],
+        "label": "D",
+        "ind": 0
+    },
+    {
+        "passage": "<i> Háttérinformációk nincsenek megadva. </i>",
+        "question": "<i> Ha $i=\\sqrt{-1}$, mi a $(7+3 i)+(-8+9 i)$ összeg? </i>",
+        "options": [
+            "<i> (A) $-1+12 i$, (B) $-1-6 i$, (C) $15+12 i$, (D) $15-6 i$ </i>"
+        ],
+        "label": "A",
+        "ind": 1
+    },
+    {
+        "passage": "[Background information here]",
+        "question": "Szombat délután Armand óránként $m$ szöveges üzenetet küldött 5 órán keresztül, míg Tyrone óránként $p$ szöveges üzenetet küldött 4 órán keresztül. Az alábbi lehetőségek közül melyik fejezi ki a szombat délután Armand és Tyrone által küldött összes üzenet számát?",
+        "options": [
+            "['(A)$9 m p$', '(B)$20 m p$', '(C)$5 m+4 p$', '(D)$4 m+5 p$']"
+        ],
+        "label": "C",
+        "ind": 2
+    },
+    {
+        "passage": "Kathy is a repair technician for a phone company. Each week, she receives a batch of phones that need repairs. The number of phones that she has left to fix at the end of each day can be estimated with the equation $P=108-23 d$, where $P$ is the number of phones left and $d$ is the number of days she has worked that week.",
+        "question": "What is the meaning of the value 108 in this equation?",
+        "options": [
+            "(A) Kathy will complete the repairs within 108 days.",
+            "(B) Kathy starts each week with 108 phones to fix.",
+            "(C) Kathy repairs phones at a rate of 108 per hour.",
+            "(D) Kathy repairs phones at a rate of 108 per day."
+        ],
+        "label": "B",
+        "ind": 3
+    },
+    {
+        "passage": "Nincs háttérinformáció megadva ehhez a kérdéshez.",
+        "question": "$$\\left(x^{2} y-3 y^{2}+5 x y^{2}\\right)-\\left(-x^{2} y+3 x y^{2}-3 y^{2}\\right)$$ Melyik kifejezés egyenértékű a fenti kifejezéssel?",
+        "options": [
+            "['(A)$4 x^{2} y^{2}$', '(B)$8 x y^{2}-6 y^{2}$', '(C)$2 x^{2} y+2 x y^{2}$', '(D)$2 x^{2} y+8 x y^{2}-6 y^{2}$']"
+        ],
+        "label": "C",
+        "ind": 4
+    },
+    {
+        "passage": "Egy gyermekorvos a fenti modellt használja annak becslésére, hogy egy fiú magassága $h$, hüvelykben kifejezve, hogyan változik a fiú életkorának $a$, években kifejezve, 2 és 5 éves kor között.",
+        "question": "A modell alapján mennyi a becsült éves növekedés, hüvelykben, egy fiú magasságában?",
+        "options": [
+            "(A) 3, (B) $\\\\quad 5.7$, (C) 9.5, (D) 14.3"
+        ],
+        "label": "A",
+        "ind": 5
+    },
+    {
+        "passage": "A képlet fent megadja a havi fizetést, $m$, amely szükséges ahhoz, hogy egy $P$ dolláros kölcsönt kifizessünk $r$ százalékos éves kamattal $N$ hónap alatt.",
+        "question": "Melyik a következő képletek közül adja meg $P$-t $m$, $r$ és $N$ függvényében?",
+        "options": [
+            "(A) $P=\\frac{\\left(\\frac{r}{1,200}\\right)\\left(1+\\frac{r}{1,200}\\right)^{N}}{\\left(1+\\frac{r}{1,200}\\right)^{N}-1} m$",
+            "",
+            "(B) $P=\\frac{\\left(1+\\frac{r}{1,200}\\right)^{N}-1}{\\left(\\frac{r}{1,200}\\right)\\left(1+\\frac{r}{1,200}\\right)^{N}} m$",
+            "",
+            "(C) $P=\\left(\\frac{r}{1,200}\\right) m$",
+            "",
+            "(D) $P=\\left(\\frac{1,200}{r}\\right) m$"
+        ],
+        "label": "B",
+        "ind": 6
+    },
+    {
+        "passage": "background:",
+        "question": "Ha $\\frac{a}{b}=2$, akkor mennyi $\\frac{4 b}{a} ?$",
+        "options": [
+            "['(A) 0', '(B) 1', '(C) 2', '(D) 4']"
+        ],
+        "label": "C",
+        "ind": 7
+    },
+    {
+        "passage": "Nincs háttérinformáció megadva.",
+        "question": "$$\\begin{array}{r}3 x+4 y=-23 \\\\2 y-x=-19\\end{array}$$Mi a fenti egyenletrendszer megoldása $(x, y)$?",
+        "options": [
+            "['(A)$(-5,-2)$', '(B)$(3,-8)$', '(C)$(4,-6)$', '(D)$(9,-6)$']"
+        ],
+        "label": "B",
+        "ind": 8
+    },
+    {
+        "passage": "Nincs háttérinformáció megadva.",
+        "question": "$$g(x)=a x^{2}+24$$A fent meghatározott $g$ függvény esetén, $a$ egy állandó, és $g(4)=8$. Mi az értéke $g(-4)$-nek?",
+        "options": [
+            "['(A)8', '(B)0', '(C)-1', '(D)-8']"
+        ],
+        "label": "A",
+        "ind": 9
+    },
+    {
+        "passage": "A háttér információ nem áll rendelkezésre a megadott kérdéshez.",
+        "question": "$$\\begin{aligned}& b=2.35+0.25 x \\\\& c=1.75+0.40 x\\end{aligned}$$ A fenti egyenletekben $b$ és $c$ a marhahús és a csirke fontonkénti árát jelölik dollárban, $x$ héttel július 1. után a múlt nyáron. Mennyi volt a marhahús fontonkénti ára, amikor az megegyezett a csirke fontonkénti árával?",
+        "options": [
+            "['(A)$\\\\$ 2.60$', '(B)$\\\\$ 2.85$', '(C)$\\\\$ 2.95$', '(D)$\\\\$ 3.35$']"
+        ],
+        "label": "D",
+        "ind": 10
+    },
+    {
+        "passage": "",
+        "question": "Egy egyenes az $xy$ síkban áthalad az origón, és a meredeksége $\\frac{1}{7}$. Az alábbi pontok közül melyik van az egyenesen?",
+        "options": [
+            "['(A)$(0,7)$', '(B)$(1,7)$', '(C)$(7,7)$', '(D)$(14,2)$']"
+        ],
+        "label": "D",
+        "ind": 11
+    },
+    {
+        "passage": "",
+        "question": "Ha \\( x > 3 \\), melyik a következők közül ekvivalens \\(\\frac{1}{\\frac{1}{x+2}+\\frac{1}{x+3}}\\) kifejezéssel?",
+        "options": [
+            "(A) \\(\\frac{2x+5}{x^{2}+5x+6}\\)",
+            "",
+            "(B) \\(\\frac{x^{2}+5x+6}{2x+5}\\)",
+            "",
+            "(C) \\(2x+5\\)",
+            "",
+            "(D) \\(x^{2}+5x+6\\)"
+        ],
+        "label": "B",
+        "ind": 12
+    },
+    {
+        "passage": "Nincs háttérinformáció megadva.",
+        "question": "Ha $3x-y=12$, akkor mennyi $\\frac{8^{x}}{2^{y}}$ értéke?",
+        "options": [
+            "(A)$2^{12}$, (B)4, (C)$8^{2}$, (D)Az érték nem határozható meg a megadott információk alapján."
+        ],
+        "label": "A",
+        "ind": 13
+    },
+    {
+        "passage": "Nincs háttérinformáció megadva.",
+        "question": "Ha $(ax+2)(bx+7)=15x^{2}+cx+14$ minden $x$ értékre igaz, és $a+b=8$, akkor mi a két lehetséges értéke $c$-nek?",
+        "options": [
+            "(A) 3 és 5, (B) 6 és 35, (C) 10 és 21, (D) 31 és 41"
+        ],
+        "label": "D",
+        "ind": 14
+    },
+    {
+        "passage": "background:",
+        "question": "Ha \\( y = kx \\), ahol \\( k \\) egy állandó, és \\( y = 24 \\), amikor \\( x = 6 \\), akkor mennyi \\( y \\) értéke, amikor \\( x = 5 \\)?",
+        "options": [
+            "['(A)6', '(B)15', '(C)20', '(D)23']"
+        ],
+        "label": "C",
+        "ind": 15
+    },
+    {
+        "passage": "[Háttér információ itt]",
+        "question": "Ha $16+4 x$ 10-zel több, mint 14, akkor mennyi $8 x$ értéke?",
+        "options": [
+            "['(A)2', '(B)6', '(C)16', '(D)80 5']"
+        ],
+        "label": "C",
+        "ind": 16
+    },
+    {
+        "passage": "1 decagram = 10 grams  \n1,000 milligrams = 1 gram",
+        "question": "Egy kórház egyfajta gyógyszert 2 dekagrammos tartályokban tárol. Az alábbi dobozban megadott információk alapján hány 1 milligrammos adag van egy 2 dekagrammos tartályban?",
+        "options": [
+            "(A)$\\quad 0,002$  ",
+            "(B)$\\quad 200$  ",
+            "(C)$\\quad 2,000$  ",
+            "(D)20,000"
+        ],
+        "label": "D",
+        "ind": 17
+    },
+    {
+        "passage": "Nincs háttérinformáció megadva.",
+        "question": "Milyen értékre lesz igaz az $n$ esetén, hogy $|n-1|+1$ egyenlő 0-val?",
+        "options": [
+            "(A) 0",
+            "(B) 1",
+            "(C) 2",
+            "(D) Nincs ilyen $n$ érték."
+        ],
+        "label": "D",
+        "ind": 18
+    },
+    {
+        "passage": "$$a=1,052+1.08 t.$$ A hanghullám sebessége a levegőben függ a levegő hőmérsékletétől. A fenti képlet megmutatja az összefüggést $a$, a hanghullám sebessége, láb per másodpercben, és $t$, a levegő hőmérséklete, Fahrenheit fokban $\\left({ }^{\\circ} \\mathrm{F}\\right)$ között.",
+        "question": "A következők közül melyik fejezi ki a levegő hőmérsékletét a hanghullám sebessége alapján?",
+        "options": [
+            "(A)$t=\\\\frac{a-1,052}{1.08}$  ",
+            "(B)$t=\\\\frac{a+1,052}{1.08}$  ",
+            "(C)$t=\\\\frac{1,052-a}{1.08}$  ",
+            "(D)$t=\\\\frac{1.08}{a+1,052}$"
+        ],
+        "label": "A",
+        "ind": 19
+    },
+    {
+        "passage": "$$a = 1,052 + 1,08 \\cdot t.$$ A hanghullámok sebessége a levegőben a levegő hőmérsékletétől függ. A fenti képlet megmutatja az $a$, azaz a hanghullám sebességének és $t$, azaz a levegő hőmérsékletének összefüggését Fahrenheit fokban $\\left({ }^{\\circ} \\mathrm{F}\\right)$.",
+        "question": "Melyik következő levegőhőmérsékleten lesz a hanghullám sebessége a legközelebb az 1 000 láb/másodperchez?",
+        "options": [
+            "['(A)$-46^{\\circ} \\mathrm{F}$', '(B)$-48^{\\circ} \\mathrm{F}$', '(C)$-49^{\\circ} \\mathrm{F}$', '(D)$-50^{\\circ} \\mathrm{F}$']"
+        ],
+        "label": "B",
+        "ind": 20
+    },
+    {
+        "passage": "[Ebben a részben nincs háttérinformáció.]",
+        "question": "Az alábbi számok közül melyik NEM megoldása a $3x-5 \\geq 4x-3$ egyenlőtlenségnek?",
+        "options": [
+            "(A) -1  ",
+            "(B) -2  ",
+            "(C) -3  ",
+            "(D) -5"
+        ],
+        "label": "A",
+        "ind": 21
+    },
+    {
+        "passage": "Egy tizedikes diákcsoport egy felmérésre válaszolt, amelyben azt kérdezték meg tőlük, hogy melyik matematikai kurzusra vannak jelenleg beiratkozva. A felmérés adatait a fenti táblázat mutatja.",
+        "question": "\\begin{center}\\begin{tabular}{|c|c|c|c|c|c|}\\cline { 3 - 5 }\\multicolumn{2}{c|}{} & \\multicolumn{3}{c|}{Kurzus} & \\multicolumn{1}{c|}{} \\\\\\cline { 2 - 5 }\\multicolumn{2}{c|}{} & Algebra I & Geometria & $\\begin{array}{c}\\text { Algebra } \\\\ \\text { II }\\end{array}$ & \\multirow{2}{*}{Összesen} \\\\\\hline\\multirow{2}{*}{Nem} & Nő & 35 & 53 & 62 &  \\\\\\cline { 2 - 5 }& Férfi & 44 & 59 & 57 & 160 \\\\\\hline& Összesen & 79 & 112 & 119 & 310 \\\\\\hline\\end{tabular}\\end{center} A következő kategóriák közül melyik teszi ki a felmérés összes válaszadójának körülbelül 19 százalékát?",
+        "options": [
+            "(A) Nők, akik Geometriát tanulnak",
+            "(B) Nők, akik Algebra II-t tanulnak",
+            "(C) Férfiak, akik Geometriát tanulnak",
+            "(D) Férfiak, akik Algebra I-t tanulnak"
+        ],
+        "label": "C",
+        "ind": 22
+    },
+    {
+        "passage": "A fenti táblázat 21 véletlenszerűen kiválasztott barna törpeharcsa hosszúságát (hüvelykben) sorolja fel, a legközelebbi hüvelykre kerekítve. A 24 hüvelykes kiugró mérés hibás.",
+        "question": "\\begin{center}\\begin{tabular}{|c|c|c|c|c|c|c|}\\hline\\multicolumn{7}{|c|}{Halak hosszúsága (hüvelykben)} \\\\\\hline8 & 9 & 9 & 9 & 10 & 10 & 11 \\\\\\hline11 & 12 & 12 & 12 & 12 & 13 & 13 \\\\\\hline13 & 14 & 14 & 15 & 15 & 16 & 24 \\\\\\hline\\end{tabular}\\end{center}A fenti táblázat 21 véletlenszerűen kiválasztott barna törpeharcsa hosszúságát (hüvelykben) sorolja fel, a legközelebbi hüvelykre kerekítve. A 24 hüvelykes kiugró mérés hibás. Az átlag, a medián és a tartomány közül melyik változik a legjobban, ha a 24 hüvelykes mérés kikerül az adatok közül?",
+        "options": [
+            "['(A) Átlag', '(B) Medián', '(C) Tartomány', '(D) Mindegyik ugyanannyit változik.']"
+        ],
+        "label": "C",
+        "ind": 23
+    },
+    {
+        "passage": "[Háttérinformáció nincs megadva az eredeti kérdésben]",
+        "question": "$$\\begin{aligned}& y<-x+a \\\\& y>x+b\\end{aligned}$$ Az $x y$-síkon, ha a $(0,0)$ megoldása a fenti egyenlőtlenségekből álló rendszernek, akkor melyik a következő kapcsolatok közül igaz az $a$ és $b$ között?",
+        "options": [
+            "['(A)$a>b$', '(B)$b>a$', '(C)$|a|>|b|$', '(D)$a=-b$']"
+        ],
+        "label": "A",
+        "ind": 24
+    },
+    {
+        "passage": "Egy ételkamion salátákat árul darabonként 6,50 dollárért és italokat darabonként 2,00 dollárért. Az ételkamion bevétele egy nap alatt összesen 209 saláta és ital eladásából 836,50 dollár volt.",
+        "question": "Hány salátát adtak el azon a napon?",
+        "options": [
+            "(A)77",
+            "(B)93",
+            "(C)99",
+            "(D)105"
+        ],
+        "label": "B",
+        "ind": 25
+    },
+    {
+        "passage": "[Background information here]",
+        "question": "Alma vásárolt egy laptop számítógépet egy boltban, ahol az eredeti árra 20 százalékos kedvezményt adtak. Az összeg, amit a pénztárosnak fizetett, $p$ dollár volt, amely tartalmazott egy 8 százalékos forgalmi adót a kedvezményes áron. Az alábbiak közül melyik fejezi ki a számítógép eredeti árát $p$ függvényében?",
+        "options": [
+            "['(A)$0.88 p$', '(B)$\\\\frac{p}{0.88}$', '(C)$(0.8)(1.08) p$', '(D)$\\\\frac{p}{(0.8)(1.08)}$']"
+        ],
+        "label": "D",
+        "ind": 26
+    },
+    {
+        "passage": "A fenti táblázat adatait egy alváskutató készítette, aki azt vizsgálta, hogy hány álmot idéznek fel az emberek, amikor egy hétig felkérik őket álmaik rögzítésére. Az X csoport 100 főből állt, akik korai lefekvési időpontokat tartottak be, míg a Y csoport 100 főből állt, akik késői lefekvési időpontokat tartottak be.",
+        "question": "Ha véletlenszerűen választunk egy embert azok közül, akik legalább 1 álmot felidéztek, mekkora a valószínűsége annak, hogy az illető a Y csoportba tartozott?",
+        "options": [
+            "['(A)$\\\\frac{68}{100}$', '(B)$\\\\frac{79}{100}$', '(C)$\\\\frac{79}{164}$', '(D)$\\\\frac{164}{200}$']"
+        ],
+        "label": "C",
+        "ind": 27
+    }
+]

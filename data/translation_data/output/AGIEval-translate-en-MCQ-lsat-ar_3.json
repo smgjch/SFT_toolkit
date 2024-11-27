@@ -1,0 +1,367 @@
+[
+    {
+        "passage": "Egy hangversenyen két zongorista – Wayne és Zara – fog szólókat előadni. Összesen öt szóló lesz, egymás után közvetlenül előadva. Minden szóló vagy modern, vagy hagyományos darab lesz. A szólók zongoristáinak és darabjainak típusát a következő feltételeknek kell megfelelniük: A harmadik szóló egy hagyományos darab. Pontosan két hagyományos darab van egymás után előadva. A negyedik szólóban vagy Wayne ad elő egy hagyományos darabot, vagy Zara ad elő egy modern darabot. Az a zongorista, aki a második szólót előadja, nem adja elő az ötödik szólót. Nem adnak elő hagyományos darabot, amíg Wayne legalább egy modern darabot el nem ad.",
+        "question": "Melyik lehet a következő lehetőségek közül az összes hagyományos szóló darab?",
+        "options": [
+            "(A) az első, harmadik és negyedik",
+            "(B) a második, harmadik és negyedik",
+            "(C) a harmadik és negyedik",
+            "(D) a harmadik és ötödik",
+            "(E) a negyedik és ötödik"
+        ],
+        "label": "C",
+        "ind": 0
+    },
+    {
+        "passage": "Egy előadáson két zongorista – Wayne és Zara – ad elő szólókat. Összesen öt szóló lesz, amelyeket egymás után adnak elő. Minden szóló vagy modern darab, vagy hagyományos darab lesz. A szólókhoz választott zongoristának és darab típusának meg kell felelnie a következő feltételeknek: A harmadik szóló egy hagyományos darab. Pontosan két hagyományos darab van egymás után. A negyedik szólóban vagy Wayne ad elő hagyományos darabot, vagy Zara ad elő modern darabot. Az a zongorista, aki a második szólót adja elő, nem adja elő az ötödik szólót. Nem adnak elő hagyományos darabot addig, amíg Wayne legalább egy modern darabot el nem ad.",
+        "question": "Mi a minimális száma azoknak a szólóknak, amelyekben Wayne hagyományos darabot ad elő?",
+        "options": [
+            "(A) nulla, (B) egy, (C) kettő, (D) három, (E) négy"
+        ],
+        "label": "A",
+        "ind": 1
+    },
+    {
+        "passage": "Egy hangverseny során két zongorista – Wayne és Zara – fog szólókat előadni. Összesen öt szóló lesz, amelyeket egymás után, közvetlenül fognak előadni. Minden szóló vagy modern darab, vagy hagyományos darab lesz. A szólók zongoristájának és a darab típusának megválasztásának a következő feltételeknek kell megfelelnie: A harmadik szóló egy hagyományos darab. Pontosan két hagyományos darabot egymás után adnak elő. A negyedik szólóban vagy Wayne ad elő egy hagyományos darabot, vagy Zara ad elő egy modern darabot. Az a zongorista, aki a második szólót előadja, nem adja elő az ötödik szólót. Nem adnak elő hagyományos darabot addig, amíg Wayne legalább egy modern darabot nem ad elő.",
+        "question": "Ha az a zongorista, aki az első szólót előadja, a második szólót is előadja, akkor az alábbiak közül melyik igaz?",
+        "options": [
+            "(A) Zara adja elő az első szólót.",
+            "(B) Wayne adja elő a harmadik szólót.",
+            "(C) Zara adja elő az ötödik szólót.",
+            "(D) A második szóló egy hagyományos darab.",
+            "(E) A negyedik szóló egy modern darab."
+        ],
+        "label": "C",
+        "ind": 2
+    },
+    {
+        "passage": "Egy hangversenyen két zongorista—Wayne és Zara—fog szólókat előadni. Összesen öt szóló lesz, amelyek egymás után következnek. Mindegyik szóló vagy modern darab, vagy hagyományos darab lesz. A szólókhoz kiválasztott zongorista és darab típusa a következő feltételeknek kell, hogy megfeleljen: A harmadik szóló hagyományos darab. Pontosan két hagyományos darab van egymás után előadva. A negyedik szólóban vagy Wayne ad elő egy hagyományos darabot, vagy Zara ad elő egy modern darabot. Az a zongorista, aki a második szólót előadja, nem adja elő az ötödik szólót. Egyetlen hagyományos darab sem kerül előadásra addig, amíg Wayne nem ad elő legalább egy modern darabot.",
+        "question": "Ha az ötödik szóló hagyományos darab, akkor hány szóló típusa határozható meg pontosan?",
+        "options": [
+            "(A) egy",
+            "(B) kettő",
+            "(C) három",
+            "(D) négy",
+            "(E) öt"
+        ],
+        "label": "B",
+        "ind": 3
+    },
+    {
+        "passage": "Egy hangversenyen két zongorista—Wayne és Zara—ad elő szólókat. Összesen öt szóló lesz, egymás után közvetlenül előadva. Mindegyik szóló vagy modern darab, vagy hagyományos darab lesz. A szólók zongoristájának és darab típusának választása az alábbi feltételeknek kell, hogy megfeleljen: A harmadik szóló hagyományos darab. Pontosan két hagyományos darabot adnak elő egymás után. A negyedik szólóban vagy Wayne ad elő egy hagyományos darabot, vagy Zara ad elő egy modern darabot. A zongorista, aki a második szólót játssza, nem játssza az ötödik szólót. Nem adnak elő hagyományos darabot, amíg Wayne legalább egy modern darabot nem ad elő.",
+        "question": "Ha Wayne az ötödik szólóban hagyományos darabot ad elő, melyik lehet igaz az alábbiak közül?",
+        "options": [
+            "(A) Zara adja elő az első szólót.",
+            "(B) Wayne adja elő a második szólót.",
+            "(C) Zara adja elő a harmadik szólót.",
+            "(D) A második szóló egy modern darab.",
+            "(E) A negyedik szóló egy hagyományos darab."
+        ],
+        "label": "C",
+        "ind": 4
+    },
+    {
+        "passage": "Egy ingatlanügynök egy leendő vásárlónak hét házat fog bemutatni egy nap alatt: J, K, L, M, N, O és P. Az első és a második házat délelőtt, a harmadik, negyedik és ötödik házat délután, a hatodik és hetedik házat pedig este fogják bemutatni. A házakat a következő szabályok szerint mutatják be: J-t este kell bemutatni. K-t nem lehet délelőtt bemutatni. L-t valamikor K után, és valamikor M előtt kell bemutatni.",
+        "question": "Melyik lehet a sorrend, amelyben az ingatlanügynök bemutatja a házakat az elsőtől a hetedikig?",
+        "options": [
+            "(A) K, O, L, M, N, J, P",
+            "(B) N, L, P, K, M, O, J",
+            "(C) O, P, K, L, N, M, J",
+            "(D) O, P, M, N, K, L, J",
+            "(E) P, O, K, J, L, N, M"
+        ],
+        "label": "C",
+        "ind": 5
+    },
+    {
+        "passage": "Egy ingatlanügynök hét házat fog bemutatni egy potenciális vásárlónak egy nap alatt: J, K, L, M, N, O és P. Az első és a második házat délelőtt, a harmadik, negyedik és ötödik házat délután, a hatodik és hetedik házat pedig este mutatják be. A házakat a következő szabályok szerint mutatják be: J-t este kell bemutatni. K-t nem lehet délelőtt bemutatni. L-t K után, de még M előtt kell bemutatni.",
+        "question": "Melyik az alábbi párok közül az a házaspár, amelyeket SEMMILYEN sorrendben nem lehet egymás után bemutatni?",
+        "options": [
+            "(A) J, K",
+            "(B) J, M",
+            "(C) J, O",
+            "(D) J, P",
+            "(E) M, P"
+        ],
+        "label": "A",
+        "ind": 6
+    },
+    {
+        "passage": "Egy ingatlanügynök egy potenciális vásárlónak hét házat – J, K, L, M, N, O és P – fog megmutatni egyetlen nap alatt. Az első és második házat reggel mutatják be; a harmadik, negyedik és ötödik házat délután mutatják be; a hatodik és hetedik házat este mutatják be. A házakat a következő szabályok szerint mutatják be: J-t este kell bemutatni. K-t nem lehet reggel bemutatni. L-t valamikor K után, de M előtt kell bemutatni.",
+        "question": "Melyik állításnak kell igaznak lennie az alábbiak közül?",
+        "options": [
+            "(A) K-t este mutatják be.",
+            "(B) L-t délután mutatják be.",
+            "(C) L-t este mutatják be.",
+            "(D) M-t reggel mutatják be.",
+            "(E) M-t délután mutatják be."
+        ],
+        "label": "B",
+        "ind": 7
+    },
+    {
+        "passage": "Egy ingatlanügynök egy nap alatt hét házat fog megmutatni egy lehetséges vásárlónak: J, K, L, M, N, O és P. Az első és a második házat délelőtt fogják megmutatni; a harmadik, negyedik és az ötödik házat délután; a hatodik és hetedik házat pedig este. A házakat a következő szabályok szerint fogják megmutatni: J-t este kell megmutatni. K-t nem lehet délelőtt megmutatni. L-t valamikor K után és valamikor M előtt kell megmutatni.",
+        "question": "Melyik a következő állítások közül lehet igaz?",
+        "options": [
+            "(A) K-t valamikor J után mutatják meg.",
+            "(B) L-t valamikor J után mutatják meg.",
+            "(C) P-t valamikor J után mutatják meg.",
+            "(D) Mind N, mind O-t valamikor M után mutatják meg.",
+            "(E) Mind N, mind P-t valamikor K után mutatják meg."
+        ],
+        "label": "C",
+        "ind": 8
+    },
+    {
+        "passage": "Egy ingatlanügynök hét házat fog bemutatni egy leendő vásárlónak egyetlen nap alatt: J, K, L, M, N, O és P. Az első és a második házat reggel fogják megmutatni; a harmadik, negyedik és ötödik házat délután; a hatodik és hetedik házat pedig este. A házak bemutatására a következő szabályok vonatkoznak: J-t este kell bemutatni. K-t nem lehet reggel megmutatni. L-t akkor kell megmutatni, miután K-t megmutatták, és mielőtt M-et megmutatják.",
+        "question": "Ha P-t délután mutatják be, melyik állításnak kell igaznak lennie?",
+        "options": [
+            "(A) J-t hetedikként mutatják be.",
+            "(B) K-t harmadikként mutatják be.",
+            "(C) N-t elsőként mutatják be.",
+            "(D) M-et délután mutatják be.",
+            "(E) O-t reggel mutatják be."
+        ],
+        "label": "E",
+        "ind": 9
+    },
+    {
+        "passage": "Öt tanú - Franco, Garcia, Hong, Iturbe és Jackson - van beütemezve, hogy tanúskodjanak egy meghallgatáson, amely pontosan három napig tart egy héten belül - hétfőn, kedden és szerdán. Minden tanú pontosan egy nap alatt tanúskodik a meghallgatáson. Az ütemtervnek meg kell felelnie a következő feltételeknek: Franco nem tanúskodik ugyanazon a napon, amikor Garcia tanúskodik. Iturbe szerdán tanúskodik. Pontosan két tanú tanúskodik kedden. Hong nem tanúskodik hétfőn. Legalább egy tanú tanúskodik hétfőn.",
+        "question": "Melyik a következő tanúk ütemezése elfogadható?",
+        "options": [
+            "(A)Hétfő: Franco Kedd: Hong és Iturbe Szerda: Garcia és Jackson  ",
+            "(B)Hétfő: Franco és Hong Kedd: Iturbe és Jackson Szerda: Garcia  ",
+            "(C)Hétfő: Garcia Kedd: Franco és Iturbe Szerda: Hong és Jackson  ",
+            "(D)Hétfő: Garcia és Jackson Kedd: Franco és Hong Szerda: Iturbe  ",
+            "(E)Hétfő: Garcia és Jackson Kedd: Hong Szerda: Franco és Iturbe"
+        ],
+        "label": "D",
+        "ind": 10
+    },
+    {
+        "passage": "Pontosan öt tanú—Franco, Garcia, Hong, Iturbe és Jackson—van beütemezve, hogy tanúskodjanak egy meghallgatáson, amely egy hét három napján—hétfőn, kedden és szerdán—fog zajlani. Minden tanú pontosan egy napon tanúskodik a meghallgatás során. Az ütemtervnek meg kell felelnie a következő feltételeknek: Franco nem tanúskodik azon a napon, amikor Garcia tanúskodik. Iturbe szerdán tanúskodik. Pontosan két tanú tanúskodik kedden. Hong nem tanúskodik hétfőn. Legalább egy tanú tanúskodik hétfőn.",
+        "question": "Melyik a következők közül nem lehet igaz az ütemtervre nézve?",
+        "options": [
+            "(A) Franco az egyetlen tanú, aki hétfőn tanúskodik.",
+            "(B) Franco ugyanazon a napon van beütemezve tanúskodni, mint Iturbe.",
+            "(C) Garcia és Hong is be van ütemezve, hogy kedden tanúskodjanak.",
+            "(D) Garcia az egyetlen tanú, aki hétfőn van beütemezve tanúskodni, és Hong egyike a két tanúnak, aki szerdán van beütemezve tanúskodni.",
+            "(E) Jackson kedden van beütemezve tanúskodni, és két tanú van beütemezve hétfőn tanúskodni."
+        ],
+        "label": "E",
+        "ind": 11
+    },
+    {
+        "passage": "Pontosan öt tanú - Franco, Garcia, Hong, Iturbe és Jackson - van beütemezve, hogy tanúskodjanak egy meghallgatáson, amely pontosan három napig tart egy héten - hétfőn, kedden és szerdán. Minden tanú pontosan egy napon tanúskodik a meghallgatáson. Az ütemtervnek meg kell felelnie a következő feltételeknek: Franco nem tanúskodik ugyanazon a napon, mint Garcia. Iturbe szerdán tanúskodik. Pontosan két tanú tanúskodik kedden. Hong nem tanúskodik hétfőn. Legalább egy tanú tanúskodik hétfőn.",
+        "question": "Ha Jackson szerdára van beütemezve, melyik állításnak kell igaznak lennie az ütemtervvel kapcsolatban?",
+        "options": [
+            "(A) Franco hétfőn van beütemezve tanúskodni.",
+            "(B) Garcia hétfőn van beütemezve tanúskodni.",
+            "(C) Pontosan egy tanú van beütemezve hétfőn tanúskodni.",
+            "(D) Pontosan két tanú van beütemezve hétfőn tanúskodni.",
+            "(E) Garcia ugyanazon a napon van beütemezve tanúskodni, mint Hong."
+        ],
+        "label": "C",
+        "ind": 12
+    },
+    {
+        "passage": "Pontosan öt tanú - Franco, Garcia, Hong, Iturbe és Jackson - van beütemezve, hogy tanúskodjanak egy meghallgatáson, amely pontosan három napig tart egy héten - hétfőn, kedden és szerdán. Minden tanú pontosan egy napon tanúskodik a meghallgatáson. Az ütemtervnek meg kell felelnie a következő feltételeknek: Franco nem tanúskodik ugyanazon a napon, mint Garcia. Iturbe szerdán tanúskodik. Pontosan két tanú tanúskodik kedden. Hong nem tanúskodik hétfőn. Legalább egy tanú tanúskodik hétfőn.",
+        "question": "Ha Jackson az egyetlen tanú, aki hétfőn van beütemezve tanúskodni, melyik a következő állítások közül igaz az ütemtervre?",
+        "options": [
+            "(A) Franco szerdán van beütemezve tanúskodni.",
+            "(B) Hong kedden van beütemezve tanúskodni.",
+            "(C) Garcia kedden van beütemezve tanúskodni.",
+            "(D) Franco ugyanazon a napon van beütemezve tanúskodni, mint Hong.",
+            "(E) Garcia ugyanazon a napon van beütemezve tanúskodni, mint Hong."
+        ],
+        "label": "B",
+        "ind": 13
+    },
+    {
+        "passage": "Pontosan öt tanú—Franco, Garcia, Hong, Iturbe és Jackson—van beütemezve, hogy tanúskodjanak egy meghallgatáson, amely pontosan három napig tart egy héten belül—hétfőn, kedden és szerdán. Minden tanú pontosan egy napon tanúskodik a meghallgatáson. Az ütemtervnek meg kell felelnie a következő feltételeknek: Franco nem tanúskodik azon a napon, amikor Garcia tanúskodik. Iturbe szerdán tanúskodik. Pontosan két tanú tanúskodik kedden. Hong nem tanúskodik hétfőn. Legalább egy tanú tanúskodik hétfőn.",
+        "question": "Ha Francót ugyanarra a napra ütemezik, mint Hongot, akkor a következők közül melyiknek kell igaznak lennie az ütemterv szerint?",
+        "options": [
+            "(A) Franco szerdán van beütemezve tanúskodni.",
+            "(B) Garcia hétfőn van beütemezve tanúskodni.",
+            "(C) Garcia szerdán van beütemezve tanúskodni.",
+            "(D) Hong kedden van beütemezve tanúskodni.",
+            "(E) Iturbe az egyetlen tanú, akit szerdára ütemeztek tanúskodni."
+        ],
+        "label": "D",
+        "ind": 14
+    },
+    {
+        "passage": "Egy karbantartó vállalat, amely három ügyféltől—Image, Solide és Truvest—fogad szolgáltatási kérelmeket, tervezi, hogy kitűzi az átlagos szolgáltatási válaszidejére vonatkozó célokat. A szolgáltatási célok 3 nap, 2 nap vagy 1 nap lehetnek. Minden ügyfél számára két szolgáltatási célt tűznek ki—egyiket a karbantartó vállalat weboldalán, a másikat a hangpostán keresztül beérkezett kérelmekre. A hat célt az alábbi feltételeknek megfelelően állítják be: Egyik ügyfél weboldali célja sem lehet hosszabb, mint a hangpostai célja. Az Image hangpostai céljának rövidebbnek kell lennie a többi ügyfél hangpostai céljainál. A Solide weboldali céljának rövidebbnek kell lennie, mint a Truvest weboldali célja.",
+        "question": "Ha egyik ügyfélnek sincs 3 napos hangpostai célja, akkor az alábbiak közül mindegyiknek igaznak kell lennie, KIVÉVE:",
+        "options": [
+            "\"(A)Az Image weboldali célja 1 nap.\", \"(B)A Solide weboldali célja 2 nap.\", \"(C)A Solide hangpostai célja 2 nap.\", \"(D)A Truvest weboldali célja 2 nap.\", \"(E)A Truvest hangpostai célja 2 nap.\""
+        ],
+        "label": "B",
+        "ind": 15
+    },
+    {
+        "passage": "Egy karbantartó cég, amely három ügyféltől – Image, Solide és Truvest – fogad szervizkérelmeket, tervezi, hogy célokat tűz ki az átlagos szervizválaszidőkre. A szervizcélokat 3, 2 vagy 1 napra állítják be. Minden ügyfél számára két szervizcélt határoznak meg – egyet a karbantartó cég weboldalán keresztül beérkező kérésekre és egyet a hangpostán keresztül beérkező kérésekre. A hat célt a következő feltételek szerint állítják be: Egyik ügyfélnek sem lehet a weboldali célja hosszabb, mint a hangpostai célja. Az Image hangpostai célja rövidebb kell legyen, mint a többi ügyfél hangpostai célja. A Solide weboldali célja rövidebb kell legyen, mint a Truvest weboldali célja.",
+        "question": "Ha Truvest weboldali célja rövidebb, mint a hangpostai célja, melyik következő állításnak kell igaznak lennie?",
+        "options": [
+            "(A) Az Image hangpostai célja 2 nap.  ",
+            "(B) Az Image weboldali célja 2 nap.  ",
+            "(C) Az Image weboldali célja 1 nap.  ",
+            "(D) A Solide weboldali célja 2 nap.  ",
+            "(E) A Solide weboldali célja 1 nap."
+        ],
+        "label": "E",
+        "ind": 16
+    },
+    {
+        "passage": "Egy karbantartó cég, amely három ügyféltől – Image, Solide és Truvest – fogad szervizkérelmeket, tervezi a célok kitűzését az átlagos szerviz válaszidők tekintetében. A szolgáltatási célok 3 nap, 2 nap vagy 1 nap időtartamra lesznek kitűzve. Minden ügyfél esetében két szolgáltatási célt tűznek ki – egyet a karbantartó cég weboldalán keresztül érkezett kérelmekre és egyet a hangpostán keresztül érkezett kérelmekre. A hat célt az alábbi feltételek szerint határozzák meg: Egyik ügyfél sem rendelkezhet hosszabb weboldali céllal, mint a hangpostai célja. Az Image hangpostai céljának rövidebbnek kell lennie, mint a többi ügyfél hangpostai céljának. A Solide weboldali céljának rövidebbnek kell lennie, mint a Truvest weboldali céljának.",
+        "question": "Ha az Image weboldali célja 2 nap, akkor melyik alábbi cél is 2 nap?",
+        "options": [
+            "(A) Image hangpostai célja",
+            "(B) Solide weboldali célja",
+            "(C) Solide hangpostai célja",
+            "(D) Truvest weboldali célja",
+            "(E) Truvest hangpostai célja"
+        ],
+        "label": "A",
+        "ind": 17
+    },
+    {
+        "passage": "Egy karbantartó cég, amely három ügyféltől – Image, Solide és Truvest – fogad szervizkéréseket, tervezi, hogy célokat tűz ki az átlagos szervizválaszadási idejére. A szervizcélokat 3 nap, 2 nap vagy 1 nap időtartamra állítják be. Minden ügyfél számára két szervizcélt állítanak be – egyet a karbantartó cég weboldalán keresztül kapott kérésekhez, és egyet a hangposta útján kapott kérésekhez. A hat célt a következő feltételek szerint állítják be: Egyik ügyfél sem rendelkezhet olyan weboldali céllal, amely hosszabb lenne, mint a hangpostai célja. Az Image hangpostai célja rövidebb kell, hogy legyen, mint a többi ügyfél hangpostai céljai. A Solide weboldali célja rövidebb kell, hogy legyen, mint a Truvest weboldali célja.",
+        "question": "Ha Solide hangpostai célja rövidebb, mint Truvest weboldali célja, melyik cél lehet 2 napos az alábbiak közül?",
+        "options": [
+            "(A) Image weboldali célja",
+            "(B) Image hangpostai célja",
+            "(C) Solide weboldali célja",
+            "(D) Truvest hangpostai célja",
+            "(E) Truvest weboldali célja"
+        ],
+        "label": "C",
+        "ind": 18
+    },
+    {
+        "passage": "Egy karbantartó cég, amely három ügyféltől – Image, Solide és Truvest – fogad szolgáltatási kérelmeket, tervezi, hogy meghatározza az átlagos szolgáltatás-válaszidő céljait. A szolgáltatási célok 3 napos, 2 napos vagy 1 naposak lesznek. Minden ügyfél számára két szolgáltatási célt állítanak be – egyet a karbantartó cég weboldalán keresztül beérkezett kérésekre, és egyet a hangposta útján beérkezett kérésekre. A hat célt a következő feltételek szerint határozzák meg: Egyik ügyfél sem kaphat hosszabb weboldal célt, mint a hangposta célja. Az Image hangposta célja rövidebb kell legyen, mint a többi ügyfél hangposta célja. A Solide weboldal célja rövidebb kell legyen, mint a Truvest weboldal célja.",
+        "question": "Melyik az alábbi célok közül NEM állítható be több mint egy ügyfél számára?",
+        "options": [
+            "(A) egy 1 napos weboldal cél  ",
+            "(B) egy 2 napos hangposta cél  ",
+            "(C) egy 2 napos weboldal cél  ",
+            "(D) egy 3 napos hangposta cél  ",
+            "(E) egy 3 napos weboldal cél"
+        ],
+        "label": "E",
+        "ind": 19
+    },
+    {
+        "passage": "Egy karbantartó cég, amely három ügyféltől – Image, Solide és Truvest – fogad szervizkérelmeket, tervezi meghatározni az átlagos szerviz válaszidejére vonatkozó célkitűzéseit. A szervizcélok 3 napos, 2 napos vagy 1 napos határidővel kerülnek meghatározásra. Minden ügyfél számára két szervizcél kerül meghatározásra – egy a karbantartó cég weboldalán keresztül érkező kérelmekre, és egy a hangposta útján érkező kérelmekre. A hat célkitűzést a következő feltételek szerint állítják be: Egyik ügyfél sem rendelkezhet hosszabb weboldal célkitűzéssel, mint a hangposta célkitűzése. Az Image hangposta célja rövidebb kell, hogy legyen, mint a többi ügyfél hangposta céljai. A Solide weboldal célkitűzése rövidebb kell, hogy legyen, mint a Truvest weboldal célkitűzése.",
+        "question": "Ha egyik ügyfélnek sincs 2 napos weboldal célkitűzése, akkor az alábbiak közül melyik lehet igaz?",
+        "options": [
+            "(A) Az Image weboldal célkitűzése rövidebb, mint a Solide-é.",
+            "(B) A Solide weboldal célkitűzése rövidebb, mint az Image-é.",
+            "(C) A Solide hangposta célkitűzése rövidebb, mint a Truvest-é.",
+            "(D) A Truvest weboldal célkitűzése rövidebb, mint az Image-é.",
+            "(E) A Truvest hangposta célkitűzése rövidebb, mint a Solide-é."
+        ],
+        "label": "C",
+        "ind": 20
+    },
+    {
+        "passage": "Egy szerkesztő hét cikket fog szerkeszteni, egyenként. Három cikk – G, H, és J – a pénzügyekkel foglalkozik; három másik cikk – Q, R, és S – a táplálkozással foglalkozik; és az utolsó cikk, Y, a vadon élő állatokról szól. A cikkek szerkesztésének sorrendje a következő feltételeknek van alárendelve: Egymást követő cikkek nem foglalkozhatnak ugyanazzal a témával. S csak akkor lehet korábban, mint Q, ha Q a harmadik. S-nek korábban kell lennie, mint Y. J-nek korábban kell lennie, mint G, és G-nek korábban kell lennie, mint R.",
+        "question": "Melyik a következő lehetőségek közül elfogadható sorrend a cikkek szerkesztésére, az elsőtől a hetedikig?",
+        "options": [
+            "(A) H, S, J, Q, Y, G, R",
+            "(B) J, Q, G, H, S, Y, R",
+            "(C) Q, J, S, H, Y, G, R",
+            "(D) Q, J, Y, S, G, R, H",
+            "(E) S, G, Q, J, Y, R, H"
+        ],
+        "label": "C",
+        "ind": 21
+    },
+    {
+        "passage": "Egy szerkesztő hét cikket fog szerkeszteni, egyenként. Három cikk - G, H és J - a pénzügyekkel foglalkozik; három másik cikk - Q, R és S - a táplálkozással foglalkozik; a fennmaradó cikk, Y, pedig a vadvilággal foglalkozik. A cikkek szerkesztésének sorrendje az alábbi feltételekhez van kötve: Egymást követő cikkek nem foglalkozhatnak ugyanazzal a témával. S csak akkor lehet korábban, mint Q, ha Q a harmadik. S-nek korábbinak kell lennie, mint Y. J-nek korábban kell lennie, mint G, és G-nek korábban kell lennie, mint R.",
+        "question": "Ha Y a negyedik, melyik igaz a következők közül?",
+        "options": [
+            "(A) J a második.",
+            "(B) J a harmadik.",
+            "(C) Q az első.",
+            "(D) Q a harmadik.",
+            "(E) R a hetedik."
+        ],
+        "label": "A",
+        "ind": 22
+    },
+    {
+        "passage": "Egy szerkesztő hét cikket fog szerkeszteni, egyenként. Három cikk – G, H és J – a pénzügyekről szól; három másik cikk – Q, R és S – a táplálkozásról szól; és az utolsó cikk, Y, a vadon élő állatokról szól. A cikkek szerkesztési sorrendje a következő feltételeknek van alávetve: Egymást követő cikkek nem szólhatnak ugyanarról a témáról. S csak akkor lehet korábban, mint Q, ha Q harmadik. S-nek korábban kell lennie, mint Y. J-nek korábban kell lennie, mint G, és G-nek korábban kell lennie, mint R.",
+        "question": "Ha G negyedik, melyik lehet igaz a következők közül?",
+        "options": [
+            "(A) H az ötödik.",
+            "(B) J az első.",
+            "(C) Q a második.",
+            "(D) S az ötödik.",
+            "(E) Y a hatodik."
+        ],
+        "label": "E",
+        "ind": 23
+    },
+    {
+        "passage": "Egy szerkesztő hét cikket fog szerkeszteni, egymás után. Három cikk—G, H és J—a pénzügyekről szól; három másik cikk—Q, R és S—a táplálkozásról szól; és az utolsó cikk, Y, a vadvilágról szól. A cikkek szerkesztési sorrendje a következő feltételekhez kötött: Egymást követő cikkek nem szólhatnak ugyanarról a témáról. S csak akkor lehet korábban, mint Q, ha Q a harmadik. S-nek korábban kell lennie, mint Y. J-nek korábban kell lennie, mint G, és G-nek korábban kell lennie, mint R.",
+        "question": "Melyik lehet igaz a következők közül?",
+        "options": [
+            "(A) G a második.",
+            "(B) H a második.",
+            "(C) S a második.",
+            "(D) R a harmadik.",
+            "(E) Y a harmadik."
+        ],
+        "label": "B",
+        "ind": 24
+    },
+    {
+        "passage": "Egy szerkesztő hét cikket fog szerkeszteni, egyenként. Három cikk—G, H, és J—a pénzügyekről szól; három másik cikk—Q, R, és S—a táplálkozásról szól; a megmaradt cikk, Y, a vadvilágról szól. A cikkek szerkesztésének sorrendje a következő feltételeknek van alávetve: Egymást követő cikkek nem szólhatnak ugyanarról a témáról. S csak akkor lehet korábban, mint Q, ha Q a harmadik. S-nek korábban kell lennie, mint Y. J-nek korábban kell lennie, mint G, és G-nek korábban kell lennie, mint R.",
+        "question": "Ha J a harmadik, melyik lehet igaz a következők közül?",
+        "options": [
+            "['(A) G a negyedik', '(B) H a hatodik', '(C) Q az első', '(D) S a második', '(E) Y az ötödik']"
+        ],
+        "label": "E",
+        "ind": 25
+    },
+    {
+        "passage": "Egy szerkesztő hét cikket fog szerkeszteni, egyenként. Három cikk – G, H és J – pénzüggyel foglalkozik; három másik cikk – Q, R és S – táplálkozással foglalkozik; és az utolsó cikk, Y, vadvilággal foglalkozik. A cikkek szerkesztési sorrendje a következő feltételeknek van alávetve: egymást követő cikkek nem foglalkozhatnak ugyanazzal a témával. S csak akkor lehet Q előtt, ha Q harmadik. S-nek Y előtt kell lennie. J-nek G előtt kell lennie, és G-nek R előtt kell lennie.",
+        "question": "A cikkek szerkesztési sorrendjében S bármelyik következő pozícióban lehet, KIVÉVE:",
+        "options": [
+            "(A)első",
+            "(B)harmadik",
+            "(C)negyedik",
+            "(D)ötödik",
+            "(E)hatodik"
+        ],
+        "label": "D",
+        "ind": 26
+    },
+    {
+        "passage": "Egy szerkesztő hét cikket fog szerkeszteni, egyesével. Három cikk—G, H és J—a pénzügyekről szól; három másik cikk—Q, R és S—a táplálkozásról szól; és az utolsó cikk, Y, a vadon élő állatokról szól. A cikkek szerkesztési sorrendje az alábbi feltételeknek van alávetve: Egymást követő cikkek nem szólhatnak ugyanarról a témáról. S csak akkor lehet előbb, mint Q, ha Q harmadik. S-nek Y előtt kell lennie. J-nek G előtt kell lennie, és G-nek R előtt kell lennie.",
+        "question": "A cikkek szerkesztési sorrendje teljesen meghatározott, ha az alábbiak közül melyik igaz?",
+        "options": [
+            "(A) H negyedik.",
+            "(B) H hatodik.",
+            "(C) R negyedik.",
+            "(D) R hetedik.",
+            "(E) Y ötödik."
+        ],
+        "label": "C",
+        "ind": 27
+    },
+    {
+        "passage": "Egy koncertszervező hat helyet tölt be egy jótékonysági koncerten. A helyek az időrendi sorrendben az elsőtől a hatodikig vannak számozva. A helyeket hat zenekar tölti be: Uneasy, Vegemite, Wellspring, Xpert, Yardsign és Zircon. Mindegyik zenekar csak egy helyen fog fellépni. A sorrendet a következő feltételek szerint kell meghatározni: Vegemite korábbi helyen lép fel, mint Zircon. Wellspring és Zircon mindketten korábbi helyen lépnek fel, mint Xpert. Uneasy a három utolsó hely egyikén lép fel. Yardsign a három első hely egyikén lép fel.",
+        "question": "Melyik az alábbiak közül NEM lehet az az együttes, amelyik az ötödik helyen lép fel?",
+        "options": [
+            "(A) Uneasy",
+            "(B) Vegemite",
+            "(C) Wellspring",
+            "(D) Xpert",
+            "(E) Zircon"
+        ],
+        "label": "B",
+        "ind": 28
+    }
+]

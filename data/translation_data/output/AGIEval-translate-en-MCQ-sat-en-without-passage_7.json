@@ -1,0 +1,281 @@
+[
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "A 2. szakasz alapján Meltzer és csapata milyen bizonyítékokra támaszkodott, hogy megkérdőjelezze a Younger Dryas becsapódási hipotézist?",
+        "options": [
+            "(A) A feltételezett becsapódás jeleit mutató helyszínekhez rendelt dátumok újraértékelése",
+            "(B) További Clovis műtárgyak felfedezése számos helyszínen a kezdetben azonosított 29 mellett",
+            "(C) Elemzések, amelyek kimutatják, hogy nanodiamantok előfordulhatnak olyan geológiai formációkban, amelyek nem mutatják az űrbeli becsapódások jeleit",
+            "(D) Nagy iridiumkoncentrációk, amelyeket az állítólagos becsapódási réteg alatti üledékrétegekben találtak"
+        ],
+        "label": "A",
+        "ind": 0
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Melyik állítás írja le legjobban a két szöveg közötti kapcsolatot?",
+        "options": [
+            "(A) A 2. szöveg kritikát fogalmaz meg az 1. szövegben leírt központi hipotézisről.",
+            "(B) A 2. szöveg elmagyarázza az 1. szövegben kidolgozott központi hipotézis által vizsgált tudományos kérdést.",
+            "(C) A 2. szöveg az 1. szövegben összefoglalt központi hipotézis lehetséges következményeit tárgyalja.",
+            "(D) A 2. szöveg az 1. szövegben előterjesztett központi hipotézis melletti bizonyítékokat azonosítja."
+        ],
+        "label": "A",
+        "ind": 1
+    },
+    {
+        "passage": "Nincs",
+        "question": "Mindkét szöveg szerzői úgy jellemzik a hatás hipotézist, mint",
+        "options": [
+            "['(A)megbízható bizonyítékokkal nem alátámasztott.', '(B)érdekes, de nehezen értékelhető véglegesen.', '(C)a nagyközönség számára vonzóbb, mint a szakemberek számára.', '(D)ellentmondásos a tudományos közösségben.']"
+        ],
+        "label": "D",
+        "ind": 2
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Ha Meltzer megállapításai (2. szöveg) pontosak, mi következtethető legésszerűbben az üveg- és szén gömböcskékről, amelyeket az 1. szöveg utolsó bekezdése említ?",
+        "options": [
+            "(A) Lehet, hogy nem a fiatalabb dryas elején keletkeztek.",
+            "(B) A fiatalabb dryas időszakában bekövetkezett globális lehűlés termékei.",
+            "(C) Legmagasabb koncentrációban a Clovis régészeti lelőhelyeken találták őket.",
+            "(D) Lehet, hogy valami szerepet játszottak a Clovis emberek szerszámtechnológiájában."
+        ],
+        "label": "A",
+        "ind": 3
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Az első bekezdés fő célja az, hogy",
+        "options": [
+            "(A) Nawabot szerető apaként jellemezze.",
+            "(B) felvázolja Nawab egy tipikus napjának időbeosztását.",
+            "(C) leírja Nawab különböző pénzkereseti vállalkozásait.",
+            "(D) szembeállítsa Nawab és Harouni életstílusát."
+        ],
+        "label": "C",
+        "ind": 4
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "A szövegből ésszerűen levonható következtetés, hogy Harouni főként azért ad Nawabnak motorkerékpárt, mert",
+        "options": [
+            "(A) Harouni értékeli, hogy Nawab keményen dolgozik, hogy eltartsa a családját.",
+            "(B) Harouni saját maga számára lát előnyt abban, hogy Nawabnak motorkerékpárt ad.",
+            "(C) Nawab beszéde a legékesszólóbb, amit Harouni valaha is hallott.",
+            "(D) Nawab azzal fenyegetőzik, hogy felmond, ha Harouni nem egyezik bele, hogy motorkerékpárt ad neki."
+        ],
+        "label": "B",
+        "ind": 5
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "A szöveg azt állítja, hogy a farmvezetők hogyan reagálnak arra, hogy Nawab motorkerékpárt kap:",
+        "options": [
+            "(A) Undorral.",
+            "(B) Boldogsággal.",
+            "(C) Irigységgel.",
+            "(D) Közönnyel."
+        ],
+        "label": "A",
+        "ind": 6
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "A szöveg alapján Nawab szerint mi a legjobb eredménye annak, hogy megszerezte a motorkerékpárt?",
+        "options": [
+            "(A) Az emberek „Nagybácsinak” kezdik hívni.",
+            "(B) Ki tudja bővíteni az üzletét.",
+            "(C) Képes oktatni a lányait.",
+            "(D) Több időt tud tölteni a feleségével."
+        ],
+        "label": "D",
+        "ind": 7
+    },
+    {
+        "passage": "None",
+        "question": "A szöveg fő célja az, hogy",
+        "options": [
+            "(A) elemezze azokat a technológiai fejlesztéseket, amelyek befolyásolták a hírek előállítását, terjesztését és fogadtatását.",
+            "(B) megvitassa a hírmédia, mint a közhasznú tudás forrásának megítélésében bekövetkezett változásokat.",
+            "(C) bemutassa, hogyan befolyásolják az újságírók értékkeretei a hírek előállítását.",
+            "(D) megkérdőjelezze a hagyományos nézetet, miszerint a hírek a közhasznú tudás egy formája."
+        ],
+        "label": "B",
+        "ind": 8
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "A szöveg szerint, melyik elvárással néznek szembe most a hagyományos hatóságok?",
+        "options": [
+            "(A) Nem szabad, hogy kereskedelmi megfontolások befolyásolják őket.",
+            "(B) Elkötelezetteknek kell lenniük a pozitív társadalmi változások elérése iránt.",
+            "(C) Tiszteletben kell tartaniuk a nyilvános és magánjellegű tudás közötti különbséget.",
+            "(D) Átláthatónak kell lenniük a hiedelmeik és feltételezéseik tekintetében."
+        ],
+        "label": "D",
+        "ind": 9
+    },
+    {
+        "passage": "Nincs",
+        "question": "A szerzők arra utalnak, hogy a közvélemény kezd hinni abban, hogy az újságírók tudósításainak kerülniük kellene",
+        "options": [
+            "(A) személyes megítéléseket a beszámolt eseményekkel kapcsolatban.",
+            "(B) a feltétlenül szükségesnél több információt.",
+            "(C) idézeteket a témával foglalkozó hatóságoktól.",
+            "(D) részleteket, amelyeket a hírek alanyai szeretnének titokban tartani."
+        ],
+        "label": "A",
+        "ind": 10
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "A táblázat alapján melyik évben bíztak meg leginkább az emberek a hírmédiában?",
+        "options": [
+            "(A) 1985",
+            "(B) 1992",
+            "(C) 2003",
+            "(D) 2011"
+        ],
+        "label": "A",
+        "ind": 11
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Melyik állítást támasztja alá legjobban a táblázatban bemutatott információ?",
+        "options": [
+            "(A) 1985 és 2011 között az pontatlan hírek aránya drámaian megemelkedett.",
+            "(B) 1992 és 2003 között majdnem megduplázódott azok aránya, akik úgy vélték, hogy a hírszervezetek elfogultak.",
+            "(C) 2003 és 2007 között az emberek nézetei a hírszervezetek pontosságáról, függetlenségéről és pártatlanságáról nagyon keveset változtak.",
+            "(D) 2007 és 2011 között az emberek észlelése, hogy a hírszervezetek pontosak, növekedett, de az, hogy a hírszervezetek pártatlanok, csökkent."
+        ],
+        "label": "C",
+        "ind": 12
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "A szövegben bemutatottak szerint Theis és Adler kutatása elsősorban milyen típusú bizonyítékokra támaszkodott?",
+        "options": [
+            "['(A) Közvetlen megfigyelés', '(B) Történelmi adatok', '(C) Szakértői tanúvallomás', '(D) Véletlenszerű mintavétel']"
+        ],
+        "label": "A",
+        "ind": 13
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Mely állítás vonatkozóan a csíkos uborkabogarakra vonható le legésszerűbben a szövegből?",
+        "options": [
+            "(A) Elsősorban a texasi tök növényeken táplálkoznak.",
+            "(B) Kevésbé vonzza őket a dimetoxibenzén, mint a méheket.",
+            "(C) Csak kisebb negatív hatásokat tapasztalnak a baktériumos hervadás betegség hordozásának eredményeként.",
+            "(D) Ugyanaz a vegyület vonzza őket a texasi tök illatában, mint a sütőtök méheket."
+        ],
+        "label": "D",
+        "ind": 14
+    },
+    {
+        "passage": "Nincs",
+        "question": "A szerző azt jelzi, hogy kezdetben hihetőnek tűnik, hogy a texasi tök növények több beporzót vonzhatnának, ha",
+        "options": [
+            "(A) nem lennének illatos virágaik.",
+            "(B) a méheken kívül más rovarokra irányulnának.",
+            "(C) növelnék virágillatukat.",
+            "(D) többféle illatos vegyületet bocsátanának ki."
+        ],
+        "label": "C",
+        "ind": 15
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "A szöveg szerint Theis és Adler kutatása melyik alábbi kérdésre ad választ?",
+        "options": [
+            "(A) Hogyan növelhetik a texasi tök növények a beporzók látogatásainak számát?",
+            "(B) Miért van felső határa a texasi tök növények által kibocsátott aroma intenzitásának?",
+            "(C) Miért menti meg a kézi beporzás a bogarak által megtámadott texasi tök növények termésének súlyát?",
+            "(D) Miért hagyják abba a texasi tök növények a beporzók számára vonzó illat kibocsátását, amikor bogarak vannak jelen?"
+        ],
+        "label": "B",
+        "ind": 16
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Az 1. szövegben Lincoln azt állítja, hogy a törvény megszegésének milyen következménye van?",
+        "options": [
+            "['(A) Lassítja a rossz törvények hatályon kívül helyezését.', '(B) Aláássa és elutasítja a nemzet értékeit.', '(C) Lassan, de elkerülhetetlenül a tömeg uralmához vezet.', '(D) Megosztottságot teremt a társadalmi csoportok között.']"
+        ],
+        "label": "B",
+        "ind": 17
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "A 2. szakaszban Thoreau arra utal, hogy a kormányzat néhány igazságtalan aspektusa",
+        "options": [
+            "(A) felszínes, és könnyen kijavítható.",
+            "(B) finom, és alaposan tanulmányozni kell.",
+            "(C) önjavító, és hasznos lehet.",
+            "(D) elkerülhetetlen, és el kell viselni."
+        ],
+        "label": "D",
+        "ind": 18
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Mindegyik szöveg elsődleges célja az, hogy",
+        "options": [
+            "(A) érveljen a jogi kötelességek és erkölcsi parancsolatok közötti különbségről.",
+            "(B) megvitassa, hogyan kell törvényeket hozni és megváltoztatni egy demokráciában.",
+            "(C) kifejtse azt a nézetet, hogy az egyéneknek követniük kell-e az ország összes törvényét.",
+            "(D) megfogalmazza azokat a szabványokat, amelyek alapján a törvények igazságosnak vagy igazságtalannak értékelhetők."
+        ],
+        "label": "C",
+        "ind": 19
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "A szövegek alapján, mi a közös vonás Lincoln és Thoreau álláspontjában az abolicionizmussal kapcsolatban?",
+        "options": [
+            "(A) Mindkét szerző úgy látja, hogy az ügy radikális lépéseket igényel.",
+            "(B) Mindkét szerző központi elemként tekint az ügyre érvelésében.",
+            "(C) Egyik szerző sem várja, hogy az ügy széles körű elfogadást nyerjen.",
+            "(D) Egyik szerző sem vallja magáénak az ügyet."
+        ],
+        "label": "D",
+        "ind": 20
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "A szöveget kinek a nézőpontjából írták?",
+        "options": [
+            "(A) Fogyasztó, aki különféle lehetőségeket értékel.",
+            "(B) Tudós, aki versengő kutatási módszereket hasonlít össze.",
+            "(C) Újságíró, aki felsorolja egy terület változásait.",
+            "(D) Hobbi szinten foglalkozó személy, aki az új technológia képességeit magyarázza."
+        ],
+        "label": "C",
+        "ind": 21
+    },
+    {
+        "passage": "Nincs",
+        "question": "A szöveg szerint a kétoldalas napelemek valószínűleg úgy növelik a hatékonyságot, hogy",
+        "options": [
+            "(A) kevés energiát igényelnek a működéshez.",
+            "(B) elnyelik a visszavert fényt.",
+            "(C) viszonylag olcsón gyárthatók.",
+            "(D) megakadályozzák, hogy a fény elérje a talajt."
+        ],
+        "label": "B",
+        "ind": 22
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "A szöveg utolsó mondata elsősorban azt szolgálja, hogy",
+        "options": [
+            "(A) kifejezze az aggodalmat egy anyag korlátai miatt.",
+            "(B) azonosítson egy akadályt, amelyet le kell küzdeni.",
+            "(C) előrejelzést tegyen bizonyos eszközök hatékony használatáról.",
+            "(D) bemutasson egy lehetséges új kutatási területet."
+        ],
+        "label": "B",
+        "ind": 23
+    }
+]

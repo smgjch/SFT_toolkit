@@ -1,0 +1,290 @@
+[
+    {
+        "passage": "",
+        "question": "Ha $3(c+d)=5$, akkor mennyi $c+d$ értéke?",
+        "options": [
+            "['(A)$\\\\frac{3}{5}$', '(B)$\\\\frac{5}{3}$', '(C)3', '(D)5']"
+        ],
+        "label": "B",
+        "ind": 0
+    },
+    {
+        "passage": "A kérdés a tárgyak súlyával kapcsolatos, különböző bolygókon.",
+        "question": "Egy tárgy súlya a Vénuszon körülbelül a földi súlyának $\\frac{9}{10}$-e. Egy tárgy súlya a Jupiteren körülbelül a földi súlyának $\\frac{23}{10}$-e. Ha egy tárgy 100 fontot nyom a Földön, akkor körülbelül hány fonttal többet nyom a Jupiteren, mint a Vénuszon?",
+        "options": [
+            "['(A)90', '(B)111', '(C)140', '(D)230']"
+        ],
+        "label": "C",
+        "ind": 1
+    },
+    {
+        "passage": "Egy online könyvesbolt regényeket és magazinokat árul.",
+        "question": "Sadie összesen 11 regényt és magazint vásárolt, amelyek együttes eladási ára \\$20. Hány regényt vásárolt?",
+        "options": [
+            "['(A)2', '(B)3', '(C)4', '(D)5']"
+        ],
+        "label": "B",
+        "ind": 2
+    },
+    {
+        "passage": "Nincs háttérinformáció megadva.",
+        "question": "A Downtown Business Association (DBA) egy bizonyos városban azt tervezi, hogy évente összesen $n$ új vállalkozással növeli a tagságát. Az év elején $b$ vállalkozás volt a DBA tagja. Melyik függvény modellezi legjobban a vállalkozások összesített számát, $y$, amellyel a DBA $x$ év múlva szeretne rendelkezni?",
+        "options": [
+            "(A)$y=n x+b$  ",
+            "(B)$y=n x-b$  ",
+            "(C)$y=b(n)^{x}$  ",
+            "(D)$y=n(b)^{x}$"
+        ],
+        "label": "A",
+        "ind": 3
+    },
+    {
+        "passage": "",
+        "question": "Melyik a következő lehetőségek közül az $(1.5 x-2.4)^{2}-\\left(5.2 x^{2}-6.4\\right)$ kifejezésnek megfelelő alakja?",
+        "options": [
+            "(A)$-2.2 x^{2}+1.6$  ",
+            "(B)$-2.2 x^{2}+11.2$  ",
+            "(C)$-2.95 x^{2}-7.2 x+12.16$  ",
+            "(D)$-2.95 x^{2}-7.2 x+0.64$"
+        ],
+        "label": "C",
+        "ind": 4
+    },
+    {
+        "passage": "A sűrűség $d$ egy tárgy esetében úgy található meg, hogy a tárgy tömegét $m$ elosztjuk a térfogatával $V$.",
+        "question": "Melyik a következő egyenletek közül adja meg a tömeget $m$ a $d$ és $V$ értékekkel kifejezve?",
+        "options": [
+            "(A)$m=d V$",
+            "",
+            "(B)$m=\\\\frac{d}{V}$",
+            "",
+            "(C)$m=\\\\frac{V}{d}$",
+            "",
+            "(D)$m=V+d$"
+        ],
+        "label": "A",
+        "ind": 5
+    },
+    {
+        "passage": "Nincs háttérinformáció megadva ehhez a kérdéshez.",
+        "question": "$$-2 x+3 y=6$$ Az $x y$-síkon az alábbi egyenletek közül melyik grafikonja merőleges a fenti egyenlet grafikonjára?",
+        "options": [
+            "(A)$3 x+2 y=6$  ",
+            "(B)$3 x+4 y=6$  ",
+            "(C)$2 x+4 y=6$  ",
+            "(D)$2 x+6 y=3$"
+        ],
+        "label": "A",
+        "ind": 6
+    },
+    {
+        "passage": "",
+        "question": "\\[\n\\begin{array}{r}\n\\frac{1}{2} y=4 \\\\\nx-\\frac{1}{2} y=2\n\\end{array}\n\\]\nA fenti egyenletrendszer megoldása \\((x, y)\\). Mi az \\(x\\) értéke?",
+        "options": [
+            "['(A)3', '(B)$\\\\frac{7}{2}$', '(C)4', '(D)6']"
+        ],
+        "label": "D",
+        "ind": 7
+    },
+    {
+        "passage": "A következő feladat egyenlőtlenségek rendszerével foglalkozik, ahol a cél egy olyan rendezett számpár megtalálása, amely kielégíti a rendszer minden egyenlőtlenségét.",
+        "question": "$$\\begin{gathered}y \\leq 3x + 1 \\\\x - y > 1\\end{gathered}$$ Melyik a következő rendezett számpárok közül elégíti ki a fenti egyenlőtlenségek rendszerét?",
+        "options": [
+            "(A)$(-2,-1)$, (B)$(-1,3)$, (C)$(1,5)$, (D)$(2,-1)$"
+        ],
+        "label": "D",
+        "ind": 8
+    },
+    {
+        "passage": "Egy felmérésben 607 általános és ortopéd sebész jelezte fő szakmai tevékenységét. Az eredményeket a fenti táblázat összegzi.",
+        "question": "\\begin{center}\\begin{tabular}{|l|c|c|c|}\\hline\\multirow{2}{*}{$\\begin{array}{c}\\text { Sebész típusa }\\end{array}$} & \\multicolumn{2}{|c|}{$\\begin{array}{c}\\text { Fő szakmai } \\\\\\text { tevékenység }\\end{array}$} & \\multirow{2}{*}{Összesen} \\\\\\cline { 2 - 3 }& Oktatás & Kutatás \\\\\\hlineÁltalános & 258 & 156 & 414 \\\\\\hlineOrtopéd & 119 & 74 & 193 \\\\\\hlineÖsszesen & 377 & 230 & 607 \\\\\\hline\\end{tabular}\\end{center}Ha véletlenszerűen kiválasztanak egy sebészt, melyik a következő lehetőségek közül a legközelebb annak a valószínűségéhez, hogy a kiválasztott sebész egy ortopéd sebész, akinek a megjelölt szakmai tevékenysége kutatás?",
+        "options": [
+            "(A) 0.122, (B) 0.196, (C) 0.318, (D) 0.379"
+        ],
+        "label": "A",
+        "ind": 9
+    },
+    {
+        "passage": "Egy közvélemény-kutató ügynökség nemrégiben 1,000 véletlenszerűen kiválasztott felnőttet kérdezett meg egy nagy városból, és mindegyik felnőttet megkérdezte: \"Elégedett azzal, hogy milyen a levegő minősége a városban?\" A megkérdezettek 78 százaléka azt válaszolta, hogy elégedett a város levegőminőségével. A felmérés eredményei alapján melyik állításnak kell igaznak lennie?",
+        "question": "I. A város összes felnőtt lakójának 78 százaléka elégedett a város levegőminőségével.\nII. Ha újabb 1,000 véletlenszerűen kiválasztott felnőttet kérdeznének meg a városból, 78 százalékuk azt mondaná, hogy elégedett a város levegőminőségével.\nIII. Ha egy másik városból 1,000 véletlenszerűen kiválasztott felnőttet kérdeznének meg, 78 százalékuk azt mondaná, hogy elégedett a város levegőminőségével.",
+        "options": [
+            "(A) Egyik sem",
+            "(B) Csak II",
+            "(C) Csak I és II",
+            "(D) Csak I és III"
+        ],
+        "label": "A",
+        "ind": 10
+    },
+    {
+        "passage": "Az egyik módszer a fa hozzávetőleges életkorának kiszámítására egy adott fafaj esetén, hogy a fa átmérőjét hüvelykben megszorozzuk egy állandóval, amit növekedési faktornak nevezünk az adott fajra vonatkozóan. Az alábbi táblázat nyolc fafaj növekedési faktorát mutatja:\n\\begin{center}\n\\begin{tabular}{|l|c|}\n\\hline\n\\multicolumn{1}{|c|}{Fajta} & Növekedési faktor \\\\\n\\hline\nVörös juhar & 4.5 \\\\\n\\hline\nFolyóparti nyír & 3.5 \\\\\n\\hline\nNyárfa & 2.0 \\\\\n\\hline\nFekete dió & 4.5 \\\\\n\\hline\nFehér nyír & 5.0 \\\\\n\\hline\nAmerikai szil & 4.0 \\\\\n\\hline\nPin tölgy & 3.0 \\\\\n\\hline\nHikoridió & 7.5 \\\\\n\\hline\n\\end{tabular}\n\\end{center}",
+        "question": "A táblázatban szereplő információk alapján, mennyi az amerikai szilfa hozzávetőleges életkora, ha átmérője 12 hüvelyk?",
+        "options": [
+            "(A) 24 év, (B) 36 év, (C) 40 év, (D) 48 év"
+        ],
+        "label": "D",
+        "ind": 11
+    },
+    {
+        "passage": "Egy fehér nyírfa és egy vörös tölgyfa jelenleg egyaránt 1 láb átmérőjű.",
+        "question": "Ha egy fehér nyírfa és egy vörös tölgyfa egyaránt most 1 láb átmérőjű, melyik lesz a legközelebb a különbséghez, hüvelykben, az átmérőjük között 10 év múlva? $(1$ láb $=12$ hüvelyk $)$",
+        "options": [
+            "(A) 1,0",
+            "(B) 1,2",
+            "(C) 1,3",
+            "(D) 1,4"
+        ],
+        "label": "C",
+        "ind": 12
+    },
+    {
+        "passage": "[Háttérinformáció itt]",
+        "question": "$$\\frac{a-b}{a}=c$$ A fenti egyenletben, ha $a$ negatív és $b$ pozitív, akkor az alábbiak közül melyik állításnak kell igaznak lennie?",
+        "options": [
+            "['(A)$c>1$', '(B)$c=1$', '(C)$c=-1$', '(D)$c<-1$']"
+        ],
+        "label": "A",
+        "ind": 13
+    },
+    {
+        "passage": "Az X államban Mr. Camp nyolcadik osztályos osztályát, amely 26 diákból áll, megkérdezték, és a diákok 34,6 százaléka azt mondta, hogy legalább két testvérük van. Az állam átlagos nyolcadik osztályos osztálylétszáma 26. Ha Mr. Camp osztályának diákjai reprezentatívak az állam nyolcadik osztályos osztályainak diákjai számára, és az államban 1 800 nyolcadik osztályos osztály van, akkor az alábbiak közül melyik becsüli meg legjobban azoknak a nyolcadik osztályos diákoknak a számát az államban, akiknek kevesebb mint két testvérük van?",
+        "question": "Az X államban Mr. Camp nyolcadik osztályos osztályát, amely 26 diákból áll, megkérdezték, és a diákok 34,6 százaléka azt mondta, hogy legalább két testvérük van. Az állam átlagos nyolcadik osztályos osztálylétszáma 26. Ha Mr. Camp osztályának diákjai reprezentatívak az állam nyolcadik osztályos osztályainak diákjai számára, és az államban 1 800 nyolcadik osztályos osztály van, akkor az alábbiak közül melyik becsüli meg legjobban azoknak a nyolcadik osztályos diákoknak a számát az államban, akiknek kevesebb mint két testvérük van?",
+        "options": [
+            "(A) 16,200",
+            "(B) 23,400",
+            "(C) 30,600",
+            "(D) 46,800 Kérdések 23 és 24 a következő információkra vonatkoznak."
+        ],
+        "label": "C",
+        "ind": 14
+    },
+    {
+        "passage": "A Townsend Realty Group az öt különböző ingatlanba fektetett be, amelyeket a fenti táblázat sorol fel. A táblázat azt mutatja, hogy a cég mennyit fizetett dollárban az egyes ingatlanokért és az adott öt helyszínen az ingatlanokért felszámított havi bérleti díjat dollárban.",
+        "question": "\\begin{center}\\begin{tabular}{|l|c|c|}\\hline\\multicolumn{3}{|c|}{Townsend Realty Group Befektetések} \\\\\\hlineIngatlan cím & $\\begin{array}{c}\\text { Vételár } \\\\ \\text { (dollár) }\\end{array}$ & $\\begin{array}{c}\\text { Havi bérleti díj } \\\\ \\text { (dollár) }\\end{array}$ \\\\\\hlineClearwater Lane & 128,000 & 950 \\\\\\hlineDriftwood Drive & 176,000 & 1,310 \\\\\\hlineEdgemont Street & 70,000 & 515 \\\\\\hlineGlenview Street & 140,000 & 1,040 \\\\\\hlineHamilton Circle & 450,000 & 3,365 \\\\\\hline\\end{tabular}\\end{center}A havi bérleti díj $r$ dollárban és az ingatlan vételára $p$ ezer dollárban kifejezve lineáris függvénnyel ábrázolható. Az alábbi függvények közül melyik ábrázolja a kapcsolatot?",
+        "options": [
+            "['(A)$r(p)=2.5 p-870$', '(B)$r(p)=5 p+165$', '(C)$r(p)=6.5 p+440$', '(D)$r(p)=7.5 p-10$']"
+        ],
+        "label": "D",
+        "ind": 15
+    },
+    {
+        "passage": "[Háttérinformáció jelenleg nem áll rendelkezésre]",
+        "question": "Townsend Realty megvásárolta a Glenview Street-i ingatlant, és az eredeti árra $40 \\%$ kedvezményt kapott, valamint további $20 \\%$ kedvezményt a kedvezményes árból, mivel készpénzben vásárolták meg az ingatlant. Az alábbiak közül melyik közelíti meg legjobban dollárban a Glenview Street-i ingatlan eredeti árát?",
+        "options": [
+            "['(A)\\\\$ 350,000$', '(B)\\\\$ 291,700$', '(C)\\\\$ 233,300$', '(D)\\\\$ 175,000$']"
+        ],
+        "label": "B",
+        "ind": 16
+    },
+    {
+        "passage": "Egy pszichológus kísérletet végzett annak tanulmányozására, hogy egy személy mennyire hajlik arra, hogy az első elemet válassza, amikor elemek sorozatát mutatják be neki. A kísérlet során 300 embernek mutattak be öt képből álló készletet véletlenszerű sorrendben. Minden résztvevőnek ki kellett választania a legvonzóbb képet. Az első 150 résztvevő közül 36-an választották a készlet első képét. A fennmaradó 150 résztvevő közül $p$ fő választotta a készlet első képét.",
+        "question": "Ha a résztvevők több mint $20 \\%$-a választotta a készlet első képét, melyik egyenlőtlenség írja le legjobban a $p$ lehetséges értékeit?",
+        "options": [
+            "(A)$p>0.20(300-36)$, ahol $p \\\\leq 150$",
+            "",
+            "(B)$p>0.20(300+36)$, ahol $p \\\\leq 150$",
+            "",
+            "(C)$p-36>0.20(300)$, ahol $p \\\\leq 150$",
+            "",
+            "(D)$p+36>0.20(300)$, ahol $p \\\\leq 150$"
+        ],
+        "label": "D",
+        "ind": 17
+    },
+    {
+        "passage": "A kocka felülete $6\\left(\\frac{a}{4}\\right)^{2}$, ahol $a$ egy pozitív állandó.",
+        "question": "Melyik adja meg a kocka egyik lapjának kerületét?",
+        "options": [
+            "(A)$\\\\frac{a}{4}$, (B)$a$, (C)$4 a$, (D)$6 a$"
+        ],
+        "label": "B",
+        "ind": 18
+    },
+    {
+        "passage": "Nincs háttérinformáció megadva.",
+        "question": "Egy kosárlabda mérkőzésen 8 játékos átlagpontszáma 14,5 pont volt. Ha a legmagasabb egyéni pontszámot eltávolítják, a fennmaradó 7 játékos átlagpontszáma 12 pont lesz. Mi volt a legmagasabb pontszám?",
+        "options": [
+            "['(A)20', '(B)24', '(C)32', '(D)36']"
+        ],
+        "label": "C",
+        "ind": 19
+    },
+    {
+        "passage": "Az alábbi egyenlet egy kört határoz meg az \\(xy\\)-síkban.",
+        "question": "Mi a kör középpontjának koordinátája?",
+        "options": [
+            "(A)$(-20,-16)$",
+            "(B)$(-10,-8)$",
+            "(C)$(10,8)$",
+            "(D)$(20,16)$"
+        ],
+        "label": "B",
+        "ind": 20
+    },
+    {
+        "passage": "In the equation above, \\(a\\) is a positive constant and the graph of the equation in the \\(xy\\)-plane is a parabola.",
+        "question": "Melyik a következő lehetőségek közül az egyenlet ekvivalens alakja?",
+        "options": [
+            "(A) \\(y=(x+a)(x-a)\\)  ",
+            "(B) \\(y=(x+\\sqrt{a})(x-\\sqrt{a})\\)  ",
+            "(C) \\(y=\\left(x+\\frac{a}{2}\\right)\\left(x-\\frac{a}{2}\\right)\\)  ",
+            "(D) \\(y=(x+a)^{2}\\)"
+        ],
+        "label": "B",
+        "ind": 21
+    },
+    {
+        "passage": "Az alábbi egyenlet összefüggésbe hozza a percek számát, amelyet Maria naponta futással tölt, $x$, és a percek számát, amelyet naponta kerékpározással tölt, $y$.",
+        "question": "$$x+y=75$$ Az egyenletben mit jelent a 75-ös szám?",
+        "options": [
+            "['(A) Az egy nap alatt futással töltött percek száma', '(B) Az egy nap alatt kerékpározással töltött percek száma', '(C) Az egy nap alatt futással és kerékpározással együtt töltött percek száma', '(D) Az egy perc futással töltött időre jutó kerékpározással töltött percek száma']"
+        ],
+        "label": "C",
+        "ind": 22
+    },
+    {
+        "passage": "[Háttérinformáció: Nincsenek különleges háttérinformációk ehhez a kérdéshez.]",
+        "question": "Melyik az alábbiak közül ekvivalens a $3(x+5)-6$ kifejezéssel?",
+        "options": [
+            "['(A)$3 x-3$', '(B)$3 x-1$', '(C)$3 x+9$', '(D)$15 x-6$']"
+        ],
+        "label": "C",
+        "ind": 23
+    },
+    {
+        "passage": "",
+        "question": "$$\\begin{aligned}& x=y-3 \\\\& \\frac{x}{2}+2 y=6\\end{aligned}$$ Melyik rendezett pár $(x, y)$ elégíti ki a fenti egyenletrendszert?",
+        "options": [
+            "['(A)$(-3,0)$', '(B)$(0,3)$', '(C)$(6,-3)$', '(D)$(36,-6)$']"
+        ],
+        "label": "B",
+        "ind": 24
+    },
+    {
+        "passage": "Nincs háttér-információ megadva.",
+        "question": "Melyik a következő komplex számok közül egyenlő $(5+12 i)-\\left(9 i^{2}-6 i\\right)$ értékével, ahol $i=\\sqrt{-1}$?",
+        "options": [
+            "(A)$-14-18 i$, (B)$-4-6 i$, (C)$4+6 i$, (D)$14+18 i$"
+        ],
+        "label": "D",
+        "ind": 25
+    },
+    {
+        "passage": "[No background information provided]",
+        "question": "Ha \\( f(x) = \\frac{x^{2} - 6x + 3}{x - 1} \\), akkor mennyi \\( f(-1) \\)?",
+        "options": [
+            "['(A) -5', '(B) -2', '(C) 2', '(D) 5']"
+        ],
+        "label": "A",
+        "ind": 26
+    },
+    {
+        "passage": "A company that makes wildlife videos purchases camera equipment for $\\$ 32,400$. The equipment depreciates in value at a constant rate for 12 years, after which it is considered to have no monetary value.",
+        "question": "How much is the camera equipment worth 4 years after it is purchased?",
+        "options": [
+            "['(A)$\\\\$ 10,800$', '(B)$\\\\$ 16,200$', '(C)$\\\\$ 21,600$', '(D)$\\\\$ 29,700$']"
+        ],
+        "label": "C",
+        "ind": 27
+    }
+]

@@ -1,0 +1,302 @@
+{
+    "0": {
+        "origin_prompt": [
+            {
+                "role": "HUMAN",
+                "prompt": "Please translate the following English exam aqua-rat question to Hungarian. The question is divided into three parts: background, question, and options. Ensure each section is labeled correctly.\n                        1. Background:\n                        Label with <background> at the beginning and the end.\n                        2. Question:\n                        Label with <question> at the beginning and the end.\n                        3.Options:\n                        Label options with <options> at the beginning and the end.\n\n                        Example format:\n                        <background>\n                        [Background information here]\n                        <background>\n\n                        <question>\n                        [Question here]\n                        <question>\n                        \n                        <options>\n                        [Options here]\n                        <options>\n                        \n                        The question to translate is given by:\n                        background: None\nquestion: A rectangular parking space is marked out by painting three of its sides. If the length of the unpainted side is 9 feet, and the sum of the lengths of the painted sides is 37 feet, then what is the area of the parking space in square feet?\n['(A)46', '(B)81', '(C)126', '(D)252', '(E)None']\n                    "
+            }
+        ],
+        "prediction": "Sure, here's the translation of the provided question into Hungarian, following the specified format:\n\n<background>\nNincs\n<background>\n\n<question>\nEgy téglalap alakú parkolóhelyet úgy jelölnek ki, hogy három oldalát lefestik. Ha a nem festett oldal hossza 9 láb, és a festett oldalak hosszainak összege 37 láb, akkor mekkora a parkolóhely területe négyzetlábban?\n<question>\n\n<options>\n['(A)46', '(B)81', '(C)126', '(D)252', '(E)Nincs']\n<options>",
+        "gold": "C"
+    },
+    "1": {
+        "origin_prompt": [
+            {
+                "role": "HUMAN",
+                "prompt": "Please translate the following English exam aqua-rat question to Hungarian. The question is divided into three parts: background, question, and options. Ensure each section is labeled correctly.\n                        1. Background:\n                        Label with <background> at the beginning and the end.\n                        2. Question:\n                        Label with <question> at the beginning and the end.\n                        3.Options:\n                        Label options with <options> at the beginning and the end.\n\n                        Example format:\n                        <background>\n                        [Background information here]\n                        <background>\n\n                        <question>\n                        [Question here]\n                        <question>\n                        \n                        <options>\n                        [Options here]\n                        <options>\n                        \n                        The question to translate is given by:\n                        background: None\nquestion: Peter wants to find 10 additional people to form a scavenger hunt team with him. If he has 10 friends who would like to participate, how many choices does he have for forming his team?\n['(A)0', '(B)1', '(C)2', '(D)3', '(E)4']\n                    "
+            }
+        ],
+        "prediction": "Sure, here is the translation in the specified format:\n\n<background>\nNincs\n<background>\n\n<question>\nPéter szeretne találni 10 további embert, hogy velük együtt egy kincskereső csapatot alakítson. Ha van 10 barátja, akik szívesen részt vennének, hány választási lehetősége van a csapatának kialakítására?\n<question>\n\n<options>\n['(A)0', '(B)1', '(C)2', '(D)3', '(E)4']\n<options>",
+        "gold": "B"
+    },
+    "2": {
+        "origin_prompt": [
+            {
+                "role": "HUMAN",
+                "prompt": "Please translate the following English exam aqua-rat question to Hungarian. The question is divided into three parts: background, question, and options. Ensure each section is labeled correctly.\n                        1. Background:\n                        Label with <background> at the beginning and the end.\n                        2. Question:\n                        Label with <question> at the beginning and the end.\n                        3.Options:\n                        Label options with <options> at the beginning and the end.\n\n                        Example format:\n                        <background>\n                        [Background information here]\n                        <background>\n\n                        <question>\n                        [Question here]\n                        <question>\n                        \n                        <options>\n                        [Options here]\n                        <options>\n                        \n                        The question to translate is given by:\n                        background: None\nquestion: The average weight of 10 oarsmen in a boat is increased by 1.8 kg when one of the crew, who weighs 53 kg is replaced by a new man. Find the weight of the new man.\n['(A)71', '(B)62', '(C)43', '(D)67', '(E)40']\n                    "
+            }
+        ],
+        "prediction": "Certainly! Here is the translation of the given exam question into Hungarian:\n\n<background>\nNincs háttérinformáció.\n<background>\n\n<question>\nEgy csónakban evezős 10 ember átlagos testsúlya 1,8 kg-mal nő, amikor a legénység egyik tagját, aki 53 kg-ot nyom, lecserélik egy új emberre. Mennyi az új ember súlya?\n<question>\n\n<options>\n['(A)71', '(B)62', '(C)43', '(D)67', '(E)40']\n<options>",
+        "gold": "A"
+    },
+    "3": {
+        "origin_prompt": [
+            {
+                "role": "HUMAN",
+                "prompt": "Please translate the following English exam aqua-rat question to Hungarian. The question is divided into three parts: background, question, and options. Ensure each section is labeled correctly.\n                        1. Background:\n                        Label with <background> at the beginning and the end.\n                        2. Question:\n                        Label with <question> at the beginning and the end.\n                        3.Options:\n                        Label options with <options> at the beginning and the end.\n\n                        Example format:\n                        <background>\n                        [Background information here]\n                        <background>\n\n                        <question>\n                        [Question here]\n                        <question>\n                        \n                        <options>\n                        [Options here]\n                        <options>\n                        \n                        The question to translate is given by:\n                        background: None\nquestion: A box contains a certain number of balls, marked successively from 1 to n. If there are 45 different ways that two balls can be selected from the box such that the ball with number 3 marked on it is not selected, then what is the value of n?\n['(A)11', '(B)10', '(C)9', '(D)8', '(E)7']\n                    "
+            }
+        ],
+        "prediction": "<background>\nNincs háttérinformáció.\n<background>\n\n<question>\nEgy doboz tartalmaz egy bizonyos számú golyót, amelyeket egymás után 1-től n-ig számoztak. Ha 45 különböző mód van arra, hogy két golyót válasszunk ki a dobozból úgy, hogy a 3-as számmal jelölt golyó nincs kiválasztva, akkor mi az n értéke?\n<question>\n\n<options>\n['(A)11', '(B)10', '(C)9', '(D)8', '(E)7']\n<options>",
+        "gold": "A"
+    },
+    "4": {
+        "origin_prompt": [
+            {
+                "role": "HUMAN",
+                "prompt": "Please translate the following English exam aqua-rat question to Hungarian. The question is divided into three parts: background, question, and options. Ensure each section is labeled correctly.\n                        1. Background:\n                        Label with <background> at the beginning and the end.\n                        2. Question:\n                        Label with <question> at the beginning and the end.\n                        3.Options:\n                        Label options with <options> at the beginning and the end.\n\n                        Example format:\n                        <background>\n                        [Background information here]\n                        <background>\n\n                        <question>\n                        [Question here]\n                        <question>\n                        \n                        <options>\n                        [Options here]\n                        <options>\n                        \n                        The question to translate is given by:\n                        background: None\nquestion: If Q, a positive integer, has 5 factors, which of the following must be true about Q?\nI. Q is the square of a prime number.\nII. Q is the fourth power of a prime number.\nIII. Q is the product of two prime numbers.\n['(A)I only', '(B)III only', '(C)II only', '(D)I and II only', '(E)I and III only']\n                    "
+            }
+        ],
+        "prediction": "<background>\nNincs háttérinformáció.\n<background>\n\n<question>\nHa Q, egy pozitív egész szám 5 tényezővel rendelkezik, melyik a következő állítások közül igaz Q-ra?\nI. Q egy prímszám négyzete.\nII. Q egy prímszám negyedik hatványa.\nIII. Q két prímszám szorzata.\n<question>\n\n<options>\n['(A)Csak I', '(B)Csak III', '(C)Csak II', '(D)I és II', '(E)I és III']\n<options>",
+        "gold": "B"
+    },
+    "5": {
+        "origin_prompt": [
+            {
+                "role": "HUMAN",
+                "prompt": "Please translate the following English exam aqua-rat question to Hungarian. The question is divided into three parts: background, question, and options. Ensure each section is labeled correctly.\n                        1. Background:\n                        Label with <background> at the beginning and the end.\n                        2. Question:\n                        Label with <question> at the beginning and the end.\n                        3.Options:\n                        Label options with <options> at the beginning and the end.\n\n                        Example format:\n                        <background>\n                        [Background information here]\n                        <background>\n\n                        <question>\n                        [Question here]\n                        <question>\n                        \n                        <options>\n                        [Options here]\n                        <options>\n                        \n                        The question to translate is given by:\n                        background: None\nquestion: If 6x - y = 24 and y = 3x, what is the value of x?\n['(A)8', '(B)9', '(C)10', '(D)11', '(E)12']\n                    "
+            }
+        ],
+        "prediction": "<background>\nNincs háttérinformáció.\n<background>\n\n<question>\nHa 6x - y = 24 és y = 3x, mi az x értéke?\n<question>\n\n<options>\n(A)8, (B)9, (C)10, (D)11, (E)12\n<options>",
+        "gold": "A"
+    },
+    "6": {
+        "origin_prompt": [
+            {
+                "role": "HUMAN",
+                "prompt": "Please translate the following English exam aqua-rat question to Hungarian. The question is divided into three parts: background, question, and options. Ensure each section is labeled correctly.\n                        1. Background:\n                        Label with <background> at the beginning and the end.\n                        2. Question:\n                        Label with <question> at the beginning and the end.\n                        3.Options:\n                        Label options with <options> at the beginning and the end.\n\n                        Example format:\n                        <background>\n                        [Background information here]\n                        <background>\n\n                        <question>\n                        [Question here]\n                        <question>\n                        \n                        <options>\n                        [Options here]\n                        <options>\n                        \n                        The question to translate is given by:\n                        background: None\nquestion: You can rent DVDs at a local video store for $4.00 per movie without a membership. However, if you purchase a membership for $7.00 per month, you can rent DVDs for $2.00 each. What is the minimum amount of DVDs you would have to rent to make it worth it to purchase the membership?\n['(A)1', '(B)2', '(C)3', '(D)4', '(E)5']\n                    "
+            }
+        ],
+        "prediction": "Here is the translation of the aqua-rat question into Hungarian:\n\n<background>\nNincs háttérinformáció.\n<background>\n\n<question>\nEgy helyi videotékában 4,00 dollárért bérelhetsz DVD-ket filmenként tagság nélkül. Ha azonban havi 7,00 dollárért tagságot vásárolsz, akkor 2,00 dollárért bérelheted a DVD-ket darabonként. Mi a minimális számú DVD, amit ki kell bérelned, hogy megérje megvásárolni a tagságot?\n<question>\n\n<options>\n(A)1, (B)2, (C)3, (D)4, (E)5\n<options>",
+        "gold": "D"
+    },
+    "7": {
+        "origin_prompt": [
+            {
+                "role": "HUMAN",
+                "prompt": "Please translate the following English exam aqua-rat question to Hungarian. The question is divided into three parts: background, question, and options. Ensure each section is labeled correctly.\n                        1. Background:\n                        Label with <background> at the beginning and the end.\n                        2. Question:\n                        Label with <question> at the beginning and the end.\n                        3.Options:\n                        Label options with <options> at the beginning and the end.\n\n                        Example format:\n                        <background>\n                        [Background information here]\n                        <background>\n\n                        <question>\n                        [Question here]\n                        <question>\n                        \n                        <options>\n                        [Options here]\n                        <options>\n                        \n                        The question to translate is given by:\n                        background: None\nquestion: A bag of cat food weighs 7 pounds and 4 ounces. How much does the bag weigh in ounces?\n['(A) 108', '(B) 112', '(C) 116', '(D) 120', '(E) 124']\n                    "
+            }
+        ],
+        "prediction": "<background>\nNincs háttérinformáció.\n<background>\n\n<question>\nEgy zacskó macskaeledel súlya 7 font és 4 uncia. Hány uncia a zacskó súlya összesen?\n<question>\n\n<options>\n(A) 108\n(B) 112\n(C) 116\n(D) 120\n(E) 124\n<options>",
+        "gold": "C"
+    },
+    "8": {
+        "origin_prompt": [
+            {
+                "role": "HUMAN",
+                "prompt": "Please translate the following English exam aqua-rat question to Hungarian. The question is divided into three parts: background, question, and options. Ensure each section is labeled correctly.\n                        1. Background:\n                        Label with <background> at the beginning and the end.\n                        2. Question:\n                        Label with <question> at the beginning and the end.\n                        3.Options:\n                        Label options with <options> at the beginning and the end.\n\n                        Example format:\n                        <background>\n                        [Background information here]\n                        <background>\n\n                        <question>\n                        [Question here]\n                        <question>\n                        \n                        <options>\n                        [Options here]\n                        <options>\n                        \n                        The question to translate is given by:\n                        background: None\nquestion: By himself, Jack can clean a yacht in 12 hours. On a particular day, he happens to finish two-thirds of the work. The remaining portion of the work is done by Jill, whose rate of cleaning is just 5% of what Jack can do. How long does it take Jill to finish the remaining work?\n['(A)4', '(B)8', '(C)22', '(D)50', '(E)20']\n                    "
+            }
+        ],
+        "prediction": "Certainly! Here is the translation of the given question into Hungarian:\n\n<background>\nNincs háttérinformáció.\n<background>\n\n<question>\nJack egyedül 12 óra alatt tud kitakarítani egy jachtot. Egy adott napon sikerül befejeznie a munka kétharmadát. A munka fennmaradó részét Jill végzi el, akinek takarítási sebessége Jack sebességének csupán 5%-a. Mennyi idő alatt fejezi be Jill a fennmaradó munkát?\n<question>\n\n<options>\n(A)4, (B)8, (C)22, (D)50, (E)20\n<options>",
+        "gold": "E"
+    },
+    "9": {
+        "origin_prompt": [
+            {
+                "role": "HUMAN",
+                "prompt": "Please translate the following English exam aqua-rat question to Hungarian. The question is divided into three parts: background, question, and options. Ensure each section is labeled correctly.\n                        1. Background:\n                        Label with <background> at the beginning and the end.\n                        2. Question:\n                        Label with <question> at the beginning and the end.\n                        3.Options:\n                        Label options with <options> at the beginning and the end.\n\n                        Example format:\n                        <background>\n                        [Background information here]\n                        <background>\n\n                        <question>\n                        [Question here]\n                        <question>\n                        \n                        <options>\n                        [Options here]\n                        <options>\n                        \n                        The question to translate is given by:\n                        background: None\nquestion: Professors borrowed Rs. 5000 from the university at simple interest. After 3 years, the university got Rs. 300 on interest. What was the rate of interest per annum?\n['(A)2%', '(B)8%', '(C)5%', '(D)10%', '(E)None of these']\n                    "
+            }
+        ],
+        "prediction": "Certainly! Here is the translated exam question in Hungarian:\n\n<background>\nNincs háttérinformáció.\n<background>\n\n<question>\nAz egyetemi tanárok 5000 rúpiát kölcsönöztek az egyetemtől egyszerű kamatra. 3 év elteltével az egyetem 300 rúpiát kapott kamatként. Mekkora volt az éves kamatláb?\n<question>\n\n<options>\n['(A)2%', '(B)8%', '(C)5%', '(D)10%', '(E)Egyik sem']\n<options>",
+        "gold": "A"
+    },
+    "10": {
+        "origin_prompt": [
+            {
+                "role": "HUMAN",
+                "prompt": "Please translate the following English exam aqua-rat question to Hungarian. The question is divided into three parts: background, question, and options. Ensure each section is labeled correctly.\n                        1. Background:\n                        Label with <background> at the beginning and the end.\n                        2. Question:\n                        Label with <question> at the beginning and the end.\n                        3.Options:\n                        Label options with <options> at the beginning and the end.\n\n                        Example format:\n                        <background>\n                        [Background information here]\n                        <background>\n\n                        <question>\n                        [Question here]\n                        <question>\n                        \n                        <options>\n                        [Options here]\n                        <options>\n                        \n                        The question to translate is given by:\n                        background: None\nquestion: In a sale, a discount of 20% was available on all the articles. If Vinit purchased an article for Rs.4578 in the sale. What was the actual selling price of the article?\n['(A)s.5050', '(B)s.5723', '(C)s.5040', '(D)s.4950', '(E)s.4870']\n                    "
+            }
+        ],
+        "prediction": "Sure, here's the translation of the given question into Hungarian:\n\n<background>\nNincs háttérinformáció.\n<background>\n\n<question>\nEgy kiárusításon minden cikkre 20% kedvezmény volt elérhető. Ha Vinit vásárolt egy cikket 4578 Rs-ért a kiárusításon, mi volt a cikk valódi eladási ára?\n<question>\n\n<options>\n(A) 5050 Rs, (B) 5723 Rs, (C) 5040 Rs, (D) 4950 Rs, (E) 4870 Rs\n<options>",
+        "gold": "B"
+    },
+    "11": {
+        "origin_prompt": [
+            {
+                "role": "HUMAN",
+                "prompt": "Please translate the following English exam aqua-rat question to Hungarian. The question is divided into three parts: background, question, and options. Ensure each section is labeled correctly.\n                        1. Background:\n                        Label with <background> at the beginning and the end.\n                        2. Question:\n                        Label with <question> at the beginning and the end.\n                        3.Options:\n                        Label options with <options> at the beginning and the end.\n\n                        Example format:\n                        <background>\n                        [Background information here]\n                        <background>\n\n                        <question>\n                        [Question here]\n                        <question>\n                        \n                        <options>\n                        [Options here]\n                        <options>\n                        \n                        The question to translate is given by:\n                        background: None\nquestion: If 27 bottles of soda cost A cents, how much will B bottles cost in dollars?\n['(A)AB/2700', '(B)27/AB', '(C)AB/270', '(D)2700/AB', '(E)100AB/27']\n                    "
+            }
+        ],
+        "prediction": "Sure, here is the translation of the question into Hungarian:\n\n<background>\nNincs\n<background>\n\n<question>\nHa 27 üveg üdítőital A centbe kerül, akkor mennyibe kerül B üveg dollárban?\n<question>\n\n<options>\n['(A)AB/2700', '(B)27/AB', '(C)AB/270', '(D)2700/AB', '(E)100AB/27']\n<options>",
+        "gold": "A"
+    },
+    "12": {
+        "origin_prompt": [
+            {
+                "role": "HUMAN",
+                "prompt": "Please translate the following English exam aqua-rat question to Hungarian. The question is divided into three parts: background, question, and options. Ensure each section is labeled correctly.\n                        1. Background:\n                        Label with <background> at the beginning and the end.\n                        2. Question:\n                        Label with <question> at the beginning and the end.\n                        3.Options:\n                        Label options with <options> at the beginning and the end.\n\n                        Example format:\n                        <background>\n                        [Background information here]\n                        <background>\n\n                        <question>\n                        [Question here]\n                        <question>\n                        \n                        <options>\n                        [Options here]\n                        <options>\n                        \n                        The question to translate is given by:\n                        background: None\nquestion: A bag contains 11 candy bars: three cost 50 cents each, four cost $1 each and four cost $2\neach. How many ways can 3 candy bars be selected from the 11 candy bars so that the total cost is more than $4?\n['(A)8', '(B)28', '(C)46', '(D)66', '(E)70']\n                    "
+            }
+        ],
+        "prediction": "Sure, here is the translation of the given question into Hungarian:\n\n<background>\nNincs háttérinformáció.\n<background>\n\n<question>\nEgy zacskóban 11 cukorkás szelet található: három darab 50 centbe kerül, négy darab 1 dollárba és négy darab 2 dollárba kerül. Hányféleképpen lehet kiválasztani 3 cukorkás szeletet a 11 cukorkás szeletből úgy, hogy a teljes költség több mint 4 dollár legyen?\n<question>\n\n<options>\n(A) 8, (B) 28, (C) 46, (D) 66, (E) 70\n<options>",
+        "gold": "C"
+    },
+    "13": {
+        "origin_prompt": [
+            {
+                "role": "HUMAN",
+                "prompt": "Please translate the following English exam aqua-rat question to Hungarian. The question is divided into three parts: background, question, and options. Ensure each section is labeled correctly.\n                        1. Background:\n                        Label with <background> at the beginning and the end.\n                        2. Question:\n                        Label with <question> at the beginning and the end.\n                        3.Options:\n                        Label options with <options> at the beginning and the end.\n\n                        Example format:\n                        <background>\n                        [Background information here]\n                        <background>\n\n                        <question>\n                        [Question here]\n                        <question>\n                        \n                        <options>\n                        [Options here]\n                        <options>\n                        \n                        The question to translate is given by:\n                        background: None\nquestion: At a conference, one team is made up of 4 men and 4 women. Four presenters are chosen to present the team's findings in front of the entire conference. How many different groups of presenters can be chosen from the team if a team cannot be composed of men only or women only? (Two groups of presenters are considered different if at least one presenter is different.)\n['(A)120', '(B)19', '(C)180', '(D)420', '(E)460']\n                    "
+            }
+        ],
+        "prediction": "<background>\nNincs háttérinformáció.\n<background>\n\n<question>\nEgy konferencián egy csapat 4 férfiból és 4 nőből áll. Négy előadót választanak ki, hogy bemutassák a csapat eredményeit az egész konferencia előtt. Hány különböző csoportot lehet választani az előadók közül, ha a csapat nem állhat csak férfiakból vagy csak nőkből? (Két előadó csoport akkor tekinthető különbözőnek, ha legalább egy előadó eltérő.)\n<question>\n\n<options>\n(A) 120, (B) 19, (C) 180, (D) 420, (E) 460\n<options>",
+        "gold": "B"
+    },
+    "14": {
+        "origin_prompt": [
+            {
+                "role": "HUMAN",
+                "prompt": "Please translate the following English exam aqua-rat question to Hungarian. The question is divided into three parts: background, question, and options. Ensure each section is labeled correctly.\n                        1. Background:\n                        Label with <background> at the beginning and the end.\n                        2. Question:\n                        Label with <question> at the beginning and the end.\n                        3.Options:\n                        Label options with <options> at the beginning and the end.\n\n                        Example format:\n                        <background>\n                        [Background information here]\n                        <background>\n\n                        <question>\n                        [Question here]\n                        <question>\n                        \n                        <options>\n                        [Options here]\n                        <options>\n                        \n                        The question to translate is given by:\n                        background: None\nquestion: Exactly 2/5th of the children in a certain class are girls. If there are 100 boys in the class, how many girls are in the class?\n['(A)50', '(B)100', '(C)150', '(D)200', '(E)70']\n                    "
+            }
+        ],
+        "prediction": "Certainly! Here is the translation of the exam question into Hungarian:\n\n<background>\nNincs háttérinformáció.\n<background>\n\n<question>\nEgy bizonyos osztályban a gyerekek pontosan 2/5-e lány. Ha az osztályban 100 fiú van, hány lány van az osztályban?\n<question>\n\n<options>\n['(A)50', '(B)100', '(C)150', '(D)200', '(E)70']\n<options>",
+        "gold": "C"
+    },
+    "15": {
+        "origin_prompt": [
+            {
+                "role": "HUMAN",
+                "prompt": "Please translate the following English exam aqua-rat question to Hungarian. The question is divided into three parts: background, question, and options. Ensure each section is labeled correctly.\n                        1. Background:\n                        Label with <background> at the beginning and the end.\n                        2. Question:\n                        Label with <question> at the beginning and the end.\n                        3.Options:\n                        Label options with <options> at the beginning and the end.\n\n                        Example format:\n                        <background>\n                        [Background information here]\n                        <background>\n\n                        <question>\n                        [Question here]\n                        <question>\n                        \n                        <options>\n                        [Options here]\n                        <options>\n                        \n                        The question to translate is given by:\n                        background: None\nquestion: Two numbers are said to be relatively prime if they share no common positive factors other than 1. Set S contains the set of integers from 1 to 1,000, inclusive. What is the probability that a number chosen from S is relatively prime to 1,000?\n['(A)5/7', '(B)3/5', '(C)4/7', '(D)2/5', '(E)2/7']\n                    "
+            }
+        ],
+        "prediction": "<background>\nNone\n<background>\n\n<question>\nKét számot relatív prímnek nevezünk, ha nincs közös pozitív osztójuk az 1-en kívül. Az S halmaz tartalmazza az 1-től 1.000-ig terjedő egész számokat, beleértve. Mi a valószínűsége annak, hogy az S halmazból választott szám relatív prím az 1.000-hez?\n<question>\n\n<options>\n['(A)5/7', '(B)3/5', '(C)4/7', '(D)2/5', '(E)2/7']\n<options>",
+        "gold": "D"
+    },
+    "16": {
+        "origin_prompt": [
+            {
+                "role": "HUMAN",
+                "prompt": "Please translate the following English exam aqua-rat question to Hungarian. The question is divided into three parts: background, question, and options. Ensure each section is labeled correctly.\n                        1. Background:\n                        Label with <background> at the beginning and the end.\n                        2. Question:\n                        Label with <question> at the beginning and the end.\n                        3.Options:\n                        Label options with <options> at the beginning and the end.\n\n                        Example format:\n                        <background>\n                        [Background information here]\n                        <background>\n\n                        <question>\n                        [Question here]\n                        <question>\n                        \n                        <options>\n                        [Options here]\n                        <options>\n                        \n                        The question to translate is given by:\n                        background: None\nquestion: At the of his one-year investment, Charles received $54,080, including interest and principal from a certain investment. If the investment paid an annual interest of 8 percent compounded semi-annually, which of the following is the amount of money that Charles originally invested?\n['(A)$45,000', '(B)$50,000', '(C)$54,000', '(D)$59,000', '(E)$62,000']\n                    "
+            }
+        ],
+        "prediction": "Here is the translation of the provided question into Hungarian:\n\n<background>\nNone\n<background>\n\n<question>\nEgyéves befektetése végén Charles 54 080 dollárt kapott, beleértve a kamatot és a tőkét egy bizonyos befektetésből. Ha a befektetés évi 8 százalékos kamatot fizetett, félévente kamatos kamattal, akkor az alábbiak közül melyik összeg volt Charles eredeti befektetése?\n<question>\n\n<options>\n(A) 45 000 dollár, (B) 50 000 dollár, (C) 54 000 dollár, (D) 59 000 dollár, (E) 62 000 dollár\n<options>",
+        "gold": "B"
+    },
+    "17": {
+        "origin_prompt": [
+            {
+                "role": "HUMAN",
+                "prompt": "Please translate the following English exam aqua-rat question to Hungarian. The question is divided into three parts: background, question, and options. Ensure each section is labeled correctly.\n                        1. Background:\n                        Label with <background> at the beginning and the end.\n                        2. Question:\n                        Label with <question> at the beginning and the end.\n                        3.Options:\n                        Label options with <options> at the beginning and the end.\n\n                        Example format:\n                        <background>\n                        [Background information here]\n                        <background>\n\n                        <question>\n                        [Question here]\n                        <question>\n                        \n                        <options>\n                        [Options here]\n                        <options>\n                        \n                        The question to translate is given by:\n                        background: None\nquestion: Joe's age, Joe's sister's age and Joe’s fathers age sums up to 100. When Joe is as old as his father, Joe's sister will be twice as old as now. When Joe is as old as his father then his father is twice as old as when his sister was as old as her father. Find the age of Joe's father?\n['(A)45', '(B)48', '(C)50', '(D)55', '(E)58']\n                    "
+            }
+        ],
+        "prediction": "<background>\nNincs háttérinformáció.\n<background>\n\n<question>\nJoe életkora, Joe nővérének életkora és Joe apjának életkora összesen 100 évet tesznek ki. Amikor Joe annyi idős lesz, mint az apja, Joe nővére kétszer annyi idős lesz, mint most. Amikor Joe annyi idős lesz, mint az apja, akkor az apja kétszer annyi idős lesz, mint amikor a nővére annyi idős volt, mint az apja. Hány éves Joe apja?\n<question>\n\n<options>\n(A)45, (B)48, (C)50, (D)55, (E)58\n<options>",
+        "gold": "C"
+    },
+    "18": {
+        "origin_prompt": [
+            {
+                "role": "HUMAN",
+                "prompt": "Please translate the following English exam aqua-rat question to Hungarian. The question is divided into three parts: background, question, and options. Ensure each section is labeled correctly.\n                        1. Background:\n                        Label with <background> at the beginning and the end.\n                        2. Question:\n                        Label with <question> at the beginning and the end.\n                        3.Options:\n                        Label options with <options> at the beginning and the end.\n\n                        Example format:\n                        <background>\n                        [Background information here]\n                        <background>\n\n                        <question>\n                        [Question here]\n                        <question>\n                        \n                        <options>\n                        [Options here]\n                        <options>\n                        \n                        The question to translate is given by:\n                        background: None\nquestion: If one third of 3/4 of a number is 21. Then, find the number?\n['(A)84', '(B)66', '(C)28', '(D)19', '(E)11']\n                    "
+            }
+        ],
+        "prediction": "<background>\nNincs háttérinformáció.\n<background>\n\n<question>\nHa egy szám 3/4-ének egyharmada 21, akkor mi a szám?\n<question>\n\n<options>\n['(A)84', '(B)66', '(C)28', '(D)19', '(E)11']\n<options>",
+        "gold": "A"
+    },
+    "19": {
+        "origin_prompt": [
+            {
+                "role": "HUMAN",
+                "prompt": "Please translate the following English exam aqua-rat question to Hungarian. The question is divided into three parts: background, question, and options. Ensure each section is labeled correctly.\n                        1. Background:\n                        Label with <background> at the beginning and the end.\n                        2. Question:\n                        Label with <question> at the beginning and the end.\n                        3.Options:\n                        Label options with <options> at the beginning and the end.\n\n                        Example format:\n                        <background>\n                        [Background information here]\n                        <background>\n\n                        <question>\n                        [Question here]\n                        <question>\n                        \n                        <options>\n                        [Options here]\n                        <options>\n                        \n                        The question to translate is given by:\n                        background: None\nquestion: If m > 0, y > 0, and x is m percent of 4y, then, in terms of y, m is what percentage of x?\n['(A)y/400', '(B)4y', '(C)50y', '(D)2500/y', '(E)5000/y']\n                    "
+            }
+        ],
+        "prediction": "Sure, here's the translation of the exam question into Hungarian:\n\n<background>\nNincs\n<background>\n\n<question>\nHa m > 0, y > 0, és x m százaléka 4y-nak, akkor y értékében m hány százaléka x-nek?\n<question>\n\n<options>\n(A) y/400\n(B) 4y\n(C) 50y\n(D) 2500/y\n(E) 5000/y\n<options>",
+        "gold": "D"
+    },
+    "20": {
+        "origin_prompt": [
+            {
+                "role": "HUMAN",
+                "prompt": "Please translate the following English exam aqua-rat question to Hungarian. The question is divided into three parts: background, question, and options. Ensure each section is labeled correctly.\n                        1. Background:\n                        Label with <background> at the beginning and the end.\n                        2. Question:\n                        Label with <question> at the beginning and the end.\n                        3.Options:\n                        Label options with <options> at the beginning and the end.\n\n                        Example format:\n                        <background>\n                        [Background information here]\n                        <background>\n\n                        <question>\n                        [Question here]\n                        <question>\n                        \n                        <options>\n                        [Options here]\n                        <options>\n                        \n                        The question to translate is given by:\n                        background: None\nquestion: A man wants to eat fruit for breakfast and vegetable for dinner. He has 6 different types of fruit and 8 different types of vegetables. He can only eat one type at a time. In how many ways can he eat breakfast and dinner.\n['(A)54', '(B)24', '(C)48', '(D)20', '(E)36']\n                    "
+            }
+        ],
+        "prediction": "<background>\nNone\n<background>\n\n<question>\nEgy férfi gyümölcsöt szeretne reggelizni és zöldséget vacsorázni. 6 különböző típusú gyümölcse és 8 különböző típusú zöldsége van. Egyszerre csak egy fajtát ehet. Hányféleképpen tud reggelizni és vacsorázni?\n<question>\n\n<options>\n['(A)54', '(B)24', '(C)48', '(D)20', '(E)36']\n<options>",
+        "gold": "C"
+    },
+    "21": {
+        "origin_prompt": [
+            {
+                "role": "HUMAN",
+                "prompt": "Please translate the following English exam aqua-rat question to Hungarian. The question is divided into three parts: background, question, and options. Ensure each section is labeled correctly.\n                        1. Background:\n                        Label with <background> at the beginning and the end.\n                        2. Question:\n                        Label with <question> at the beginning and the end.\n                        3.Options:\n                        Label options with <options> at the beginning and the end.\n\n                        Example format:\n                        <background>\n                        [Background information here]\n                        <background>\n\n                        <question>\n                        [Question here]\n                        <question>\n                        \n                        <options>\n                        [Options here]\n                        <options>\n                        \n                        The question to translate is given by:\n                        background: None\nquestion: There is a 90% chance that a registered voter in Burghtown voted in the last election. If five registered voters are chosen at random, what is the approximate likelihood that exactly four of them voted in the last election?\n['(A)26.2%', '(B)32.8%', '(C)43.7%', '(D)59.0%', '(E)65.6%']\n                    "
+            }
+        ],
+        "prediction": "<background>\nNincs háttérinformáció.\n<background>\n\n<question>\n90% esély van arra, hogy egy bejegyzett szavazó Burghtownban szavazott az utolsó választáson. Ha öt bejegyzett szavazót véletlenszerűen választanak ki, mi a hozzávetőleges valószínűsége annak, hogy közülük pontosan négyen szavaztak az utolsó választáson?\n<question>\n\n<options>\n['(A)26,2%', '(B)32,8%', '(C)43,7%', '(D)59,0%', '(E)65,6%']\n<options>",
+        "gold": "E"
+    },
+    "22": {
+        "origin_prompt": [
+            {
+                "role": "HUMAN",
+                "prompt": "Please translate the following English exam aqua-rat question to Hungarian. The question is divided into three parts: background, question, and options. Ensure each section is labeled correctly.\n                        1. Background:\n                        Label with <background> at the beginning and the end.\n                        2. Question:\n                        Label with <question> at the beginning and the end.\n                        3.Options:\n                        Label options with <options> at the beginning and the end.\n\n                        Example format:\n                        <background>\n                        [Background information here]\n                        <background>\n\n                        <question>\n                        [Question here]\n                        <question>\n                        \n                        <options>\n                        [Options here]\n                        <options>\n                        \n                        The question to translate is given by:\n                        background: None\nquestion: Alice wants to put up fencing around three sides of her rectangular yard and leave one side of 10 meters unfenced. If the yard has an area of 240 square meters, how many meters of fencing does she need?\n['(A)58', '(B)62', '(C)66', '(D)70', '(E)74']\n                    "
+            }
+        ],
+        "prediction": "<background>\nNincs háttérinformáció.\n<background>\n\n<question>\nAlice kerítést szeretne felállítani téglalap alakú udvara három oldalára, és egyik oldalát, ami 10 méter hosszú, kerítés nélkül hagyni. Ha az udvar területe 240 négyzetméter, hány méter kerítésre van szüksége?\n<question>\n\n<options>\n['(A)58', '(B)62', '(C)66', '(D)70', '(E)74']\n<options>",
+        "gold": "A"
+    },
+    "23": {
+        "origin_prompt": [
+            {
+                "role": "HUMAN",
+                "prompt": "Please translate the following English exam aqua-rat question to Hungarian. The question is divided into three parts: background, question, and options. Ensure each section is labeled correctly.\n                        1. Background:\n                        Label with <background> at the beginning and the end.\n                        2. Question:\n                        Label with <question> at the beginning and the end.\n                        3.Options:\n                        Label options with <options> at the beginning and the end.\n\n                        Example format:\n                        <background>\n                        [Background information here]\n                        <background>\n\n                        <question>\n                        [Question here]\n                        <question>\n                        \n                        <options>\n                        [Options here]\n                        <options>\n                        \n                        The question to translate is given by:\n                        background: None\nquestion: John would make the 3-letter codes with diffenrent 5 vowels and 20 consonants with the condition that the middle letter must be vowel and the first letter and the third letter must be different from each other and are both consonant. How many different codes can be made?\n['(A)1,980', '(B)2,020', '(C)2,100', '(D)2,200', '(E)1,900']\n                    "
+            }
+        ],
+        "prediction": "Certainly! Here is the translation of the given exam question into Hungarian:\n\n<background>\nNincs\n<background>\n\n<question>\nJános 3 betűs kódokat szeretne készíteni 5 különböző magánhangzóval és 20 mássalhangzóval azzal a feltétellel, hogy a középső betű magánhangzó legyen, az első és a harmadik betű különbözzenek egymástól, és mindkettő mássalhangzó legyen. Hány különböző kód készíthető el?\n<question>\n\n<options>\n['(A)1,980', '(B)2,020', '(C)2,100', '(D)2,200', '(E)1,900']\n<options>",
+        "gold": "E"
+    },
+    "24": {
+        "origin_prompt": [
+            {
+                "role": "HUMAN",
+                "prompt": "Please translate the following English exam aqua-rat question to Hungarian. The question is divided into three parts: background, question, and options. Ensure each section is labeled correctly.\n                        1. Background:\n                        Label with <background> at the beginning and the end.\n                        2. Question:\n                        Label with <question> at the beginning and the end.\n                        3.Options:\n                        Label options with <options> at the beginning and the end.\n\n                        Example format:\n                        <background>\n                        [Background information here]\n                        <background>\n\n                        <question>\n                        [Question here]\n                        <question>\n                        \n                        <options>\n                        [Options here]\n                        <options>\n                        \n                        The question to translate is given by:\n                        background: None\nquestion: What is the sum of three consecutive integers whose product can be expressed as 727+728+729.\n['(A)37', '(B)38', '(C)36', '(D)30', '(E)39']\n                    "
+            }
+        ],
+        "prediction": "<background>\nNincs háttérinformáció.\n<background>\n\n<question>\nMi a három egymást követő egész szám összege, amelyek szorzata kifejezhető 727+728+729 alakban?\n<question>\n\n<options>\n(A)37, (B)38, (C)36, (D)30, (E)39\n<options>",
+        "gold": "E"
+    },
+    "25": {
+        "origin_prompt": [
+            {
+                "role": "HUMAN",
+                "prompt": "Please translate the following English exam aqua-rat question to Hungarian. The question is divided into three parts: background, question, and options. Ensure each section is labeled correctly.\n                        1. Background:\n                        Label with <background> at the beginning and the end.\n                        2. Question:\n                        Label with <question> at the beginning and the end.\n                        3.Options:\n                        Label options with <options> at the beginning and the end.\n\n                        Example format:\n                        <background>\n                        [Background information here]\n                        <background>\n\n                        <question>\n                        [Question here]\n                        <question>\n                        \n                        <options>\n                        [Options here]\n                        <options>\n                        \n                        The question to translate is given by:\n                        background: None\nquestion: The capacity of a tank of dimensions (8 m × 6 m × 2.5 m) is\n['(A)120 litres', '(B)1200 litres', '(C)12000 litres', '(D)120000 litres', '(E)None of these']\n                    "
+            }
+        ],
+        "prediction": "Sure, here is the translation of the English exam question into Hungarian:\n\n<background>\nNincs háttérinformáció.\n<background>\n\n<question>\nEgy tartály kapacitása, amelynek méretei (8 m × 6 m × 2,5 m) a következők:\n<question>\n\n<options>\n(A)120 liter, (B)1200 liter, (C)12000 liter, (D)120000 liter, (E)Egyik sem ezek közül\n<options>",
+        "gold": "D"
+    },
+    "26": {
+        "origin_prompt": [
+            {
+                "role": "HUMAN",
+                "prompt": "Please translate the following English exam aqua-rat question to Hungarian. The question is divided into three parts: background, question, and options. Ensure each section is labeled correctly.\n                        1. Background:\n                        Label with <background> at the beginning and the end.\n                        2. Question:\n                        Label with <question> at the beginning and the end.\n                        3.Options:\n                        Label options with <options> at the beginning and the end.\n\n                        Example format:\n                        <background>\n                        [Background information here]\n                        <background>\n\n                        <question>\n                        [Question here]\n                        <question>\n                        \n                        <options>\n                        [Options here]\n                        <options>\n                        \n                        The question to translate is given by:\n                        background: None\nquestion: The population of a city is 5265526. If there are 4169516 adults in the city, how many children are there in the city?\n['(A)1095961', '(B)1065961', '(C)1085961', '(D)1097961', '(E)1096061']\n                    "
+            }
+        ],
+        "prediction": "Sure, here is the translation of the given question into Hungarian:\n\n<background>\nNincs háttérinformáció.\n<background>\n\n<question>\nEgy város lakossága 5 265 526 fő. Ha a városban 4 169 516 felnőtt él, hány gyermek van a városban?\n<question>\n\n<options>\n['(A)1 095 961', '(B)1 065 961', '(C)1 085 961', '(D)1 097 961', '(E)1 096 061']\n<options>",
+        "gold": "E"
+    },
+    "27": {
+        "origin_prompt": [
+            {
+                "role": "HUMAN",
+                "prompt": "Please translate the following English exam aqua-rat question to Hungarian. The question is divided into three parts: background, question, and options. Ensure each section is labeled correctly.\n                        1. Background:\n                        Label with <background> at the beginning and the end.\n                        2. Question:\n                        Label with <question> at the beginning and the end.\n                        3.Options:\n                        Label options with <options> at the beginning and the end.\n\n                        Example format:\n                        <background>\n                        [Background information here]\n                        <background>\n\n                        <question>\n                        [Question here]\n                        <question>\n                        \n                        <options>\n                        [Options here]\n                        <options>\n                        \n                        The question to translate is given by:\n                        background: None\nquestion: It takes a worker 9 minutes to drive from home to work at an average rate of 20 kilometers per hour. How many minutes will it take the worker to cycle from home to work along the same route at an average rate of 6 kilometers per hour?\n['(A)30', '(B)32', '(C)35', '(D)36', '(E)40']\n                    "
+            }
+        ],
+        "prediction": "Sure, here is the translation of the given exam question into Hungarian:\n\n<background>\nNincs háttérinformáció.\n<background>\n\n<question>\nEgy munkásnak 9 percbe telik eljutni otthonról a munkahelyére, átlagosan 20 kilométer per órás sebességgel. Hány percbe telik a munkásnak, hogy ugyanazon az útvonalon biciklivel menjen, átlagosan 6 kilométer per órás sebességgel?\n<question>\n\n<options>\n['(A)30', '(B)32', '(C)35', '(D)36', '(E)40']\n<options>",
+        "gold": "A"
+    },
+    "28": {
+        "origin_prompt": [
+            {
+                "role": "HUMAN",
+                "prompt": "Please translate the following English exam aqua-rat question to Hungarian. The question is divided into three parts: background, question, and options. Ensure each section is labeled correctly.\n                        1. Background:\n                        Label with <background> at the beginning and the end.\n                        2. Question:\n                        Label with <question> at the beginning and the end.\n                        3.Options:\n                        Label options with <options> at the beginning and the end.\n\n                        Example format:\n                        <background>\n                        [Background information here]\n                        <background>\n\n                        <question>\n                        [Question here]\n                        <question>\n                        \n                        <options>\n                        [Options here]\n                        <options>\n                        \n                        The question to translate is given by:\n                        background: None\nquestion: Two friends are eating a jar full of candies. Had P eaten alone, it would have taken him 10 minutes to finish the candies in the jar. Had Q eaten alone, it would have taken her 5 minutes to finish half the jar. Since both of them are eating simultaneously, how many minutes would it take them to empty the jar?\n['(A)4', '(B)5', '(C)6', '(D)7', '(E)8']\n                    "
+            }
+        ],
+        "prediction": "<background>\nNincs háttérinformáció.\n<background>\n\n<question>\nKét barát egy üvegnyi cukorkát eszik. Ha P egyedül evett volna, 10 percig tartott volna neki, hogy megegye az összes cukorkát az üvegben. Ha Q egyedül evett volna, 5 percig tartott volna neki, hogy megegye az üveg felét. Mivel mindketten egyszerre esznek, hány percig tartana nekik kiüríteni az üveget?\n<question>\n\n<options>\n(A)4, (B)5, (C)6, (D)7, (E)8\n<options>",
+        "gold": "B"
+    },
+    "29": {
+        "origin_prompt": [
+            {
+                "role": "HUMAN",
+                "prompt": "Please translate the following English exam aqua-rat question to Hungarian. The question is divided into three parts: background, question, and options. Ensure each section is labeled correctly.\n                        1. Background:\n                        Label with <background> at the beginning and the end.\n                        2. Question:\n                        Label with <question> at the beginning and the end.\n                        3.Options:\n                        Label options with <options> at the beginning and the end.\n\n                        Example format:\n                        <background>\n                        [Background information here]\n                        <background>\n\n                        <question>\n                        [Question here]\n                        <question>\n                        \n                        <options>\n                        [Options here]\n                        <options>\n                        \n                        The question to translate is given by:\n                        background: None\nquestion: A grocery sells a bag of ice for $1.25, and makes 20% profit. If it sells 500 bags of ice, how much total profit does it make?\n['(A)125', '(B)150', '(C)225', '(D)250', '(E)275']\n                    "
+            }
+        ],
+        "prediction": "<background>\nNincs háttérinformáció.\n<background>\n\n<question>\nEgy élelmiszerbolt 1,25 dollárért árul egy zacskó jeget, és 20% hasznot realizál. Ha elad 500 zacskó jeget, mekkora a teljes nyeresége?\n<question>\n\n<options>\n(A)125, (B)150, (C)225, (D)250, (E)275\n<options>",
+        "gold": "A"
+    }
+}

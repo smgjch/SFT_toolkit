@@ -1,0 +1,375 @@
+[
+    {
+        "passage": "Négy művészettörténész – Farley, Garcia, Holden és Jiang – négy nyilvános előadást fog tartani, mindegyik különböző témában: litográfiák, olajfestmények, szobrok és akvarellek. Az előadásokat egymás után tartják, minden művészettörténész egy másik témában tart előadást. Az előadások menetrendje a következő feltételeknek van alávetve: Az olajfestmények és az akvarellek előadásának mind korábban kell lennie, mint a litográfiák előadásának. Farley előadásának korábban kell lennie, mint az olajfestmények előadásának. Holden előadásának korábban kell lennie, mint mind Garcia, mind Jiang előadásának.",
+        "question": "Ha az akvarellek előadása a harmadik, melyik lehet igaz az alábbiak közül?",
+        "options": [
+            "(A) Farley tartja az akvarellek előadását.",
+            "(B) Garcia tartja az olajfestmények előadását.",
+            "(C) Garcia tartja a szobrok előadását.",
+            "(D) Holden tartja a szobrok előadását.",
+            "(E) Jiang tartja a litográfiák előadását."
+        ],
+        "label": "E",
+        "ind": 0
+    },
+    {
+        "passage": "Négy művészettörténész—Farley, Garcia, Holden és Jiang—négy nyilvános előadást tart, mindegyik előadás más-más témáról szól: litográfiák, olajfestmények, szobrok és akvarellek. Az előadásokat egymás után tartják, minden művészettörténész különböző témákról ad elő. Az előadások ütemezése a következő korlátozásoknak van alávetve: Az olajfestmények és az akvarellek előadásának mind a litográfiák előadása előtt kell lennie. Farley előadásának az olajfestmények előadása előtt kell lennie. Holden előadásának mind Garcia, mind Jiang előadása előtt kell lennie.",
+        "question": "Melyik az alábbiak közül NEM lehet igaz?",
+        "options": [
+            "(A) Farley tartja a litográfiák előadást.",
+            "(B) Garcia tartja a szobrok előadást.",
+            "(C) Garcia tartja az akvarellek előadást.",
+            "(D) Holden tartja az olajfestmények előadást.",
+            "(E) Jiang tartja az akvarellek előadást."
+        ],
+        "label": "A",
+        "ind": 1
+    },
+    {
+        "passage": "Négy művészettörténész – Farley, Garcia, Holden és Jiang – négy nyilvános előadást fog tartani, mindegyik előadás más témában – litográfiák, olajfestmények, szobrok és akvarellek. Az előadásokat egymás után tartják, és minden művészettörténész más-más témában tart előadást. Az előadások ütemterve a következő feltételeknek van alávetve: Az olajfestmények előadásának és az akvarellek előadásának mind a litográfiák előadása előtt kell lennie. Farley előadásának az olajfestmények előadása előtt kell lennie. Holden előadásának Garcia és Jiang előadása előtt kell lennie.",
+        "question": "Ha Garcia tartja a szobrok előadását, melyik lehet igaz az alábbiak közül?",
+        "options": [
+            "(A) A litográfiák előadása a harmadik.  ",
+            "(B) Az olajfestmények előadása a harmadik.  ",
+            "(C) A szobrok előadása az első.  ",
+            "(D) A szobrok előadása a második.  ",
+            "(E) Az akvarellek előadása a második."
+        ],
+        "label": "A",
+        "ind": 2
+    },
+    {
+        "passage": "Három szőnyeget fognak szőni színes fonalból. Hat színű fonal áll rendelkezésre - erdőzöld, olíva, barack, türkiz, fehér és sárga -, amelyek közül pontosan ötöt használnak fel a szőnyegek szövéséhez. Minden használt színt csak egy szőnyegben használnak fel. A szőnyegek lehetnek egyszínűek - egyetlen színben szőttek - vagy többszínűek. A szőnyegeket a következő szabályok szerint kell szőni: bármely szőnyeg, amelyben fehér színt használnak, két másik színt is tartalmaz. Bármely szőnyeg, amelyben olíva színt használnak, barackot is tartalmaz. Erdőzöld és türkiz nem használható együtt egy szőnyegen. Barack és türkiz nem használható együtt egy szőnyegen. Barack és sárga nem használható együtt egy szőnyegen.",
+        "question": "Melyik lehet az alábbiak közül a három szőnyeg színe?",
+        "options": [
+            "(A)erdőzöld csak; türkiz csak; olíva, barack és fehér  ",
+            "(B)erdőzöld csak; türkiz csak; olíva, barack és sárga  ",
+            "(C)barack csak; türkiz csak; erdőzöld, olíva és fehér  ",
+            "(D)sárga csak; erdőzöld és türkiz; olíva és barack  ",
+            "(E)sárga csak; olíva és barack; türkiz és fehér"
+        ],
+        "label": "A",
+        "ind": 3
+    },
+    {
+        "passage": "Három szőnyeget fognak szőni színes fonalból. Hat színű fonal áll rendelkezésre – erdőzöld, olívazöld, barack, türkiz, fehér és sárga – amelyek közül pontosan ötöt fognak felhasználni a szőnyegek szövéséhez. Minden felhasznált színt csak az egyik szőnyeghez használnak fel. A szőnyegek lehetnek egyszínűek – egyetlen színnel szőttek – vagy többszínűek. A szőnyegeket a következő szabályok szerint kell szőni: Bármelyik szőnyegben, ahol fehér színt használnak, két másik színt is használnak. Bármelyik szőnyegben, ahol olívazöldet használnak, barackot is használnak. Erdőzöld és türkiz nem használhatóak együtt egy szőnyegben. Barack és türkiz nem használhatóak együtt egy szőnyegben. Barack és sárga nem használhatóak együtt egy szőnyegben.",
+        "question": "Melyik állításnak kell igaznak lennie?",
+        "options": [
+            "'(A) Nincsenek többszínű szőnyegek, amelyekben erdőzöldet használnak.', '(B) Nincsenek többszínű szőnyegek, amelyekben türkizt használnak.', '(C) Barackot használnak az egyik szőnyegben.', '(D) Türkizt használnak az egyik szőnyegben.', '(E) Sárgát használnak az egyik szőnyegben.'"
+        ],
+        "label": "C",
+        "ind": 4
+    },
+    {
+        "passage": "Három szőnyeget fognak színes fonalból szőni. Hat színű fonal áll rendelkezésre – erdőzöld, olívazöld, barack, türkiz, fehér és sárga – amelyek közül pontosan ötöt fognak felhasználni a szőnyegek szövéséhez. Minden használt színt csak az egyik szőnyeghez használnak fel. A szőnyegek lehetnek egyszínűek – egyetlen színnel szőve – vagy többszínűek. A szőnyegeket a következő szabályok szerint kell szőni: Bármely szőnyegben, amelyben fehér van használva, két másik színt is használnak. Bármely szőnyegben, amelyben olívazöld van használva, barackot is használnak. Erdőzöld és türkiz nem használható együtt egy szőnyegben. Barack és türkiz nem használható együtt egy szőnyegben. Barack és sárga nem használható együtt egy szőnyegben.",
+        "question": "Ha az egyik szőnyeg egyszínű barack, melyik állításnak kell igaznak lennie?",
+        "options": [
+            "(A) Az egyik szőnyeg egyszínű erdőzöld.",
+            "(B) Az egyik szőnyeg egyszínű türkiz.",
+            "(C) Az egyik szőnyeg egyszínű sárga.",
+            "(D) Erdőzöld és fehér együtt van használva egy szőnyegben.",
+            "(E) Fehér és sárga együtt van használva egy szőnyegben."
+        ],
+        "label": "E",
+        "ind": 5
+    },
+    {
+        "passage": "Három szőnyeget fognak szőni színes fonalakból. Hat színű fonal áll rendelkezésre – erdőzöld, olíva, barack, türkiz, fehér és sárga –, amelyek közül pontosan ötöt használnak fel a szőnyegek szövéséhez. Minden használt színt csak egy szőnyeghez használnak fel. A szőnyegek lehetnek egyszínűek – egyetlen színnel szőve – vagy többszínűek. A szőnyegeket a következő szabályok szerint kell szőni: Bármely szőnyeg, amelyben fehér színt használnak, két másik színt is tartalmaz. Bármely szőnyeg, amelyben olívát használnak, barackot is tartalmaz. Erdőzöld és türkiz nem használható együtt egy szőnyegben. Barack és türkiz nem használható együtt egy szőnyegben. Barack és sárga nem használható együtt egy szőnyegben.",
+        "question": "Ha pontosan két egyszínű szőnyeg van, akkor ezeknek a szőnyegeknek a színei NEM lehetnek",
+        "options": [
+            "(A)erdőzöld és barack, (B)erdőzöld és sárga, (C)barack és türkiz, (D)barack és sárga, (E)türkiz és sárga"
+        ],
+        "label": "D",
+        "ind": 6
+    },
+    {
+        "passage": "Három szőnyeget fognak szőni színes fonalakból. Hatféle színű fonal áll rendelkezésre - erdőzöld, olivazöld, barack, türkiz, fehér és sárga - amelyek közül pontosan ötöt használnak fel a szőnyegek szövéséhez. Minden használt szín csak egyetlen szőnyegben lesz felhasználva. A szőnyegek lehetnek egyszínűek - egyetlen színnel szőve - vagy többszínűek. A szőnyegeket a következő szabályok szerint kell szőni: Bármely szőnyegben, ahol fehér színt használnak, két másik színt is használnak. Bármely szőnyegben, ahol olivazöld színt használnak, barack színt is használnak. Erdőzöld és türkiz nem használható együtt egy szőnyegben. Barack és türkiz nem használható együtt egy szőnyegben. Barack és sárga nem használható együtt egy szőnyegben.",
+        "question": "Ha erdőzöldet és barackot együtt használnak egy szőnyegben, melyik lehet igaz a következők közül?",
+        "options": [
+            "(A) Pontosan egy egyszínű szőnyeg van.",
+            "(B) Fehéret egyik szőnyegben sem használnak.",
+            "(C) Sárgát egyik szőnyegben sem használnak.",
+            "(D) Türkiz és fehér együtt szerepel egy szőnyegben.",
+            "(E) Türkiz és sárga együtt szerepel egy szőnyegben."
+        ],
+        "label": "B",
+        "ind": 7
+    },
+    {
+        "passage": "Három szőnyeget fognak szőni színes fonalból. Hat színű fonal áll rendelkezésre - erdőzöld, olívazöld, barack, türkiz, fehér és sárga - amelyek közül pontosan ötöt használnak fel a szőnyegek szövéséhez. Minden felhasznált színt csak egy szőnyegben használnak fel. A szőnyegek lehetnek egyszínűek - egyetlen színnel szőve - vagy többszínűek. A szőnyegeket a következő szabályok szerint kell szőni: Bármely szőnyegben, ahol a fehér színt használják, további két színt is használnak. Bármely szőnyegben, ahol az olívazöldet használják, a barackot is használják. Erdőzöld és türkiz nem használható együtt egy szőnyegben. Barack és türkiz nem használható együtt egy szőnyegben. Barack és sárga nem használható együtt egy szőnyegben.",
+        "question": "Ha az egyik szőnyeg egyszínű sárga, akkor a következők közül bármelyik igaz lehet, KIVÉVE:",
+        "options": [
+            "(A) Pontosan egy egyszínű szőnyeg van.",
+            "(B) Az egyik szőnyeg egyszínű erdőzöld.",
+            "(C) A türkiz nincs felhasználva egyik szőnyegben sem.",
+            "(D) Erdőzöld és olívazöld együtt van használva egy szőnyegben.",
+            "(E) Barack és fehér együtt van használva egy szőnyegben."
+        ],
+        "label": "A",
+        "ind": 8
+    },
+    {
+        "passage": "A fényképészeti vállalkozás vezetőjének legalább két fényképészt kell kineveznie két ballagási ünnepséghez – az egyik a Silva Egyetemen, a másik a Thorne Egyetemen. Pontosan hat fényképész áll rendelkezésre – Frost, Gonzalez, Heideck, Knutson, Lai és Mays –, de nem mindegyiket kell kijelölni. Egy fényképész sem lehet kijelölve mindkét ünnepségre. A következő feltételek érvényesek: Frostot és Heidecket együtt kell kijelölni az egyik ballagási ünnepségre. Ha Lai-t és Mays-t is kijelölik, akkor különböző ünnepségekre kell őket kijelölni. Ha Gonzalez a Silva Egyetem ünnepségére van kijelölve, akkor Lai-t a Thorne Egyetem ünnepségére kell kijelölni. Ha Knutson nincs kijelölve a Thorne Egyetem ünnepségére, akkor mind Heidecket, mind Mays-t ki kell jelölni oda.",
+        "question": "Melyik az alábbiak közül egy elfogadható fényképész beosztás a két ballagási ünnepségre?",
+        "options": [
+            "(A) Silva Egyetem: Gonzalez, Lai Thorne Egyetem: Frost, Heideck, Mays",
+            "(B) Silva Egyetem: Gonzalez, Mays Thorne Egyetem: Knutson, Lai",
+            "(C) Silva Egyetem: Frost, Gonzalez, Heideck Thorne Egyetem: Knutson, Lai, Mays",
+            "(D) Silva Egyetem: Frost, Heideck, Mays Thorne Egyetem: Gonzalez, Lai",
+            "(E) Silva Egyetem: Frost, Heideck, Mays Thorne Egyetem: Gonzalez, Knutson, Lai"
+        ],
+        "label": "E",
+        "ind": 9
+    },
+    {
+        "passage": "A fényképészeti vállalkozás vezetőjének legalább két fényképészt kell kijelölnie két diplomaosztó ünnepségre – az egyik a Silva Egyetemen, a másik a Thorne Egyetemen lesz. Pontosan hat fényképész áll rendelkezésre – Frost, Gonzalez, Heideck, Knutson, Lai és Mays –, de nem mindegyiket kell kijelölni. Egy fényképész sem jelölhető ki mindkét ünnepségre. A következő feltételek érvényesek: Frostot Heideckkel együtt kell kijelölni az egyik diplomaosztó ünnepségre. Ha Lai és Mays is ki van jelölve, akkor különböző ünnepségekre kell menniük. Ha Gonzalezt a Silva Egyetem ünnepségére jelölik ki, akkor Lait a Thorne Egyetem ünnepségére kell kijelölni. Ha Knutsont nem jelölik ki a Thorne Egyetem ünnepségére, akkor mind Heidecknek, mind Maysnak ki kell lennie jelölve oda.",
+        "question": "Ha Heideck és Lai ugyanarra a diplomaosztó ünnepségre van kijelölve, akkor melyik a következő állítások közül szükségszerűen igaz?",
+        "options": [
+            "(A) Frost a Thorne Egyetem ünnepségére van kijelölve.",
+            "(B) Gonzalez a Silva Egyetem ünnepségére van kijelölve.",
+            "(C) Gonzalez egyik diplomaosztó ünnepségre sincs kijelölve.",
+            "(D) Knutson a Thorne Egyetem ünnepségére van kijelölve.",
+            "(E) Lai a Thorne Egyetem ünnepségére van kijelölve."
+        ],
+        "label": "D",
+        "ind": 10
+    },
+    {
+        "passage": "A fényképészeti vállalkozás vezetőjének legalább két fényképészt kell kijelölnie két diplomaosztó ünnepségre – egyik a Silva Egyetemen, a másik a Thorne Egyetemen. Pontosan hat fényképész áll rendelkezésre – Frost, Gonzalez, Heideck, Knutson, Lai és Mays –, de nem mindegyiket kell kijelölni. Egy fényképész sem jelölhető ki mindkét ünnepségre. A következő korlátozások érvényesek: Frostot és Heidecket együtt kell kijelölni az egyik diplomaosztó ünnepségre. Ha Lai és Mays mindketten ki vannak jelölve, akkor különböző ünnepségekre kell őket kijelölni. Ha Gonzalez a Silva Egyetem ünnepségére van kijelölve, akkor Lait a Thorne Egyetem ünnepségére kell kijelölni. Ha Knutson nincs kijelölve a Thorne Egyetem ünnepségére, akkor mind Heidecket, mind Mayst ki kell jelölni oda.",
+        "question": "Melyik lehet a fényképészek teljes kijelölése a Silva Egyetem ünnepségére?",
+        "options": [
+            "(A) Frost, Gonzalez, Heideck, Knutson",
+            "(B) Frost, Gonzalez, Heideck",
+            "(C) Gonzalez, Knutson",
+            "(D) Heideck, Lai",
+            "(E) Knutson, Mays"
+        ],
+        "label": "B",
+        "ind": 11
+    },
+    {
+        "passage": "A fényképészeti vállalkozás vezetőjének legalább két fényképészt kell kijelölnie két diplomaosztó ünnepségre—egy a Silva Egyetemen és egy a Thorne Egyetemen. Pontosan hat fényképész áll rendelkezésre—Frost, Gonzalez, Heideck, Knutson, Lai és Mays—de nem mindegyiket kell kijelölni. Egy fényképész sem jelölhető ki mindkét ünnepségre. A következő feltételek érvényesek: Frostot és Heidecket együtt kell kijelölni az egyik diplomaosztó ünnepségre. Ha Lait és Mays-t is kijelölik, akkor különböző ünnepségekre kell őket kijelölni. Ha Gonzalezt a Silva Egyetem ünnepségére jelölik ki, akkor Lait a Thorne Egyetem ünnepségére kell kijelölni. Ha Knutsont nem jelölik ki a Thorne Egyetem ünnepségére, akkor mind Heidecket, mind Mays-t ki kell jelölni oda.",
+        "question": "Melyik a következők közül a teljes és pontos lista az összes fényképészről, akiket ki kell jelölni?",
+        "options": [
+            "(A) Frost, Heideck",
+            "(B) Frost, Heideck, Knutson",
+            "(C) Frost, Heideck, Knutson, Lai",
+            "(D) Frost, Gonzalez, Heideck",
+            "(E) Frost, Gonzalez, Heideck, Mays"
+        ],
+        "label": "B",
+        "ind": 12
+    },
+    {
+        "passage": "A fényképészeti vállalkozás vezetőjének legalább két fényképészt kell kijelölnie két érettségi ünnepséghez - az egyik a Silva Egyetemen, a másik a Thorne Egyetemen. Pontosan hat fényképész áll rendelkezésre – Frost, Gonzalez, Heideck, Knutson, Lai és Mays –, de nem mindegyiket kell kijelölni. Egy fényképész sem jelölhető ki mindkét ünnepségre. A következő korlátozások érvényesek: Frostot és Heidecket együtt kell kijelölni az egyik érettségi ünnepségre. Ha Lai és Mays is ki van jelölve, akkor különböző ünnepségekre kell őket kijelölni. Ha Gonzalezt a Silva Egyetem ünnepségére jelölik ki, akkor Lait a Thorne Egyetem ünnepségére kell kijelölni. Ha Knutsont nem jelölik ki a Thorne Egyetem ünnepségére, akkor mind Heidecket, mind Mays-t ki kell jelölni.",
+        "question": "Ha pontosan négy fényképészt jelölnek ki az érettségi ünnepségekre, akkor a következők közül melyiknek kell a Silva Egyetem ünnepségére lennie kijelölve?",
+        "options": [
+            "(A) Frost",
+            "(B) Gonzalez",
+            "(C) Knutson",
+            "(D) Lai",
+            "(E) Mays"
+        ],
+        "label": "A",
+        "ind": 13
+    },
+    {
+        "passage": "A fényképezéssel foglalkozó vállalkozás menedzserének legalább két fotóst kell kijelölnie két diplomaosztó ünnepségre - az egyik a Silva Egyetemen, a másik a Thorne Egyetemen lesz. Pontosan hat fotós áll rendelkezésre - Frost, Gonzalez, Heideck, Knutson, Lai és Mays -, de nem mindegyiket kell kijelölni. Egyetlen fotós sem lehet kijelölve mindkét ünnepségre. Az alábbi korlátozások érvényesek: Frostot és Heidecket együtt kell kijelölni az egyik diplomaosztó ünnepségre. Ha Lai és Mays is ki van jelölve, akkor különböző ünnepségekre kell menniük. Ha Gonzalez a Silva Egyetem ünnepségére van kijelölve, akkor Lainak a Thorne Egyetem ünnepségére kell mennie. Ha Knutson nincs kijelölve a Thorne Egyetem ünnepségére, akkor mind Heidecket, mind Mayst oda kell kijelölni.",
+        "question": "A következők közül melyik NEM lehet a teljes fotós beosztás a Thorne Egyetem ünnepségére?",
+        "options": [
+            "(A)Frost, Gonzalez, Heideck, Mays",
+            "(B)Frost, Heideck, Knutson, Mays",
+            "(C)Gonzalez, Knutson, Lai",
+            "(D)Gonzalez, Knutson, Mays",
+            "(E)Knutson, Mays"
+        ],
+        "label": "B",
+        "ind": 14
+    },
+    {
+        "passage": "A fényképészeti vállalkozás vezetőjének legalább két fényképészt kell kijelölnie két diplomaosztó ünnepségre – az egyik a Silva Egyetemen, a másik a Thorne Egyetemen. Pontosan hat fényképész áll rendelkezésre – Frost, Gonzalez, Heideck, Knutson, Lai és Mays –, de nem mindegyiket kell kijelölni. Egy fényképészt sem lehet mindkét ünnepségre kijelölni. A következő korlátozások érvényesek: Frostot Heidieckkel együtt kell kijelölni az egyik diplomaosztó ünnepségre. Ha Lai és Mays mindketten ki vannak jelölve, akkor különböző ünnepségekre kell őket kijelölni. Ha Gonzalezt a Silva Egyetem ünnepségére jelölik ki, akkor Lait a Thorne Egyetem ünnepségére kell kijelölni. Ha Knutson nincs kijelölve a Thorne Egyetem ünnepségére, akkor mind Heidecknek, mind Maysnek ki kell lennie jelölve arra az ünnepségre.",
+        "question": "Melyik állítás, ha helyettesíti azt a korlátozást, hogy ha Knutson nincs kijelölve a Thorne Egyetem ünnepségére, akkor mind Heidecknek, mind Maysnek ki kell lennie jelölve arra az ünnepségre, ugyanilyen hatással lenne a fényképészek diplomaosztó ünnepségekre való kijelölésére?",
+        "options": [
+            "(A) Ha Knutson a Silva Egyetem ünnepségére van kijelölve, akkor Heideck és Mays nem lehet mindkettő kijelölve arra az ünnepségre.",
+            "(B) Ha Knutson a Silva Egyetem ünnepségére van kijelölve, akkor Lait is arra az ünnepségre kell kijelölni.",
+            "(C) Hacsak Knutson nincs kijelölve a Thorne Egyetem ünnepségére, mind Frostnak, mind Maysnek ki kell lennie jelölve arra az ünnepségre.",
+            "(D) Hacsak Knutson nincs kijelölve a Thorne Egyetem ünnepségére, Heideck nem lehet kijelölve ugyanarra az ünnepségre, mint Lai.",
+            "(E) Hacsak nem jelölik ki sem Heidecket, sem Mayst a Thorne Egyetem ünnepségére, Knutsont arra az ünnepségre kell kijelölni."
+        ],
+        "label": "C",
+        "ind": 15
+    },
+    {
+        "passage": "Egy nyomozó próbálja meghatározni, hogy a bűnöző milyen sorrendben toborozta a hét bűntársat: Peters-t, Quinn-t, Rovero-t, Stanton-t, Tao-t, Villas-t és White-ot. Amellett, hogy kiderítette, hogy a gyanúsított egyesével toborozta a bűntársakat, a nyomozó a következőket állapította meg: Stanton-t sem közvetlenül Tao előtt, sem közvetlenül Tao után nem toborozták. Quinn-t korábban toborozták, mint Rovero-t. Villas-t közvetlenül White előtt toborozták. Peters-t negyedikként toborozták.",
+        "question": "Melyik lehet az alábbiak közül az a sorrend, amelyben a bűntársakat toborozták, az elsőtől az utolsóig?",
+        "options": [
+            "(A) Quinn, Tao, Stanton, Peters, Villas, White, Rovero",
+            "(B) Quinn, White, Rovero, Peters, Stanton, Villas, Tao",
+            "(C) Villas, White, Quinn, Stanton, Peters, Tao, Rovero",
+            "(D) Villas, White, Stanton, Peters, Quinn, Tao, Rovero",
+            "(E) Villas, White, Stanton, Peters, Rovero, Tao, Quinn"
+        ],
+        "label": "D",
+        "ind": 16
+    },
+    {
+        "passage": "Egy nyomozó megpróbálja meghatározni, milyen sorrendben toborzott egy bűnöző hét bűntársat—Peters-t, Quinn-t, Rovero-t, Stanton-t, Tao-t, Villas-t és White-ot. Amellett, hogy kiderült, hogy a gyanúsított egymás után toborozta a bűntársakat, a nyomozó megállapította a következőket: Stanton-t sem közvetlenül Tao előtt, sem közvetlenül Tao után nem toborozták. Quinn-t korábban toborozták, mint Rovero-t. Villas-t közvetlenül White előtt toborozták. Peters-t negyedikként toborozták.",
+        "question": "Melyik lehet a középső öt bűntárs listája, a toborzás sorrendjében, a másodiktól a hatodikig?",
+        "options": [
+            "(A) Quinn, Stanton, Peters, Tao, Villas",
+            "(B) Quinn, Stanton, Peters, Tao, White",
+            "(C) Villas, White, Peters, Quinn, Stanton",
+            "(D) Villas, White, Peters, Rovero, Stanton",
+            "(E) Villas, White, Quinn, Rovero, Stanton"
+        ],
+        "label": "C",
+        "ind": 17
+    },
+    {
+        "passage": "Egy nyomozó próbálja meghatározni a sorrendet, amelyben egy bűnöző hét bűntársat toborzott: Peters, Quinn, Rovero, Stanton, Tao, Villas és White. A nyomozó felfedezte, hogy a gyanúsított egyesével toborozta a bűntársakat, és az alábbiakat állapította meg: Stantont sem közvetlenül Tao előtt, sem közvetlenül utána nem toborozták. Quinnt korábban toborozták, mint Roverót. Villast közvetlenül White előtt toborozták. Peterst negyedikként toborozták.",
+        "question": "Ha Taót másodikként toborozták, melyik lehet igaz az alábbiak közül?",
+        "options": [
+            "(A) Quinnt harmadikként toborozták.",
+            "(B) Roverót ötödikként toborozták.",
+            "(C) Stantont hatodikként toborozták.",
+            "(D) Villast hatodikként toborozták.",
+            "(E) White-ot harmadikként toborozták."
+        ],
+        "label": "D",
+        "ind": 18
+    },
+    {
+        "passage": "Egy nyomozó próbálja meghatározni, hogy milyen sorrendben toborzott egy bűnöző hét bűntársat—Peters-t, Quinn-t, Rovero-t, Stanton-t, Tao-t, Villas-t és White-ot. Amellett, hogy a nyomozó kiderítette, hogy a gyanúsított egyesével toborozta a bűntársakat, a következőket is megállapította: Stanton-t sem közvetlenül Tao előtt, sem közvetlenül Tao után nem toborozták. Quinn-t korábban toborozták, mint Rovero-t. Villas-t közvetlenül White előtt toborozták. Peters-t negyedikként toborozták.",
+        "question": "Ha Quinn-t közvetlenül Rovero előtt toborozták, akkor Stanton-t NEM lehetett toborozni",
+        "options": [
+            "(A) elsőnek",
+            "(B) másodiknak",
+            "(C) harmadiknak",
+            "(D) ötödiknek",
+            "(E) hetediknek"
+        ],
+        "label": "B",
+        "ind": 19
+    },
+    {
+        "passage": "Egy nyomozó megpróbálja meghatározni annak a sorrendjét, ahogyan egy bűnöző hét társát toborozta: Peters, Quinn, Rovero, Stanton, Tao, Villas és White. Amellett, hogy kiderítette, hogy a gyanúsított egyesével toborozta a társakat, a nyomozó a következőket állapította meg: Stantont sem közvetlenül Tao előtt, sem közvetlenül Tao után nem toborozták. Quinnt korábban toborozták, mint Roverót. Villast közvetlenül White előtt toborozták. Peterst negyedikként toborozták.",
+        "question": "Ha White-ot korábban toborozták, mint Roverót, és ha Roverót korábban toborozták, mint Taót, akkor az alábbiak közül melyik lehet igaz?",
+        "options": [
+            "(A) Quinnt elsőként toborozták.",
+            "(B) Roverót harmadikként toborozták.",
+            "(C) Stantont másodikként toborozták.",
+            "(D) Taót hatodikként toborozták.",
+            "(E) Villast hatodikként toborozták."
+        ],
+        "label": "A",
+        "ind": 20
+    },
+    {
+        "passage": "Egy nyomozó próbálja megállapítani, hogy milyen sorrendben toborzott egy bűnöző hét cinkostársat—Peterst, Quinnt, Roverót, Stantont, Taót, Villast és White-ot. Amellett, hogy kiderítette, hogy a gyanúsított egyesével toborozta a cinkosokat, a nyomozó a következőket állapította meg: Stantont sem közvetlenül Tao előtt, sem közvetlenül Tao után nem toborozták. Quinnt Rovero előtt toborozták. Villast közvetlenül White előtt toborozták. Peterst negyedikként toborozták.",
+        "question": "Ha White-ot közvetlenül Quinn előtt toborozták, akkor a következők közül kit kellett hatodikként toborozni?",
+        "options": [
+            "(A) Quinn",
+            "(B) Rovero",
+            "(C) Stanton",
+            "(D) Villas",
+            "(E) White"
+        ],
+        "label": "B",
+        "ind": 21
+    },
+    {
+        "passage": "A holnapi újság Életmód, Metro és Sport rovatában összesen hat különböző fotó fog megjelenni, pontosan két fotó rovatonként. Az elérhető fotókat három fotós készítette: Fuentes, Gagnon és Hue. A fotók kiválasztását a következő feltételek korlátozzák: Minden fotós esetében legalább egy, de legfeljebb három fotónak kell megjelennie tőle. Az Életmód rovatban legalább egy fotónak olyan fotóstól kell származnia, akinek legalább egy fotója van a Metro rovatban. Hue Életmód rovatbeli fotóinak száma meg kell egyezzen Fuentes Sport rovatbeli fotóinak számával. Gagnon egyetlen fotója sem jelenhet meg a Sport rovatban.",
+        "question": "Melyik lehetne az alábbiak közül egy elfogadható fotó kiválasztás a megjelenéshez?",
+        "options": [
+            "(A) Életmód: mindkét fotó Fuentes-től Metro: egy fotó Fuentes-től és egy Hue-tól Sport: egy fotó Gagnon-tól és egy Hue-tól",
+            "",
+            "(B) Életmód: egy fotó Fuentes-től és egy Gagnon-tól Metro: egy fotó Fuentes-től és egy Gagnon-tól Sport: mindkét fotó Hue-tól",
+            "",
+            "(C) Életmód: mindkét fotó Fuentes-től Metro: mindkét fotó Gagnon-tól Sport: mindkét fotó Hue-tól",
+            "",
+            "(D) Életmód: mindkét fotó Gagnon-tól Metro: egy fotó Fuentes-től és egy Gagnon-tól Sport: egy fotó Fuentes-től és egy Hue-tól",
+            "",
+            "(E) Életmód: egy fotó Gagnon-tól és egy Hue-tól Metro: mindkét fotó Hue-tól Sport: egy fotó Fuentes-től és egy Hue-tól"
+        ],
+        "label": "B",
+        "ind": 22
+    },
+    {
+        "passage": "A holnapi újság Életmód, Metro és Sport rovatában összesen hat különböző fénykép fog megjelenni, rovatonként pontosan két fénykép. Minden elérhető fényképet három fotós egyike készítette: Fuentes, Gagnon és Hue. A fényképek kiválasztása az alábbi feltételek szerint történik: Minden fotós esetében legalább egy, de legfeljebb három fényképnek kell megjelennie. Az Életmód rovatban legalább egy fényképnek olyan fotóstól kell származnia, akinek legalább egy fényképe van a Metro rovatban. Hue Életmód rovatbeli fényképeinek számának meg kell egyeznie Fuentes Sport rovatbeli fényképeinek számával. Gagnon fényképei közül egyik sem lehet a Sport rovatban.",
+        "question": "Ha mindkét fénykép az Életmód rovatban Hue-tól származik, akkor a következők közül melyiknek kell igaznak lennie a hat fényképre vonatkozóan?",
+        "options": [
+            "(A) Pontosan egy Fuentes-tól származik.",
+            "(B) Pontosan három Fuentes-tól származik.",
+            "(C) Pontosan egy Gagnon-tól származik.",
+            "(D) Pontosan kettő Gagnon-tól származik.",
+            "(E) Pontosan kettő Hue-tól származik."
+        ],
+        "label": "C",
+        "ind": 23
+    },
+    {
+        "passage": "A holnapi újság Életmód, Metro és Sport rovatában összesen hat különböző fénykép fog megjelenni, pontosan két fénykép minden rovatban. Az elérhető fényképeket három fotós készítette: Fuentes, Gagnon és Hue. A fényképek kiválasztását a következő feltételek korlátozzák: Minden fotós esetében legalább egy, de legfeljebb három fényképnek kell megjelennie az adott fotóstól. Az Életmód rovatban legalább egy fényképnek olyan fotóstól kell származnia, akinek legalább egy fényképe van a Metro rovatban. Hue Életmód rovatban szereplő fényképeinek száma meg kell egyezzen a Fuentes Sport rovatban szereplő fényképeinek számával. Gagnon fényképei közül egyik sem lehet a Sport rovatban.",
+        "question": "Ha az Életmód rovatban az egyik fénykép Gagnontól és a másik Hue-tól van, akkor az alábbiak közül melyiknek kell igaznak lennie?",
+        "options": [
+            "(A) Pontosan egy fénykép a Metro rovatban Fuentesé.  ",
+            "(B) Pontosan egy fénykép a Metro rovatban Gagnoné.",
+            "(C) Mindkét fénykép a Metro rovatban Gagnoné.",
+            "(D) Pontosan egy fénykép a Sport rovatban Hue-tól van.",
+            "(E) Mindkét fénykép a Sport rovatban Hue-tól van."
+        ],
+        "label": "D",
+        "ind": 24
+    },
+    {
+        "passage": "A holnapi újság Életmód, Metro és Sport rovatában összesen hat különböző fénykép jelenik meg, pontosan két fénykép rovatonként. Az elérhető fényképeket három fotós készítette: Fuentes, Gagnon és Hue. A fényképek kiválasztása a következő feltételekhez kötött: Minden fotós esetében legalább egy, de legfeljebb három fényképének szerepelnie kell. Az Életmód rovatban legalább egy olyan fényképnek kell szerepelnie, amelyet egy olyan fotós készített, akinek legalább egy fényképe van a Metro rovatban. Hue fényképeinek száma az Életmód rovatban meg kell egyeznie a Fuentes fényképeinek számával a Sport rovatban. Gagnon fényképei közül egyik sem lehet a Sport rovatban.",
+        "question": "Melyik lehet igaz a Fuentes által készített fényképekkel kapcsolatban, amelyek a holnapi újságban jelennek meg?",
+        "options": [
+            "(A) Egy az Életmód rovatban van, egy a Metro rovatban, és egy a Sport rovatban.",
+            "(B) Egy az Életmód rovatban van, és kettő a Sport rovatban.",
+            "(C) Kettő az Életmód rovatban van, és egy a Sport rovatban.",
+            "(D) Egy a Metro rovatban van, és kettő a Sport rovatban.",
+            "(E) Kettő a Metro rovatban van, és egy a Sport rovatban."
+        ],
+        "label": "A",
+        "ind": 25
+    },
+    {
+        "passage": "A holnapi újság Életmód, Metro és Sport rovataiban összesen hat különböző fénykép fog megjelenni, mindegyik rovatban pontosan két fénykép. A rendelkezésre álló fényképeket három fotós készítette: Fuentes, Gagnon és Hue. A fényképek kiválasztását a következő feltételek határolják: Minden fotós esetében legalább egy, de legfeljebb három fényképnek kell megjelennie. Az Életmód rovatban legalább egy fényképnek olyan fotóstól kell származnia, akinek legalább egy fényképe van a Metro rovatban. Hue fényképeinek száma az Életmód rovatban meg kell egyezzen a Fuentes fényképeinek számával a Sport rovatban. Gagnon fényképei közül egy sem lehet a Sport rovatban.",
+        "question": "Ha az Életmód rovatban egy fénykép Fuentesé, és egy Hue-é, akkor a következők közül melyik lehet igaz?",
+        "options": [
+            "(A) Mindkét fénykép a Metro rovatban Fuentesé.",
+            "(B) Mindkét fénykép a Metro rovatban Gagnoné.",
+            "(C) Pontosan egy fénykép a Metro rovatban Hue-é.",
+            "(D) Mindkét fénykép a Sport rovatban Hue-é.",
+            "(E) Egyik fénykép sem a Sport rovatban Hue-é."
+        ],
+        "label": "C",
+        "ind": 26
+    },
+    {
+        "passage": "A holnapi újság Életmód, Metro és Sport rovatában összesen hat különböző fénykép jelenik meg, pontosan két fénykép rovatonként. Az elérhető fényképeket három fotós készítette: Fuentes, Gagnon és Hue. A fényképek kiválasztása a következő feltételekhez kötött: Minden fotós esetében legalább egy, de legfeljebb három fényképének kell megjelennie. Az Életmód rovatban legalább egy fényképnek olyan fotóstól kell származnia, akinek van fényképe a Metro rovatban is. Hue fényképeinek száma az Életmód rovatban meg kell egyeznie Fuentes fényképeinek számával a Sport rovatban. Egyik Gagnon fényképe sem lehet a Sport rovatban.",
+        "question": "Ha az egyik rovat mindkét fényképét Gagnon készítette, akkor az alábbiak közül melyik lehet igaz?",
+        "options": [
+            "(A) Mindkét fénykép az Életmód rovatban Hue munkája.",
+            "(B) Az Életmód rovatban az egyik fénykép Fuentes, a másik Hue munkája.",
+            "(C) Mindkét fénykép a Metro rovatban Fuentes munkája.",
+            "(D) A Metro rovatban az egyik fénykép Gagnon, a másik Hue munkája.",
+            "(E) Mindkét fénykép a Sport rovatban Hue munkája."
+        ],
+        "label": "E",
+        "ind": 27
+    },
+    {
+        "passage": "A holnapi újság Életmód, Metro és Sport rovatában összesen hat különböző fénykép jelenik meg, rovatonként pontosan két fényképpel. Az elérhető fényképeket három fotós készítette: Fuentes, Gagnon és Hue. A fényképek kiválasztását az alábbi feltételek korlátozzák: Minden fotós esetében legalább egy, de legfeljebb három fényképüknek meg kell jelennie. Az Életmód rovatban legalább egy fényképnek olyan fotóstól kell származnia, akinek legalább egy fényképe van a Metro rovatban. Hue fényképeinek száma az Életmód rovatban megegyezik Fuentes fényképeinek számával a Sport rovatban. Gagnon fényképei közül egyik sem lehet a Sport rovatban.",
+        "question": "Ha a Metro rovat egyik fényképe Fuentes-től van, és egy Hue-tól, akkor az alábbiak közül melyik lehet igaz?",
+        "options": [
+            "(A) Mindkét fénykép az Életmód rovatban Fuentes-től van.",
+            "(B) Mindkét fénykép az Életmód rovatban Gagnon-tól van.",
+            "(C) Az Életmód rovat egyik fényképe Gagnon-tól és egy Hue-tól van.",
+            "(D) Mindkét fénykép az Életmód rovatban Hue-tól van.",
+            "(E) Mindkét fénykép a Sport rovatban Fuentes-től van."
+        ],
+        "label": "C",
+        "ind": 28
+    }
+]

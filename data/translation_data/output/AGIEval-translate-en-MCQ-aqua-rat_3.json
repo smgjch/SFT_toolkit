@@ -1,0 +1,298 @@
+[
+    {
+        "passage": "None",
+        "question": "Egy drót, amely 27 cm hosszúságú és 17 cm szélességű téglalap alakú, újra van hajlítva, hogy négyzetet alkosson. Mekkora lesz az egyes oldalak mérete?",
+        "options": [
+            "['(A)9', '(B)11', '(C)22', '(D)25', '(E)31']"
+        ],
+        "label": "C",
+        "ind": 0
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Egy férfi 8600 rúpiát oszt szét 5 fia, 4 lánya és 2 unokaöccse között. Ha minden lánya négyszer annyit kap, mint minden unokaöccse, és minden fia ötször annyit kap, mint minden unokaöccse, akkor mennyit kap minden lánya?",
+        "options": [
+            "(A)Rs 400, (B)Rs 500, (C)Rs 600, (D)Rs 700, (E)Rs 800"
+        ],
+        "label": "E",
+        "ind": 1
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Silu és Meenu az úton sétáltak. Silu azt mondta: \"51 kg vagyok. Te hány kiló vagy?\" Meenu azt válaszolta, hogy nem árulja el közvetlenül a súlyát, mivel túlsúlyos. De azt mondta: \"29 kg vagyok plusz a súlyom felével.\" Hány kiló Meenu?",
+        "options": [
+            "['(A)12', '(B)28', '(C)27', '(D)58', '(E)91']"
+        ],
+        "label": "D",
+        "ind": 2
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Roy súlyos fejfájástól szenvedett. Elment orvosához, aki adott neki 5 tablettát, és azt tanácsolta, hogy 15 percenként vegyen be egy tablettát. Mennyi időbe telik Roynak elfogyasztani mind az 5 tablettát?",
+        "options": [
+            "['(A)45 perc', '(B)75 perc', '(C)90 perc', '(D)120 perc', '(E)60 perc']"
+        ],
+        "label": "E",
+        "ind": 3
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Egy zacskó piros és zöld édességben a piros édességek és a zöld édességek aránya 3:4. Ha a zacskó 120 zöld édességet tartalmaz, hány piros édesség van benne?",
+        "options": [
+            "['(A)90', '(B)80', '(C)95', '(D)100', '(E)85']"
+        ],
+        "label": "A",
+        "ind": 4
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Egy klub tagjai olyan személyek, akiknek életkora számtani sorozatot alkot. A közös különbség 3 hónap. Ha a klub legfiatalabb tagja éppen 7 éves, és az összes tag életkorának összege 250, akkor hány tagja van a klubnak?",
+        "options": [
+            "(A)18, (B)20, (C)25, (D)26, (E)27"
+        ],
+        "label": "C",
+        "ind": 5
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "M férfi megállapodik abban, hogy ajándékot vásárolnak Rs. D összegért. Ha 3 férfi kiesik, mennyivel kell többet hozzájárulnia mindegyiküknek az ajándék vásárlásához?",
+        "options": [
+            "['(A)D/(M-3)', '(B)MD/3', '(C)M/(D-3)', '(D)3D/(M2-3M)', '(E)Egyik sem ezek közül']"
+        ],
+        "label": "D",
+        "ind": 6
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Milyen áron kell Karan-nak megjelölnie egy varrógépet, amely 1200 rúpiába kerül neki, hogy még 20%-os kedvezmény felajánlása után is 20%-os hasznot érjen el?",
+        "options": [
+            "['(A)1,879', '(B)1,875', '(C)1,876', '(D)1,872', '(E)1,800']"
+        ],
+        "label": "E",
+        "ind": 7
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Az 'A' vonat elindul a Mumbai központi állomásról Lucknow felé délelőtt 11 órakor, 40 km/h sebességgel haladva. A 'B' vonat ugyanazon az útvonalon indul el Mumbai központi állomásról Lucknow felé délután 2 órakor ugyanezen a napon, 72 km/h sebességgel haladva. Mikor találkozik a két vonat egymással?",
+        "options": [
+            "(A) Másnap hajnali 12 órakor, (B) Másnap hajnali 5 órakor, (C) Másnap délután 5 órakor, (D) Másnap délután 2 órakor, (E) Egyik sem ezek közül"
+        ],
+        "label": "A",
+        "ind": 8
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Mark azt mondta Johnnak: \"Ha odaadod nekem a pénzed felét, akkor 75 rupiám lesz.\" John azt mondta: \"Ha te odaadod nekem a pénzed egyharmadát, akkor 75 rupiám lesz.\" Mennyi pénze volt Johnnak?",
+        "options": [
+            "['(A)22', '(B)60', '(C)28', '(D)26', '(E)18']"
+        ],
+        "label": "B",
+        "ind": 9
+    },
+    {
+        "passage": "None",
+        "question": "Egy bizonyos tó felszínén található tündérrózsák száma minden két napban megduplázódik. Ha pontosan egy tündérrózsa van a tavon, akkor 60 nap alatt teljesen ellepi a tó felszínét. Hány nap alatt borítják be teljesen a tavat a tündérrózsák, ha kezdetben 64 tündérrózsa volt rajta?",
+        "options": [
+            "['(A)15', '(B)28', '(C)30', '(D)53', '(E)59']"
+        ],
+        "label": "D",
+        "ind": 10
+    },
+    {
+        "passage": "Nincs",
+        "question": "x ember, napi x órát dolgozva, x egységnyi munkát tud elvégezni x nap alatt. Mennyi munkát tud elvégezni y ember, ha napi y órát dolgoznak, y nap alatt?",
+        "options": [
+            "['(A)x2/y2 egység', '(B)y3/x2 egység', '(C)x3/y2 egység', '(D)y2/x2 egység', '(E)Egyik sem']"
+        ],
+        "label": "B",
+        "ind": 11
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "ABCDE egy szabályos ötszög, amelynek középpontjában az F pont található. Hány különböző négyszög alakítható ki az A, B, C, D, E és F pontok közül négy összekötésével?",
+        "options": [
+            "['(A)12', '(B)10', '(C)5', '(D)15', '(E)20']"
+        ],
+        "label": "D",
+        "ind": 12
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Az A, B, C, D pontok ebben a sorrendben fekszenek egy kör kerületén. Az AC kisebb ív 160°, a BD kisebb ív 150°. Ha B felezi az AC kisebb ívet, akkor mekkora az AD kisebb ív mértéke?",
+        "options": [
+            "(A) 80°, (B) 130°, (C) 140°, (D) 160°, (E) 220°"
+        ],
+        "label": "B",
+        "ind": 13
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Ha egy bizonyos vállalat alkalmazottainak 75 százaléka téli szabadságot vesz ki, 40 százalékuk téli és nyári szabadságot is vesz, és 20 százalékuk sem téli, sem nyári szabadságot nem vesz ki, akkor az alkalmazottak hány százaléka vesz ki nyári szabadságot, de nem vesz ki téli szabadságot?",
+        "options": [
+            "(A) 5%",
+            "(B) 15%",
+            "(C) 25%",
+            "(D) 35%",
+            "(E) 45%"
+        ],
+        "label": "A",
+        "ind": 14
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Egy csatorna keresztmetszete trapéz alakú. Ha a csatorna tetején 10 m széles, alul pedig 6 m széles, és a keresztmetszet területe 640 négyzetméter, akkor mekkora a csatorna mélysége?",
+        "options": [
+            "['(A)26', '(B)28', '(C)21', '(D)80', '(E)23']"
+        ],
+        "label": "D",
+        "ind": 15
+    },
+    {
+        "passage": "Nincs",
+        "question": "Egy szezon során egy teniszcsapat 20 mérkőzést nyert, és a mérkőzéseik 30%-át elvesztették. Hány mérkőzést veszített el a csapat?",
+        "options": [
+            "['(A)70', '(B)30', '(C)3', '(D)7', '(E)5']"
+        ],
+        "label": "C",
+        "ind": 16
+    },
+    {
+        "passage": "None",
+        "question": "Egy pont egy ventilátorlapát szélén, amely egy síkban forog 10 centiméterre a ventilátor középpontjától. Mekkora távolságot tesz meg ez a pont centiméterben 30 másodperc alatt, ha a ventilátor 300 fordulat/perc sebességgel forog?",
+        "options": [
+            "['(A)750pi', '(B)1500pi', '(C)1875pi', '(D)3000pi', '(E)7500pi']"
+        ],
+        "label": "D",
+        "ind": 17
+    },
+    {
+        "passage": "Nincs",
+        "question": "Ha n olyan, hogy 36 ≤ n ≤ 72, akkor az x = (n² + 2√n(n + 4) + 16) / (n + 4√n + 4) kielégíti",
+        "options": [
+            "['(A)20 < x < 54', '(B)23 < x < 58', '(C)25 < x < 64', '(D)28 < x < 60', '(E)Egyik sem']"
+        ],
+        "label": "D",
+        "ind": 18
+    },
+    {
+        "passage": "Nincs",
+        "question": "Maximális sebességénél egy űrsikló 40 másodperc alatt 700 méter magasra tud repülni. 5 másodpercig tart, amíg elhalad egy pont mellett. Mi tehát az űrsikló hossza?",
+        "options": [
+            "['(A)50 m', '(B)75 m', '(C)100 m', '(D)125 m', '(E)150 m']"
+        ],
+        "label": "C",
+        "ind": 19
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "A indít egy vállalkozást 40 000 Rs.-sal. 2 hónap múlva B csatlakozik hozzá 60 000 Rs.-sal. C még később csatlakozik hozzájuk 120 000 Rs.-sal. Az év végén a teljes 375 000 Rs. profitból C 150 000 Rs.-t kap, mint az ő részét. Hány hónappal azután, hogy B csatlakozott a vállalkozáshoz, csatlakozott C?",
+        "options": [
+            "(A) 2 hónap, (B) 4 hónap, (C) 23 hónap, (D) 24 hónap, (E) 84 hónap"
+        ],
+        "label": "B",
+        "ind": 20
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Egy papír négyzet alakú, amelynek egyik oldala 20 cm. Két félkör van rajzolva az ellentétes oldalakon átmérőként. Ha ezeket a félköröket levágjuk, mekkora a megmaradó papír területe?",
+        "options": [
+            "['(A)8,75', '(B)8,79', '(C)8,75', '(D)8,71', '(E)8,72']"
+        ],
+        "label": "C",
+        "ind": 21
+    },
+    {
+        "passage": "None",
+        "question": "Egy sportoló M mérföldet fut 4 óra alatt, majd biciklizik N mérföldet ugyanennyi óra alatt. Az alábbiak közül melyik fejezi ki az átlagsebességet, mérföld/óra egységben, ezen két tevékenység együttesére?",
+        "options": [
+            "(A)M + N / 8",
+            "(B)2M + N / 8",
+            "(C)M + N / 4",
+            "(D)M + 3N / 8",
+            "(E)M + N / 5"
+        ],
+        "label": "A",
+        "ind": 22
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "8 ember dolgozik 6 napig, hogy elvégezzen egy munkát. Hány ember szükséges ugyanazon munka elvégzéséhez 1/2 nap alatt?",
+        "options": [
+            "['(A)93 ember', '(B)94 ember', '(C)95 ember', '(D)96 ember', '(E)97 ember']"
+        ],
+        "label": "D",
+        "ind": 23
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "64 fiú és 40 lány alkot egy csoportot szociális munkára. A tagsági kampány során ugyanannyi fiú és lány csatlakozott a csoporthoz. Hány tagja van most a csoportnak, ha a fiúk és a lányok aránya 4:3?",
+        "options": [
+            "['(A)277', '(B)288', '(C)200', '(D)277', '(E)168']"
+        ],
+        "label": "E",
+        "ind": 24
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Egy kerékpáros 12 mérföld per órás sebességgel halad. Hány perc alatt tesz meg 48 mérföldet?",
+        "options": [
+            "['(A)1', '(B)240', '(C)30', '(D)60', '(E)120']"
+        ],
+        "label": "B",
+        "ind": 25
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Kevin állandó 70 mérföld/óra sebességgel vezetett A-ból B-be. Miután elérte B-t, megfordult megállás nélkül, és állandó 90 mérföld/óra sebességgel visszatért A-ba. Pontosan 3 órával az utazásának vége előtt még mindig közeledett B felé, mindössze 70 mérföldre tőle. Mekkora a távolság A és B között?",
+        "options": [
+            "(A)180, (B)90, (C)270, (D)360, (E)Egyik sem a fentiek közül"
+        ],
+        "label": "A",
+        "ind": 26
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Egy számból kivonunk 30-at, és így a szám harmadára csökken. Mennyi az értéke a szám 50%-ának?",
+        "options": [
+            "['(A)22,5', '(B)84', '(C)21', '(D)24', '(E)25']"
+        ],
+        "label": "A",
+        "ind": 27
+    },
+    {
+        "passage": "Nincs",
+        "question": "Ha egy ember 4 km/h sebességgel evez állóvízben, és az áramlattal szemben 2 km/h sebességgel halad, akkor az ember áramlattal együtt mért sebessége:",
+        "options": [
+            "['(A)15 km/h', '(B)6 km/h', '(C)12 km/h', '(D)14 km/h', '(E)6 km/h']"
+        ],
+        "label": "E",
+        "ind": 28
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Egy háromjegyű szám számjegyeinek összege 17, és a számjegyeinek négyzetösszege 109. Ha a számból kivonunk 495-öt, olyan számot kapunk, amely az eredeti számjegyekből áll, de fordított sorrendben. Mi a szám?",
+        "options": [
+            "['(A)368', '(B)377', '(C)288', '(D)997', '(E)112']"
+        ],
+        "label": "A",
+        "ind": 29
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "X és Y két ötvözet, amelyeket cink és réz 6:9, illetve 7:11 arányú keverésével készítettek. Ha 40 gramm X ötvözetet és 60 gramm Y ötvözetet megolvasztanak és összekevernek, hogy Z ötvözetet képezzenek, mi lesz a cink és réz aránya a Z ötvözetben?",
+        "options": [
+            "(A) 69:91, (B) 59:91, (C) 59:90, (D) 59:91, (E) 69:101"
+        ],
+        "label": "B",
+        "ind": 30
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "A hírhedt bandita, Hoopsmot úgy dönt, hogy bűnöző társával, Smolaponnal együtt vásárol egy sor szenátort. Hoopsmot 16 000 dollárral járul hozzá a vesztegetési alaphoz, míg Smolapon csupán 4 000 dollárral. Összesen 30 szenátor befolyásolását teszi lehetővé számukra. Hány szenátort lehet ezek közül Hoopsmoténak tekinteni?",
+        "options": [
+            "(A)18, (B)20, (C)22, (D)24, (E)26"
+        ],
+        "label": "D",
+        "ind": 31
+    }
+]

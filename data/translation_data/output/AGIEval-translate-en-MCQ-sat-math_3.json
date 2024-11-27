@@ -1,0 +1,296 @@
+[
+    {
+        "passage": "[Háttérinformációk itt]",
+        "question": "Nate 25 métert sétál 13,7 másodperc alatt. Ha ugyanezzel a sebességgel sétál, akkor az alábbiak közül melyik van a legközelebb ahhoz a távolsághoz, amit 4 perc alatt fog megtenni?",
+        "options": [
+            "(A) 150 méter, (B) 450 méter, (C) 700 méter, (D) 1.400 méter"
+        ],
+        "label": "B",
+        "ind": 0
+    },
+    {
+        "passage": "\\begin{center}\n\\begin{tabular}{|l|c|}\n\\hline\n\\multicolumn{1}{|c|}{Bolygó} & Gravitációs gyorsulás $\\left(\\frac{\\mathrm{m}}{\\mathrm{sec}^{2}}\\right)$ \\\\\n\\hline\\hline\nMerkúr & 3.6 \\\\\n\\hline\nVénusz & 8.9 \\\\\n\\hline\nFöld & 9.8 \\\\\n\\hline\nMars & 3.8 \\\\\n\\hline\nJupiter & 26.0 \\\\\n\\hline\nSzaturnusz & 11.1 \\\\\n\\hline\nUránusz & 10.7 \\\\\n\\hline\nNeptunusz & 14.1 \\\\\n\\hline\n\\end{tabular}\n\\end{center}\nA fenti táblázat közelítő értékeket mutat a gravitációs gyorsulásra vonatkozóan, méter per másodperc négyzetben $\\left(\\frac{\\mathrm{m}}{\\sec ^{2}}\\right)$, a naprendszerünk nyolc bolygójára. Egy tárgy súlyát egy adott bolygón a $W=m g$ képlet segítségével lehet meghatározni, ahol $W$ a tárgy súlya newtonban mérve, $m$ a tárgy tömege kilogrammban mérve, és $g$ a bolygó gravitációs gyorsulása $\\frac{m}{\\sec ^{2}}$-ben mérve.",
+        "question": "Mi a súlya newtonban egy 90 kilogrammos tárgynak a Merkúron?",
+        "options": [
+            "(A) 25, (B) 86, (C) 101, (D) 324"
+        ],
+        "label": "D",
+        "ind": 1
+    },
+    {
+        "passage": "\\begin{center}\n\\begin{tabular}{|l|c|}\n\\hline\n\\multicolumn{1}{|c|}{Bolygó} & Gravitációs gyorsulás $\\left(\\frac{\\mathrm{m}}{\\mathrm{sec}^{2}}\\right)$ \\\\\n\\hline\\hline\nMerkúr & 3.6 \\\\\n\\hline\nVénusz & 8.9 \\\\\n\\hline\nFöld & 9.8 \\\\\n\\hline\nMars & 3.8 \\\\\n\\hline\nJupiter & 26.0 \\\\\n\\hline\nSzaturnusz & 11.1 \\\\\n\\hline\nUránusz & 10.7 \\\\\n\\hline\nNeptunusz & 14.1 \\\\\n\\hline\n\\end{tabular}\n\\end{center}\nA fenti táblázat a Naprendszerünk nyolc bolygójának közelítő gravitációs gyorsulását mutatja méter per másodperc négyzetre $\\left(\\frac{\\mathrm{m}}{\\sec ^{2}}\\right)$ vonatkoztatva. Egy tárgy súlya egy adott bolygón az $W=m g$ képlettel számítható ki, ahol $W$ a tárgy súlya newtonban mérve, $m$ a tárgy tömege kilogrammban mérve, és $g$ a bolygó gravitációs gyorsulása $\\frac{m}{\\sec ^{2}}$ mértékegységben.",
+        "question": "Egy tárgy súlya a Földön 150 newton. Melyik bolygón lenne a tárgy súlya körülbelül 170 newton?",
+        "options": [
+            "(A) Vénusz",
+            "(B) Szaturnusz",
+            "(C) Uránusz",
+            "(D) Neptunusz"
+        ],
+        "label": "B",
+        "ind": 2
+    },
+    {
+        "passage": "A fenti egyenlet megadja a labda magasságát, $h$ lábban, $t$ másodperccel azután, hogy egyenes vonalban felfelé dobják egy $v$ láb per másodperces kezdősebességgel egy $k$ láb magasról.",
+        "question": "Melyik kifejezés adja meg $v$-t $h$, $t$, és $k$ függvényében?",
+        "options": [
+            "(A)$v=h+k-16 t$",
+            "",
+            "(B)$v=\\\\frac{h-k+16}{t}$",
+            "",
+            "(C)$v=\\\\frac{h+k}{t}-16 t$",
+            "",
+            "(D)$v=\\\\frac{h-k}{t}+16 t$"
+        ],
+        "label": "D",
+        "ind": 3
+    },
+    {
+        "passage": "Annak meghatározása érdekében, hogy az $X$ kezelés sikeres-e a látás javításában, egy kutatási tanulmányt végeztek. Egy nagy létszámú, rossz látással rendelkező populációból véletlenszerűen kiválasztottak 300 résztvevőt. A résztvevők felét véletlenszerűen az $X$ kezelésre osztották be, míg a másik felük nem kapta meg az $X$ kezelést. Az eredmények azt mutatták, hogy azoknak a résztvevőknek, akik megkapták az $X$ kezelést, jelentősen javult a látásuk azokhoz képest, akik nem kapták meg az $X$ kezelést.",
+        "question": "A tanulmány tervezése és eredményei alapján melyik a következő állítások közül a megfelelő következtetés?",
+        "options": [
+            "(A) Az $X$ kezelés valószínűleg javítja a rossz látással rendelkező emberek látását.",
+            "(B) Az $X$ kezelés jobban javítja a látást, mint az összes többi elérhető kezelés.",
+            "(C) Az $X$ kezelés bárkinek javítani fogja a látását, aki beveszi.",
+            "(D) Az $X$ kezelés jelentős javulást okoz a látásban."
+        ],
+        "label": "A",
+        "ind": 4
+    },
+    {
+        "passage": "$$.\\begin{aligned}.& S(P)=\\frac{1}{2} P+40 \\\\.& D(P)=220-P.\\end{aligned}.$$ A termék piacra kínált mennyisége és a termék iránti kereslet mennyisége a termék árának függvénye. A fenti függvények egy bizonyos termék becsült kínálati és keresleti függvényei. Az $S(P)$ függvény azt adja meg, hogy a terméket milyen mennyiségben kínálják a piacon, amikor az ár $P$ dollár, míg a $D(P)$ függvény azt adja meg, hogy a terméket milyen mennyiségben keresik a piacon, amikor az ár $P$ dollár.",
+        "question": "Hogyan változik a piacra kínált termék mennyisége, ha a termék ára $\\$ 10$-val emelkedik?",
+        "options": [
+            "(A) A kínálat 5 egységgel csökken.",
+            "(B) A kínálat 5 egységgel növekszik.",
+            "(C) A kínálat 10 egységgel növekszik.",
+            "(D) A kínálat 50 egységgel növekszik."
+        ],
+        "label": "B",
+        "ind": 5
+    },
+    {
+        "passage": "$$.\\begin{aligned}.& S(P)=\\frac{1}{2} P+40 \\\\.& D(P)=220-P.\\end{aligned}.$$. Egy gazdasági piacon az áru kínált mennyisége és az áru keresett mennyisége az áru árának függvénye. A fenti függvények egy bizonyos termék becsült kínálati és keresleti függvényei. Az $S(P)$ függvény megadja a terméknek a piacra szállított mennyiségét, amikor az ár $P$ dollár, míg a $D(P)$ függvény megadja a terméknek a piac által keresett mennyiségét, amikor az ár $P$ dollár.",
+        "question": "Milyen áron lesz a piacra szállított termék mennyisége egyenlő a piac által keresett termék mennyiségével?",
+        "options": [
+            "['(A)$\\\\$ 90$', '(B)$\\\\$ 120$', '(C)$\\\\$ 133$', '(D)$\\\\$ 155$']"
+        ],
+        "label": "B",
+        "ind": 6
+    },
+    {
+        "passage": "$$.\\begin{aligned}.& S(P)=\\frac{1}{2} P+40 \\\\.& D(P)=220-P.\\end{aligned}.$$ Egy gazdasági piacon a termék kínálatának és keresletének mennyisége a termék árának függvénye. A fenti függvények egy adott termék becsült kínálati és keresleti függvényei. Az $S(P)$ függvény megadja a termék kínált mennyiségét a piacon, ha az ár $P$ dollár, míg a $D(P)$ függvény megadja a termék piaci keresletének mennyiségét, ha az ár $P$ dollár.",
+        "question": "A grafént, amelyet integrált áramkörök gyártásához használnak, olyan vékony, hogy egy uncia tömegű lap akár 7 futballpályát is lefedhet. Ha egy futballpálya területe körülbelül $1 \\frac{1}{3}$ hektár, akkor körülbelül hány hektárt fedhetne le 48 uncia grafén?",
+        "options": [
+            "['(A)250', '(B)350', '(C)450', '(D)1,350']"
+        ],
+        "label": "C",
+        "ind": 7
+    },
+    {
+        "passage": "[Háttérinformáció itt]",
+        "question": "A következő négy megtakarítási számlatípus közül melyik opció eredményezné a számlán lévő pénz exponenciális növekedését?",
+        "options": [
+            "['(A) Minden következő évben a kezdeti megtakarítás $2 \\\\%$-a hozzáadódik a számla értékéhez.', '(B) Minden következő évben a kezdeti megtakarítás $1.5 \\\\%$-a és $\\\\$ 100$ hozzáadódik a számla értékéhez.', '(C) Minden következő évben az aktuális érték $1 \\\\%$-a hozzáadódik a számla értékéhez.', '(D) Minden következő évben $\\\\$ 100$ hozzáadódik a számla értékéhez.']"
+        ],
+        "label": "C",
+        "ind": 8
+    },
+    {
+        "passage": "",
+        "question": "Három szám összege 855. Az egyik szám, $x$, $50\\%$-kal több, mint a másik két szám összege. Mi az $x$ értéke?",
+        "options": [
+            "['(A)570', '(B)513', '(C)214', '(D)155']"
+        ],
+        "label": "B",
+        "ind": 9
+    },
+    {
+        "passage": "Mr. Kohl-nak van egy lombikja, amely $n$ milliliter oldatot tartalmaz, amit szét kell osztania a kémia osztály diákjai között.",
+        "question": "Ha minden diáknak 3 milliliter oldatot ad, akkor 5 milliliter marad. Ahhoz, hogy minden diáknak 4 milliliter oldatot tudjon adni, további 21 milliliterre lenne szüksége. Hány diák van az osztályban?",
+        "options": [
+            "(A) 16, (B) 21, (C) 23, (D) 26"
+        ],
+        "label": "D",
+        "ind": 10
+    },
+    {
+        "passage": "",
+        "question": "Az $x y$ síkon az a pontok által meghatározott egyenes, amely áthalad az origón, a $(2, k)$ és $(k, 32)$ pontokon megy keresztül. Az alábbiak közül melyik lehet $k$ értéke?",
+        "options": [
+            "(A) 0",
+            "(B) 4",
+            "(C) 8",
+            "(D) 16"
+        ],
+        "label": "C",
+        "ind": 11
+    },
+    {
+        "passage": "A rectangle was altered by increasing its length by 10 percent and decreasing its width by $p$ percent. If these alterations decreased the area of the rectangle by 12 percent, what is the value of $p$ ?",
+        "question": "Egy téglalapot úgy módosítottak, hogy a hosszát 10 százalékkal növelték és a szélességét $p$ százalékkal csökkentették. Ha ezek a módosítások a téglalap területét 12 százalékkal csökkentették, akkor mi $p$ értéke?",
+        "options": [
+            "(A)12 ",
+            "(B)15 ",
+            "(C)20 ",
+            "(D)22"
+        ],
+        "label": "C",
+        "ind": 12
+    },
+    {
+        "passage": "Egy város infrastruktúrájának karbantartásának tervezése során egy építőmérnök azt becsüli, hogy a város népessége a jelenlegi állapottól kezdve 20 évente 10 százalékkal csökken.",
+        "question": "Ha a város jelenlegi népessége 50,000, akkor az alábbi kifejezések közül melyik képviseli az építőmérnök becslését a város népességére $t$ év múlva?",
+        "options": [
+            "(A)$50,000(0.1)^{20 t}$, (B)$50,000(0.1)^{\\\\frac{t}{20}}$, (C)$50,000(0.9)^{20 t}$, (D)$50,000(0.9)^{\\\\frac{t}{20}}$"
+        ],
+        "label": "D",
+        "ind": 13
+    },
+    {
+        "passage": "A fenti hiányos táblázat összefoglalja a balkezes és jobbkezes diákok számát nemek szerint a Keisel Középiskola nyolcadikos diákjai között. Ötször annyi jobbkezes lány van, mint balkezes lány, és kilencszer annyi jobbkezes fiú van, mint balkezes fiú. Ha összesen 18 balkezes és 122 jobbkezes diák van az iskolában, akkor a következők közül melyik van legközelebb annak a valószínűségéhez, hogy egy véletlenszerűen kiválasztott jobbkezes diák lány? (Megjegyzés: Tegyük fel, hogy a nyolcadikos diákok között nincs olyan, aki egyszerre lenne jobbkezes és balkezes.)",
+        "question": "\\begin{center}\\begin{tabular}{|l|c|c|}\\cline { 2 - 3 }\\multicolumn{1}{c|}{} & \\multicolumn{2}{c|}{Kézdominancia} \\\\\\hlineNem & Bal & Jobb \\\\\\hline\\hlineNő &  &  \\\\\\hlineFérfi &  &  \\\\\\hline\\hlineÖsszesen & 18 & 122 \\\\\\hline\\end{tabular}\\end{center}",
+        "options": [
+            "['(A)0,410', '(B)0,357', '(C)0,333', '(D)0,250']"
+        ],
+        "label": "A",
+        "ind": 14
+    },
+    {
+        "passage": "",
+        "question": "$$\\begin{aligned}& 3 x+b=5 x-7 \\\\& 3 y+c=5 y-7\\end{aligned}$$A fenti egyenletekben $b$ és $c$ konstansok. Ha $b$ $c$ mínusz $\\frac{1}{2}$, melyik állítás igaz az alábbiak közül?",
+        "options": [
+            "['(A)$x$ $y$ mínusz $\\\\frac{1}{4}$.', '(B)$x$ $y$ mínusz $\\\\frac{1}{2}$.', '(C)$x$ $y$ mínusz 1.', '(D)$x$ $y$ plusz $\\\\frac{1}{2}$.']"
+        ],
+        "label": "A",
+        "ind": 15
+    },
+    {
+        "passage": "Háttérinformáció nem áll rendelkezésre ehhez a kérdéshez.",
+        "question": "Melyek a megoldásai a $4x^{2}-8x-12=0$ másodfokú egyenletnek?",
+        "options": [
+            "(A) $x=-1$ és $x=-3$  ",
+            "(B) $x=-1$ és $x=3$  ",
+            "(C) $x=1$ és $x=-3$  ",
+            "(D) $x=1$ és $x=3$"
+        ],
+        "label": "B",
+        "ind": 16
+    },
+    {
+        "passage": "Háttérinformáció itt",
+        "question": "$$\\sqrt{k+2}-x=0$$ A fenti egyenletben $k$ egy állandó. Ha $x=9$, mi $k$ értéke?",
+        "options": [
+            "['(A)1', '(B)7', '(C)16', '(D)79']"
+        ],
+        "label": "D",
+        "ind": 17
+    },
+    {
+        "passage": "Nincs háttérinformáció megadva.",
+        "question": "Melyik az alábbiak közül ekvivalens az $a^{2}-1$ és $a+1$ kifejezések összegével?",
+        "options": [
+            "(A) $a^{2}+a$  ",
+            "(B) $a^{3}-1$  ",
+            "(C) $2a^{2}$  ",
+            "(D) $a^{3}$"
+        ],
+        "label": "A",
+        "ind": 18
+    },
+    {
+        "passage": "A levegőben a hangsebesség, \\( S \\), méter per másodpercben, a levegő hőmérsékletének, \\( T \\), lineáris függvénye Celsius-fokban, és a következőképpen adható meg: \\( S(T) = 0.6T + 331.4 \\).",
+        "question": "Melyik a következő állítások közül a legjobb értelmezése a 331.4 számnak ebben a kontextusban?",
+        "options": [
+            "(A) A hangsebesség, méter per másodpercben, \\( 0^{\\circ} \\mathrm{C} \\)-on",
+            "",
+            "(B) A hangsebesség, méter per másodpercben, \\( 0.6^{\\circ} \\mathrm{C} \\)-on",
+            "",
+            "(C) A hangsebesség növekedése, méter per másodpercben, amely \\( 1^{\\circ} \\mathrm{C} \\)-os növekedésnek felel meg",
+            "",
+            "(D) A hangsebesség növekedése, méter per másodpercben, amely \\( 0.6^{\\circ} \\mathrm{C} \\)-os növekedésnek felel meg"
+        ],
+        "label": "A",
+        "ind": 19
+    },
+    {
+        "passage": "Nincs rendelkezésre álló háttérinformáció ehhez a kérdéshez.",
+        "question": "$$\\begin{aligned}y & =x^{2} \\\\2 y+6 & =2(x+3)\\end{aligned}$$Ha $(x, y)$ a fenti egyenletrendszer megoldása és $x>0$, akkor mi az $x y$ értéke?",
+        "options": [
+            "['(A)1', '(B)2', '(C)3', '(D)9']"
+        ],
+        "label": "A",
+        "ind": 20
+    },
+    {
+        "passage": "Nincs háttérinformáció megadva.",
+        "question": "Ha \\(a^{2}+b^{2}=z\\) és \\(a b=y\\), akkor melyik az alábbiak közül ekvivalens a \\(4 z+8 y\\) kifejezéssel?",
+        "options": [
+            "(A)\\((a+2 b)^{2}\\)",
+            "",
+            "(B)\\((2 a+2 b)^{2}\\)",
+            "",
+            "(C)\\((4 a+4 b)^{2}\\)",
+            "",
+            "(D)\\((4 a+8 b)^{2}\\)"
+        ],
+        "label": "B",
+        "ind": 21
+    },
+    {
+        "passage": "<nincs háttérinformáció>",
+        "question": "Egy A jelű egyenes körhenger térfogata 22 köbcentiméter. Mekkora az egyenes körhenger térfogata köbcentiméterben, ha a sugara kétszerese, a magassága pedig fele az A hengerének?",
+        "options": [
+            "['(A)11', '(B)22', '(C)44', '(D)66']"
+        ],
+        "label": "C",
+        "ind": 22
+    },
+    {
+        "passage": "",
+        "question": "Melyik az alábbiak közül egyenértékű a $9^{\\frac{3}{4}}$ kifejezéssel?",
+        "options": [
+            "['(A)$\\\\sqrt[3]{9}$', '(B)$\\\\sqrt[4]{9}$', '(C)$\\\\sqrt{3}$', '(D)$3 \\\\sqrt{3}$']"
+        ],
+        "label": "D",
+        "ind": 23
+    },
+    {
+        "passage": "",
+        "question": "Egy étteremben $n$ csésze teát készítenek úgy, hogy $t$ teafiltert adnak forró vízhez. Ha $t=n+2$, hány további teafilter szükséges minden további csésze tea elkészítéséhez?",
+        "options": [
+            "['(A) Egy sem', '(B) Egy', '(C) Kettő', '(D) Három']"
+        ],
+        "label": "B",
+        "ind": 24
+    },
+    {
+        "passage": "[Background information here]",
+        "question": "Alan hetente átlagosan 100 mérföldet vezet. Az autója átlagosan 25 mérföldet tud megtenni gallononként benzinnel. Alan szeretné heti benzinköltségét 5 dollárral csökkenteni. Feltételezve, hogy a benzin gallononként 4 dollárba kerül, melyik egyenletet használhatja Alan annak meghatározására, hogy hány mérfölddel kevesebbet, $m$, kellene vezetnie hetente?",
+        "options": [
+            "['(A)$\\\\frac{25}{4} m=95$', '(B)$\\\\frac{25}{4} m=5$', '(C)$\\\\frac{4}{25} m=95$', '(D)$\\\\frac{4}{25} m=5$']"
+        ],
+        "label": "D",
+        "ind": 25
+    },
+    {
+        "passage": "[Háttér információ]",
+        "question": "\\begin{center}\\begin{tabular}{|c|c|}\\hline$x$ & $f(x)$ \\\\\\hline1 & 5 \\\\\\hline3 & 13 \\\\\\hline5 & 21 \\\\\\hline\\end{tabular}\\end{center}A fenti táblázat néhány értéket mutat a $f$ lineáris függvényhez. Melyik a következőek közül határozza meg $f$-et?",
+        "options": [
+            "(A)$f(x)=2 x+3$  ",
+            "(B)$f(x)=3 x+2$  ",
+            "(C)$f(x)=4 x+1$  ",
+            "(D)$f(x)=5 x$"
+        ],
+        "label": "C",
+        "ind": 26
+    },
+    {
+        "passage": "Háttér:",
+        "question": "Egy pékség jellegzetes csokoládés muffin elkészítéséhez a péknek muffinonként 2,5 uncia csokoládéra van szüksége. Hány font csokoládéra van szükség 48 jellegzetes csokoládés muffin elkészítéséhez? (1 font = 16 uncia)",
+        "options": [
+            "['(A)7,5', '(B)10', '(C)50,5', '(D)120']"
+        ],
+        "label": "A",
+        "ind": 27
+    }
+]

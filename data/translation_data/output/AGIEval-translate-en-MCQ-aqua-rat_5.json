@@ -1,0 +1,298 @@
+[
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Egy gyermekek sorában Neha a bal széltől a 12. helyen van, és Radha a jobb széltől a 6. helyen. Amikor Radha 2 hellyel balra mozdul, és Neha 2 hellyel jobbra mozdul, akkor Radha és Neha között 6 gyermek van. Hány gyermek van összesen a sorban?",
+        "options": [
+            "(A)23, (B)27, (C)26, (D)28, (E)29"
+        ],
+        "label": "D",
+        "ind": 0
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Egy 10 kg-os keverék 30% homokot és 70% agyagot tartalmaz. Mennyit kell eltávolítani a keverékből és tiszta homokkal helyettesíteni ahhoz, hogy a keverék egyenlő mennyiségben tartalmazzon agyagot és homokot?",
+        "options": [
+            "['(A)10/7', '(B)20/7', '(C)30/7', '(D)40/7', '(E)50/7']"
+        ],
+        "label": "B",
+        "ind": 1
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Egy férfi a jövedelmének 70%-át költi el. Ha a jövedelme 20%-kal növekszik, akkor mennyi lesz az új kiadása?",
+        "options": [
+            "['(A)58,3%', '(B)62,5%', '(C)63,5%', '(D)64,5%', '(E)65,5%']"
+        ],
+        "label": "A",
+        "ind": 2
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Mi a legnagyobb számú azonos csokor, amelyet össze lehet állítani 28 fehér és 98 piros tulipánból, ha nem maradhat ki egyetlen virág sem? (Két csokor akkor azonos, ha a piros tulipánok száma a két csokorban egyenlő, és a fehér tulipánok száma is egyenlő.)",
+        "options": [
+            "(A) 4, (B) 7, (C) 10, (D) 14, (E) 21"
+        ],
+        "label": "D",
+        "ind": 3
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Sharon 5 órát dolgozik, hogy elegendő borravalót keressen egy fagylalttorta megvásárlásához, míg Karen 4 órát dolgozik. Hány óra múlva tudják együtt megvásárolni a tortát?",
+        "options": [
+            "(A)1 óra, (B)2 óra, (C)3 óra, (D)4 óra, (E)5 óra"
+        ],
+        "label": "C",
+        "ind": 4
+    },
+    {
+        "passage": "Nincs háttérinformáció",
+        "question": "Ha x<0, y>0, és |x^3| > |y^2|, akkor az alábbiak közül melyiknek kell igaznak lennie?",
+        "options": [
+            "(A)x > y, (B)y^2 > x^2, (C)-x^3 < y^2, (D)–x < y, (E)x < –y"
+        ],
+        "label": "B",
+        "ind": 5
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Nyomtató A és Nyomtató B egyaránt 1⁄2 oldalt tudnak kinyomtatni másodpercenként. Mennyi ideig tart, amíg mindkét nyomtató együtt 100 oldalt nyomtat ki?",
+        "options": [
+            "(A)25 másodperc, (B)50 másodperc, (C)100 másodperc, (D)200 másodperc, (E)400 másodperc"
+        ],
+        "label": "C",
+        "ind": 6
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Két hangya a farmjaikról egymás felé mozog. Az A hangya 9 cm/óra sebességgel, a B hangya pedig 6 cm/óra sebességgel halad. Ha a farmok 75 cm távolságra vannak egymástól, mekkora lesz az a távolság (cm-ben), amit az A hangya megtesz, mire találkozik a B hangyával?",
+        "options": [
+            "(A)45, (B)48, (C)51, (D)54, (E)57"
+        ],
+        "label": "A",
+        "ind": 7
+    },
+    {
+        "passage": "Nincs",
+        "question": "Robert vagyona 1023,65 dollár. Azonban egy nyilvántartásban a vagyonának értékét úgy írták le, mint a legnagyobb pozitív páros egész számot, amely kisebb vagy egyenlő az ő vagyonának értékével, és osztható 100-zal. Mekkora a különbség a tényleges vagyon és a nyilvántartott vagyon értéke között?",
+        "options": [
+            "(A)23,65",
+            "(B)1000",
+            "(C)35,62",
+            "(D)2,65",
+            "(E)1023,65"
+        ],
+        "label": "A",
+        "ind": 8
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Egy férfi 810 rúpiát költött nadrágra, amely 70 rúpiába kerül darabonként, és ingre, amely 30 rúpiába kerül darabonként. Mi lesz a nadrágok és ingek aránya, amikor a lehető legtöbb nadrágot vásárolják meg?",
+        "options": [
+            "(A) 9 nadrágok, (B) 8 nadrágok, (C) 10 nadrágok, (D) 7 nadrágok, (E) 11 nadrágok"
+        ],
+        "label": "A",
+        "ind": 9
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Ha egy magazin 15 számának előfizetése 42,00 dollárba kerül, és ez 25 százalékos megtakarítást jelent a borítóárakhoz képest, akkor mennyi a borítóár szám szerint?",
+        "options": [
+            "(A) 7,73 USD, (B) 6,73 USD, (C) 5,73 USD, (D) 4,73 USD, (E) 3,73 USD"
+        ],
+        "label": "E",
+        "ind": 10
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Christopher és Jonathan fogadásokat kötöttek. Úgy döntenek, hogy a pénzérmét húszszor feldobják, és minden alkalommal, amikor fej lesz, Christopher 2 dollárt ad Jonathannak, és minden alkalommal, amikor írás lesz, Jonathan 3 dollárt ad Christophernek. Húsz dobás után egyikük sem nyert vagy veszített pénzt.\nHányszor lett fej az érme?",
+        "options": [
+            "['(A)10', '(B)23', '(C)16', '(D)18', '(E)12']"
+        ],
+        "label": "E",
+        "ind": 11
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Allen elindul X-ből Y felé. Ugyanakkor Bob Y-ból indul X felé. Amint Allen eléri Y-t, megfordul és visszatér X-be. Amint Bob eléri X-et, megfordul és visszatér Y-ba. Allen végig 54 km/órás sebességgel halad, míg Bob 78 km/órás sebességgel. Mire másodszor találkoznak, Bob 48 km-rel többet tesz meg, mint Allen. Mekkora a távolság X és Y között?",
+        "options": [
+            "(A) 144 km",
+            "(B) 72 km",
+            "(C) 126 km",
+            "(D) 84 km",
+            "(E) 48 km"
+        ],
+        "label": "E",
+        "ind": 12
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Egy bizonyos márkájú gumiabroncsok, amikor újak, négy évig tartanak. Egy vásárló választhat, hogy új gumiabroncsokat vásárol egyenként 180 dollárért, vagy megjavíttatja a jelenlegi gumiabroncsait egyenként 40 dollárért, ami egy évvel meghosszabbítja a jelenlegi gumiabroncsok élettartamát. Az új gumiabroncsok éves átlagos költsége hány százalékkal nagyobb, mint a jelenlegi gumiabroncsok javításának költsége?",
+        "options": [
+            "(A) 8%, (B) 10%, (C) 12,5%, (D) 16,7%, (E) 25%"
+        ],
+        "label": "C",
+        "ind": 13
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Egy 20 méter hosszú kötelet két darabra vágnak. Ha az egyik darab hossza 3 méterrel rövidebb, mint a másiké, akkor hány méter hosszú a hosszabb kötél?",
+        "options": [
+            "['(A)7.5', '(B)8.9', '(C)9.9', '(D)11.5', '(E)11.7']"
+        ],
+        "label": "D",
+        "ind": 14
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Jerry vásárolt egy 1 éves, 5000 dolláros kötvényt, amely 12%-os éves kamatot fizetett, félévente kamatos kamattal. Mennyit kamatozott ez a kötvény a lejáratkor?",
+        "options": [
+            "['(A) $5102', '(B) $618', '(C) $216', '(D) $202', '(E) $200']"
+        ],
+        "label": "B",
+        "ind": 15
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Fejtsd meg a következő szorzótáblát:\nM A D\nB E\n-------------\nM A D\nR A E\n-------------\nA M I D",
+        "options": [
+            "['(A)9 2 0 0', '(B)9 2 0 9', '(C)9 2 0 1', '(D)9 2 0 7', '(E)9 2 2 2']"
+        ],
+        "label": "D",
+        "ind": 16
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Sachin tíz évvel ezelőtt kétszer annyi idős volt, mint Ajay. Hány éves Ajay ma, ha Sachin 10 év múlva 40 éves lesz?",
+        "options": [
+            "(A)18, (B)25, (C)15, (D)20, (E)21"
+        ],
+        "label": "D",
+        "ind": 17
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Mennyibe kerül a kertészkedés egy 1 méter széles határ mentén egy téglalap alakú telek körül, amelynek kerülete 340 méter, 10 per négyzetméter áron?",
+        "options": [
+            "['(A)3400', '(B)1700', '(C)3440', '(D)Nem lehet meghatározni', '(E)Egyik sem']"
+        ],
+        "label": "C",
+        "ind": 18
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Az Ace Book Company tavalyi értékesítési bevételének 34 százaléka regények eladásából származott. A fennmaradó bevétel 1/3-a életrajzok eladásából származott. A cég regények eladásából származó bevétele hozzávetőlegesen hányszorosa az életrajzok eladásából származó bevételének?",
+        "options": [
+            "['(A) 1,3', '(B) 1,5', '(C) 2,1', '(D) 2,5', '(E) 3,1']"
+        ],
+        "label": "B",
+        "ind": 19
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Egy méh a virágok 0,05%-át kikerüli, amelyek mellett elrepül, mert érzi, hogy nincs bennük nektár. Hány virág mellett repül el a méh, hogy 8 virágot kikerüljön?",
+        "options": [
+            "['(A)2000', '(B)4000', '(C)8000', '(D)16000', '(E)32000']"
+        ],
+        "label": "D",
+        "ind": 20
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Fernando vásárolt egy egyetemi étkezési tervet, amely lehetővé teszi számára, hogy hetente összesen 3 ebédet és 3 vacsorát fogyasszon el. Ha az étkezde hétvégén zárva van, és Fernando mindig hazamegy vacsorázni péntek esténként, hány lehetősége van az étkezései elosztására?",
+        "options": [
+            "['(A)5C3*4C3', '(B)5C4*4C2', '(C)5C2*4C4', '(D)5C6*4C5', '(E)4C3*4C3']"
+        ],
+        "label": "A",
+        "ind": 21
+    },
+    {
+        "passage": "Nincs",
+        "question": "Mi kerüljön a kérdőjel (?) helyére az alábbi kérdések mindegyikében?\na2 - b2/(a + b)2 (?)=(a - b)2",
+        "options": [
+            "['(A)(a + b)(a - b)', '(B)(a - b)2', '(C)(a + b)2', '(D)a3 + b3', '(E)Egyik sem ezek közül']"
+        ],
+        "label": "A",
+        "ind": 22
+    },
+    {
+        "passage": "Nincs",
+        "question": "Egy szám annyival nagyobb 36-nál, amennyivel kisebb 86-nál. Találd meg a számot!",
+        "options": [
+            "['(A)60', '(B)56', '(C)51', '(D)61', '(E)41']"
+        ],
+        "label": "D",
+        "ind": 23
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Egy bizonyos telefongyártó ládákban szállítja a termékeit. Egy láda p raklapból áll, és minden raklap 1250 telefont tartalmaz. Ha a gyártó 4 ládát szállít, hány telefont szállítanak el?",
+        "options": [
+            "['(A)1000p', '(B)1500p', '(C)2000p', '(D)2500p', '(E)30000']"
+        ],
+        "label": "D",
+        "ind": 24
+    },
+    {
+        "passage": "None",
+        "question": "A 40 perc alatt tud egy falat megépíteni, míg B 45 perc alatt. Hány óra szükséges a fal megépítéséhez, ha mindketten együtt dolgoznak?",
+        "options": [
+            "['(A)20 perc', '(B)22 perc', '(C)23 perc', '(D)21 perc', '(E)20 perc']"
+        ],
+        "label": "D",
+        "ind": 25
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Egy expressz elektromos vonat pontosan három másodperc alatt ér be egy alagútba, amely 1 mérföld hosszú. Ha a vonat 120 mérföld/óra sebességgel halad, mennyi időbe telik, amíg teljesen áthalad az alagúton?",
+        "options": [
+            "['(A)43 másodperc', '(B)39 másodperc', '(C)20 másodperc', '(D)33 másodperc', '(E)55 másodperc']"
+        ],
+        "label": "D",
+        "ind": 26
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Egy kereskedő egy motorcsónakról szóló 20 000 dolláros számlát kap, a feltételek pedig 4/30, n/100. Mi a legmagasabb egyszerű kamatláb, amely mellett megengedheti magának, hogy pénzt kölcsönözzön a kedvezmény kihasználása érdekében?",
+        "options": [
+            "['(A)247,67', '(B)237,67', '(C)227,67', '(D)215,67', '(E)Egyik sem']"
+        ],
+        "label": "A",
+        "ind": 27
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Egy étterem asztalán tíz lime szódás üveg van. Ezeket két különböző, egyenként 5 tagból álló vásárlói csoport között kell elosztani. Hányféleképpen lehet létrehozni ezt a 2 csoportot?",
+        "options": [
+            "['(A)90', '(B)105', '(C)126', '(D)252', '(E)525']"
+        ],
+        "label": "D",
+        "ind": 28
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Egy speciális gabonakeverék rizst, búzát és kukoricát tartalmaz 2:3:5 arányban. Ha a keverék egy zsákja 3 font rizst tartalmaz, mennyi kukoricát tartalmaz?",
+        "options": [
+            "['(A)6.5', '(B)7.5', '(C)7', '(D)6', '(E)Egyik sem a fentiek közül']"
+        ],
+        "label": "B",
+        "ind": 29
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Vásárolhat egy üdítőt és két energiaszeletet 150 centért, vagy két üdítőt és három energiaszeletet 300 centért. Ha a termékek ára nem változik, számítsa ki hat üdítő és hét szelet árát centben.",
+        "options": [
+            "['(A)500', '(B)600', '(C)750', '(D)800', '(E)900']"
+        ],
+        "label": "E",
+        "ind": 30
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Egy tollgyártó cég nagyon jó minőségű író tollakat gyárt. A cég tudja, hogy átlagosan a gyártott tollak 10%-a mindig hibás, ezért a csomagolás előtt elutasítják. A cég ígéretet tesz arra, hogy 7200 tollat szállít le nagykereskedőjének, darabonként 10 rúpiáért. Azt becsüli, hogy az összes legyártott toll összprofitja 25%. Mennyibe kerül a gyártás egy tollra vetítve?",
+        "options": [
+            "(A) 6 rúpia, (B) 7,2 rúpia, (C) 5,6 rúpia, (D) 8 rúpia, (E) Egyik sem ezek közül"
+        ],
+        "label": "B",
+        "ind": 31
+    }
+]

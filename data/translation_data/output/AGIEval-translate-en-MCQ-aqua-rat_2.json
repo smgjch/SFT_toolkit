@@ -1,0 +1,306 @@
+[
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Amy rendezi a könyvespolcait, és rájön, hogy 10 különböző típusú könyve van. Ezután minden könyvet egyetlen betűvel vagy két különböző betű párosával kódol. Ha minden könyvtípust egyedileg képvisel egy betű vagy betűpáros, mi a legkisebb betűszám, amely Amynek szükséges, hogy kitalálja az összes 10 könyvtípus kódját? (Feltételezzük, hogy a betűk sorrendje egy párban nem számít.)",
+        "options": [
+            "['(A)3', '(B)4', '(C)5', '(D)10', '(E)20']"
+        ],
+        "label": "D",
+        "ind": 0
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Egy 150 négyzetméteres téglalap alakú darab hossza 1 méterrel több, mint a szélesség négyszerese. Mi a darab kerülete?",
+        "options": [
+            "['(A)60 m', '(B)61 m', '(C)62 m', '(D)63 m', '(E)64 m']"
+        ],
+        "label": "C",
+        "ind": 1
+    },
+    {
+        "passage": "None",
+        "question": "Egy gramm bizonyos egészségügyi élelmiszer 9 százalékát tartalmazza az E-vitamin és 8 százalékát az A-vitamin minimális napi szükségletének. Ha az E- és A-vitaminok más forrásból nem szerezhetők be, hány grammot kell napi szinten fogyasztani ebből az egészségügyi élelmiszerből, hogy legalább a minimális napi szükséglet biztosítva legyen mindkét vitamin esetében?",
+        "options": [
+            "(A) 8,5, (B) 10,5, (C) 12,5, (D) 14,5, (E) 16,5"
+        ],
+        "label": "C",
+        "ind": 2
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Segítőkre van szükség az előkészületekhez. Minden segítő vagy 2 nagy tortát, vagy 35 kis tortát tud készíteni óránként. A konyha 3 órán át áll rendelkezésre, és 20 nagy tortára, valamint 700 kis tortára van szükség. Hány segítőre van szükség?",
+        "options": [
+            "(A)8, (B)10, (C)12, (D)15, (E)19"
+        ],
+        "label": "B",
+        "ind": 3
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "R, S, T és U pontok egy egyenes vonalon vannak, és U az ST szakasz felezőpontja. Ha az RS, RT és ST szakaszok hossza rendre 5, 17 és 22, akkor mi az RU szakasz hossza?",
+        "options": [
+            "(A) 6, (B) 7, (C) 8, (D) 9, (E) 10"
+        ],
+        "label": "A",
+        "ind": 4
+    },
+    {
+        "passage": "Nincs",
+        "question": "Hat pita ugyanannyi falafelt tartalmaz, mint két zsemle. Három zsemle ugyanannyi falafelt tartalmaz, mint öt bagett. Hány pita kenyér tartalmaz ugyanannyi falafelt, mint két bagett?",
+        "options": [
+            "['(A)12/25', '(B)3/2', '(C)3', '(D)2', '(E)25/3']"
+        ],
+        "label": "C",
+        "ind": 5
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Egy boltos, hogy népszerűsítse új üzletét, egy napra 20% kedvezményt adott az összes termékre. Most a másik nap az eredeti áron kell eladnia a termékeket. Hány százalékkal kell megemelnie az árat, hogy visszatérjen az eredeti árhoz?",
+        "options": [
+            "['(A)21%', '(B)20%', '(C)25%', '(D)33%', '(E)18%']"
+        ],
+        "label": "C",
+        "ind": 6
+    },
+    {
+        "passage": "Nincs",
+        "question": "A buszjegy ára két személy részére az Agra és Aligarh közötti utazásra négyharmada a vonatjegy árának ugyanazon helyek között egy személy részére. A teljes viteldíj, amelyet 6 személy fizetett buszon és 8 személy vonaton az említett helyek között, összesen 1512 Rs. Mennyi a vonatjegy ára az adott helyek között egy személy részére?",
+        "options": [
+            "['(A)126', '(B)77', '(C)88', '(D)66', '(E)54']"
+        ],
+        "label": "A",
+        "ind": 7
+    },
+    {
+        "passage": "None",
+        "question": "Egy téglalap hossza 8 centiméter, szélessége pedig 3 centiméter. Határozza meg a kerületét.",
+        "options": [
+            "['(A)18cm', '(B)22cm', '(C)20cm', '(D)30cm', '(E)28cm']"
+        ],
+        "label": "B",
+        "ind": 8
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Tegyük fel, hogy az angol, hindi, matematika, történelem, földrajz és természettudományos könyveidet szeretnéd elrendezni egy polcon. Hányféleképpen teheted ezt meg?",
+        "options": [
+            "['(A)520', '(B)720', '(C)920', '(D)Egyik sem', '(E)Nem meghatározható']"
+        ],
+        "label": "B",
+        "ind": 9
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Egy egyenes kerítés x darab lécből áll, amelyek mindegyike 1/2 hüvelyk széles. Ha minden egyes lécpár között 6 hüvelyk hely van, akkor az alábbiak közül melyik fejezi ki a kerítés hosszát lábban?",
+        "options": [
+            "(A)13x/2, (B)13x/2 - 6, (C)13x/24, (D)(13x+1)/24, (E)(13x-12)/24"
+        ],
+        "label": "E",
+        "ind": 10
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Egy hajó útnak indult. Miután 180 mérföldet megtett, egy repülőgép indult el 10-szeres sebességgel a hajóhoz képest. Határozza meg a távolságot a kiindulási ponttól, amikor találkoznak.",
+        "options": [
+            "['(A)238', '(B)289', '(C)200', '(D)287', '(E)187']"
+        ],
+        "label": "C",
+        "ind": 11
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Egy nagy erdőben 2001-ben 300 szarvast fogtak be, jelöltek meg és engedtek vissza. 2002-ben véletlenszerűen 500 szarvast fogtak be, amelyek közül csak 20-nak volt az előző évről származó jelölése. Ha a jelölt szarvasok százaléka, akiket a második évben fogtak be az 500-as mintából, reprezentatív az erdő teljes szarvaspopulációjában lévő jelölt szarvasok százalékára nézve, akkor mennyi az erdő teljes szarvaspopulációja (feltételezve, hogy a populáció nagysága 2001 és 2002 között nem változott)?",
+        "options": [
+            "['(A)300', '(B)500', '(C)5000', '(D)6000', '(E)7500']"
+        ],
+        "label": "E",
+        "ind": 12
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Egy vasútállomáson két vonat közlekedik. Az egyik a kikötői vonalon, a másik a fővonalon, mindkettő 10 percenként. A fővonal szolgáltatása 5 órakor kezdődik, a kikötői vonal pedig 5:02-kor. Egy férfi minden nap elmegy az állomásra, hogy elérje az első vonatot, ami jön. Mi a valószínűsége annak, hogy a férfi elkapja az első vonatot?",
+        "options": [
+            "(A) 0,9",
+            "(B) 0,8",
+            "(C) 0,6",
+            "(D) 0,65",
+            "(E) 1,5"
+        ],
+        "label": "B",
+        "ind": 13
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Egy 10 járműből álló csoport súlyának átlaga (számtani közép) 12,2 tonna. A járműcsoport átlagos súlya 2,6 tonnával nőtt, miután egy új nehéz tehergépkocsit adtak a csoporthoz. Mennyi a nehéz tehergépkocsi súlya tonnában?",
+        "options": [
+            "(A) 40,8",
+            "(B) 41,6",
+            "(C) 42,2",
+            "(D) 43,5",
+            "(E) 44,8"
+        ],
+        "label": "A",
+        "ind": 14
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "A Boomtown várostervezői arra számítanak, hogy a város lakossága a következő két évben évente 10%-kal növekszik. Ha ez a várakozás valóra válna, akkor a két év múlva esedékes lakosság pontosan kétszerese lenne az egy évvel ezelőtti lakosságnak. Az alábbiak közül melyik áll legközelebb Boomtown lakosságának az elmúlt évben történt százalékos növekedéséhez?",
+        "options": [
+            "(A) 20%, (B) 40%, (C) 50%, (D) 65%, (E) 75%"
+        ],
+        "label": "D",
+        "ind": 15
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Arjun és Sajal barátok, mindkettőjüknek van valamennyi pénze. Ha Arjun ad $30-t Sajalnak, akkor Sajalnak kétszer annyi pénze lesz, mint amennyi Arjunnál marad. De ha Sajal ad $10-t Arjunnak, akkor Arjunnak háromszor annyi pénze lesz, mint amennyi Sajalnál marad. Mennyi pénze van mindkettőjüknek?",
+        "options": [
+            "(A)62, 35, (B)62, 34, (C)34, 62, (D)42, 62, (E)62, 42"
+        ],
+        "label": "B",
+        "ind": 16
+    },
+    {
+        "passage": "Nincs háttér-információ.",
+        "question": "Julie udvara téglalap alakú. Az udvar egyik oldala 100 láb széles. Az udvar teljes területe 3,000 négyzetláb. Mekkora az udvar másik oldalának hossza?",
+        "options": [
+            "['(A)30 láb', '(B)20 láb', '(C)10 láb', '(D)50 láb', '(E)60 láb']"
+        ],
+        "label": "A",
+        "ind": 17
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Két pozitív egész szám legnagyobb közös osztója 11. E két szám legkisebb közös többszöröse 7700. Ha az egyik szám 350, mi a másik?",
+        "options": [
+            "['(A)242', '(B)308', '(C)352', '(D)412', '(E)456']"
+        ],
+        "label": "A",
+        "ind": 18
+    },
+    {
+        "passage": "Nincs",
+        "question": "Egy négyzet alakú szövetdarabot az egyik oldalán 4 lábbal megkurtítanak, hogy téglalap alakú darabot kapjanak, amelyet átlósan félbevágnak, hogy két háromszöget hozzanak létre. Ha a háromszögek területe egyenként 70 négyzetláb, akkor hány láb volt az eredeti négyzet alakú szövetdarab kerülete?",
+        "options": [
+            "(A)56",
+            "(B)58",
+            "(C)60",
+            "(D)62",
+            "(E)64"
+        ],
+        "label": "A",
+        "ind": 19
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "A szalag eredetileg 30 cm hosszú volt. 5 : 3 arányban csökkentették. Mekkora a hossza most?",
+        "options": [
+            "['(A)18', '(B)30', '(C)6', '(D)15', '(E)12']"
+        ],
+        "label": "A",
+        "ind": 20
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "M = abc egy háromjegyű szám, és N = cba. Ha M > N és M - N + 396c = 990, akkor hány M érték nagyobb, mint 300?",
+        "options": [
+            "['(A)20', '(B)30', '(C)40', '(D)200', '(E)Egyik sem']"
+        ],
+        "label": "A",
+        "ind": 21
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Egy iskolában több mint 501 diák van, akik közül 20%-uk pontosan fizikát, 28%-uk pedig pontosan matematikát tanult. Mi lehet a legkisebb lehetséges diáklétszám az iskolában?",
+        "options": [
+            "['(A)550', '(B)570', '(C)600', '(D)700', '(E)egyik sem']"
+        ],
+        "label": "E",
+        "ind": 22
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Ha Raj harmadannyi idős volt, mint Rahim 5 évvel ezelőtt, és Raj most 17 éves, hány éves Rahim most?",
+        "options": [
+            "['(A)37', '(B)41', '(C)40', '(D)42', '(E)43']"
+        ],
+        "label": "B",
+        "ind": 23
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Egy tehén egy mező közepén van kikötve egy 14 láb hosszú kötéllel. Ha a tehén naponta 10 négyzetláb területet legel le, akkor körülbelül mennyi időbe telik a tehénnek, hogy az egész mezőt lelegelje?",
+        "options": [
+            "['(A)51 nap', '(B)61 nap', '(C)71 nap', '(D)81 nap', '(E)91 nap']"
+        ],
+        "label": "B",
+        "ind": 24
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Egy könyvet 27,50 Rs-ért adtak el 10% haszonnal. Ha 25,75 Rs-ért adták volna el, akkor mekkora lett volna a nyereség vagy veszteség százaléka?",
+        "options": [
+            "['(A)2% nyereség', '(B)3% nyereség', '(C)2% veszteség', '(D)3% veszteség', '(E)4% veszteség']"
+        ],
+        "label": "B",
+        "ind": 25
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Hányféleképpen tud egy óvónő három gyereket (Susan, Tim és Zen) elrendezni 3 azonos székbe egy egyenes vonalban úgy, hogy Susan Timtől balra üljön?",
+        "options": [
+            "['(A)7', '(B)3', '(C)2', '(D)1', '(E)6']"
+        ],
+        "label": "B",
+        "ind": 26
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Egy bizonyos intézmény telefonszámlája részben fix összegű, részben pedig a felhasznált hívások számával arányosan változik. Egy adott hónapban, amikor 540 hívást kezdeményeztek, a számla 1800 Rs volt. Egy másik hónapban 620 hívást használtak fel, akkor a számla 2040 Rs lett. Egy másik hónapban 500 egységet használtak fel a több szünnap miatt. A számla abban a hónapban ennyi lenne:",
+        "options": [
+            "(A) 1560 Rs  ",
+            "(B) 1680 Rs  ",
+            "(C) 1840 Rs  ",
+            "(D) 1950 Rs  ",
+            "(E) 1690 Rs"
+        ],
+        "label": "B",
+        "ind": 27
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Két golyó, A és B, egy körpályán forog. Az A golyó 26 perc alatt 2 teljes fordulatot tesz meg. A B golyó 35 perc alatt 5 teljes fordulatot tesz meg. Ha most indulnak el ugyanarról a pontról, mikor lesznek újra ugyanazon a kezdőponton?",
+        "options": [
+            "(A) 1 óra és 31 perc, (B) 2 óra és 31 perc, (C) 3 óra és 31 perc, (D) 4 óra és 31 perc, (E) 5 óra és 31 perc"
+        ],
+        "label": "A",
+        "ind": 28
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Egy könyvespolcon 45 könyv található, amelyek közül 30 keménykötésű és 20 szépirodalmi. Mi a maximuma azoknak a könyveknek a számának, amelyek egyszerre keménykötésűek és szépirodalmiak?",
+        "options": [
+            "(A)10, (B)15, (C)18, (D)20, (E)30"
+        ],
+        "label": "D",
+        "ind": 29
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Egy újság ára vasárnap $4, a hét többi napján pedig $1. Ha egy szálloda kétszer annyi újságot rendel vasárnap, mint a hét többi napján, és hetente $210-t fizet az újságokért, hány újságot vesz hétfőn?",
+        "options": [
+            "['(A)15', '(B)30', '(C)45', '(D)60', '(E)75']"
+        ],
+        "label": "A",
+        "ind": 30
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Néhány barát úgy döntött, hogy piknikezni megy, és 96 rúpiát terveztek költeni ételre. Négyen azonban nem jelentek meg. Ennek következtében a maradék barátoknak fejenként 4 rúpiával többet kellett hozzájárulniuk. Hányan vettek részt a pikniken?",
+        "options": [
+            "(A)8, (B)12, (C)16, (D)24, (E)25"
+        ],
+        "label": "A",
+        "ind": 31
+    }
+]

@@ -1,0 +1,353 @@
+[
+    {
+        "passage": "Egy kórusigazgató pontosan hat énekest tervez meghallgatni: Kammert, Lugót, Trillót, Waite-t, Yoshidát és Zinnt. Kammer és Lugo meghallgatását rögzítik; a másik négyet nem. A hat meghallgatásnak egymás után kell lezajlania egyetlen napon, az alábbi feltételek szerint: a negyedik meghallgatást nem lehet rögzíteni. Az ötödik meghallgatást rögzíteni kell. Waite meghallgatásának korábban kell megtörténnie, mint a két rögzített meghallgatásnak. Kammer meghallgatásának korábban kell történnie, mint Trillo meghallgatásának. Zinn meghallgatásának korábban kell történnie, mint Yoshida meghallgatásának.",
+        "question": "Melyik lehet a következő közül a hatodik meghallgatás?",
+        "options": [
+            "(A) Kammer meghallgatása",
+            "(B) Lugo meghallgatása",
+            "(C) Trillo meghallgatása",
+            "(D) Waite meghallgatása",
+            "(E) Zinn meghallgatása"
+        ],
+        "label": "C",
+        "ind": 0
+    },
+    {
+        "passage": "Egy kórusvezető pontosan hat énekes meghallgatását tervezi: Kammer, Lugo, Trillo, Waite, Yoshida és Zinn. Kammer és Lugo meghallgatását rögzíteni fogják; a másik négyét nem. A hat meghallgatás egyetlen nap alatt, egymás után történik, az alábbi feltételek szerint: A negyedik meghallgatást nem lehet rögzíteni. Az ötödik meghallgatást rögzíteni kell. Waite meghallgatásának a két rögzített meghallgatás előtt kell megtörténnie. Kammer meghallgatásának Trillo meghallgatása előtt kell történnie. Zinn meghallgatásának Yoshida meghallgatása előtt kell történnie.",
+        "question": "Ha Kammer meghallgatása közvetlenül Yoshida előtt van, melyik lehet igaz a következők közül?",
+        "options": [
+            "(A) Kammer meghallgatása a második.",
+            "(B) Trillo meghallgatása a negyedik.",
+            "(C) Waite meghallgatása a harmadik.",
+            "(D) Yoshida meghallgatása a hatodik.",
+            "(E) Zinn meghallgatása a második."
+        ],
+        "label": "E",
+        "ind": 1
+    },
+    {
+        "passage": "Egy kórusvezető pontosan hat énekest tervez meghallgatni: Kammert, Lugót, Trillót, Waite-t, Yoshidát és Zinnt. Kammer és Lugo meghallgatását rögzíteni fogják; a másik négyét nem. A hat meghallgatásnak egymás után kell megtörténnie egyetlen napon, a következő feltételek szerint: A negyedik meghallgatást nem lehet rögzíteni. Az ötödik meghallgatást rögzíteni kell. Waite meghallgatásának korábban kell lennie, mint a két rögzített meghallgatásnak. Kammer meghallgatásának korábban kell lennie, mint Trillo meghallgatásának. Zinn meghallgatásának korábban kell lennie, mint Yoshida meghallgatásának.",
+        "question": "Yoshida meghallgatása lehet",
+        "options": [
+            "['(A)ötödik', '(B)negyedik', '(C)harmadik', '(D)második', '(E)első']"
+        ],
+        "label": "B",
+        "ind": 2
+    },
+    {
+        "passage": "Egy kórusvezető pontosan hat énekes meghallgatását tervezi: Kammer, Lugo, Trillo, Waite, Yoshida és Zinn. Kammer és Lugo meghallgatását rögzíteni fogják; a másik négyét nem. A hat meghallgatásnak egymás után kell lezajlania egyetlen napon, az alábbi feltételek szerint: A negyedik meghallgatást nem lehet rögzíteni. Az ötödik meghallgatást rögzíteni kell. Waite meghallgatásának korábban kell megtörténnie, mint a két rögzített meghallgatásnak. Kammer meghallgatásának korábban kell megtörténnie, mint Trillo meghallgatásának. Zinn meghallgatásának korábban kell megtörténnie, mint Yoshida meghallgatásának.",
+        "question": "Melyik az alábbiak közül, ha Waite meghallgatásának korábban kell megtörténnie, mint a két rögzített meghallgatásnak, helyettesíti a feltételt, és ugyanazt az eredményt adja a meghallgatások sorrendjének meghatározásában?",
+        "options": [
+            "(A) Zinn meghallgatása az egyetlen, amely Waite előtt történhet.",
+            "(B) Waite meghallgatásának vagy közvetlenül Zinn előtt, vagy közvetlenül Zinn után kell történnie.",
+            "(C) Waite meghallgatásának korábban kell megtörténnie, mint Lugo meghallgatásának.",
+            "(D) Waite meghallgatásának vagy az első, vagy a második helyen kell lennie.",
+            "(E) Az első meghallgatást nem lehet rögzíteni."
+        ],
+        "label": "A",
+        "ind": 3
+    },
+    {
+        "passage": "Egy tanár öt diákot – Juanát, Kellyt, Lateefah-t, Meit és Olgát – fog hozzárendelni pontosan egy-egy kutatócsoporthoz a két közül: a zöld csapathoz és a piros csapathoz. Az egyik csoportnak két tagja lesz, a másiknak három. Mindkét csoportban egy tagot kijelölnek koordinátornak. A hozzárendelésnek meg kell felelnie a következő feltételeknek: Juana másik csapatba kerül, mint Olga. Lateefah a zöld csapathoz kerül. Kelly nem lehet koordinátor. Olga koordinátor.",
+        "question": "Melyik lehet a kutatócsoportok tagjainak és koordinátorainak pontos felsorolása?",
+        "options": [
+            "(A) zöld csapat: Juana, Lateefah, Olga (koordinátor) piros csapat: Kelly, Mei (koordinátor)",
+            "(B) zöld csapat: Kelly, Lateefah (koordinátor), Olga piros csapat: Juana, Mei (koordinátor)",
+            "(C) zöld csapat: Kelly, Lateefah, Olga (koordinátor) piros csapat: Juana (koordinátor), Mei",
+            "(D) zöld csapat: Kelly, Mei, Olga (koordinátor) piros csapat: Juana (koordinátor), Lateefah",
+            "(E) zöld csapat: Lateefah, Olga (koordinátor) piros csapat: Juana, Kelly (koordinátor), Mei"
+        ],
+        "label": "C",
+        "ind": 4
+    },
+    {
+        "passage": "Egy tanár öt diákot - Juanát, Kellyt, Lateefah-t, Meit és Olgát - fog beosztani pontosan egyik kutatócsoportba, a zöld csapatba vagy a piros csapatba. Az egyik csapatnak két tagja lesz, a másiknak három tagja. Mindkét csapatnak lesz egy kijelölt koordinátora. Az elosztásnak meg kell felelnie a következő feltételeknek: Juana másik csapatba van beosztva, mint Olga. Lateefah a zöld csapat tagja. Kelly nem koordinátor. Olga koordinátor.",
+        "question": "Melyik állítás igaz biztosan?",
+        "options": [
+            "(A) Juana a piros csapatba van beosztva.",
+            "(B) Lateefah koordinátor.",
+            "(C) Olga a zöld csapatba van beosztva.",
+            "(D) Juana és Mei nem mindketten koordinátorok.",
+            "(E) Sem Juana, sem Kelly nem koordinátor."
+        ],
+        "label": "D",
+        "ind": 5
+    },
+    {
+        "passage": "Egy tanár öt diákot – Juanát, Kellyt, Lateefah-t, Meit és Olgát – oszt be pontosan két kutatócsoportba, a zöld csapatba és a piros csapatba. Az egyik csapatnak két tagja lesz, a másiknak három. Mindkét csapatban egy tagot kijelölnek koordinátornak. A beosztásnak meg kell felelnie a következő feltételeknek: Juana másik csapatba van beosztva, mint Olga. Lateefah a zöld csapatba van beosztva. Kelly nem koordinátor. Olga koordinátor.",
+        "question": "Melyik állításnak kell hamisnak lennie az alábbiak közül?",
+        "options": [
+            "(A) Lateefah koordinátor, és ugyanabba a csapatba van beosztva, mint Kelly.",
+            "(B) Mei koordinátor, és ugyanabba a csapatba van beosztva, mint Kelly.",
+            "(C) Olga koordinátor, és ugyanabba a csapatba van beosztva, mint Mei.",
+            "(D) Lateefah koordinátor, és másik csapatba van beosztva, mint Juana.",
+            "(E) Mei koordinátor, és másik csapatba van beosztva, mint Olga."
+        ],
+        "label": "B",
+        "ind": 6
+    },
+    {
+        "passage": "Egy tanár öt diákot – Juanát, Kellyt, Lateefah-t, Mei-t és Olgát – fog beosztani pontosan két kutatócsoport egyikébe, a zöld csapatba és a piros csapatba. Az egyik csapatnak két tagja lesz, a másiknak három tagja. Mindegyik csapatban kijelölnek egy tagot facilitátornak. A beosztásnak meg kell felelnie a következő feltételeknek: Juana másik csapatba kerül, mint Olga. Lateefah a zöld csapatba kerül. Kelly nem lehet facilitátor. Olga facilitátor.",
+        "question": "Ha Lateefah facilitátor, akkor melyik lehet igaz az alábbiak közül?",
+        "options": [
+            "(A) Juana és Kelly mindketten a piros csapatba kerülnek.",
+            "(B) Juana és Mei mindketten a piros csapatba kerülnek.",
+            "(C) Lateefah és Olga mindketten a zöld csapatba kerülnek.",
+            "(D) Mei és Olga mindketten a zöld csapatba kerülnek.",
+            "(E) Mei és Olga mindketten a piros csapatba kerülnek."
+        ],
+        "label": "A",
+        "ind": 7
+    },
+    {
+        "passage": "Egy tanár öt diákot – Juanát, Kellyt, Lateefah-t, Mei-t és Olgát – oszt be pontosan két kutatócsoportba: a zöld csapatba és a piros csapatba. Az egyik csapatnak két tagja lesz, a másiknak három. Mindkét csapat egyik tagját kijelölik facilitátornak. A beosztásnak meg kell felelnie a következő feltételeknek: Juana másik csapatba van beosztva, mint Olga. Lateefah a zöld csapatba van beosztva. Kelly nem facilitátor. Olga facilitátor.",
+        "question": "Ha Mei a zöld csapatba van beosztva, akkor az alábbiak közül melyik állításnak kell igaznak lennie?",
+        "options": [
+            "(A) Juana a zöld csapatba van beosztva.",
+            "(B) Kelly a piros csapatba van beosztva.",
+            "(C) Olga a zöld csapatba van beosztva.",
+            "(D) Lateefah facilitátor.",
+            "(E) Mei facilitátor."
+        ],
+        "label": "E",
+        "ind": 8
+    },
+    {
+        "passage": "Egy szerző tervez írni egy hét fejezetből álló rejtélyregényt, 1. fejezettől a 7. fejezetig. Hét különböző nyomot — R, S, T, U, W, X és Z — pontosan egyszer kell említeni, fejezetenként egy nyomot. Az említések sorrendjére a következő korlátozások vonatkoznak: T nem szerepelhet az 1. fejezetben. T-nek W előtt kell szerepelnie, és pontosan két fejezetnek kell lennie T és W említése között. S és Z nem szerepelhet egymás melletti fejezetekben. W és X nem szerepelhet egymás melletti fejezetekben. U-t és X-et egymás melletti fejezetekben kell említeni.",
+        "question": "A következők közül melyik lehet a nyomok említésének sorrendje az első fejezettől a hetedikig?",
+        "options": [
+            "(A) S, T, Z, X, U, W, R",
+            "(B) T, X, U, W, S, R, Z",
+            "(C) U, S, X, T, Z, R, W",
+            "(D) X, U, T, Z, R, W, S",
+            "(E) Z, R, T, U, X, W, S"
+        ],
+        "label": "C",
+        "ind": 9
+    },
+    {
+        "passage": "Egy szerző egy hét fejezetből álló rejtélyregényt tervez írni, az 1. fejezettől a 7. fejezetig. Hét különböző nyomot – R, S, T, U, W, X és Z – pontosan egyszer kell megemlíteni, fejezetenként egy nyomot. A nyomok megemlítésének sorrendje a következő korlátozásoknak van alávetve: T nem szerepelhet az 1. fejezetben. T-nek W előtt kell szerepelnie, és pontosan két fejezetnek kell elválasztania T és W megemlítését. S és Z nem szerepelhetnek egymást követő fejezetekben. W és X nem szerepelhetnek egymást követő fejezetekben. U és X-nek egymást követő fejezetekben kell szerepelnie.",
+        "question": "Ha X az 1. fejezetben van megemlítve, melyik lehet a következők közül igaz?",
+        "options": [
+            "(A) R a 3. fejezetben van megemlítve.",
+            "(B) R a 7. fejezetben van megemlítve.",
+            "(C) S a 2. fejezetben van megemlítve.",
+            "(D) W az 5. fejezetben van megemlítve.",
+            "(E) Z a 3. fejezetben van megemlítve."
+        ],
+        "label": "E",
+        "ind": 10
+    },
+    {
+        "passage": "Egy szerző egy rejtélyes regény írását tervezi, amely hét fejezetből áll, 1-től 7-ig. Hét különböző nyom - R, S, T, U, W, X és Z - közül mindegyik pontosan egyszer kerül megemlítésre, fejezetenként egy nyom. A nyomok megemlítésének sorrendje a következő korlátoknak van alávetve: T nem említhető az 1. fejezetben. T-t W előtt kell megemlíteni, és pontosan két fejezetnek kell elválasztania T és W megemlítését. S és Z nem említhetők egymást követő fejezetekben. W és X nem említhetők egymást követő fejezetekben. U és X egymást követő fejezetekben kell, hogy megemlítésre kerüljenek.",
+        "question": "Ha U a 3. fejezetben kerül megemlítésre, melyik lehet igaz az alábbiak közül?",
+        "options": [
+            "(A) R az 1. fejezetben kerül megemlítésre.",
+            "(B) R az 5. fejezetben kerül megemlítésre.",
+            "(C) S a 7. fejezetben kerül megemlítésre.",
+            "(D) W a 6. fejezetben kerül megemlítésre.",
+            "(E) X a 4. fejezetben kerül megemlítésre."
+        ],
+        "label": "A",
+        "ind": 11
+    },
+    {
+        "passage": "Egy szerző egy hét fejezetből álló rejtélyes regényt tervez írni, 1. fejezettől a 7. fejezetig. Hét különböző nyomot—R, S, T, U, W, X és Z—pontosabban egyszer kell megemlíteni, fejezetenként egy nyomot. Az, hogy milyen sorrendben említik meg a nyomokat, a következő korlátozások alá esik: T nem lehet megemlítve az 1. fejezetben. T-t W előtt kell megemlíteni, és pontosan két fejezetnek kell elválasztania T megemlítését W megemlítésétől. S és Z nem lehetnek egymáshoz közeli fejezetekben megemlítve. W és X nem lehetnek egymással szomszédos fejezetekben megemlítve. U-t és X-et szomszédos fejezetekben kell megemlíteni.",
+        "question": "Ha Z a 7. fejezetben van megemlítve, az alábbiak közül melyik lehet igaz?",
+        "options": [
+            "(A) R a 3. fejezetben van megemlítve.",
+            "(B) S a 3. fejezetben van megemlítve.",
+            "(C) T a 4. fejezetben van megemlítve.",
+            "(D) U az 1. fejezetben van megemlítve.",
+            "(E) X az 5. fejezetben van megemlítve."
+        ],
+        "label": "D",
+        "ind": 12
+    },
+    {
+        "passage": "Egy szerző egy hét fejezetből álló rejtélyregényt tervez írni, 1-től 7-ig számozva. Hét különböző nyom—R, S, T, U, W, X és Z—mindegyikét pontosan egyszer kell említeni, fejezetenként egy nyomot. Az említések sorrendje az alábbi korlátozásoknak van alávetve: T nem említhető az 1. fejezetben. T-t a W előtt kell említeni, és pontosan két fejezetnek kell elválasztania T és W említését. S és Z nem említhetők egymást követő fejezetekben. W és X nem említhetők egymást követő fejezetekben. U és X egymást követő fejezetekben kell, hogy szerepeljenek.",
+        "question": "A következő lehetőségek közül melyik lehet igaz?",
+        "options": [
+            "(A) R a 7. fejezetben van említve.",
+            "(B) T az 5. fejezetben van említve.",
+            "(C) U a 7. fejezetben van említve.",
+            "(D) W a 3. fejezetben van említve.",
+            "(E) X a 6. fejezetben van említve."
+        ],
+        "label": "A",
+        "ind": 13
+    },
+    {
+        "passage": "Egy író egy hét fejezetből álló rejtélyregényt tervez írni, 1. fejezettől a 7. fejezetig. Hét különböző nyomot – R, S, T, U, W, X és Z – pontosan egyszer kell megemlíteni, fejezetenként egy nyomot. A nyomok megemlítésének sorrendje a következő korlátozásoknak van alávetve: T nem említhető az 1. fejezetben. T-t W előtt kell megemlíteni, és pontosan két fejezetnek kell elválasztania T és W megemlítését. S és Z nem említhetők egymást követő fejezetekben. W és X nem említhetők egymást követő fejezetekben. U és X egymást követő fejezetekben kell, hogy megemlítve legyenek.",
+        "question": "Melyik az alábbiak közül, ha a \"T nem említhető az 1. fejezetben\" korlátozás helyett alkalmazzuk, ugyanolyan hatással lenne a nyomok megemlítési sorrendjének meghatározására?",
+        "options": [
+            "(A)U nem említhető a 2. fejezetben.",
+            "(B)W nem említhető a 4. fejezetben.",
+            "(C)X nem említhető a 6. fejezetben.",
+            "(D)U-t egy korábbi fejezetben kell említeni, mint T-t.",
+            "(E)X-t egy korábbi fejezetben kell említeni, mint W-t."
+        ],
+        "label": "B",
+        "ind": 14
+    },
+    {
+        "passage": "Egy közelgő kiállításon négy művészeti hallgató—Franz, Greene, Hidalgo és Isaacs—mindegyike pontosan két festményt fog kiállítani—egy olajfestményt és egy akvarellt. Pontosan két festmény lesz kiállítva a kiállítóterem minden falán—az 1., 2., 3., és 4. falon—egy festmény a felső pozícióban, egy pedig az alsó pozícióban. A következő feltételek érvényesek: Egyik falon sincs csak akvarell kiállítva. Egyik falon sem csak egy hallgató munkái vannak kiállítva. Egyik falon sem található egyszerre Franz és Isaacs festménye. Greene akvarellje annak a falnak a felső pozíciójában van kiállítva, amelyen Franz olajfestménye található. Isaacs olajfestménye a 4. fal alsó pozíciójában van kiállítva.",
+        "question": "Az alábbiak közül melyik lehet pontos lista az 1-től 4-ig terjedő falak alsó pozícióiban kiállított festményekről, ebben a sorrendben felsorolva?",
+        "options": [
+            "(A) Franz olajfestménye, Franz akvarellje, Greene olajfestménye, Isaacs olajfestménye",
+            "(B) Franz olajfestménye, Hidalgo akvarellje, Isaacs akvarellje, Isaacs olajfestménye",
+            "(C) Greene olajfestménye, Franz olajfestménye, Isaacs olajfestménye, Hidalgo olajfestménye",
+            "(D) Hidalgo olajfestménye, Greene olajfestménye, Greene akvarellje, Isaacs olajfestménye",
+            "(E) Hidalgo akvarellje, Franz olajfestménye, Greene olajfestménye, Isaacs olajfestménye"
+        ],
+        "label": "C",
+        "ind": 15
+    },
+    {
+        "passage": "Egy közelgő kiállításon négy művészeti hallgató—Franz, Greene, Hidalgo és Isaacs—mindegyike pontosan két festményt állít ki—egy olajfestményt és egy akvarellt. A kiállítóterem mind a négy falán—1-es, 2-es, 3-as és 4-es fal—pontosan két festmény lesz kiállítva, egy felső és egy alsó pozícióban. A következő feltételek érvényesek: Egyetlen falon sem lehet csak akvarellek kiállítva. Egyetlen falon sem lehet csak egy diák munkája kiállítva. Egyetlen falon sem lehet egyszerre Franz és Isaacs festménye kiállítva. Greene akvarellje azon a falon van felső pozícióban kiállítva, ahol Franz olajfestménye is ki van állítva. Isaacs olajfestménye a 4-es fal alsó pozíciójában van kiállítva.",
+        "question": "Ha Isaacs akvarellje a 2-es falon van kiállítva, és Franz olajfestménye a 3-as falon, melyiket kell az 1-es falon kiállítani?",
+        "options": [
+            "(A) Franz akvarellje",
+            "(B) Greene olajfestménye",
+            "(C) Greene akvarellje",
+            "(D) Hidalgo olajfestménye",
+            "(E) Hidalgo akvarellje"
+        ],
+        "label": "A",
+        "ind": 16
+    },
+    {
+        "passage": "Egy közelgő kiállításon négy művészeti hallgató—Franz, Greene, Hidalgo és Isaacs—mindegyike pontosan két festményt állít ki—egy olajfestményt és egy akvarellt. Pontosan két festményt állítanak ki a kiállítóterem falain—1., 2., 3. és 4. fal—, az egyiket a felső pozícióban, a másikat az alsó pozícióban. A következő feltételek érvényesek: Egyik falon sem állítanak ki csak akvarelleket. Egyik falon sem állítják ki csak egy diák munkáit. Egyik falon sem állítanak ki egyszerre Franz és Isaacs festményét. Greene akvarelljét annak a falnak a felső helyén állítják ki, amelyiken Franz olajfestménye van kiállítva. Isaacs olajfestményét a 4. fal alsó helyén állítják ki.",
+        "question": "Ha Hidalgo olajfestményét a 2. falon állítják ki, melyik az alábbiak közül lehetne még kiállítva a 2. falon?",
+        "options": [
+            "(A) Franz olajfestménye",
+            "(B) Greene akvarellje",
+            "(C) Greene olajfestménye",
+            "(D) Hidalgo akvarellje",
+            "(E) Isaacs akvarellje"
+        ],
+        "label": "E",
+        "ind": 17
+    },
+    {
+        "passage": "Egy közelgő kiállításon négy művészeti hallgató – Franz, Greene, Hidalgo és Isaacs – mindegyike pontosan két festményt állít ki – egy olajfestményt és egy akvarellt. Pontosan két festményt állítanak ki a kiállítóterem mindegyik falán – 1., 2., 3. és 4. fal – egyet a felső pozícióban és egyet az alsó pozícióban. A következő feltételek vonatkoznak: Nincs olyan fal, amelyen csak akvarellek vannak kiállítva. Nincs olyan fal, amelyen csak egy diák munkái vannak kiállítva. Nincs olyan fal, amelyen mind Franz, mind Isaacs festménye megtalálható. Greene akvarellje azon a falon van a felső pozícióban, amelyen Franz olajfestménye szerepel. Isaacs olajfestménye a 4. fal alsó pozíciójában van kiállítva.",
+        "question": "Ha Greene olajfestménye ugyanazon a falon van kiállítva, mint Franz akvarellje, melyik következő állításnak kell igaznak lennie?",
+        "options": [
+            "(A) Greene olajfestménye egy felső pozícióban van kiállítva.",
+            "(B) Hidalgo akvarellje ugyanazon a falon van kiállítva, mint Isaacs akvarellje.",
+            "(C) Hidalgo olajfestménye egy felső pozícióban van kiállítva.",
+            "(D) Hidalgo olajfestménye ugyanazon a falon van kiállítva, mint Isaacs akvarellje.",
+            "(E) Isaacs akvarellje egy alsó pozícióban van kiállítva."
+        ],
+        "label": "D",
+        "ind": 18
+    },
+    {
+        "passage": "Egy közelgő kiállításon négy művészeti hallgató – Franz, Greene, Hidalgo és Isaacs – mindegyike pontosan két festményt fog bemutatni – egy olaj- és egy akvarellfestményt. Pontosan két festmény lesz kiállítva a kiállítóterem mindegyik falán – 1., 2., 3. és 4. fal –, egy festmény a felső pozícióban, és egy az alsó pozícióban. A következő feltételek érvényesek: Egy falon sincsenek csak akvarellek kiállítva. Egy falon sincs csak egy tanuló munkája kiállítva. Egy falon sincs mind Franz, mind Isaacs festménye kiállítva. Greene akvarellje annak a falnak a felső pozíciójában van kiállítva, amelyen Franz olajfestménye van. Isaacs olajfestménye a 4. fal alsó pozíciójában van kiállítva.",
+        "question": "Ha Franz olajfestménye az 1. falon van kiállítva, akkor melyik lehet igaz az alábbiak közül?",
+        "options": [
+            "(A) Franz akvarellje a 4. falon van kiállítva.",
+            "(B) Greene olajfestménye a 2. falon van kiállítva.",
+            "(C) Greene akvarellje a 2. falon van kiállítva.",
+            "(D) Hidalgo akvarellje a 3. falon van kiállítva.",
+            "(E) Isaacs olajfestménye az 1. falon van kiállítva."
+        ],
+        "label": "B",
+        "ind": 19
+    },
+    {
+        "passage": "Egy közelgő kiállításon négy művészeti hallgató – Franz, Greene, Hidalgo és Isaacs – mindegyike pontosan két festményt állít ki – egy olajfestményt és egy akvarellt. Pontosan két festmény lesz kiállítva a kiállítóterem mindegyik falán – az 1., 2., 3. és 4. falon –, egy festmény a felső helyzetben és egy az alsó helyzetben. A következő feltételek fognak érvényesülni: Egyetlen falon sincsenek csak akvarellek kiállítva. Egyetlen falon sincsenek egyetlen hallgató munkái kiállítva. Egyetlen falon sincsenek egyszerre Franz és Isaacs festményei kiállítva. Greene akvarellje azon a falon van a felső helyzetben, amelyen Franz olajfestménye van kiállítva. Isaacs olajfestménye a 4. fal alsó helyzetében van kiállítva.",
+        "question": "Melyik lehet igaz az alábbiak közül?",
+        "options": [
+            "(A) Franz mindkét festménye és Greene mindkét festménye alsó helyzetben van kiállítva.",
+            "(B) Franz mindkét festménye és Greene mindkét festménye felső helyzetben van kiállítva.",
+            "(C) Franz mindkét festménye és Hidalgo mindkét festménye felső helyzetben van kiállítva.",
+            "(D) Greene mindkét festménye és Hidalgo mindkét festménye alsó helyzetben van kiállítva.",
+            "(E) Greene mindkét festménye és Hidalgo mindkét festménye felső helyzetben van kiállítva."
+        ],
+        "label": "D",
+        "ind": 20
+    },
+    {
+        "passage": "Egy közelgő kiállításon négy művészeti hallgató – Franz, Greene, Hidalgo és Isaacs – mindegyike pontosan két festményt fog bemutatni – egy olajfestményt és egy akvarellt. Pontosan két festményt állítanak ki a kiállítóterem falain – az 1., 2., 3. és 4. falon –, egyik a felső, másik az alsó pozícióban. A következő feltételek érvényesek: Egyetlen falon sem csak akvarellek láthatók. Egyetlen falon sincs csak egy diák munkája kiállítva. Egyetlen falon sincs egyszerre Franz és Isaacs festménye kiállítva. Greene akvarellje azon a falon van a felső pozícióban, amelyen Franz olajfestménye van. Isaacs olajfestménye a 4. fal alsó pozíciójában van kiállítva.",
+        "question": "Melyik az alábbiak közül NEM lehet igaz?",
+        "options": [
+            "(A) Franz akvarellje ugyanazon a falon van kiállítva, mint Greene olajfestménye.",
+            "(B) Franz akvarellje ugyanazon a falon van kiállítva, mint Hidalgo olajfestménye.",
+            "(C) Greene olajfestménye felső pozícióban van kiállítva.",
+            "(D) Hidalgo akvarellje alsó pozícióban van kiállítva.",
+            "(E) Isaacs akvarellje ugyanazon a falon van kiállítva, mint Hidalgo olajfestménye."
+        ],
+        "label": "D",
+        "ind": 21
+    },
+    {
+        "passage": "Három ingatlancégtársaság — RealProp, Southco és Trustcorp — fontolgatja, hogy épületeket cserél egymással. Minden épületük az értékük alapján 1., 2., vagy 3. osztályba sorolható: a RealProp tulajdonában van a Garza Torony (1. osztály), a Yates Ház (3. osztály) és a Zimmer Ház (3. osztály). A Southco tulajdonában van a Flores Torony (1. osztály) és a Lynch Épület (2. osztály). A Trustcorp tulajdonában van a King Épület, a Meyer Épület és az Ortiz Épület, mind 2. osztályba tartoznak. Minden csere pontosan az alábbi három típus egyikének kell lennie: Egy épület cseréje egy másik, azonos osztályú épületre Egy 1. osztályú épület cseréje két 2. osztályú épületre Egy 2. osztályú épület cseréje két 3. osztályú épületre",
+        "question": "Melyik lehet az alábbiak közül az a felállás, amely a három cég tulajdonában áll, miután csak egy cserét hajtottak végre?",
+        "options": [
+            "(A) RealProp: a Flores Torony és a Garza Torony Southco: a Lynch Épület, a Yates Ház és a Zimmer Ház Trustcorp: a King Épület, a Meyer Épület és az Ortiz Épület",
+            "",
+            "(B) RealProp: a Garza Torony, a King Épület és az Ortiz Épület Southco: a Flores Torony és a Lynch Épület Trustcorp: a Meyer Épület, a Yates Ház és a Zimmer Ház",
+            "",
+            "(C) RealProp: a Garza Torony és a Lynch Épület Southco: a Flores Torony, a Yates Ház és a Zimmer Ház Trustcorp: a King Épület, a Meyer Épület és az Ortiz Épület",
+            "",
+            "(D) RealProp: a Garza Torony, a Meyer Épület és a Yates Ház Southco: a Flores Torony és a Lynch Épület Trustcorp: a King Épület, az Ortiz Épület és a Zimmer Ház",
+            "",
+            "(E) RealProp: a Garza Torony, a Yates Ház és a Zimmer Ház Southco: a Lynch Épület és az Ortiz Épület Trustcorp: a Flores Torony, a King Épület és a Meyer Épület"
+        ],
+        "label": "C",
+        "ind": 22
+    },
+    {
+        "passage": "Három ingatlancégtársaság—RealProp, Southco és Trustcorp—fontolgatja, hogy épületeket cserélnek egymással. Minden általuk birtokolt épület 1-es, 2-es vagy 3-as osztályba van sorolva, annak hozzávetőleges értékétől függően: a RealProp tulajdonában van a Garza Tower (1-es osztály), a Yates House (3-as osztály) és a Zimmer House (3-as osztály). A Southco tulajdonában van a Flores Tower (1-es osztály) és a Lynch Building (2-es osztály). A Trustcorp tulajdonában van a King Building, a Meyer Building és az Ortiz Building, amelyek mindegyike 2-es osztályú. Minden csere pontosan az alábbi három típus egyikének kell lennie: Egy épület cseréje egy másik, azonos osztályú épületre Egy 1-es osztályú épület cseréje két 2-es osztályú épületre Egy 2-es osztályú épület cseréje két 3-as osztályú épületre",
+        "question": "Melyik az alábbiak közül NEM lehetséges, függetlenül attól, hogy hány cserét hajtanak végre?",
+        "options": [
+            "(A) Az épületek, amelyek a RealProp tulajdonában vannak, a Flores Tower és a Garza Tower.",
+            "(B) Az épületek, amelyek a Southco tulajdonában vannak, a Flores Tower és a Meyer Building.",
+            "(C) Az épületek, amelyek a Southco tulajdonában vannak, a Garza Tower és a Lynch Building.",
+            "(D) Az épületek, amelyek a Trustcorp tulajdonában vannak, a Flores Tower és az Ortiz Building.",
+            "(E) Az épületek, amelyek a Trustcorp tulajdonában vannak, a Garza Tower és a Meyer Building."
+        ],
+        "label": "A",
+        "ind": 23
+    },
+    {
+        "passage": "Három ingatlanügynökség – RealProp, Southco és Trustcorp – fontolgatja, hogy épületeket cserélnek egymással. Minden tulajdonukban lévő épület az értékének hozzávetőleges becslése alapján az alábbi három kategória egyikébe sorolható: 1. osztály, 2. osztály vagy 3. osztály. A RealProp tulajdonában van a Garza-torony (1. osztály), a Yates-ház (3. osztály) és a Zimmer-ház (3. osztály). A Southco tulajdonában van a Flores-torony (1. osztály) és a Lynch-épület (2. osztály). A Trustcorp tulajdonában van a King-épület, a Meyer-épület és az Ortiz-épület, amelyek mind 2. osztályúak. Minden csere pontosan az alábbi három típus egyikének kell, hogy legyen: Egy épületet cserélni egy másik ugyanolyan osztályú épületre; Egy 1. osztályú épületet cserélni két 2. osztályú épületre; Egy 2. osztályú épületet cserélni két 3. osztályú épületre.",
+        "question": "Ha a RealProp csak 2. osztályú épületekkel rendelkezik néhány csere után, melyik állításnak kell igaznak lennie?",
+        "options": [
+            "(A) A Trustcorp tulajdonában van egy 1. osztályú épület.",
+            "(B) A Trustcorp tulajdonában van a Meyer-épület.",
+            "(C) A Southco tulajdonában van egy 2. osztályú épület.",
+            "(D) A Southco tulajdonában van mindkét 3. osztályú épület.",
+            "(E) A Southco tulajdonában van a Flores-torony."
+        ],
+        "label": "A",
+        "ind": 24
+    },
+    {
+        "passage": "Három ingatlanvállalat – RealProp, Southco és Trustcorp – fontolgatja, hogy épületeket cserélnek egymással. Mindegyik általuk birtokolt épület az értéke alapján az 1., 2. vagy 3. osztályba sorolható: a RealProp birtokolja a Garza Tower-t (1. osztály), a Yates House-t (3. osztály) és a Zimmer House-t (3. osztály). A Southco birtokolja a Flores Tower-t (1. osztály) és a Lynch Building-et (2. osztály). A Trustcorp birtokolja a King Building-et, a Meyer Building-et és az Ortiz Building-et, amelyek mindegyike a 2. osztályba tartozik. Minden csere pontosan az alábbi három típus egyikének kell lennie: Egy épület cseréje egy másik, azonos osztályba tartozó épületre Egy 1. osztályú épület cseréje két 2. osztályú épületre Egy 2. osztályú épület cseréje két 3. osztályú épületre",
+        "question": "Ha a Trustcorp egyetlen 2. osztályú épülettel sem rendelkezik néhány csere után, melyik állításnak kell igaznak lennie?",
+        "options": [
+            "(A) A RealProp birtokol egy 1. osztályú épületet.",
+            "(B) A Southco csak 2. osztályú épületekkel rendelkezik.",
+            "(C) A Southco legalább egy cserét végzett a Trustcorp-pal.",
+            "(D) A Trustcorp birtokolja a Garza Tower-t.",
+            "(E) A Trustcorp birtokolja a Zimmer House-t."
+        ],
+        "label": "E",
+        "ind": 25
+    },
+    {
+        "passage": "Három ingatlancég – RealProp, Southco és Trustcorp – fontolgatja, hogy épületeket cserélnek egymással. Az általuk birtokolt minden épületet 1-es, 2-es vagy 3-as osztályba sorolják, annak hozzávetőleges értékétől függően: a RealProp birtokolja a Garza Tower-t (1-es osztály), a Yates House-t (3-as osztály) és a Zimmer House-t (3-as osztály). A Southco birtokolja a Flores Tower-t (1-es osztály) és a Lynch Building-et (2-es osztály). A Trustcorp birtokolja a King Building-et, a Meyer Building-et és az Ortiz Building-et, amelyek mind 2-es osztályúak. Minden csere pontosan az alábbi három lehetőség egyike szerint történhet: Egy épület cseréje egy másik, azonos osztályba tartozó épületre. Egy 1-es osztályú épület cseréje két 2-es osztályú épületre. Egy 2-es osztályú épület cseréje két 3-as osztályú épületre.",
+        "question": "Melyik az alábbiak közül NEM lehet igaz, függetlenül attól, hány cserét hajtanak végre?",
+        "options": [
+            "(A) Az épületek, amelyeket a RealProp birtokol, a Lynch Building, a Meyer Building és az Ortiz Building.",
+            "(B) Az épületek, amelyeket a Southco birtokol, a Garza Tower és a Meyer Building.",
+            "(C) Az épületek, amelyeket a Southco birtokol, a King Building, a Meyer Building és az Ortiz Building.",
+            "(D) Az épületek, amelyeket a Trustcorp birtokol, a Flores Tower és a Yates House.",
+            "(E) Az épületek, amelyeket a Trustcorp birtokol, a Garza Tower és a Lynch Building."
+        ],
+        "label": "D",
+        "ind": 26
+    }
+]

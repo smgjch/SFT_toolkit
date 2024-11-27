@@ -1,0 +1,302 @@
+[
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "A két szám négyzetének különbsége 256000, és a számok összege 1000. A számok a következők",
+        "options": [
+            "['(A)600, 400', '(B)628, 372', '(C)640, 360', '(D)Egyik sem', '(E)Nem lehet meghatározni']"
+        ],
+        "label": "B",
+        "ind": 0
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Egy 211 font súlyú űrhajós a Földön 182 fontot nyomna a Vénuszon. Az űrhajós súlya a Vénuszon körülbelül hány százaléka lenne az űrhajós földi súlyának?",
+        "options": [
+            "['(A)50%', '(B)60%', '(C)70%', '(D)86%', '(E)90%']"
+        ],
+        "label": "D",
+        "ind": 1
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Egy ember 5 km/órás sebességgel 6 órán át, majd 4 km/órás sebességgel 12 órán át sétál. Mennyi az átlagsebessége?",
+        "options": [
+            "['(A) 4 1/3 km/h', '(B) 7 2/3 km/h', '(C) 9 ½ km/h', '(D) 8 km/h', '(E) 81 km/h']"
+        ],
+        "label": "A",
+        "ind": 2
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "[(272 - 32) (124 + 176)] / (17 x 15 - 15) = ?",
+        "options": [
+            "['(A)0', '(B)2.25', '(C)300', '(D)400', '(E)Egyik sem ezek közül']"
+        ],
+        "label": "C",
+        "ind": 3
+    },
+    {
+        "passage": "None",
+        "question": "Minden családtag havonta keres pénzt. Ha a család havi összjövedelme 9000 dollár és a medián jövedelem 3000 dollár, hány tagja van a családnak?",
+        "options": [
+            "['(A)2', '(B)3', '(C)4', '(D)5', '(E)6']"
+        ],
+        "label": "B",
+        "ind": 4
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Egy felnőtt buszjegye Ranchitól Patnáig 140 Rs, és egy gyermek buszjegye ugyanazon helyek között a felnőtt jegy felébe kerül. Mennyi a 4 felnőtt és 3 gyermek összes buszjegyének ára ugyanazon helyek között?",
+        "options": [
+            "(A)Rs. 666, (B)Rs. 670, (C)Rs. 700, (D)Rs. 570, (E)Rs. 770"
+        ],
+        "label": "E",
+        "ind": 5
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Egy szervezet úgy döntött, hogy 6 lakh Rs-t gyűjt azáltal, hogy az alkalmazottai mindegyikétől egyenlő hozzájárulást kér. Ha mindegyikük 60 Rs-sel többet adakozott volna, akkor a hozzájárulás 6,24 lakh Rs lett volna. Hány alkalmazott dolgozik ebben a szervezetben?",
+        "options": [
+            "['(A)300', '(B)200', '(C)400', '(D)100', '(E)500']"
+        ],
+        "label": "C",
+        "ind": 6
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Ha van 5000 választó, akik közül 20% nem jogosult szavazásra, és két jelölt indul a választáson. A győztes jelölt a szavazatok 15%-ával nyert. Mi a teljes szavazatszám, amit kapott?",
+        "options": [
+            "['(A)3267', '(B)2678', '(C)2797', '(D)2300', '(E)2781']"
+        ],
+        "label": "D",
+        "ind": 7
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Egy érmebúvár 20 centet kap minden réz érme felhozataláért a folyó aljáról, és 25 centet kap minden sárgaréz érme után. Ha egy merülés után 3,40 dollárt kapott, mi a minimális számú réz érme, amit felhozott?",
+        "options": [
+            "(A)4, (B)3, (C)2, (D)1, (E)0"
+        ],
+        "label": "C",
+        "ind": 8
+    },
+    {
+        "passage": "None",
+        "question": "Ram és Krishna egyszerre indulnak A-ból és B-ből, és állandó sebességgel haladnak egymás felé ugyanazon az útvonalon, Ram 20 m/s-mal, Krishna pedig 40 m/s-mal. Ram 10 másodperc múlva találkozik Krishnával a C ponton az úton. Határozza meg az A és B közötti teljes távolságot.",
+        "options": [
+            "(A)700 méter, (B)1000 méter, (C)700 kilométer, (D)555 méter, (E)600 méter"
+        ],
+        "label": "E",
+        "ind": 9
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Az 'X' autó 320 km-es távolságot tesz meg 8 óra alatt, míg az 'Y' autó 415 km-es távolságot tesz meg 5 óra alatt. Mi a két autó sebességének különbsége?",
+        "options": [
+            "['(A)42 km/óra', '(B)41 km/óra', '(C)43 km/óra', '(D)45 km/óra', '(E)Egyik sem']"
+        ],
+        "label": "C",
+        "ind": 10
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Winson otthonról az iskolájába fut átlagosan 10 mérföld/óra sebességgel, majd ugyanazon az útvonalon gyalog megy haza átlagosan 5 mérföld/óra sebességgel. Ha az egész út egy órát vett igénybe, hány mérföldre van az otthona az iskolájától?",
+        "options": [
+            "(A) 9, (B) 6, (C) 4, (D) 3, (E) 2"
+        ],
+        "label": "E",
+        "ind": 11
+    },
+    {
+        "passage": "Nincs",
+        "question": "Egy sportszerbolt csak sárga és fehér golf labdákat árusít. A nap elején 600 golf labda volt raktáron, és a nap végére a készlet 80%-át eladták. Ha a bolt ugyanannyi sárga és fehér golf labdát adott el, és ezzel minden fehér golf labdáját eladta, hány sárga golf labdával kezdte a napot a bolt?",
+        "options": [
+            "(A)80, (B)120, (C)240, (D)320, (E)360"
+        ],
+        "label": "E",
+        "ind": 12
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Egy 17,5 méter magas zászlórúd 40,25 méter hosszú árnyékot vet. Mekkora annak az épületnek a magassága, amely hasonló körülmények között 28,75 méter hosszú árnyékot vet?",
+        "options": [
+            "['(A)12 méter', '(B)12,5 méter', '(C)13,5 méter', '(D)14 méter', '(E)15 méter']"
+        ],
+        "label": "B",
+        "ind": 13
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Két autó ugyanabból a kiindulópontból indul ugyanabba az irányba, egyszerre kezdve meg az utazást. Az első autó egyenletesen 55 mérföld/órás sebességgel halad, míg a második autó 52 mérföld/órás sebességgel halad. Mennyi idő telik el, amíg az autók 15 mérföld távolságra lesznek egymástól?",
+        "options": [
+            "(A) 3 óra, (B) 5 óra, (C) 6 óra, (D) 4 óra, (E) 7 óra"
+        ],
+        "label": "B",
+        "ind": 14
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Az A és B események függetlenek. Annak a valószínűsége, hogy az A esemény bekövetkezik, 0,6, és annak a valószínűsége, hogy legalább az A vagy B események egyike bekövetkezik, 0,96. Mekkora a valószínűsége annak, hogy a B esemény bekövetkezik?",
+        "options": [
+            "(A)0,5",
+            "(B)0,6",
+            "(C)0,7",
+            "(D)0,8",
+            "(E)0,9"
+        ],
+        "label": "E",
+        "ind": 15
+    },
+    {
+        "passage": "None",
+        "question": "Mekkora a térfogatok aránya egy kocka és egy gömb között, amely belefér a kockába?",
+        "options": [
+            "['(A)2: π', '(B)7:2', '(C)8:2', '(D)6: π', '(E)8:3']"
+        ],
+        "label": "D",
+        "ind": 16
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "A falamon 8 piros nyakkendő, 13 lila nyakkendő, 10 kék nyakkendő, 5 rózsaszín nyakkendő és 4 zöld nyakkendő van. Ha elmegy az áram, és legalább két ugyanolyan színű nyakkendőt szeretnék, hány nyakkendőt kell kivennem a polcról?",
+        "options": [
+            "['(A)2', '(B)3', '(C)4', '(D)5', '(E)6']"
+        ],
+        "label": "E",
+        "ind": 17
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Számítsa ki a 25/12*5 értékét.",
+        "options": [
+            "(A) 2.5498, (B) 0.4167, (C) 3.3987, (D) 8.5497, (E) 5.6312"
+        ],
+        "label": "B",
+        "ind": 18
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "A log2 4 értéke:",
+        "options": [
+            "(A) 2",
+            "(B) 4",
+            "(C) 6",
+            "(D) 8",
+            "(E) 12"
+        ],
+        "label": "A",
+        "ind": 19
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Számítsa ki annak a kereskedőnek a százalékos nyereségét, aki 90 kg narancsot vásárolt 450 rúpiáért, és az egész tételt 7,50 rúpiáért kilogrammonként eladta.",
+        "options": [
+            "(A)50 %, (B)60 %, (C)55 %, (D)70 %, (E)58%"
+        ],
+        "label": "A",
+        "ind": 20
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Egy M vonat reggel 5 órakor indul A városból és reggel 9 órakor érkezik meg B városba. Egy másik N vonat reggel 7 órakor indul B városból és 10:30 órakor érkezik meg A városba. Mikor keresztezik egymást a két vonat?",
+        "options": [
+            "['(A)1 óra 23 perc', '(B)1 óra 15 perc', '(C)1 óra 8 perc', '(D)56 perc', '(E)55 perc']"
+        ],
+        "label": "D",
+        "ind": 21
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Janice 10 mérföld per órával kerékpározik, míg Jennie 20 mérföld per órával. Mennyi idő múlva kerékpároznak összesen 1 mérföldet?",
+        "options": [
+            "['(A)1 perc', '(B)2 perc', '(C)3 perc', '(D)4 perc', '(E)5 perc']"
+        ],
+        "label": "B",
+        "ind": 22
+    },
+    {
+        "passage": "None",
+        "question": "Egy vizsgán egy jelölt 504 pontot szerzett a maximális M pontszámból. Ha a maximális M pontszámot 800 pontra konvertálják, akkor 420 pontot szerzett volna. Mi az M értéke?",
+        "options": [
+            "['(A)278', '(B)2890', '(C)270', '(D)2702', '(E)960']"
+        ],
+        "label": "E",
+        "ind": 23
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Ha Jillnek 10 üveg üdítőt kellett vásárolnia egy olyan bulira, ahol 8 ember volt jelen, akkor hány üveg üdítőt kell vásárolnia egy olyan bulira, ahol 12 ember vesz részt?",
+        "options": [
+            "['(A)6', '(B)8', '(C)10', '(D)12', '(E)14']"
+        ],
+        "label": "C",
+        "ind": 24
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Két hangya áll egymás mellett. Az egyik hangya, amely 4 hüvelyk magas, 10 hüvelyk hosszú árnyékot vet. A másik hangya 6 hüvelyk magas. Számítsd ki, hüvelykben, hogy a magasabb hangya milyen hosszú árnyékot vet.",
+        "options": [
+            "['(A)36', '(B)28', '(C)42', '(D)15', '(E)20']"
+        ],
+        "label": "D",
+        "ind": 25
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Egy szoba magasságának és félkerületének aránya 2:5. 260 rúpiába kerül a szoba falainak tapétázása 50 cm széles, méterenként 2 rúpiás tapétával, figyelembe véve az ajtók és ablakok 15 négyzetméteres területét. Mekkora a szoba magassága?",
+        "options": [
+            "(A) 2,6 m",
+            "(B) 3,9 m",
+            "(C) 4 m",
+            "(D) 4,2 m",
+            "(E) 4,4 m"
+        ],
+        "label": "C",
+        "ind": 26
+    },
+    {
+        "passage": "Nincs háttér-információ.",
+        "question": "A k egymást követő egész szám összege 51. Ha a legkisebb egész szám -50, akkor k =",
+        "options": [
+            "['(A)40', '(B)62', '(C)82', '(D)92', '(E)102']"
+        ],
+        "label": "E",
+        "ind": 27
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Egy diákfelmérés során minden diák egy 10 dalból álló listából kiválasztotta azt a 2 dalt, amelyet a legjobban szeretett. Ha minden dalt ötször választottak ki, hány diákot kérdeztek meg?",
+        "options": [
+            "['(A)96', '(B)48', '(C)32', '(D)25', '(E)18']"
+        ],
+        "label": "D",
+        "ind": 28
+    },
+    {
+        "passage": "Nincs",
+        "question": "Ha a másodfokú egyenlet egyik gyöke x^2 + mx + 22 = 0 1,5, akkor mennyi m értéke?",
+        "options": [
+            "['(A)-23,5', '(B)-17,5', '(C)-10,5', '(D)-16,2', '(E)Nem állapítható meg']"
+        ],
+        "label": "D",
+        "ind": 29
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Egy választási gyűlésen 10 előadónak kell felszólalnia. Az egyetlen betartandó protokoll az, hogy amikor beszélnek, a miniszterelnöknek a képviselő előtt kell felszólalnia, és a képviselőnek az országgyűlési képviselő előtt. Hányféleképpen tartható meg a gyűlés?",
+        "options": [
+            "['(A)10!/3', '(B)10!/6', '(C)10!/2', '(D)10!/4', '(E)10!/5']"
+        ],
+        "label": "B",
+        "ind": 30
+    },
+    {
+        "passage": "None",
+        "question": "Anna 5 cikkel többet tud vásárolni 300 dollárért, miután minden cikk ára 15%-kal csökkent. Mi az egyes cikkek új eladási ára?",
+        "options": [
+            "['(A)$8', '(B)$10', '(C)$13.6', '(D)$22.9', '(E)$40']"
+        ],
+        "label": "C",
+        "ind": 31
+    }
+]

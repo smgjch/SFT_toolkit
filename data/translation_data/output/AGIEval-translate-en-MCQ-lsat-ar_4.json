@@ -1,0 +1,371 @@
+[
+    {
+        "passage": "Egy koncertszervező hat helyet tölt be egy jótékonysági koncerten. A helyek a legkorábbi és a legkésőbbi között vannak számozva: az egyes helytől a hatos helyig. A helyeket hat zenekar tölti be: Uneasy, Vegemite, Wellspring, Xpert, Yardsign és Zircon. Minden zenekar csak egy helyen lép fel. A sorrendnek meg kell felelnie a következő feltételeknek: Vegemite korábbi helyen lép fel, mint Zircon. Wellspring és Zircon mind korábbi helyen lép fel, mint Xpert. Uneasy az utolsó három hely egyikén lép fel. Yardsign az első három hely egyikén lép fel.",
+        "question": "Ha Zircon korábbi helyen lép fel, mint Yardsign, melyik a legkorábbi hely, ahol Wellspring felléphet?",
+        "options": [
+            "(A) kettő, (B) három, (C) négy, (D) öt, (E) hat"
+        ],
+        "label": "C",
+        "ind": 0
+    },
+    {
+        "passage": "Egy koncertszervező egy jótékonysági koncert hat helyét tölti be. A helyek, a legkorábbitól a legkésőbbiig, az egyes helytől a hatos helyig vannak számozva. A helyeket hat együttes tölti be: Uneasy, Vegemite, Wellspring, Xpert, Yardsign és Zircon. Mindegyik együttes csak egy helyen fog fellépni. A sorrendnek meg kell felelnie a következő korlátozásoknak: Vegemite korábbi helyen lép fel, mint Zircon. Wellspring és Zircon mindegyike korábbi helyen lép fel, mint Xpert. Uneasy az utolsó három hely egyikén lép fel. Yardsign az első három hely egyikén lép fel.",
+        "question": "Ha Vegemite a harmadik helyen lép fel, akkor melyik állításnak kell igaznak lennie?",
+        "options": [
+            "(A) Uneasy korábbi helyen lép fel, mint Xpert.",
+            "(B) Wellspring korábbi helyen lép fel, mint Zircon.",
+            "(C) Xpert korábbi helyen lép fel, mint Uneasy.",
+            "(D) Yardsign korábbi helyen lép fel, mint Wellspring.",
+            "(E) Zircon korábbi helyen lép fel, mint Uneasy."
+        ],
+        "label": "B",
+        "ind": 1
+    },
+    {
+        "passage": "Egy koncertszervező betölti a hat helyet egy jótékonysági koncerten. A helyek a legkorábbitól a legkésőbbiig vannak számozva, az egyes helytől a hatos helyig. A helyeket hat zenekar tölti be - Uneasy, Vegemite, Wellspring, Xpert, Yardsign és Zircon. Minden zenekar csak egy helyen lép fel. A sorrendnek meg kell felelnie a következő korlátozásoknak: Vegemite korábbi helyen lép fel, mint Zircon. Wellspring és Zircon mindegyike korábbi helyen lép fel, mint Xpert. Uneasy az utolsó három hely egyikén lép fel. Yardsign az első három hely egyikén lép fel.",
+        "question": "Ha Zircon közvetlenül Wellspring előtt lép fel, melyik az alábbiak közül szükségszerűen igaz?",
+        "options": [
+            "(A) Uneasy az ötös helyen lép fel.",
+            "(B) Vegemite az egyes helyen lép fel.",
+            "(C) Xpert az ötös helyen lép fel.",
+            "(D) Yardsign a kettes helyen lép fel.",
+            "(E) Zircon a hármas helyen lép fel."
+        ],
+        "label": "E",
+        "ind": 2
+    },
+    {
+        "passage": "Egy koncertszervező hat helyet tölt be egy jótékonysági koncerten. A helyek a legkorábbitól a legkésőbbiig vannak számozva egytől hatig. A helyeket hat zenekar tölti be: Uneasy, Vegemite, Wellspring, Xpert, Yardsign és Zircon. Mindegyik zenekar csak egy helyen fog fellépni. A sorrendnek meg kell felelnie a következő feltételeknek: a Vegemite Zircon előtt lép fel. Wellspring és Zircon mindketten előbb lépnek fel, mint Xpert. Uneasy a három utolsó hely egyikén lép fel. Yardsign az első három hely egyikén lép fel.",
+        "question": "Melyik az alábbiak közül a zenekarok teljes és pontos listája, amelyek bármelyike lehet az, amelyik az első helyen lép fel?",
+        "options": [
+            "(A) Yardsign",
+            "(B) Vegemite, Wellspring",
+            "(C) Vegemite, Yardsign",
+            "(D) Vegemite, Wellspring, Yardsign",
+            "(E) Vegemite, Wellspring, Yardsign, Zircon"
+        ],
+        "label": "D",
+        "ind": 3
+    },
+    {
+        "passage": "Egy koncertszervező hat helyet tölt be egy jótékonysági koncerten. A helyek az időrendben legkorábbitól a legkésőbbiig vannak számozva, azaz az egyes számú helytől a hatos számú helyig. A helyeket hat együttes tölti be: Uneasy, Vegemite, Wellspring, Xpert, Yardsign és Zircon. Minden együttes csak egy helyen lép fel. A sorrendnek meg kell felelnie a következő feltételeknek: Vegemite korábbi helyen lép fel, mint Zircon. Wellspring és Zircon mind korábbi helyen lépnek fel, mint Xpert. Uneasy az utolsó három hely egyikén lép fel. Yardsign az első három hely egyikén lép fel.",
+        "question": "Ha Wellspring közvetlenül Xpert előtt lép fel, akkor az alábbiak közül melyik lehet igaz?",
+        "options": [
+            "(A) Uneasy az ötös helyen lép fel.",
+            "(B) Vegemite a hármas helyen lép fel.",
+            "(C) Wellspring a hármas helyen lép fel.",
+            "(D) Zircon a kettes helyen lép fel.",
+            "(E) Zircon a négyes helyen lép fel."
+        ],
+        "label": "D",
+        "ind": 4
+    },
+    {
+        "passage": "Egy koncertszervező egy jótékonysági koncert hat helyét osztja ki. A helyek a legkorábbi időponttól a legkésőbbiig vannak számozva, az első helytől a hatodikig. A helyeket hat zenekar tölti be: Uneasy, Vegemite, Wellspring, Xpert, Yardsign és Zircon. Minden zenekar csak egy helyet foglal el. A sorrendnek meg kell felelnie a következő feltételeknek: Vegemite korábbi helyen lép fel, mint Zircon. Wellspring és Zircon mindegyike korábbi helyen lép fel, mint Xpert. Uneasy a három utolsó hely egyikén lép fel. Yardsign az első három hely egyikén lép fel.",
+        "question": "Melyik az alábbiak közül, ha helyettesíti azt a feltételt, hogy Wellspring és Zircon mindegyike korábbi helyen lép fel, mint Xpert, ugyanazt a hatást eredményezi a zenekarok fellépési sorrendjének meghatározásában?",
+        "options": [
+            "['(A) Csak Uneasy léphet fel későbbi helyen, mint Xpert.', '(B) Vegemite korábbi helyen lép fel, mint Wellspring, aki korábbi helyen lép fel, mint Zircon.', '(C) Vegemite és Wellspring mindegyike korábbi helyen lép fel, mint Xpert.', '(D) Xpert vagy közvetlenül Uneasy előtt, vagy közvetlenül utána lép fel.', '(E) Xpert az ötödik vagy a hatodik helyen lép fel.']"
+        ],
+        "label": "A",
+        "ind": 5
+    },
+    {
+        "passage": "Egy vállalati vezető alkalmazottakat választ ki egy kutatócsoportba. A csapat legalább négy alkalmazottat foglal magában a következő nyolc közül: Myers, Ortega, Paine, Schmidt, Thomson, Wong, Yoder, és Zayre. A kiválasztást a következő feltételek korlátozzák: Ha Myers a csapatban van, akkor Ortega és Paine nem lehetnek benne. Ha Schmidt a csapatban van, akkor mind Paine-nek, mind Thompsonnak is ott kell lennie. Ha Wong a csapatban van, akkor mind Myersnek, mind Yodernek is ott kell lennie.",
+        "question": "Melyik az alábbiak közül lehetséges alkalmazottak kiválasztása a csapatba?",
+        "options": [
+            "(A) Myers, Paine, Schmidt, és Thomson",
+            "(B) Ortega, Paine, Thomson, és Zayre",
+            "(C) Paine, Schmidt, Yoder, és Zayre",
+            "(D) Schmidt, Thomson, Yoder, és Zayre",
+            "(E) Thomson, Wong, Yoder, és Zayre"
+        ],
+        "label": "B",
+        "ind": 6
+    },
+    {
+        "passage": "Egy vállalati vezető alkalmazottakat választ ki egy kutatócsoporthoz. A csapatban legalább négy alkalmazottnak kell lennie a következő nyolc közül: Myers, Ortega, Paine, Schmidt, Thomson, Wong, Yoder és Zayre. A kiválasztást a következő feltételek korlátozzák: Ha Myers a csapat tagja, akkor sem Ortega, sem Paine nem lehet az. Ha Schmidt a csapat tagja, akkor mind Paine-nek, mind Thompsonnak is annak kell lennie. Ha Wong a csapat tagja, akkor mind Myersnek, mind Yodernek is annak kell lennie.",
+        "question": "Melyik az alábbiak közül az a páros, amelyik NEM lehet együtt a csapatban?",
+        "options": [
+            "(A) Myers és Thomson",
+            "(B) Ortega és Yoder",
+            "(C) Paine és Zayre",
+            "(D) Schmidt és Wong",
+            "(E) Wong és Yoder"
+        ],
+        "label": "D",
+        "ind": 7
+    },
+    {
+        "passage": "Egy vállalati menedzser alkalmazottakat választ ki egy kutatócsapatba. A csapat legalább négy alkalmazottból áll majd, mind a következő nyolc közül: Myers, Ortega, Paine, Schmidt, Thomson, Wong, Yoder és Zayre. A kiválasztás a következő feltételekkel korlátozott: Ha Myers a csapatban van, akkor sem Ortega, sem Paine nem lehet. Ha Schmidt a csapatban van, akkor mind Paine-nek, mind Thompsonnak is ott kell lennie. Ha Wong a csapatban van, akkor mind Myersnek, mind Yodernek is ott kell lennie.",
+        "question": "Ha Yoder nincs a csapatban, akkor a következők közül bármelyik lehet a csapatban, KIVÉVE:",
+        "options": [
+            "(A) Zayre",
+            "(B) Thomson",
+            "(C) Paine",
+            "(D) Ortega",
+            "(E) Myers"
+        ],
+        "label": "E",
+        "ind": 8
+    },
+    {
+        "passage": "Egy vállalati vezető alkalmazottakat választ ki egy kutatócsoporthoz. A csoportban legalább négy alkalmazott lesz, mindannyian az alábbi nyolc közül: Myers, Ortega, Paine, Schmidt, Thomson, Wong, Yoder és Zayre. A kiválasztást a következő feltételek korlátozzák: Ha Myers a csapatban van, akkor sem Ortega, sem Paine nem lehet benne. Ha Schmidt a csapatban van, akkor mind Paine, mind Thomson is benne kell legyen. Ha Wong a csapatban van, akkor mind Myers, mind Yoder is benne kell legyen.",
+        "question": "Ha Paine nincs a csapatban, akkor az alábbiak közül melyik lehet igaz?",
+        "options": [
+            "(A) Sem Myers, sem Ortega nincs a csapatban.",
+            "(B) Sem Myers, sem Thomson nincs a csapatban.",
+            "(C) Sem Myers, sem Zayre nincs a csapatban.",
+            "(D) Sem Ortega, sem Thomson nincs a csapatban.",
+            "(E) Sem Ortega, sem Yoder nincs a csapatban."
+        ],
+        "label": "D",
+        "ind": 9
+    },
+    {
+        "passage": "Egy vállalati vezető alkalmazottakat választ ki egy kutatócsapatba. A csapatnak legalább négy alkalmazottból kell állnia, akik közül az alábbi nyolc közül választanak: Myers, Ortega, Paine, Schmidt, Thomson, Wong, Yoder és Zayre. A kiválasztást a következő feltételek korlátozzák: Ha Myers a csapat tagja, akkor sem Ortega, sem Paine nem lehet az. Ha Schmidt a csapat tagja, akkor Paine-nek és Thomsonnak is jelen kell lennie. Ha Wong a csapat tagja, akkor Myersnek és Yodernek is jelen kell lennie.",
+        "question": "Melyik a következő párosok közül az, amelyik legalább egyik tagjának a csapatban kell lennie?",
+        "options": [
+            "(A) Ortega és Schmidt",
+            "(B) Ortega és Wong",
+            "(C) Paine és Schmidt",
+            "(D) Thomson és Yoder",
+            "(E) Yoder és Zayre"
+        ],
+        "label": "D",
+        "ind": 10
+    },
+    {
+        "passage": "Pontosan öt filmet vetítenek ma este a repertoár színházban: egy horrorfilmet, egy rejtélyt, egy romantikus filmet, egy sci-fi filmet és egy westernt. Mindegyik filmet pontosan egyszer vetítik le, a színház három képernyőjének egyikén: 1-es, 2-es és 3-as képernyő. Az 1-es és 2-es képernyő két filmet vetít, az egyik 19 órakor, a másik pedig 21 órakor kezdődik; a 3-as képernyő pontosan egy filmet vetít, 20 órakor. A következő feltételek érvényesek a ma esti műsorra: A western valamikor a horrorfilm előtt kezdődik. A sci-fi filmet nem a 3-as képernyőn vetítik. A romantikus filmet nem a 2-es képernyőn vetítik. A horrorfilm és a rejtély különböző képernyőkön vannak.",
+        "question": "Melyik a következő lehetőségek közül elfogadható menetrend a filmek számára ma este?",
+        "options": [
+            "(A) 1-es képernyő: romantikus film 19 órakor, horrorfilm 21 órakor. 2-es képernyő: western 19 órakor, sci-fi film 21 órakor. 3-as képernyő: rejtély 20 órakor.",
+            "(B) 1-es képernyő: rejtély 19 órakor, romantikus film 21 órakor. 2-es képernyő: horrorfilm 19 órakor, sci-fi film 21 órakor. 3-as képernyő: western 20 órakor.",
+            "(C) 1-es képernyő: western 19 órakor, sci-fi film 21 órakor. 2-es képernyő: rejtély 19 órakor, horrorfilm 21 órakor. 3-as képernyő: romantikus film 20 órakor.",
+            "(D) 1-es képernyő: romantikus film 19 órakor, rejtély 21 órakor. 2-es képernyő: western 19 órakor, horrorfilm 21 órakor. 3-as képernyő: sci-fi film 20 órakor.",
+            "(E) 1-es képernyő: western 19 órakor, rejtély 21 órakor. 2-es képernyő: sci-fi film 19 órakor, romantikus film 21 órakor. 3-as képernyő: horrorfilm 20 órakor."
+        ],
+        "label": "A",
+        "ind": 11
+    },
+    {
+        "passage": "Pontosan öt film megy ma este a repertoár színházban: egy horrorfilm, egy rejtély, egy romantikus film, egy sci-fi film és egy western. Mindegyik film pontosan egyszer kerül levetítésre, a színház három termének egyikében: 1-es, 2-es és 3-as terem. Az 1-es és a 2-es terem két filmet vetít, az egyik 19 órakor kezdődik, a másik pedig 21 órakor; a 3-as terem pontosan egy filmet vetít, 20 órakor. A mai esti időbeosztásra a következő feltételek vonatkoznak: A western valamivel a horrorfilm előtt kezdődik. A sci-fi filmet nem vetítik a 3-as teremben. A romantikus filmet nem vetítik a 2-es teremben. A horrorfilmet és a rejtélyt különböző termekben vetítik.",
+        "question": "Melyik az alábbiak közül NEM lehet pontos lista azokról a filmekről, amelyeket ma este a 2-es teremben vetítenek, a 19 órakor kezdődő filmet előre sorolva?",
+        "options": [
+            "(A) a sci-fi film, a horrorfilm",
+            "(B) a sci-fi film, a rejtély",
+            "(C) a sci-fi film, a western",
+            "(D) a western, a horrorfilm",
+            "(E) a western, a rejtély"
+        ],
+        "label": "D",
+        "ind": 12
+    },
+    {
+        "passage": "Pontosan öt film van műsoron a repertoár színházban ma este: egy horrorfilm, egy rejtély, egy romantikus film, egy sci-fi film és egy western. Minden filmet pontosan egyszer vetítenek a színház három vásznának egyikén: 1-es, 2-es és 3-as vászon. Az 1-es és 2-es vászonon két-két film van, az egyik este 7 órakor, a másik este 9 órakor kezdődik; a 3-as vásznon pontosan egy film van, este 8 órakor. A következő feltételek vonatkoznak a ma esti műsorra: A western kezdődik valamikor a horrorfilm előtt. A sci-fi filmet nem vetítik a 3-as vásznon. A romantikus filmet nem vetítik a 2-es vásznon. A horrorfilm és a rejtély különböző vásznakon vannak.",
+        "question": "Ha a western és a sci-fi filmet ugyanazon a vásznon vetítik, akkor a következők közül melyik lehet igaz a ma esti műsorban?",
+        "options": [
+            "(A) A horrorfilmet a 2-es vásznon vetítik.",
+            "(B) A rejtély este 9 órakor kezdődik.",
+            "(C) A romantikus filmet a 3-as vásznon vetítik.",
+            "(D) A sci-fi film este 7 órakor kezdődik.",
+            "(E) A western este 8 órakor kezdődik."
+        ],
+        "label": "B",
+        "ind": 13
+    },
+    {
+        "passage": "Pontosan öt filmet vetítenek ma este a repertoár színházban: egy horrorfilmet, egy rejtélyt, egy romantikus filmet, egy sci-fi filmet és egy westernt. Mindegyik filmet pontosan egyszer mutatják be, a színház három képernyőjének egyikén: 1-es, 2-es és 3-as képernyőn. Az 1-es és 2-es képernyőn két-két film fut, az egyik 19 órakor, a másik 21 órakor kezdődik; a 3-as képernyőn pontosan egy filmet mutatnak, 20 órakor. A következő feltételek vonatkoznak a mai esti beosztásra: A western korábban kezdődik, mint a horrorfilm. A sci-fi filmet nem a 3-as képernyőn mutatják. A romantikus filmet nem a 2-es képernyőn mutatják. A horrorfilm és a rejtély különböző képernyőn fut.",
+        "question": "Ha a romantikus film korábban van ütemezve, mint a western, akkor a következők közül melyiknek kell igaznak lennie a mai esti beosztásra vonatkozóan?",
+        "options": [
+            "(A) A horrorfilmet az 1-es képernyőn mutatják.",
+            "(B) A rejtély 19 órakor kezdődik.",
+            "(C) A rejtélyt a 2-es képernyőn mutatják.",
+            "(D) A sci-fi film 21 órakor kezdődik.",
+            "(E) A sci-fi filmet a 2-es képernyőn mutatják."
+        ],
+        "label": "E",
+        "ind": 14
+    },
+    {
+        "passage": "Pontosan öt film játszik ma este a repertoár színházban: egy horrorfilm, egy rejtélyfilm, egy romantikus film, egy sci-fi film és egy western. Minden filmet pontosan egyszer vetítenek le, a színház három képernyője közül az egyiken: 1-es, 2-es és 3-as képernyő. Az 1-es és a 2-es képernyőn két-két film játszik, az egyik 19 órakor kezdődik, a másik pedig 21 órakor; a 3-as képernyőn pontosan egy film játszik, 20 órakor. A következő feltételek érvényesek az esti programra: a western valamikor a horrorfilm előtt kezdődik. A sci-fi filmet nem vetítik a 3-as képernyőn. A romantikus filmet nem vetítik a 2-es képernyőn. A horrorfilm és a rejtélyfilm különböző képernyőkön játszanak.",
+        "question": "Az alábbiak közül melyik NEM lehet egy pontos lista az 1-es képernyőn ma este vetített filmekről, először a 19 órás filmet felsorolva?",
+        "options": [
+            "(A) a sci-fi film, a horrorfilm",
+            "(B) a sci-fi film, a rejtélyfilm",
+            "(C) a western, a horrorfilm",
+            "(D) a western, a rejtélyfilm",
+            "(E) a western, a sci-fi film"
+        ],
+        "label": "E",
+        "ind": 15
+    },
+    {
+        "passage": "Pontosan öt filmet vetítenek ma este a repertoár színházban: egy horrorfilmet, egy krimit, egy romantikus filmet, egy sci-fi filmet és egy westernt. Mindegyik filmet pontosan egyszer vetítik, a színház három képernyője egyikén: az 1-es, 2-es és 3-as képernyőn. Az 1-es és 2-es képernyőkön két-két film megy, egy 19 órakor kezdődik, a másik 21 órakor; a 3-as képernyőn pontosan egy filmet játszanak, 20 órakor. A következő feltételek vonatkoznak az esti programra: A western előbb kezdődik, mint a horrorfilm. A sci-fi filmet nem a 3-as képernyőn vetítik. A romantikus filmet nem a 2-es képernyőn vetítik. A horrorfilm és a krimi különböző képernyőkön mennek.",
+        "question": "Ha a sci-fi filmet és a romantikus filmet ugyanazon a képernyőn vetítik, akkor az alábbiak közül melyik igaz biztosan az esti programra?",
+        "options": [
+            "(A) A western 19 órakor kezdődik.",
+            "(B) A sci-fi film 21 órakor kezdődik.",
+            "(C) A krimi 20 órakor kezdődik.",
+            "(D) A romantikus film 21 órakor kezdődik.",
+            "(E) A horrorfilm 20 órakor kezdődik."
+        ],
+        "label": "A",
+        "ind": 16
+    },
+    {
+        "passage": "Egy természettudós öt előadást fog tartani, mindegyik különböző madárfajokról: osztrigafogók, viharmadarak, guvatok, partfutók vagy csérek. Az előadásokat vagy a Gladwyn Teremben, vagy a Howard Auditóriumban kell tartani, az alábbi feltételeknek megfelelő sorrendben: Az első előadás a Gladwyn Teremben van. A negyedik előadás a Howard Auditóriumban van. Pontosan három előadás van a Gladwyn Teremben. A partfutókról szóló előadás a Howard Auditóriumban van, és korábban van, mint az osztrigafogókról szóló előadás. A csérekről szóló előadás korábban van, mint a viharmadarakról szóló előadás, amely a Gladwyn Teremben van.",
+        "question": "Melyik a következő lehetőségek közül az elfogadható sorrend az előadások számára, az elsőtől az ötödikig?",
+        "options": [
+            "(A) osztrigafogók, viharmadarak, guvatok, partfutók, csérek  ",
+            "(B) viharmadarak, partfutók, osztrigafogók, csérek, guvatok  ",
+            "(C) guvatok, partfutók, csérek, viharmadarak, osztrigafogók  ",
+            "(D) partfutók, csérek, osztrigafogók, guvatok, viharmadarak  ",
+            "(E) csérek, viharmadarak, partfutók, osztrigafogók, guvatok"
+        ],
+        "label": "E",
+        "ind": 17
+    },
+    {
+        "passage": "Egy természetbúvár öt előadást tart, mindegyik más-más madárfajról: osztrigatörőkről, viharmadarakról, guvatokról, partfutókról vagy csérekről. Az előadásokat vagy a Gladwyn Hallban, vagy a Howard Auditorumban kell megtartani, olyan sorrendben, amely megfelel a következő feltételeknek: Az első előadás a Gladwyn Hallban van. A negyedik előadás a Howard Auditorumban van. Pontosan három előadás van a Gladwyn Hallban. A partfutókról szóló előadás a Howard Auditorumban van, és korábban van, mint az osztrigatörőkről szóló előadás. A csérekről szóló előadás korábban van, mint a viharmadarakról szóló előadás, amely a Gladwyn Hallban van.",
+        "question": "Melyik állításnak kell hamisnak lennie?",
+        "options": [
+            "(A) Az első és a második előadás is a Gladwyn Hallban van.  ",
+            "(B) A második és a harmadik előadás is a Howard Auditorumban van.  ",
+            "(C) A második és az ötödik előadás is a Gladwyn Hallban van.  ",
+            "(D) A harmadik és a negyedik előadás is a Howard Auditorumban van.  ",
+            "(E) A harmadik és az ötödik előadás is a Gladwyn Hallban van."
+        ],
+        "label": "B",
+        "ind": 18
+    },
+    {
+        "passage": "Egy természettudós öt előadást tart, mindegyik más-más madárfajról: osztrigafogók, viharmadarak, guvatok, partfutók vagy csérek. Az előadásokat Gladwyn Hallban vagy Howard Auditoriumban kell tartani, egy olyan sorrendben, amely megfelel a következő feltételeknek: Az első előadás Gladwyn Hallban van. A negyedik előadás Howard Auditoriumban van. Pontosan három előadás van Gladwyn Hallban. A partfutókról szóló előadás Howard Auditoriumban van, és korábban van, mint az osztrigafogókról szóló előadás. A csérek előadása korábban van, mint a viharmadarakról szóló előadás, amely Gladwyn Hallban van.",
+        "question": "Ha a csérek előadása Howard Auditoriumban van, akkor a harmadik előadás közül melyik lehet igaz?",
+        "options": [
+            "(A) Az osztrigafogókról szól, és Gladwyn Hallban van.",
+            "(B) A guvatokról szól, és Howard Auditoriumban van.",
+            "(C) A guvatokról szól, és Gladwyn Hallban van.",
+            "(D) A partfutókról szól, és Howard Auditoriumban van.",
+            "(E) A csérek előadásáról szól, és Howard Auditoriumban van."
+        ],
+        "label": "A",
+        "ind": 19
+    },
+    {
+        "passage": "Egy természetbúvár öt előadást fog tartani, mindegyiket egy másik madárfajról: osztrigafogók, viharmadarak, guvatok, partfutók vagy csérek. Az előadásokat vagy a Gladwyn Hallban, vagy a Howard Auditóriumban kell tartani, olyan sorrendben, amely megfelel a következő feltételeknek: Az első előadás a Gladwyn Hallban van. A negyedik előadás a Howard Auditóriumban van. Pontosan három előadás van a Gladwyn Hallban. A partfutókról szóló előadás a Howard Auditóriumban van, és korábban van, mint az osztrigafogókról szóló előadás. A csérekről szóló előadás korábban van, mint a viharmadarakról szóló előadás, amely a Gladwyn Hallban van.",
+        "question": "Mi lehet igaz az ötödik előadásról az alábbiak közül?",
+        "options": [
+            "(A) Osztrigafogókról szól, és a Gladwyn Hallban van.  ",
+            "(B) Viharmadarakról szól, és a Howard Auditóriumban van.  ",
+            "(C) Guvatokról szól, és a Howard Auditóriumban van.  ",
+            "(D) Partfutókról szól, és a Howard Auditóriumban van.  ",
+            "(E) Csérekről szól, és a Gladwyn Hallban van."
+        ],
+        "label": "A",
+        "ind": 20
+    },
+    {
+        "passage": "Egy természettudós öt előadást fog tartani, mindegyiket egy másik madártípusról: osztrigafogók, viharmadarak, guvatok, partfutók vagy csérek. Az előadásokat vagy a Gladwyn Hallban, vagy a Howard Auditóriumban kell tartani, olyan sorrendben, amely megfelel a következő feltételeknek: Az első előadás a Gladwyn Hallban van. A negyedik előadás a Howard Auditóriumban van. Pontosan három előadás van a Gladwyn Hallban. A partfutókról szóló előadás a Howard Auditóriumban van, és korábban van, mint az osztrigafogókról szóló előadás. A csérekről szóló előadás korábban van, mint a viharmadarakról szóló előadás, amely a Gladwyn Hallban van.",
+        "question": "Ha a harmadik előadás a partfutókról szól, melyik lehet igaz az alábbiak közül?",
+        "options": [
+            "(A) A második előadás az osztrigafogókról szól, és a Gladwyn Hallban van.",
+            "(B) Az ötödik előadás az osztrigafogókról szól, és a Howard Auditóriumban van.",
+            "(C) A második előadás a guvatokról szól, és a Howard Auditóriumban van.",
+            "(D) A második előadás a csérekről szól, és a Gladwyn Hallban van.",
+            "(E) A negyedik előadás a csérekről szól, és a Howard Auditóriumban van."
+        ],
+        "label": "D",
+        "ind": 21
+    },
+    {
+        "passage": "Egy koncertet egy hatfős zenekar ad – gitáros, billentyűs, ütőhangszeres, szaxofonos, trombitás, hegedűs. A koncert során minden tag pontosan egy szólót játszik. A következő korlátozások érvényesek: A gitáros nem játssza a negyedik szólót. Az ütőhangszeres valamivel a billentyűs előtt játszik szólót. A billentyűs valamivel a hegedűs után és valamivel a gitáros előtt játszik szólót. A szaxofonos valamivel az ütőhangszeres vagy a trombitás után játszik szólót, de nem mindkettő után.",
+        "question": "Melyik a következő lehetőségek közül elfogadható sorrend a szólókra az elsőtől az utolsóig?",
+        "options": [
+            "(A) hegedűs, ütőhangszeres, szaxofonos, gitáros, trombitás, billentyűs  ",
+            "(B) ütőhangszeres, hegedűs, billentyűs, trombitás, szaxofonos, gitáros  ",
+            "(C) hegedűs, trombitás, szaxofonos, ütőhangszeres, billentyűs, gitáros  ",
+            "(D) billentyűs, trombitás, hegedűs, szaxofonos, gitáros, ütőhangszeres  ",
+            "(E) gitáros, hegedűs, billentyűs, ütőhangszeres, szaxofonos, trombitás"
+        ],
+        "label": "C",
+        "ind": 22
+    },
+    {
+        "passage": "Egy koncertet egy hat tagú zenekar ad, amelynek tagjai: gitáros, billentyűs, ütős, szaxofonos, trombitás, hegedűs. A koncert során minden tag pontosan egy szólót ad elő. Az alábbi korlátozások érvényesek: A gitáros nem adja elő a negyedik szólót. Az ütős valamikor a billentyűs előtt ad elő szólót. A billentyűs valamikor a hegedűs után és valamikor a gitáros előtt ad elő szólót. A szaxofonos valamikor az ütős vagy a trombitás után ad elő szólót, de nem mindkettő után.",
+        "question": "Ha az ütős előad egy szólót valamikor a szaxofonos előtt, akkor melyik állításnak kell igaznak lennie?",
+        "options": [
+            "(A) Az ütős az első szólót adja elő.",
+            "(B) Az ütős a második szólót adja elő.",
+            "(C) A hegedűs valamikor a szaxofonos előtt ad elő szólót.",
+            "(D) Az ütős valamikor a trombitás előtt ad elő szólót.",
+            "(E) A szaxofonos valamikor a billentyűs előtt ad elő szólót."
+        ],
+        "label": "D",
+        "ind": 23
+    },
+    {
+        "passage": "Egy koncertet egy hatfős zenekar ad, amelyben van gitáros, billentyűs, ütőhangszeres, szaxofonos, trombitás és hegedűs. A koncert során minden zenekari tag pontosan egy szólót ad elő. A következő korlátozások érvényesek: A gitáros nem adja elő a negyedik szólót. Az ütőhangszeres szólót ad elő valamikor a billentyűs előtt. A billentyűs szólót ad elő valamikor a hegedűs után, de a gitáros előtt. A szaxofonos szólót ad elő valamikor azután, hogy vagy az ütőhangszeres, vagy a trombitás, de nem mindkettő ad elő.",
+        "question": "Az alábbiak közül melyik biztosan hamis, KIVÉVE:",
+        "options": [
+            "(A) A billentyűs adja elő az első szólót.",
+            "(B) A gitáros adja elő a második szólót.",
+            "(C) A gitáros ad szólót valamikor a szaxofonos előtt.",
+            "(D) A gitáros ad szólót valamikor az ütőhangszeres előtt.",
+            "(E) A billentyűs ad szólót valamikor a szaxofonos előtt."
+        ],
+        "label": "E",
+        "ind": 24
+    },
+    {
+        "passage": "Egy koncertet egy hatfős zenekar ad, amelyben van egy gitáros, billentyűs, ütőhangszeres, szaxofonos, trombitás és hegedűs. A koncert során minden tag pontosan egy szólót ad elő. Az alábbi megkötések érvényesek: A gitáros nem adja elő a negyedik szólót. Az ütőhangszeres szólót ad elő valamikor a billentyűs előtt. A billentyűs szólót ad elő valamikor a hegedűs után és valamikor a gitáros előtt. A szaxofonos szólót ad elő valamikor az ütőhangszeres vagy a trombitás után, de nem mindkettő után.",
+        "question": "Ki az, aki a következő személyek közül NEM adhatja elő a harmadik szólót?",
+        "options": [
+            "(A) gitáros",
+            "(B) billentyűs",
+            "(C) szaxofonos",
+            "(D) trombitás",
+            "(E) hegedűs"
+        ],
+        "label": "A",
+        "ind": 25
+    },
+    {
+        "passage": "Egy hat tagú zenekar ad koncertet—gitáros, billentyűs, ütős, szaxofonos, trombitás, hegedűs. A koncert során minden tag pontosan egy szólót ad elő. A következő megszorítások érvényesek: A gitáros nem adja elő a negyedik szólót. Az ütős előbb adja elő a szólót, mint a billentyűs. A billentyűs előbb adja elő a szólót, mint a gitáros, de később, mint a hegedűs. A szaxofonos előbb adja elő a szólót, mint vagy az ütős, vagy a trombitás, de nem mindkettő.",
+        "question": "Ha a hegedűs adja elő a negyedik szólót, akkor az alábbiak közül mindegyik igaz KIVÉVE:",
+        "options": [
+            "(A) Az ütős előbb adja elő a szólót, mint a hegedűs.",
+            "(B) A trombitás előbb adja elő a szólót, mint a hegedűs.",
+            "(C) A trombitás előbb adja elő a szólót, mint a gitáros.",
+            "(D) A szaxofonos előbb adja elő a szólót, mint a hegedűs.",
+            "(E) A trombitás előbb adja elő a szólót, mint a szaxofonos."
+        ],
+        "label": "E",
+        "ind": 26
+    },
+    {
+        "passage": "Négy művészettörténész—Farley, Garcia, Holden és Jiang—négy nyilvános előadássorozatot tart, mindegyik előadás más-más témáról szól—litográfiák, olajfestmények, szobrok és akvarellek. Az előadásokat egymás után tartják, és minden művészettörténész más témáról ad előadást. Az előadások menetrendje a következő feltételekhez kötött: Az olajfestményes előadásnak és az akvarelles előadásnak mind korábban kell lennie, mint a litográfiás előadás. Farley előadásának korábban kell lennie, mint az olajfestményes előadásnak. Holden előadásának mind Garcia, mind Jiang előadásánál korábban kell lennie.",
+        "question": "Melyik a következő lehetőségek közül elfogadható sorrend az előadások számára, az elsőtől a negyedikig?",
+        "options": [
+            "(A) Farley: szobrok; Holden: litográfiák; Garcia: olajfestmények; Jiang: akvarellek  ",
+            "(B) Farley: akvarellek; Jiang: olajfestmények; Holden: szobrok; Garcia: litográfiák  ",
+            "(C) Garcia: szobrok; Farley: akvarellek; Holden: olajfestmények; Jiang: litográfiák  ",
+            "(D) Holden: olajfestmények; Jiang: akvarellek; Farley: litográfiák; Garcia: szobrok  ",
+            "(E) Holden: szobrok; Farley: akvarellek; Jiang: olajfestmények; Garcia: litográfiák"
+        ],
+        "label": "E",
+        "ind": 27
+    },
+    {
+        "passage": "Négy művészettörténész—Farley, Garcia, Holden és Jiang—négy nyilvános előadást tart, mindegyik előadás más témáról szól: litográfiák, olajfestmények, szobrok és akvarellek. Az előadások egymás után következnek, és minden művészettörténész más-más témáról tart előadást. Az előadások ütemezése a következő feltételeknek van alávetve: Az olajfestményekről szóló előadásnak és az akvarellekről szóló előadásnak is korábban kell lennie, mint a litográfiákról szóló előadásnak. Farley előadásának korábbinak kell lennie, mint az olajfestményekről szóló előadásnak. Holden előadásának korábbinak kell lennie, mint Garcia és Jiang előadásának.",
+        "question": "Melyik állításnak kell igaznak lennie az alábbiak közül?",
+        "options": [
+            "(A) Farley előadása korábban van, mint a szobrokról szóló előadás.",
+            "(B) Holden előadása korábban van, mint a litográfiákról szóló előadás.",
+            "(C) A szobrokról szóló előadás korábban van, mint Garcia előadása.",
+            "(D) A szobrokról szóló előadás korábban van, mint Jiang előadása.",
+            "(E) Az akvarellekről szóló előadás korábban van, mint Garcia előadása."
+        ],
+        "label": "B",
+        "ind": 28
+    }
+]

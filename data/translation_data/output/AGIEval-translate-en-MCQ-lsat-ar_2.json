@@ -1,0 +1,367 @@
+[
+    {
+        "passage": "Egy kormánynak új nagyköveteket kell kineveznie Venezuelába, Jemenbe és Zambiába. A nagyköveti posztokra Jaramillo, Kayne, Landon, Novetzke és Ong pályáznak. Minden országba egy nagykövetet neveznek ki, és egy nagykövet sem kap posztot több országban. A nagykövetek kinevezésének meg kell felelnie a következő feltételeknek: Vagy Kayne vagy Novetzke, de nem mindketten, kapnak nagyköveti posztot. Ha Jaramillo nagyköveti posztot kap, akkor Kayne is. Ha Ongot Venezuelába nevezik ki nagykövetnek, Kayne nem lesz Jemen nagykövete. Ha Landon nagyköveti posztot kap, akkor az Zambiába szól.",
+        "question": "Melyik az alábbiak közül, ha helyettesíti azt a feltételt, hogy ha Jaramillo nagyköveti posztot kap, akkor Kayne is, ugyanolyan hatással lenne a nagykövetek kinevezésére?",
+        "options": [
+            "['(A)Ha Kayne nagyköveti posztot kap, akkor Jaramillo is.', '(B)Ha Landon és Ong is nagyköveti posztot kapnak, akkor Novetzke is.', '(C)Ha Ong nem kap nagyköveti posztot, akkor Kayne nagyköveti posztot kap.', '(D)Jaramillo és Novetzke nem kapnak mindketten nagyköveti posztot.', '(E)Novetzke és Ong nem kapnak mindketten nagyköveti posztot.']"
+        ],
+        "label": "D",
+        "ind": 0
+    },
+    {
+        "passage": "A két napos kerékpáros magazin tanulmányának első napján négy versenyző - Reynaldo, Seamus, Theresa és Yuki - mindegyike tesztelni fog egyet a négy kerékpár közül - F, G, H és J. Mindegyik versenyző a második napon egy másik kerékpárt fog tesztelni. Minden versenyző naponta csak egy kerékpárt tesztel, és mind a négy kerékpárt tesztelik minden nap. A versenyzők kerékpárokhoz rendelése a következő feltételekhez van kötve: Reynaldo nem tesztelheti az F-et. Yuki nem tesztelheti a J-t. Theresa-nak az egyik H tesztelőnek kell lennie. Az a kerékpár, amelyet Yuki az első napon tesztel, Seamus által kell, hogy tesztelve legyen a második napon.",
+        "question": "Az alábbiak közül melyik egy lehetséges versenyzők és kerékpárok hozzárendelése, ahol a versenyzők a kerékpár tesztelésének sorrendjében vannak felsorolva?",
+        "options": [
+            "(A) F: Seamus, Reynaldo; G: Yuki, Seamus; H: Theresa, Yuki; J: Reynaldo, Theresa  ",
+            "(B) F: Seamus, Yuki; G: Reynaldo, Theresa; H: Yuki, Seamus; J: Theresa, Reynaldo  ",
+            "(C) F: Yuki, Seamus; G: Seamus, Reynaldo; H: Theresa, Yuki; J: Reynaldo, Theresa  ",
+            "(D) F: Yuki, Seamus; G: Theresa, Reynaldo; H: Reynaldo, Theresa; J: Seamus, Yuki  ",
+            "(E) F: Yuki, Theresa; G: Seamus, Yuki; H: Theresa, Reynaldo; J: Reynaldo, Seamus"
+        ],
+        "label": "C",
+        "ind": 1
+    },
+    {
+        "passage": "A két napig tartó kerékpármagazin tanulmányának első napján négy kerékpáros - Reynaldo, Seamus, Theresa és Yuki - mindegyike tesztelni fog egyet a négy kerékpár közül - F, G, H és J. A második napon minden kerékpáros egy másik kerékpárt tesztel. Minden kerékpáros csak egy kerékpárt tesztel naponta, és mind a négy kerékpárt tesztelik minden nap. A kerékpárosok kerékpárokhoz rendelése a következő feltételeknek van alávetve: Reynaldo nem tesztelheti az F-et. Yuki nem tesztelheti a J-t. Theresa-nak az egyik H tesztelőnek kell lennie. Az a kerékpár, amelyet Yuki az első napon tesztel, a második napon Seamus által kell tesztelni.",
+        "question": "Ha Theresa a G-t teszteli a második napon, akkor az alábbiak közül melyiknek kell igaznak lennie?",
+        "options": [
+            "(A) Reynaldo az első napon az H-t teszteli.",
+            "(B) Reynaldo az első napon a J-t teszteli.",
+            "(C) Theresa a második napon az H-t teszteli.",
+            "(D) Theresa az első napon a J-t teszteli.",
+            "(E) Yuki a második napon az H-t teszteli."
+        ],
+        "label": "E",
+        "ind": 2
+    },
+    {
+        "passage": "Az első napon egy kétnapos vizsgálat során egy kerékpáros magazinhoz négy kerékpáros – Reynaldo, Seamus, Theresa és Yuki – mindegyike tesztel egyet a négy kerékpár közül – F, G, H és J. Ezután minden kerékpáros egy másik kerékpárt tesztel a második napon. Minden kerékpáros naponta csak egy kerékpárt tesztel, és mind a négy kerékpárt tesztelik mindkét napon. A kerékpárosok kerékpárokhoz való rendelése a következő feltételeknek van alávetve: Reynaldo nem tesztelheti az F kerékpárt. Yuki nem tesztelheti a J kerékpárt. Theresa-nak az egyik tesztelőnek kell lennie a H kerékpár esetében. A kerékpárt, amit Yuki az első napon tesztel, Seamusnak kell tesztelnie a második napon.",
+        "question": "Bármelyik alábbi igaz lehet, KIVÉVE:",
+        "options": [
+            "(A) Reynaldo az első napon a J kerékpárt teszteli.",
+            "(B) Reynaldo a második napon a J kerékpárt teszteli.",
+            "(C) Seamus az első napon a H kerékpárt teszteli.",
+            "(D) Yuki az első napon a H kerékpárt teszteli.",
+            "(E) Yuki a második napon a H kerékpárt teszteli."
+        ],
+        "label": "D",
+        "ind": 3
+    },
+    {
+        "passage": "Az első nap egy kétnapos tanulmány keretében egy kerékpáros magazin számára négy versenyző - Reynaldo, Seamus, Theresa és Yuki - mindegyike kipróbál egyet a négy kerékpár közül: F, G, H és J. Minden versenyző másik kerékpárt tesztel a második napon. Egy versenyző csak egy kerékpárt tesztel naponta, és mind a négy kerékpárt tesztelik minden nap. A versenyzők kerékpárokhoz rendelése a következő feltételekhez van kötve: Reynaldo nem tesztelheti az F-et. Yuki nem tesztelheti a J-t. Theresának az egyik tesztelőnek kell lennie a H-hoz. A kerékpárt, amit Yuki az első napon tesztel, Seamusnak kell tesztelnie a második napon.",
+        "question": "Melyik az alábbiak közül NEM lehet igaz?",
+        "options": [
+            "(A) Reynaldo a második napon az G-t teszteli.",
+            "(B) Seamus az első napon az F-et teszteli.",
+            "(C) Theresa a második napon az F-et teszteli.",
+            "(D) Reynaldo az első napon az H-t teszteli.",
+            "(E) Yuki a második napon az F-et teszteli."
+        ],
+        "label": "C",
+        "ind": 4
+    },
+    {
+        "passage": "Az első napon egy kétnapos tanulmány során egy kerékpáros magazin számára négy kerékpáros—Reynaldo, Seamus, Theresa és Yuki—mindegyike tesztel egyet a négy kerékpár közül—F, G, H és J. Mindegyik kerékpáros ezután egy másik kerékpárt tesztel a második napon. Minden kerékpáros csak egy kerékpárt tesztel naponta, és mind a négy kerékpárt tesztelik minden nap. A kerékpárosok kerékpárokhoz való hozzárendelése a következő feltételeknek van alávetve: Reynaldo nem tesztelheti F-et. Yuki nem tesztelheti J-t. Theresának az egyik tesztelőnek kell lennie H-hoz. A kerékpárt, amelyet Yuki az első napon tesztel, Seamusnak kell tesztelnie a második napon.",
+        "question": "Ha Theresa az első napon J-t teszteli, akkor az alábbiak közül melyik lehet igaz?",
+        "options": [
+            "(A) Reynaldo teszteli G-t a második napon.",
+            "(B) Seamus teszteli H-t az első napon.",
+            "(C) Yuki teszteli H-t a második napon.",
+            "(D) Seamus az egyik tesztelő J-hez.",
+            "(E) Theresa az egyik tesztelő G-hez."
+        ],
+        "label": "B",
+        "ind": 5
+    },
+    {
+        "passage": "Az első napon egy két napos tanulmány keretében egy kerékpáros magazin számára négy kerékpáros—Reynaldo, Seamus, Theresa és Yuki—mindegyike tesztel négy kerékpár közül egyet—F, G, H és J. Mindegyik kerékpáros a második napon egy másik kerékpárt tesztel. Minden kerékpáros naponta csak egy kerékpárt tesztel, és mind a négy kerékpárt tesztelik minden nap. A kerékpárosok kerékpárokhoz rendelése a következő feltételeknek van alávetve: Reynaldo nem tesztelheti az F-et. Yuki nem tesztelheti a J-t. Theresa az egyik tesztelője kell, hogy legyen a H-nak. Az a kerékpár, amit Yuki az első napon tesztel, Seamusnak kell, hogy tesztelje a második napon.",
+        "question": "Melyik NEM lehet igaz az alábbiak közül?",
+        "options": [
+            "(A) Mind Reynaldo, mind Seamus teszteli a J-t.",
+            "(B) Mind Reynaldo, mind Theresa teszteli a J-t.",
+            "(C) Mind Reynaldo, mind Yuki teszteli a G-t.",
+            "(D) Mind Seamus, mind Theresa teszteli a G-t.",
+            "(E) Mind Theresa, mind Yuki teszteli az F-et."
+        ],
+        "label": "D",
+        "ind": 6
+    },
+    {
+        "passage": "Pontosan nyolc könyvet – F, G, H, I, K, L, M, O – helyeznek el egy könyvespolcra, amelyen pontosan három polc van: a felső polc, a középső polc és az alsó polc. Minden polcon legalább két könyv van elhelyezve. A következő feltételek érvényesek: Több könyvet helyeznek el az alsó polcra, mint a felső polcra. I a középső polcra kerül. K egy magasabb polcra kerül, mint F. O egy magasabb polcra kerül, mint L. F ugyanarra a polcra kerül, mint M.",
+        "question": "Melyik lehet az alábbiak közül egy teljes és pontos lista az alsó polcon elhelyezett könyvekről?",
+        "options": [
+            "['(A)F, M', '(B)F, H, M', '(C)G, H, K', '(D)F, G, M, O', '(E)G, H, L, M']"
+        ],
+        "label": "B",
+        "ind": 7
+    },
+    {
+        "passage": "Pontosan nyolc könyv—F, G, H, I, K, L, M, O—van elhelyezve egy könyvespolcon, amely pontosan három polcból áll—felső polc, középső polc és alsó polc. Legalább két könyv van elhelyezve minden polcon. A következő feltételeknek kell érvényesülniük: Több könyv van elhelyezve az alsó polcon, mint a felső polcon. I a középső polcra van helyezve. K magasabb polcra van helyezve, mint F. O magasabb polcra van helyezve, mint L. F ugyanarra a polcra van helyezve, mint M.",
+        "question": "Teljesen meghatározott, hogy melyik polcra kerül mindegyik könyv, ha az alábbiak közül melyik igaz?",
+        "options": [
+            "(A) I és M ugyanarra a polcra vannak helyezve.",
+            "(B) K és G ugyanarra a polcra vannak helyezve.",
+            "(C) L és F ugyanarra a polcra vannak helyezve.",
+            "(D) M és H ugyanarra a polcra vannak helyezve.",
+            "(E) H és O ugyanarra a polcra vannak helyezve."
+        ],
+        "label": "A",
+        "ind": 8
+    },
+    {
+        "passage": "Pontosan nyolc könyv - F, G, H, I, K, L, M, O - van elhelyezve egy könyvespolcon, amelyen pontosan három polc található - a felső, a középső és az alsó polc. Legalább két könyv van elhelyezve minden egyes polcon. A következő feltételeknek kell megfelelniük: Az alsó polcra több könyv van elhelyezve, mint a felső polcra. I a középső polcra van elhelyezve. K a F-nél magasabb polcra van elhelyezve. O a L-nél magasabb polcra van elhelyezve. F és M ugyanarra a polcra van elhelyezve.",
+        "question": "Melyik állításnak kell igaznak lennie?",
+        "options": [
+            "(A) O egy magasabb polcra van elhelyezve, mint amelyiken M van.",
+            "(B) K egy magasabb polcra van elhelyezve, mint amelyiken G van.",
+            "(C) I egy magasabb polcra van elhelyezve, mint amelyiken F van.",
+            "(D) G egy magasabb polcra van elhelyezve, mint amelyiken O van.",
+            "(E) F egy magasabb polcra van elhelyezve, mint amelyiken L van."
+        ],
+        "label": "A",
+        "ind": 9
+    },
+    {
+        "passage": "Pontosan nyolc könyv—F, G, H, I, K, L, M, O—van elhelyezve egy könyvespolcon, amelyen pontosan három polc van: a felső polc, a középső polc és az alsó polc. Legalább két könyv van elhelyezve mindegyik polcon. A következő feltételeknek kell megfelelni: Több könyv van elhelyezve az alsó polcon, mint a felső polcon. I a középső polcra van helyezve. K magasabb polcra van helyezve, mint F. O magasabb polcra van helyezve, mint L. F ugyanazon a polcon van elhelyezve, mint M.",
+        "question": "Ha G a felső polcra van helyezve, akkor az alábbiak közül melyik lehet a középső polcra helyezett könyvek teljes és pontos listája?",
+        "options": [
+            "(A) H, I",
+            "(B) I, L",
+            "(C) H, I, L",
+            "(D) I, K, L",
+            "(E) F, I, M"
+        ],
+        "label": "D",
+        "ind": 10
+    },
+    {
+        "passage": "Pontosan nyolc könyvet – F, G, H, I, K, L, M, O – helyeztek el egy könyvespolcon, amelyen pontosan három polc van: a felső polc, a középső polc és az alsó polc. Mindegyik polcra legalább két könyvet helyeznek. A következő feltételeknek kell teljesülniük: Több könyvet helyeznek az alsó polcra, mint a felső polcra. I-t a középső polcra helyezik. K-t magasabb polcra helyezik, mint F-et. O-t magasabb polcra helyezik, mint L-t. F-et ugyanarra a polcra helyezik, mint M-et.",
+        "question": "Ha L-t magasabb polcra helyezik, mint H-t, akkor az alábbiak közül melyiknek kell igaznak lennie?",
+        "options": [
+            "(A) F és G ugyanarra a polcra kerülnek.",
+            "(B) G és H ugyanarra a polcra kerülnek.",
+            "(C) H és M ugyanarra a polcra kerülnek.",
+            "(D) I és G ugyanarra a polcra kerülnek.",
+            "(E) K és O ugyanarra a polcra kerülnek."
+        ],
+        "label": "C",
+        "ind": 11
+    },
+    {
+        "passage": "Egy kémiaóra hat laborfoglalkozást tart három nap alatt - szerdán, csütörtökön és pénteken -, minden reggel és délután egy-egy foglalkozást. Minden foglalkozást más laborasszisztens vezet - Julio, Kevin, Lan, Nessa, Olivia vagy Rebecca. A laborasszisztensek foglalkozásokhoz való hozzárendelése a következő korlátozásokkal történik: Kevinnek és Rebeccának ugyanazon a napon kell foglalkozást vezetnie. Lan és Olivia nem vezethetnek foglalkozásokat ugyanazon a napon. Nessa-nak délutáni foglalkozást kell vezetnie. Julio foglalkozásának a hét egy korábbi napján kell lennie, mint Olivia-é.",
+        "question": "Az alábbiak közül melyik lehet helyes hozzárendelése a laborasszisztenseknek a reggeli és délutáni foglalkozásokhoz, sorrendben, a három napon?",
+        "options": [
+            "(A) Szerda: Rebecca, Kevin Csütörtök: Julio, Lan Péntek: Nessa, Olivia",
+            "(B) Szerda: Olivia, Nessa Csütörtök: Julio, Lan Péntek: Kevin, Rebecca",
+            "(C) Szerda: Lan, Kevin Csütörtök: Rebecca, Julio Péntek: Olivia, Nessa",
+            "(D) Szerda: Kevin, Rebecca Csütörtök: Julio, Nessa Péntek: Olivia, Lan",
+            "(E) Szerda: Julio, Lan Csütörtök: Olivia, Nessa Péntek: Rebecca, Kevin"
+        ],
+        "label": "E",
+        "ind": 12
+    },
+    {
+        "passage": "Egy kémia órának hat laboratóriumi ülése van beütemezve három napon keresztül — szerdán, csütörtökön és pénteken —, minden reggel és délután egy-egy üléssel. Minden egyes ülést egy másik laborasszisztens vezet — Julio, Kevin, Lan, Nessa, Olivia vagy Rebecca. A laborasszisztensek ülésekhez való hozzárendelése a következő korlátokkal rendelkezik: Kevinnek és Rebeccának ugyanazon a napon kell ülést vezetnie. Lan és Olivia nem vezethetnek ülést ugyanazon a napon. Nessa egy délutáni ülést kell, hogy vezessen. Julio ülése a hét korábbi napján kell, hogy legyen, mint Oliviaé.",
+        "question": "Ha Lan nem vezet szerdai ülést, akkor a következő laborasszisztensek közül kinek kell csütörtöki ülést vezetnie?",
+        "options": [
+            "(A) Rebecca",
+            "(B) Olivia",
+            "(C) Nessa",
+            "(D) Kevin",
+            "(E) Julio"
+        ],
+        "label": "E",
+        "ind": 13
+    },
+    {
+        "passage": "Egy kémia órán hat laborfoglalkozást terveztek három napra – szerdára, csütörtökre és péntekre – minden reggel és minden délután egy foglalkozást tartanak. Minden foglalkozást egy másik laborasszisztens vezet – Julio, Kevin, Lan, Nessa, Olivia vagy Rebecca. A laborasszisztensek foglalkozásokhoz rendelése a következő korlátozások szerint történik: Kevinnek és Rebeccának ugyanazon a napon kell foglalkozást vezetnie. Lannek és Oliviának nem lehet ugyanazon a napon foglalkozást vezetnie. Nessának egy délutáni foglalkozást kell vezetnie. Julio foglalkozásának a hét egy korábbi napján kell lennie, mint Oliviáé.",
+        "question": "Ha Kevin foglalkozása Nessa napját megelőző napon van, akkor az alábbiak közül melyik egy teljes és pontos lista azokból a laborasszisztensekből, akik bármelyike vezetheti a csütörtök délutáni foglalkozást?",
+        "options": [
+            "(A) Julio, Nessa",
+            "(B) Kevin, Rebecca",
+            "(C) Kevin, Nessa, Rebecca",
+            "(D) Julio, Kevin, Nessa, Rebecca",
+            "(E) Julio, Kevin, Lan, Nessa, Rebecca"
+        ],
+        "label": "B",
+        "ind": 14
+    },
+    {
+        "passage": "Egy kémia osztálynak hat laborfoglalkozása van beütemezve három napra — szerdára, csütörtökre és péntekre —, minden reggel és minden délután egy-egy foglalkozás. Minden foglalkozást más-más laborasszisztens vezet — Julio, Kevin, Lan, Nessa, Olivia vagy Rebecca. A laborasszisztensek foglalkozásokhoz való hozzárendelése a következő korlátozásokkal történik: Kevinnek és Rebeccának ugyanazon a napon kell foglalkozást vezetnie. Lan és Olivia nem vezethetnek foglalkozást ugyanazon a napon. Nessának délutáni foglalkozást kell vezetnie. Julio foglalkozásának a hét korábbi napján kell lennie, mint Olivia foglalkozásának.",
+        "question": "Ha Julio és Kevin is reggeli foglalkozást vezetnek, akkor a következő állítások bármelyike igaz lehet KIVÉVE:",
+        "options": [
+            "(A) Lan foglalkozása szerda reggel van.",
+            "(B) Lan foglalkozása csütörtök délután van.",
+            "(C) Nessa foglalkozása péntek délután van.",
+            "(D) Olivia foglalkozása csütörtök reggel van.",
+            "(E) Olivia foglalkozása péntek reggel van."
+        ],
+        "label": "A",
+        "ind": 15
+    },
+    {
+        "passage": "Egy kémiaórának hat laboratóriumi foglalkozása van beütemezve három napra - szerdára, csütörtökre és péntekre -, minden reggel egy foglalkozás és minden délután egy foglalkozás. Minden foglalkozást egy másik laboratóriumi asszisztens vezet - Julio, Kevin, Lan, Nessa, Olivia vagy Rebecca. A laboratóriumi asszisztensek foglalkozásokhoz rendelése a következő korlátozásokkal jár: Kevinnek és Rebeccának ugyanazon a napon kell foglalkozásokat vezetnie. Lan és Olivia nem vezethetnek foglalkozásokat ugyanazon a napon. Nessa délutáni foglalkozást kell vezessen. Julio foglalkozásának a hét egy korábbi napján kell lennie, mint Olivia foglalkozásának.",
+        "question": "Ha Julio vezeti a csütörtök délutáni foglalkozást, akkor hány másik laboratóriumi asszisztens esetében lehet meghatározni, hogy mely foglalkozásokat vezetik?",
+        "options": [
+            "(A) egy, (B) kettő, (C) három, (D) négy, (E) öt"
+        ],
+        "label": "C",
+        "ind": 16
+    },
+    {
+        "passage": "Egy bevásárlóközpontban pontosan hét üzlethelyiség van – 1-től 7-ig –, amelyek egy egyenes sorban helyezkednek el. Hét vállalkozás – egy optikus, egy gyógyszertár, két étterem, egy cipőbolt, egy játékbolt és egy állatorvos – fog elhelyezkedni a bevásárlóközpontban, mindegyik egy-egy helyiségben. Az üzletek elhelyezkedése a következő feltételekhez kötött: A gyógyszertárnak a sor egyik végén kell lennie, és az egyik étteremnek a másikon. A két étterem között legalább két másik üzletnek kell lennie. A gyógyszertárnak vagy az optikus, vagy az állatorvos mellett kell lennie. A játékbolt nem lehet az állatorvos mellett.",
+        "question": "Melyik lehet a vállalkozások sorrendje az 1-től 7-ig terjedő helyiségekben?",
+        "options": [
+            "(A) gyógyszertár, optikus, cipőbolt, étterem, állatorvos, játékbolt, étterem",
+            "(B) gyógyszertár, állatorvos, optikus, cipőbolt, étterem, játékbolt, étterem",
+            "(C) étterem, cipőbolt, állatorvos, gyógyszertár, optikus, játékbolt, étterem",
+            "(D) étterem, játékbolt, optikus, étterem, állatorvos, cipőbolt, gyógyszertár",
+            "(E) étterem, optikus, játékbolt, étterem, cipőbolt, állatorvos, gyógyszertár"
+        ],
+        "label": "E",
+        "ind": 17
+    },
+    {
+        "passage": "Egy bevásárlóközpontban pontosan hét hely van—hely 1-től hely 7-ig—egyenes sorban elrendezve. Hét üzlet—egy optikus, egy gyógyszertár, két étterem, egy cipőbolt, egy játékbolt és egy állatorvos—fog elhelyezkedni a bevásárlóközpontban, mindegyik egy helyen. Az üzletek elhelyezkedésére a következő megszorítások vonatkoznak: A gyógyszertárnak a sor egyik végén, az egyik étteremnek pedig a másik végén kell lennie. A két éttermet legalább két másik üzletnek kell elválasztania. A gyógyszertárnak az optikus vagy az állatorvos mellett kell lennie. A játékbolt nem lehet az állatorvos mellett.",
+        "question": "Ha a cipőbolt a 2-es helyen van, melyik lehet igaz az alábbiak közül?",
+        "options": [
+            "(A) Az optikus az 5-ös helyen van.",
+            "(B) A gyógyszertár az 1-es helyen van.",
+            "(C) Egy étterem a 3-as helyen van.",
+            "(D) A játékbolt a 6-os helyen van.",
+            "(E) Az állatorvos a 4-es helyen van."
+        ],
+        "label": "A",
+        "ind": 18
+    },
+    {
+        "passage": "Egy bevásárlóközpontban pontosan hét hely van - 1-től 7-ig számozva - egyenes sorban elrendezve. Hét üzlet - egy optikus, egy gyógyszertár, két étterem, egy cipőbolt, egy játékbolt és egy állatorvos - fog helyet kapni a bevásárlóközpontban, mindegyik egy-egy helyen. Az üzletek elhelyezkedése a következő korlátozásoknak van alávetve: A gyógyszertárnak a sor egyik végén kell lennie, és az egyik étteremnek a másikon. A két étterem között legalább két másik üzletnek kell lennie. A gyógyszertárnak az optikus vagy az állatorvos mellett kell lennie. A játékbolt nem lehet az állatorvos mellett.",
+        "question": "Ha az állatorvos az 5. helyen van, akkor az alábbiak közül melyiknek kell igaznak lennie?",
+        "options": [
+            "(A) Az optikus a 2. helyen van.",
+            "(B) A gyógyszertár a 7. helyen van.",
+            "(C) Egy étterem a 4. helyen van.",
+            "(D) A cipőbolt a 6. helyen van.",
+            "(E) A játékbolt a 3. helyen van."
+        ],
+        "label": "C",
+        "ind": 19
+    },
+    {
+        "passage": "Egy bevásárlóközpontban pontosan hét hely van – hely 1-től hely 7-ig – egyenes sorban elrendezve. Hét üzlet – egy optikus, egy gyógyszertár, két étterem, egy cipőbolt, egy játékbolt és egy állatorvos – fog helyet kapni a bevásárlóközpontban, egy-egy helyen. Az üzletek elhelyezkedése a következő korlátozásoknak van alávetve: A gyógyszertárnak a sor egyik végén kell lennie, és az egyik étteremnek a másik végén. A két éttermet legalább két másik üzletnek kell elválasztania egymástól. A gyógyszertárnak az optikus vagy az állatorvos mellett kell lennie. A játékbolt nem lehet az állatorvos mellett.",
+        "question": "Ha az optikus a cipőbolt mellett van, akkor ennek a párnak közvetlenül a két oldalán levő üzletek",
+        "options": [
+            "(A) a gyógyszertár és egy étterem  ",
+            "(B) a gyógyszertár és a játékbolt  ",
+            "(C) a két étterem  ",
+            "(D) egy étterem és a játékbolt  ",
+            "(E) egy étterem és az állatorvos"
+        ],
+        "label": "D",
+        "ind": 20
+    },
+    {
+        "passage": "Egy bevásárlóközpontban pontosan hét hely van – 1-től 7-ig – egyenes sorban elrendezve. Hét üzlet – egy optikus, egy gyógyszertár, két étterem, egy cipőbolt, egy játékbolt és egy állatorvos – fog elhelyezkedni a bevásárlóközpontban, egy-egy az egyes helyeken. Az üzletek elhelyezkedése a következő korlátoknak van alávetve: A gyógyszertárnak a sor egyik végén, az egyik étteremnek pedig a másik végén kell lennie. A két étterem között legalább két másik üzletnek kell lennie. A gyógyszertárnak az optikus vagy az állatorvos mellett kell lennie. A játékbolt nem lehet az állatorvos mellett.",
+        "question": "Ha a cipőbolt a 4-es helyen van, akkor az alábbiak közül melyiknek kell igaznak lennie?",
+        "options": [
+            "(A) Az optikus egy étterem mellett van.",
+            "(B) A gyógyszertár az állatorvos mellett van.",
+            "(C) Egy étterem a játékbolt mellett van.",
+            "(D) A cipőbolt a játékbolt mellett van.",
+            "(E) A cipőbolt az állatorvos mellett van."
+        ],
+        "label": "B",
+        "ind": 21
+    },
+    {
+        "passage": "Egy bevásárlóközpontban pontosan hét üzlethelyiség található – 1-től 7-ig számozva – egyenes sorban elrendezve. Hét üzlet – egy optikus, egy gyógyszertár, két étterem, egy cipőbolt, egy játékbolt és egy állatorvos – kap majd helyet a bevásárlóközpontban, minden üzlet egy-egy helyiségben. Az üzletek elhelyezkedésére a következő korlátozások vonatkoznak: A gyógyszertárnak a sor egyik végén, az egyik étteremnek pedig a másik végén kell lennie. A két éttermet legalább két másik üzletnek kell elválasztania egymástól. A gyógyszertárnak vagy az optikus, vagy az állatorvos mellett kell lennie. A játékbolt nem lehet az állatorvos mellett.",
+        "question": "Melyik az alábbiak közül, ha helyettesíti azt a korlátozást, hogy a két éttermet legalább két másik üzletnek kell elválasztania egymástól, ugyanolyan hatással lenne az üzletek elhelyezkedésének meghatározására?",
+        "options": [
+            "(A) Egy étteremnek a 3., 4. vagy 5. helyiségben kell lennie.",
+            "(B) Egy étteremnek vagy az optikus, vagy az állatorvos mellett kell lennie.",
+            "(C) Vagy a játékboltnak, vagy az állatorvosnak valahol a két étterem között kell lennie.",
+            "(D) Legfeljebb két üzlet választhatja el a gyógyszertárat és a hozzá legközelebbi éttermet.",
+            "(E) Az optikus nem lehet a cipőbolt mellett."
+        ],
+        "label": "D",
+        "ind": 22
+    },
+    {
+        "passage": "Egy szoftvercég pontosan hét értékesítési képviselőt foglalkoztat – Kim, Mahr, Parra, Quinn, Stuckey, Tiao és Udall – hogy dolgozzanak a három értékesítési zónában – 1. zóna, 2. zóna és 3. zóna. Minden értékesítési képviselő pontosan egy értékesítési zónában dolgozik az alábbi feltételek szerint: Vagy Parra vagy Tiao (de nem mindkettő) dolgozik az 1. zónában. Vagy Tiao vagy Udall (de nem mindkettő) dolgozik a 2. zónában. Parra és Quinn ugyanabban az értékesítési zónában dolgozik. Stuckey és Udall ugyanabban az értékesítési zónában dolgozik. Több értékesítési képviselő dolgozik a 3. zónában, mint a 2. zónában.",
+        "question": "Az alábbiak közül melyik lehet pontos párosítása az értékesítési képviselőknek és azoknak az értékesítési zónáknak, ahol dolgoznak?",
+        "options": [
+            "(A) 1. zóna: Kim, Parra 2. zóna: Stuckey, Udall 3. zóna: Mahr, Quinn, Tiao",
+            "",
+            "(B) 1. zóna: Kim, Tiao 2. zóna: Stuckey, Udall 3. zóna: Mahr, Parra, Quinn",
+            "",
+            "(C) 1. zóna: Parra, Quinn 2. zóna: Kim, Udall 3. zóna: Mahr, Stuckey, Tiao",
+            "",
+            "(D) 1. zóna: Stuckey, Udall 2. zóna: Kim, Tiao 3. zóna: Mahr, Parra, Quinn",
+            "",
+            "(E) 1. zóna: Tiao 2. zóna: Kim, Parra, Quinn 3. zóna: Stuckey, Udall"
+        ],
+        "label": "B",
+        "ind": 23
+    },
+    {
+        "passage": "Egy szoftvercég pontosan hét értékesítési képviselőt alkalmaz – Kim, Mahr, Parra, Quinn, Stuckey, Tiao és Udall – hogy dolgozzanak a három értékesítési zónájában – 1. zóna, 2. zóna és 3. zóna. Minden értékesítési képviselő pontosan egy értékesítési zónában dolgozik, az alábbi feltételeknek megfelelően: Parra vagy Tiao (de nem mindkettő) dolgozik az 1. zónában. Tiao vagy Udall (de nem mindkettő) dolgozik a 2. zónában. Parra és Quinn ugyanabban az értékesítési zónában dolgoznak. Stuckey és Udall ugyanabban az értékesítési zónában dolgoznak. Több értékesítési képviselő dolgozik a 3. zónában, mint a 2. zónában.",
+        "question": "Ha több értékesítési képviselő dolgozik az 1. zónában, mint a 3. zónában, akkor melyik állítás lehet igaz?",
+        "options": [
+            "(A) Kim dolgozik a 2. zónában.",
+            "(B) Mahr dolgozik a 2. zónában.",
+            "(C) Parra dolgozik a 3. zónában.",
+            "(D) Tiao dolgozik az 1. zónában.",
+            "(E) Udall dolgozik a 3. zónában."
+        ],
+        "label": "E",
+        "ind": 24
+    },
+    {
+        "passage": "Egy szoftvercég pontosan hét értékesítési képviselőt alkalmaz – Kim, Mahr, Parra, Quinn, Stuckey, Tiao és Udall –, hogy a három értékesítési zónájában dolgozzanak: Zóna 1, Zóna 2 és Zóna 3. Minden értékesítési képviselő pontosan egy értékesítési zónában dolgozik, a következő feltételek szerint: Vagy Parra, vagy Tiao (de nem mindkettő) dolgozik az 1. zónában. Vagy Tiao, vagy Udall (de nem mindkettő) dolgozik a 2. zónában. Parra és Quinn ugyanabban az értékesítési zónában dolgoznak. Stuckey és Udall ugyanabban az értékesítési zónában dolgoznak. Több értékesítési képviselő dolgozik a 3. zónában, mint a 2. zónában.",
+        "question": "Melyik állításnak kell hamisnak lennie?",
+        "options": [
+            "(A) Kim és Stuckey mindketten az 1. zónában dolgoznak.",
+            "(B) Kim és Stuckey mindketten a 3. zónában dolgoznak.",
+            "(C) Mahr és Stuckey mindketten a 3. zónában dolgoznak.",
+            "(D) Mahr és Udall mindketten a 3. zónában dolgoznak.",
+            "(E) Parra és Stuckey mindketten az 1. zónában dolgoznak."
+        ],
+        "label": "A",
+        "ind": 25
+    },
+    {
+        "passage": "Egy szoftvercég pontosan hét értékesítési képviselőt alkalmaz—Kim, Mahr, Parra, Quinn, Stuckey, Tiao és Udall—hogy dolgozzanak a három értékesítési zónájában—1. zóna, 2. zóna és 3. zóna. Minden értékesítési képviselő pontosan egy zónában dolgozik, az alábbi feltételek szerint: Vagy Parra vagy Tiao (de nem mindkettő) dolgozik az 1. zónában. Vagy Tiao vagy Udall (de nem mindkettő) dolgozik a 2. zónában. Parra és Quinn ugyanabban az értékesítési zónában dolgoznak. Stuckey és Udall ugyanabban az értékesítési zónában dolgoznak. Több értékesítési képviselő dolgozik a 3. zónában, mint a 2. zónában.",
+        "question": "Melyik lehet a következő lehetőségek közül egy teljes és pontos lista a 3. zónában dolgozó értékesítési képviselőkről?",
+        "options": [
+            "(A) Kim, Mahr",
+            "(B) Kim, Tiao",
+            "(C) Parra, Quinn",
+            "(D) Stuckey, Tiao, Udall",
+            "(E) Parra, Quinn, Stuckey, Udall"
+        ],
+        "label": "A",
+        "ind": 26
+    },
+    {
+        "passage": "Egy szoftvercég pontosan hét értékesítési képviselőt alkalmaz—Kim, Mahr, Parra, Quinn, Stuckey, Tiao és Udall—, hogy dolgozzanak a három értékesítési zónájában—1. Zóna, 2. Zóna és 3. Zóna. Minden értékesítési képviselő pontosan egy értékesítési zónában dolgozik a következő feltételek szerint: Vagy Parra, vagy Tiao (de nem mindkettő) dolgozik az 1. Zónában. Vagy Tiao, vagy Udall (de nem mindkettő) dolgozik a 2. Zónában. Parra és Quinn ugyanabban az értékesítési zónában dolgozik. Stuckey és Udall ugyanabban az értékesítési zónában dolgozik. Több értékesítési képviselő dolgozik a 3. Zónában, mint a 2. Zónában.",
+        "question": "Quinn NEM dolgozhat ugyanabban az értékesítési zónában, mint az alábbiak közül melyik?",
+        "options": [
+            "['(A) Kim', '(B) Mahr', '(C) Stuckey', '(D) Tiao', '(E) Udall']"
+        ],
+        "label": "D",
+        "ind": 27
+    },
+    {
+        "passage": "Egy szoftvercég pontosan hét értékesítési képviselőt alkalmaz—Kim, Mahr, Parra, Quinn, Stuckey, Tiao és Udall—hogy a három értékesítési zónájában dolgozzanak: Zóna 1, Zóna 2, és Zóna 3. Minden értékesítési képviselő pontosan egy zónában dolgozik a következő feltételek szerint: Vagy Parra vagy Tiao (de nem mindketten) dolgozik az 1. zónában. Vagy Tiao vagy Udall (de nem mindketten) dolgozik a 2. zónában. Parra és Quinn ugyanabban az értékesítési zónában dolgoznak. Stuckey és Udall ugyanabban az értékesítési zónában dolgoznak. Több értékesítési képviselő dolgozik a 3. zónában, mint a 2. zónában.",
+        "question": "Ha Mahr és Stuckey ugyanabban az értékesítési zónában dolgoznak, akkor melyik lehet igaz az alábbiak közül?",
+        "options": [
+            "(A) Kim a 2. zónában dolgozik.",
+            "(B) Mahr az 1. zónában dolgozik.",
+            "(C) Parra a 3. zónában dolgozik.",
+            "(D) Stuckey a 2. zónában dolgozik.",
+            "(E) Tiao az 1. zónában dolgozik."
+        ],
+        "label": "A",
+        "ind": 28
+    }
+]

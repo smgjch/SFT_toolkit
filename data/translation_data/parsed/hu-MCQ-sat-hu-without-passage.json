@@ -1,0 +1,2408 @@
+[
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Mit sugall a szerző a pelikánok, gólyák és libák V alakú repüléséről?",
+        "options": [
+            "(A) Ugyanúgy kommunikálnak egymással, mint az íbiszek.",
+            "(B) Ugyanazok a vándorlási útvonalaik, mint az íbiszeknek.",
+            "(C) Hasonló örvényt hoznak létre, mint az íbiszek.",
+            "(D) Több energiát használnak fel, mint az íbiszek."
+        ],
+        "label": "C",
+        "ind": 0
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Az 1. szakaszban Tocqueville azt sugallja, hogy a férfiak és nők természetükben azonosként való kezelése milyen következménnyel járna?",
+        "options": [
+            "['(A) Egyik nem sem érezné magát elnyomottnak.', '(B) Mindkét nem nagy mértékben károsodna.', '(C) A férfiak megpróbálnák visszaszerezni elvesztett tekintélyüket.', '(D) A férfiak és nők olyan kiváltságokkal rendelkeznének, amelyekre nincs szükségük.']"
+        ],
+        "label": "B",
+        "ind": 1
+    },
+    {
+        "passage": "Nincs háttérinformáció",
+        "question": "A 2. szövegben Mill leginkább azt sugallja, hogy a nemi szerepek azért ellenállnak a változásnak, mert",
+        "options": [
+            "(A) már régóta a társadalom formális szerveződésének alapját képezik.",
+            "(B) mélyen beágyazott hagyomány kérdései.",
+            "(C) csak közvetetten befolyásolhatók törvényhozási reformok által.",
+            "(D) a jelenleg hatalmon lévő csoportoknak és intézményeknek kedveznek."
+        ],
+        "label": "B",
+        "ind": 2
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Mindkét szerző valószínűleg egyetértene abban, hogy az általuk leírt nemi szerepek változásai",
+        "options": [
+            "(A) egy szélesebb társadalmi átalakulás részét képezik a nagyobb egyenlőség felé.",
+            "(B) valószínűtlenül nyújtanak olyan előnyöket, amelyek meghaladják azok költségeit.",
+            "(C) elkerülhetetlenek a nemek közötti egyenlőség gazdasági előnyei miatt.",
+            "(D) ellentétben állnak az amerikai demokrácia elveivel."
+        ],
+        "label": "A",
+        "ind": 3
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Melyik választás írja le legjobban, hogy a két szerző miként képzeli el az egyén megfelelő helyzetét a társadalomban?",
+        "options": [
+            "(A) Tocqueville úgy véli, hogy az egyén helyzetét fontos szempontok szerint az egyén neme határozza meg, míg Mill szerint az egyén képességei kellene, hogy a meghatározó tényezők legyenek.",
+            "(B) Tocqueville úgy véli, hogy az egyén gazdasági osztálya kellene, hogy meghatározza az egyén helyzetét, míg Mill szerint az osztály nem legitim szempont.",
+            "(C) Tocqueville úgy véli, hogy az egyén temperamentuma kellene, hogy meghatározza az egyén helyzetét, míg Mill szerint a temperamentum nem kellene, hogy tényező legyen az egyén helyzetében.",
+            "(D) Tocqueville úgy véli, hogy az egyén helyzetét az kellene meghatározza, ami a társadalom számára a legelőnyösebb, míg Mill szerint azt kellene meghatározza, amit az egyén a leginkább kielégítőnek talál."
+        ],
+        "label": "A",
+        "ind": 4
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "A szöveg folyamán a fő fókusz eltolódik egy",
+        "options": [
+            "(A) általános beszélgetésről az elbeszélő olvasás iránti szeretetéről egy befolyásos esemény ábrázolására.",
+            "(B) az elbeszélő apjának ábrázolásáról egy szerző vizsgálatára, aki az elbeszélőt elbűvöli.",
+            "(C) az elbeszélő birtokában lévő képesség szimbolikus ábrázolásáról annak alkalmazásának példájára.",
+            "(D) az elbeszélő gyermekkori nehézségeiről szóló történetről ezen nehézségek hatásainak elemzésére."
+        ],
+        "label": "A",
+        "ind": 5
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "A szövegből ésszerűen kikövetkeztethető, hogy az elbeszélő szerint a Nagy remények a legjobb ajándék, amit valaha kapott, mert",
+        "options": [
+            "(A) a könyv elolvasása meggyőzte őt arról, hogy író szeretne lenni.",
+            "(B) korábban csak édességeket és nassolnivalókat kapott ajándékba.",
+            "(C) az ajándék azt jelentette, hogy Sempere nagyra becsülte őt.",
+            "(D) Sempere a könyv szerzőjének barátja volt."
+        ],
+        "label": "A",
+        "ind": 6
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "A narrátor jelzi, hogy mennyit fizet Sempere-nek",
+        "options": [
+            "(A) kevesebbet, mint amennyire Sempere számít a könyvekért.",
+            "(B) semmit, mert Sempere nem fogadja el a pénzét.",
+            "(C) azt a pénzt, amit édességek eladásával keres a többi gyereknek.",
+            "(D) sokkal kevesebbet a könyvekért, mint amennyit érnek."
+        ],
+        "label": "D",
+        "ind": 7
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Melyik állítás jellemzi legjobban Sempere és Charles Dickens kapcsolatát?",
+        "options": [
+            "(A) Sempere a saját írásait Dickens stílusa után mintázza.",
+            "(B) Sempere lelkes csodálója Dickens munkásságának.",
+            "(C) Sempere személyes kapcsolatot érez Dickens életrajzának részleteivel.",
+            "(D) Sempere Dickens legnagyobb elismerő olvasójának tartja magát."
+        ],
+        "label": "B",
+        "ind": 8
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "80 Texas annektálásával; ugyanígy a mexikói háború során szerzett területtel; és ugyanez a helyzet most is. Amikor csak megpróbálták terjeszteni, felháborodás és ellenállás támadt.... Gondolja, hogy az emberi természet megváltozik, hogy ugyanazok az okok, amelyek egy időben felháborodást okoztak, máskor nem ugyanazt a hatást váltják ki? Az 1. szakasz első bekezdésében Douglas terület- és népességnövekedésről szóló értekezésének fő célja az, hogy",
+        "options": [
+            "(A) kontextust adjon Douglas folyamatos terjeszkedés melletti védelméhez.",
+            "(B) azt sugallja, hogy a szabad és rabszolga államokra való felosztás nem veszélyezteti az Uniót.",
+            "(C) utaljon arra, hogy Lincoln nincs tisztában az ország alapvető tényeivel.",
+            "(D) magyarázatot adjon az Egyesült Államok hatalmas és csodálatos képére."
+        ],
+        "label": "B",
+        "ind": 9
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Mit sugall az 1. szöveg az Egyesült Államok kormányának rabszolgaság intézményére vonatkozó rendelkezéseiről, ahogyan azt az Alkotmány keretezi?",
+        "options": [
+            "(A) Nem tartalmaztak eszközöket a szabad államok és a rabszolgatartó államok közötti különbségek összehangolására.",
+            "(B) Számoltak az Unió nyugati területekre való terjeszkedésével.",
+            "(C) Jó alapstruktúrát biztosítottak, amelyet nem kell megváltoztatni.",
+            "(D) Arra az alapfeltevésre épültek, hogy a rabszolgaság szükséges a gazdasági növekedéshez."
+        ],
+        "label": "C",
+        "ind": 10
+    },
+    {
+        "passage": "None",
+        "question": "Passzus 2 alapján Lincoln valószínűleg melyik állítással értene egyet a rabszolgaság körüli vitáról?",
+        "options": [
+            "(A) Csak akkor szüntethető meg, ha az északi államok egyoldalúan cselekszenek a rabszolgaság egész Egyesült Államokbeli eltörlése érdekében.",
+            "(B) Csillapodna, ha felhagynának azzal, hogy a rabszolgaságot olyan régiókba vezessék be, ahol azt nem gyakorolják.",
+            "(C) Azok a törvények, amelyek a rabszolgák tartását szabályozzák, kétértelműsége miatt súlyosbítják.",
+            "(D) Részben az államok közötti vallási és társadalmi értékkülönbségek táplálják."
+        ],
+        "label": "B",
+        "ind": 11
+    },
+    {
+        "passage": "Nincs háttérinformáció",
+        "question": "Melyik választás azonosítja a központi feszültséget a két szöveg között?",
+        "options": [
+            "(A) Douglas változtatásokat javasol a szövetségi rabszolgaság-politikában, de Lincoln azt állítja, hogy ezek a változtatások nem élveznének népszerű támogatást.",
+            "(B) Douglas aggályait fejezi ki a rabszolgaság eltörlésének gazdasági hatásaival kapcsolatban, de Lincoln ezeket az aggályokat irrelevánsnak tartja.",
+            "(C) Douglas bírálja Lincolnt, amiért hibát talál az Alkotmányban, és Lincoln azt állítja, hogy ez a kritika félreértelmezi az ő álláspontját.",
+            "(D) Douglas olyan értelmezést kínál a szövetségi törvényről, amely ellentmond Lincolnéval, és Lincoln azt sugallja, hogy Douglas értelmezése rosszul átgondolt."
+        ],
+        "label": "C",
+        "ind": 12
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Mindkét szöveg azzal a kérdéssel foglalkozik, hogy a rabszolgaság hogyan viszonyul",
+        "options": [
+            "['(A)az Unió terjeszkedéséhez.', '(B)az erkölcsi kérdésekhez.', '(C)a vallási toleranciához.', '(D)az árukereskedelmet szabályozó törvényekhez.']"
+        ],
+        "label": "A",
+        "ind": 13
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "A szöveg elsődleges célja az, hogy",
+        "options": [
+            "(A) megvitassa azokat a megállapításokat, amelyek tudományos magyarázatot adnak a Vénusz légycsapója záródási mechanizmusára.",
+            "(B) bemutassa azokat a kutatásokat, amelyek azt sugallják, hogy a Vénusz légycsapója ragadozó viselkedése mind összetett, mind pedig egyedülálló a növények körében.",
+            "(C) azonosítsa azt a folyamatot, amely során a Vénusz légycsapója záródási mechanizmusa kifejlődött.",
+            "(D) rövid áttekintést nyújtson a Vénusz légycsapójáról és annak ragadozó viselkedéséről."
+        ],
+        "label": "A",
+        "ind": 14
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "A szöveg alapján a Vénusz légycsapója több kiváltó tényezőjének követelménye jelentős előnye, hogy",
+        "options": [
+            "(A) lehetővé teszi a növény számára, hogy azonosítsa zsákmánya faját.",
+            "(B) megőrzi a növény kalcium tartalékait.",
+            "(C) védi a növény energiatartalékait.",
+            "(D) megakadályozza, hogy a növény bezáródjon zsákmánya elfogása előtt."
+        ],
+        "label": "C",
+        "ind": 15
+    },
+    {
+        "passage": "Nincs háttér-információ.",
+        "question": "A szöveg alapján melyik állítás magyarázza legjobban, miért van szüksége a vénusz légycsapónak arra, hogy egy rövid időn belül egy második érzékszőr is megérintse, hogy a csapója bezáruljon?",
+        "options": [
+            "(A) A második érzékszőr egy elektromos töltést hoz létre, amely megfordítja az első érzékszőr által létrehozott töltést.",
+            "(B) A második érzékszőr stabilizálja az első érzékszőr által létrehozott kalciumion-rohamot.",
+            "(C) A második érzékszőr serkenti a kalciumcsatornák megnyílását.",
+            "(D) A második érzékszőr szükséges kiegészítést biztosít az első érzékszőr által felszabadított kalciumkoncentrációhoz."
+        ],
+        "label": "D",
+        "ind": 16
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Melyik választás ír le egy olyan forgatókönyvet, amelyben Hodick és Sievers modellje azt jósolja, hogy a Vénusz légycsapója nem záródik be egy rovar körül?",
+        "options": [
+            "(A) Egy nagy rovar második érintkezése a növény érzékelő szőreivel a kalciumionok összkoncentrációját a csapda küszöbértéke fölé emeli.",
+            "(B) Egy nagy rovar egy második érzékelő szőrt érint, miután egy inaktív periódusban a kalciumionok koncentrációja jelentősen lecsökkent.",
+            "(C) Egy nagy rovar érintkezése a növény érzékelő szőreivel kalciumcsatornák megnyílását okozza a csapdában.",
+            "(D) Egy nagy rovar második érzékelő szőrhöz való érintkezése tíz másodpercen belül történik az első érzékelő szőr érintését követően."
+        ],
+        "label": "B",
+        "ind": 17
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "A szöveg alapján milyen lehetséges kritikát lehetne megfogalmazni Volkov Hodick és Sievers modelljének tesztelésével kapcsolatban?",
+        "options": [
+            "(A) Volkov értelmezése Hodick és Sievers modelljéről helytelen volt.",
+            "(B) Volkov mérései nem támasztották alá Hodick és Sievers modelljének egy központi elemét.",
+            "(C) Volkov közvetlen elektromos áram alkalmazása ellenszenves lett volna Hodick és Sievers számára.",
+            "(D) Volkov technológiája nem állt rendelkezésre Hodick és Sievers számára."
+        ],
+        "label": "B",
+        "ind": 18
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "A szöveg alapján Volkov és kollégái a legkiterjedtebb mértékben melyik bizonyítéktípust használták a Vénusz légycsapója tanulmányozása során?",
+        "options": [
+            "(A) Matematikai modellek, amelyek előrejelzik az elektromos töltést, amely szükséges a Vénusz légycsapója bezárásához",
+            "(B) Azoknak az adatoknak az elemzése, amelyeket korábbi kutatók gyűjtöttek a Vénusz légycsapója elektromosságra adott válaszával kapcsolatban",
+            "(C) Azon információk, amelyeket a Vénusz légycsapója különböző mennyiségű elektromos áramra adott válaszának megfigyeléséből nyertek",
+            "(D) Olyan tudósok által publikált elméletek, akik korábbi modelleket fejlesztettek ki a Vénusz légycsapójáról"
+        ],
+        "label": "C",
+        "ind": 19
+    },
+    {
+        "passage": "Nincs háttérinformáció",
+        "question": "Melyik választás foglalja össze legjobban a szöveget?",
+        "options": [
+            "(A) Egy karakter érkezése a családja tintaboltjába kedves emlékeket idéz fel kedvenc nagynénjéről.  ",
+            "(B) Egy karakter váratlan látogatása boldog újraegyesüléshez vezet családja tintaboltjában.  ",
+            "(C) Egy karakter megérti apja ambícióit, miközben meglátogatja családja tintaboltját.  ",
+            "(D) Egy karakter látogatása családja tintaboltjában elmélyíti a család munkája iránti megbecsülését."
+        ],
+        "label": "D",
+        "ind": 20
+    },
+    {
+        "passage": "None",
+        "question": "A szöveg fő témája az, hogy",
+        "options": [
+            "(A) a családi kapcsolatokat ápolni kell.",
+            "(B) a minőség szándékos erőfeszítéssel érhető el.",
+            "(C) a kemény munka anyagi kompenzációt eredményez.",
+            "(D) a kreativitást konkrétan ki kell fejezni."
+        ],
+        "label": "B",
+        "ind": 21
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "A szöveg során az elbeszélő valakiként van ábrázolva, aki",
+        "options": [
+            "(A) visszahúzódó az ismeretlen emberek körében.",
+            "(B) érzékeny a közvetlen környezetére.",
+            "(C) együttérző mások szükségletei iránt.",
+            "(D) aggódik a felelősségei miatt."
+        ],
+        "label": "B",
+        "ind": 22
+    },
+    {
+        "passage": "Nincs",
+        "question": "A szöveg során az elbeszélő úgy van ábrázolva, mint aki",
+        "options": [
+            "(A) visszafogott ismeretlen emberek körül.",
+            "(B) érzékeny a közvetlen környezetére.",
+            "(C) együttérző mások szükségleteivel szemben.",
+            "(D) aggódik a felelősségei miatt."
+        ],
+        "label": "A",
+        "ind": 23
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Az elbeszélő rámutat arra, hogy az Immortal Heart faluban található tintakészítő műhely és a családja tintaboltja közötti különbség az, hogy a tintabolt",
+        "options": [
+            "(A) lenyűgözőbben mutatja be a család tintáját.",
+            "(B) kényelmesebb helyen található a nyilvánosság számára.",
+            "(C) nagyobb egyéni figyelmet biztosít az ügyfeleknek.",
+            "(D) nagyobb teret kínál a termékek bemutatására."
+        ],
+        "label": "A",
+        "ind": 24
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "1. Egy idézet a Függetlenségi Nyilatkozatból: Smith fő célja a szakaszban az, hogy",
+        "options": [
+            "(A) megvádolja az abolicionistákat azzal, hogy figyelmen kívül hagyják a nők hozzájárulását a mozgalomhoz.",
+            "(B) érveljen amellett, hogy az abolicionizmus és a nők jogai az amerikai forradalom szellemének folytatásai.",
+            "(C) kifejtse, hogy a nők jogai értelmetlenek, amíg a rabszolgaság létezik.",
+            "(D) bátorítsa a nőket, hogy az abolicionista ügyben való részvételüket fontosnak és igazságosnak tekintsék."
+        ],
+        "label": "D",
+        "ind": 25
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "A szöveg alapján miben különbözött G.L. Olausson többi tesztalanyától?",
+        "options": [
+            "(A) Az agyban a gyengéd simogatás során aktivált kérgi területek száma.",
+            "(B) A szomatoszenzoros kéreg fizikai méretei.",
+            "(C) Az insuláris kéreg aktiválásához szükséges idegi jelek intenzitása.",
+            "(D) Az MRI vizsgálat hatása az agyi kérgek alapfunkciójára."
+        ],
+        "label": "A",
+        "ind": 0
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "A szöveg szerint az emberek akkor tapasztalják meg az érintés érzelmi aspektusát, amikor",
+        "options": [
+            "(A) az agykéreg védve van az idegi jelektől.",
+            "(B) a CT rostokat érintés éri.",
+            "(C) az idegrostok, amelyek a fájdalmat érzékelik, elnyomásra kerülnek.",
+            "(D) az érzékelés tudatos aspektusai figyelmen kívül maradnak."
+        ],
+        "label": "B",
+        "ind": 1
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Az 1. szövegben Beveridge azt állítja, hogy az Egyesült Államok erőforrásai és hatalmassága",
+        "options": [
+            "(A) védelmet nyújtanak a külföldi invázió ellen.",
+            "(B) az európai viszonyok megismétlődését jelentik.",
+            "(C) isteni ajándék az amerikai nép számára.",
+            "(D) irigység forrása más országok népei számára."
+        ],
+        "label": "C",
+        "ind": 2
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "A 2. szakaszból ésszerűen levonható következtetés szerint Bryan a nemzeti szuverenitás előnyben részesítését az idegen uralommal szemben",
+        "options": [
+            "(A) az imperialista kormányok modern kori túlkapásaira adott reakciónak tekinti.",
+            "(B) annak jelének tekinti, hogy az emberi egyenlőségbe vetett hit széles körben elterjedt.",
+            "(C) az Egyesült Államok külpolitikájának hatásait tanúsító jelnek tekinti.",
+            "(D) az emberi önkormányzatiság iránti veleszületett hajtóerő megnyilvánulásának tekinti."
+        ],
+        "label": "D",
+        "ind": 3
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Érvelésük kidolgozása során Beveridge (1. szöveg) és Bryan (2. szöveg) egyaránt kifejezik csodálatukat a",
+        "options": [
+            "['(A)Egyesült Államok alapítása és történelme iránt.', '(B)amerikai kultúra élénksége és sokszínűsége iránt.', '(C)függetlenségért folytatott világméretű küzdelmek történelme iránt.', '(D)ideálizmus iránt, amely az amerikai társadalom számos aspektusát áthatja.']"
+        ],
+        "label": "A",
+        "ind": 4
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Melyik választás írja le legjobban a központi különbséget abban, ahogyan Beveridge (1. szöveg) és Bryan (2. szöveg) az Egyesült Államokban megvalósuló szabadság fogalmát szemlélik?",
+        "options": [
+            "(A) Beveridge azt közvetlenül az európai gyarmatosítás örökségeként mutatja be, míg Bryan azt az európai kormányzatoktól való éles eltérésként mutatja be.",
+            "(B) Beveridge olyan példamutatónak tartja, hogy az más régiók meghódítását is igazolná, míg Bryan arra figyelmeztet, hogy annak példamutató mivoltát aláásná a birodalmi terjeszkedés.",
+            "(C) Beveridge azt állítja, hogy organikusan fejlődött ki, ahogy az Egyesült Államok éretté vált, míg Bryan azt állítja, hogy az már az ország kezdetektől fogva jelen volt.",
+            "(D) Beveridge úgy tekinti, mint egy modellt, amelyet meg kell osztani más országokkal, míg Bryan úgy véli, hogy az egyedülálló az Egyesült Államok számára, és máshol nem működhetne."
+        ],
+        "label": "B",
+        "ind": 5
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "A 2. szakaszból leginkább ésszerűen levonható következtetés szerint Bryan kritizálná az amerikai szigetterületek kormányzásának azt a vízióját, amelyet Beveridge az 1. szakaszban bemutat, mert az",
+        "options": [
+            "(A) irreális, mivel a legtöbb amerikai nem lenne hajlandó távoli szigetekre költözni.",
+            "(B) megtévesztő, mivel a gazdasági dominancia lenne az amerikai kormány valódi célja.",
+            "(C) kivitelezhetetlen, mivel a szigetlakók ragaszkodnának az erőforrások egyenlő elosztásához.",
+            "(D) naiv, mivel a szigetlakók tiltakoznának az ellen, hogy amerikaiak kormányozzák őket."
+        ],
+        "label": "D",
+        "ind": 6
+    },
+    {
+        "passage": "None",
+        "question": "A szöveg alapján a fénynek való kitettség lehetővé teszi, hogy a magok",
+        "options": [
+            "(A) elkezdjenek fejlődni.",
+            "(B) felszívják a szükséges tápanyagokat.",
+            "(C) ellenálljanak a szélsőséges hőmérsékleteknek.",
+            "(D) elérjék a maximális növekedést."
+        ],
+        "label": "A",
+        "ind": 7
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "A szöveg arra utal, hogy ha Seydel búzát vagy kukoricát ültetett volna Hartmann kísérletében a két mezőgazdasági sávra, akkor valószínűleg az egyes sávok felületének gyomokkal borított százaléka",
+        "options": [
+            "['(A) alacsonyabb lett volna, mint a Hartmann által talált százalék.', '(B) magasabb lett volna, mint a Hartmann által előre jelzett százalék.', '(C) Hartmann számára szinte lehetetlen lett volna meghatározni.', '(D) összehasonlítható lett volna Hartmann eredeti előrejelzésével.']"
+        ],
+        "label": "A",
+        "ind": 8
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "A táblázat szerint a sötétben megzavart talajminták közül melyikben bújt ki a legkevesebb számú palánta?",
+        "options": [
+            "(A) Minta A",
+            "(B) Minta B",
+            "(C) Minta C",
+            "(D) Minta D"
+        ],
+        "label": "A",
+        "ind": 9
+    },
+    {
+        "passage": "Nincs háttérinformáció",
+        "question": "Amint az a táblázatban látható, melyik minta termelte a legtöbb palántát, amikor a talajt fényben zavarták meg?",
+        "options": [
+            "(A) Minta G",
+            "(B) Minta H",
+            "(C) Minta I",
+            "(D) Minta J"
+        ],
+        "label": "C",
+        "ind": 10
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Melyik választás foglalja össze legjobban a szöveget?",
+        "options": [
+            "(A) Egy nő mérlegeli egy új munka elfogadásának pozitív és negatív aspektusait.",
+            "(B) Egy nő nem javítja ki azt az idegent, aki összekeveri valakivel.",
+            "(C) Egy nő másnak adja ki magát, hogy bosszút álljon egy ismerősén.",
+            "(D) Egy nő azonnal ellenszenvet érez új munkaadója iránt."
+        ],
+        "label": "B",
+        "ind": 11
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "A szöveg egyértelműen azt sugallja, hogy más emberek Lady Carlotta-t úgy tekintették, mint aki",
+        "options": [
+            "(A) szókimondó.",
+            "(B) tapintatos.",
+            "(C) ambiciózus.",
+            "(D) barátságtalan."
+        ],
+        "label": "A",
+        "ind": 12
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Az elbeszélő azt jelzi, hogy Claude, Wilfrid, Irene és Viola",
+        "options": [
+            "(A) hasonlóak sok kortársukhoz.",
+            "(B) szokatlanul kreatívak és intelligensek.",
+            "(C) ellenségesek a nevelőnő ötletével szemben.",
+            "(D) jobban képzettek, mint az ő korukbeliek."
+        ],
+        "label": "A",
+        "ind": 13
+    },
+    {
+        "passage": "None",
+        "question": "A narrátor arra utal, hogy Mrs. Quabarl egy olyan oktatási formát részesít előnyben, amely hangsúlyozza",
+        "options": [
+            "(A) a hagyományos értékeket.",
+            "(B) az aktív részvételt.",
+            "(C) a művészi kísérletezést.",
+            "(D) a tények megtartását."
+        ],
+        "label": "B",
+        "ind": 14
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Ahogyan a szövegben bemutatják, Mrs. Quabarl legjobban az alábbiak szerint írható le:",
+        "options": [
+            "['(A)felszínesen kedves, de valójában önző.', '(B)kívülről tekintélyt parancsoló, de könnyen meghátrál.', '(C)társadalmilag sikeres, de irracionálisan keserű.', '(D)természetesen nagylelkű, de gyakran meggondolatlan.']"
+        ],
+        "label": "B",
+        "ind": 15
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Melyik választás tükrözi legjobban a szövegben szereplő események sorrendjét?",
+        "options": [
+            "(A) Egy kísérletet javasolnak, de az nem bizonyul megvalósíthatónak; egy kevésbé ambiciózus kísérletet végeznek, és az adatok új kérdéseket vetnek fel.",
+            "(B) Egy új felfedezés a teória újragondolásához vezet; egy klasszikus tanulmányt adaptálnak, és az eredményeket összegzik.",
+            "(C) Egy anomáliát figyelnek meg és kísérletileg szimulálnak; az eredményeket összehasonlítják korábbi megállapításokkal, és egy új hipotézist javasolnak.",
+            "(D) Egy váratlan eredmény merül fel a tanulmány korai szakaszában; a tanulmányt ennek megfelelően módosítják, és az eredményeket értelmezik és értékelik."
+        ],
+        "label": "D",
+        "ind": 16
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Melyik állítás foglalja össze legjobban Ken Dial központi feltételezését a kutatásának beállításában?",
+        "options": [
+            "['(A) A fiatal madarak repülésének elsajátítása rávilágít a repülés megszerzésére az evolúciós őseiknél.', '(B) Bizonyos fiatal madarak szabálytalan ugrálási hajlama viszonylag újonnan kifejlődött viselkedés.', '(C) A kontrollált kutatási környezetben lévő fiatal madarak kevésbé valószínű, hogy szükségük van ülőhelyekre, amikor pihennek, mint a vadon élő madarak.', '(D) A földön élő és fára mászó madarak elődei párhuzamosan fejlődtek.']"
+        ],
+        "label": "A",
+        "ind": 17
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "A szöveg az alábbiak közül melyiket azonosította olyan tényezőként, amely megkönnyítette a kis Csukárok tapadását a meredek rámpákon?",
+        "options": [
+            "['(A) Az a sebesség, amellyel felmásztak', '(B) A csapkodó szárnyaik helyzete', '(C) A szárny- és lábmozgás váltakozása', '(D) A folyamatos ugráló mozgásuk']"
+        ],
+        "label": "B",
+        "ind": 18
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Mit lehet ésszerűen feltételezni a sikló állatokról a szöveg alapján?",
+        "options": [
+            "['(A)Fiataljaik hajlamosak a szüleik mellett ugrálni, ahelyett hogy velük repülnének.', '(B)Helyváltoztatási módszerük hasonló a talajmadarakéhoz.', '(C)Gyakrabban használják a talajt táplálkozásra, mint pihenésre.', '(D)Nem használnak csapó mozdulatot a lejtők megmászásához.']"
+        ],
+        "label": "D",
+        "ind": 19
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "A szöveg alapján arra lehet következtetni, hogy az 1. szöveg szerzői úgy vélik, hogy a háztartás vezetése és a gyermeknevelés",
+        "options": [
+            "(A) a férfiak számára éppolyan kielégítő, mint a nők számára.",
+            "(B) kevesebb értéket nyújtanak a társadalom számára, mint a férfiak által ellátott szerepek.",
+            "(C) nagyon kevés olyan tevékenységet foglalnak magukba, amelyek nehezek vagy kellemetlenek.",
+            "(D) hasonló készségeket igényelnek, mint amelyek egy ország vagy vállalat vezetéséhez szükségesek."
+        ],
+        "label": "C",
+        "ind": 20
+    },
+    {
+        "passage": "Nincs háttérinformáció",
+        "question": "A 2. szöveg szerzője szerint a társadalom fejlődéséhez a nőknek",
+        "options": [
+            "(A) személyes boldogságot és anyagi biztonságot kell élvezniük.",
+            "(B) követniük kell az összes jelenleg előírt társadalmi szabályt.",
+            "(C) a férfiakat kell felváltaniuk a hatalom és tekintély szereplőiként.",
+            "(D) a férfiakéval összehasonlítható oktatásban kell részesülniük."
+        ],
+        "label": "D",
+        "ind": 21
+    },
+    {
+        "passage": "Nincs háttérinformáció",
+        "question": "A 2. szakaszban a szerző azt állítja, hogy a társadalom vezetői által biztosított szabadságok",
+        "options": [
+            "(A) előnyben részesítettek egy nemet a másikkal szemben.",
+            "(B) általános csökkenést eredményeztek az egyéni erényben.",
+            "(C) vitákat okoztak a boldogság természetéről.",
+            "(D) biztosították az egyenlőséget mindenki számára."
+        ],
+        "label": "A",
+        "ind": 22
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Melyik írja le legjobban az összefüggést az 1. és a 2. szöveg között?",
+        "options": [
+            "(A) A 2. szöveg erőteljesen vitatja az 1. szöveg nézőpontját.",
+            "(B) A 2. szöveg alternatív következtetéseket von le az 1. szövegben bemutatott bizonyítékok alapján.",
+            "(C) A 2. szöveg kifejti az 1. szövegben bemutatott javaslatot.",
+            "(D) A 2. szöveg más szavakkal megismétli az 1. szövegben bemutatott érvet."
+        ],
+        "label": "A",
+        "ind": 23
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "A két szöveg szerzői valószínűleg melyik állítással értenének egyet a tizennyolcadik századi nőkkel kapcsolatban?",
+        "options": [
+            "['(A) Természetes preferenciáik megegyeztek a férfiakéval.', '(B) Jó oktatásra volt szükségük ahhoz, hogy sikeresek legyenek a társadalomban.', '(C) Éppolyan boldogok voltak az életben, mint a férfiak.', '(D) Általában kevesebb jogot élveztek, mint a férfiak.']"
+        ],
+        "label": "D",
+        "ind": 24
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Hogyan reagálnának az 1. szöveg szerzői a 2. szöveg utolsó bekezdésében tett megállapításokra?",
+        "options": [
+            "(A) A nők természetüknél fogva nem alkalmasak a polgári és politikai jogok gyakorlására.",
+            "(B) A férfiak és nők hasonló mértékű érvelési képességgel rendelkeznek.",
+            "(C) A nőknek nem kell a hagyományos családi feladataikra korlátozódniuk.",
+            "(D) A természetjog elveit nem szabad figyelembe venni a nemi szerepek megfontolásakor."
+        ],
+        "label": "A",
+        "ind": 25
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Melyik választás írja le legjobban, mi történik a szövegben?",
+        "options": [
+            "(A) Az egyik szereplő vitatkozik egy másik szereplővel, aki betolakodik az otthonába.",
+            "(B) Az egyik szereplő meglepő kérést kap egy másik szereplőtől.",
+            "(C) Az egyik szereplő visszaemlékezik azokra a döntésekre, amelyeket az évek során hozott.",
+            "(D) Az egyik szereplő kritizál egy másik szereplőt, mert váratlan cselekvést követ."
+        ],
+        "label": "B",
+        "ind": 0
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Melyik választás írja le legjobban a szöveg fejlesztési mintáját?",
+        "options": [
+            "(A) A hagyományos gyakorlat gondos elemzése  ",
+            "(B) Egy jelentőségteljes találkozás részletes ábrázolása  ",
+            "(C) Kérdések sorozatára adott végleges válasz  ",
+            "(D) Egy vidám anekdota szórakoztató elmesélése"
+        ],
+        "label": "B",
+        "ind": 1
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Mitől tart legjobban Akira Chie reakcióját illetően?",
+        "options": [
+            "(A) Attól, hogy helytelennek találja a javaslatát.",
+            "(B) Attól, hogy éretlenségnek véli az őszinteségét.",
+            "(C) Attól, hogy kéretlen látogatását tehernek érzi.",
+            "(D) Attól, hogy alábecsüli érzelmei őszinteségét."
+        ],
+        "label": "A",
+        "ind": 2
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "A szövegben Akira hogyan szólítja meg Chie-t?",
+        "options": [
+            "(A) szeretettel, de nem valódi szerelemmel.",
+            "(B) tárgyilagosan, de nem teljes pártatlansággal.",
+            "(C) szórakozottan, de nem gúnyos lekicsinyléssel.",
+            "(D) tisztelettel, de nem teljes hódolattal."
+        ],
+        "label": "D",
+        "ind": 3
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Az első bekezdés fő célja az, hogy",
+        "options": [
+            "['(A) leírjon egy kultúrát.', '(B) kritizáljon egy hagyományt.', '(C) megkérdőjelezzen egy javaslatot.', '(D) elemezzen egy reakciót.']"
+        ],
+        "label": "D",
+        "ind": 4
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "A szerzők fő célja az X-sugaras bizonyítékok és sűrűségre vonatkozó információk bemutatásával az, hogy",
+        "options": [
+            "(A) megállapítsák, hogy a DNS az a molekula, amely hordozza a genetikai információt.",
+            "(B) egy alternatív hipotézist mutassanak be a nukleotid összetételéről.",
+            "(C) alátámasszák a szerzők állítását a DNS molekulában található láncok számáról.",
+            "(D) megerősítsék a DNS sűrűsége és a DNS ismert kémiai képlete közötti kapcsolatot."
+        ],
+        "label": "C",
+        "ind": 5
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "A táblázat és a szöveg alapján melyik választás adja meg a purinok helyes százalékos arányát az élesztő DNS-ében?",
+        "options": [
+            "(A)$17,1 \\\\%$ és $18,7 \\\\%$",
+            "",
+            "(B)$17,1 \\\\%$ és $32,9 \\\\%$",
+            "",
+            "(C)$18,7 \\\\%$ és $31,3 \\\\%$",
+            "",
+            "(D)$31,3 \\\\%$ és $32,9 \\\\%$"
+        ],
+        "label": "C",
+        "ind": 6
+    },
+    {
+        "passage": "Nincs",
+        "question": "A táblázatban szereplő adatok alátámasztják a szerzők által javasolt bázispárosítást a DNS-ben?",
+        "options": [
+            "(A) Igen, mert minden adott organizmus esetében az adenin százalékos aránya áll legközelebb a timin százalékos arányához, és a guanin százalékos aránya áll legközelebb a citozin százalékos arányához.  ",
+            "(B) Igen, mert minden adott organizmus esetében az adenin százalékos aránya áll legközelebb a guanin százalékos arányához, és a citozin százalékos aránya áll legközelebb a timin százalékos arányához.  ",
+            "(C) Nem, mert minden adott organizmus esetében az adenin százalékos aránya áll legközelebb a timin százalékos arányához, és a guanin százalékos aránya áll legközelebb a citozin százalékos arányához.  ",
+            "(D) Nem, mert minden adott organizmus esetében az adenin százalékos aránya áll legközelebb a guanin százalékos arányához, és a citozin százalékos aránya áll legközelebb a timin százalékos arányához."
+        ],
+        "label": "A",
+        "ind": 7
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "A táblázat szerint a következő bázis százalékpárok közül melyik támasztja alá a választ az előző kérdésre a tengeri sün DNS-ével kapcsolatban?",
+        "options": [
+            "(A)$17,3 \\\\%$ és $17,7 \\\\%$, (B)$17,3 \\\\%$ és $32,1 \\\\%$, (C)$17,3 \\\\%$ és $32,8 \\\\%$, (D)$17,7 \\\\%$ és $32,8 \\\\%$"
+        ],
+        "label": "A",
+        "ind": 8
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "A szöveg fő célja az, hogy",
+        "options": [
+            "(A) hangsúlyozza egy hagyomány értékét.",
+            "(B) kiemelje egy probléma sürgősségét.",
+            "(C) rávilágítson a társadalmi megosztottság súlyosságára.",
+            "(D) megkérdőjelezze egy vállalkozás megvalósíthatóságát."
+        ],
+        "label": "B",
+        "ind": 9
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "A szöveg központi állítása az, hogy",
+        "options": [
+            "(A) a művelt nőknek döntést kell hozniuk arról, hogyan kapcsolódjanak be a meglévő intézményekbe.",
+            "(B) a nők csak akkor tölthetnek be befolyásos pozíciókat az angol társadalomban, ha lemondanak néhány hagyományos szerepükről.",
+            "(C) a férfiak hatalmi monopóliuma az angol társadalomban súlyos és folyamatos hatásokat gyakorolt.",
+            "(D) a művelt nők belépése a hagyományosan férfiak által betöltött hatalmi pozíciókba át fogja alakítani ezeket a pozíciókat."
+        ],
+        "label": "A",
+        "ind": 10
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "A szöveg szerint Woolf azért választja a híd helyszínét, mert",
+        "options": [
+            "(A) alkalmas egy elgondolkodtató, fantáziadús hangulat megteremtésére.",
+            "(B) jó rálátást biztosít a művelt férfiak fiainak felvonulására.",
+            "(C) a látóhatáron belül van azokkal a történelmi eseményekkel, amelyekre utal.",
+            "(D) szimbolizálja a művelt férfiak múltbeli és jelenlegi fiainak örökségét."
+        ],
+        "label": "B",
+        "ind": 11
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Woolf jelzi, hogy az általa a szövegben leírt felvonulás",
+        "options": [
+            "(A) az utóbbi években gyakorlati szempontból nagyobb befolyással bír.",
+            "(B) az angol közélet ünnepelt jellemzőjévé vált.",
+            "(C) Anglia leggazdagabb és leghatalmasabb embereit foglalja magában.",
+            "(D) az utóbbi években kevésbé kizárólagossá vált a tagsága."
+        ],
+        "label": "D",
+        "ind": 12
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Az 1. szöveg szerzője szerint az űrbányászat milyen pozitív hatással járhat?",
+        "options": [
+            "(A) Olyan anyagokat szolgáltathat, amelyek fontosak a Föld gazdasága számára.",
+            "(B) Növelheti néhány nemesfém értékét a Földön.",
+            "(C) Nem várt technológiai innovációkat hozhat létre.",
+            "(D) Megváltoztathatja a tudósok űrforrásokkal kapcsolatos megértését."
+        ],
+        "label": "A",
+        "ind": 13
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "A 2. szöveg központi állítása szerint az űrbányászat pozitív potenciállal rendelkezik, de",
+        "options": [
+            "(A) végül az emberiség meggondolatlan környezetkezelését fogja ösztönözni.",
+            "(B) hatásait alaposan meg kell fontolni, mielőtt valósággá válik.",
+            "(C) ez a potenciál nem biztos, hogy magában foglalja azokon a kulcsfontosságú forrásoknak a pótlását, amelyek a Földön eltűnnek.",
+            "(D) a szakértők nem értenek egyet a felfedezések kereskedelmi életképességéről, amelyeket az hozhat."
+        ],
+        "label": "B",
+        "ind": 14
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Melyik állítás írja le legjobban a szövegek közötti kapcsolatot?",
+        "options": [
+            "(A) A 2. szöveg cáfolja az 1. szövegben felvetett központi állítást.",
+            "(B) A 2. szöveg illusztrálja az 1. szövegben általánosabb értelemben leírt jelenséget.",
+            "(C) A 2. szöveg vitatja az 1. szövegben felvetett javaslatok gyakorlati megvalósíthatóságát.",
+            "(D) A 2. szöveg fenntartásokat fogalmaz meg az 1. szövegben tárgyalt fejleményekkel kapcsolatban."
+        ],
+        "label": "D",
+        "ind": 15
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Melyik pont a térben nagyra értékelt erőforrásokkal kapcsolatban implicit módon szerepel az 1. szövegben, és explicit módon a 2. szövegben?",
+        "options": [
+            "['(A) Lehet, hogy ezek különböző erőforrások lesznek, mint amik a Földön értékesek.', '(B) Csak akkor lesznek értékesek, ha olcsón lehet őket kitermelni.', '(C) Valószínűleg elsősorban nemesfémek és ritkaföldfémek lesznek.', '(D) Értékük növekedhet, ahogy ezek az erőforrások a Földön ritkábbá válnak.']"
+        ],
+        "label": "A",
+        "ind": 16
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "A szakasz elbeszélőjét legjobban hogyan lehetne jellemezni?",
+        "options": [
+            "[\"(A) Miss Spivey egyik volt diákja.\", \"(B) Miss Spivey elődje.\", '(C) a közösség névtelen tagja.', '(D) maga Miss Spivey.']"
+        ],
+        "label": "A",
+        "ind": 17
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "A szövegben Threestep főként úgy van bemutatva, mint egy",
+        "options": [
+            "(A) nyári üdülőhely a nyaralók számára.  ",
+            "(B) kis vidéki város.  ",
+            "(C) város, ahol egy kiemelkedő egyetem található.  ",
+            "(D) kényelmes előváros."
+        ],
+        "label": "B",
+        "ind": 18
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "A szövegből ésszerűen arra lehet következtetni, hogy a vasútállomáson lévő emberek közül néhányan hogyan viszonyulnak Miss Spivey megjegyzéséhez a georgiai hőségről.",
+        "options": [
+            "(A) szimpátiával, mert feltételezik, hogy először tapasztalja meg az intenzív hőséget.",
+            "(B) csalódottsággal, mert kételkednek abban, hogy sokáig marad Threestepben.",
+            "(C) zavarban, mert azt képzelik, hogy felsőbbrendűnek érzi magát.",
+            "(D) nehezteléssel, mert úgy érzik, hogy lekicsinyli az ő kényelmetlenségüket."
+        ],
+        "label": "D",
+        "ind": 19
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "A Miss Spivey és Ralphord közötti interakció elsősorban azt szolgálja, hogy",
+        "options": [
+            "(A) azt sugallja, hogy Miss Spivey eltúlzott nézeteket vall arról, hogy milyen információkat kellene közös tudásnak tekinteni.",
+            "(B) megteremtse a barátságos dinamikát a bájos iskolások és az elnéző, gondoskodó új tanáruk között.",
+            "(C) bemutassa Ralphordot, mint egy koravén fiatal diákot, és Miss Spiveyt, mint közömbös és érdektelen tanárt.",
+            "(D) bizonyítsa, hogy a gyerekek szórakoztatni szeretnék Miss Spiveyt a kérdéseikkel."
+        ],
+        "label": "A",
+        "ind": 20
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "A szöveg szerint Miss Spivey közvetlenül annak eredményeként került Threestepbe, hogy",
+        "options": [
+            "['(A) barátságot kötött Janet Millerrel.', '(B) főiskolára járt New York Cityben.', '(C) beszélgetett egy nővel a WPA-nál.', '(D) Miss Chandler visszavonult a tanítástól.']"
+        ],
+        "label": "C",
+        "ind": 21
+    },
+    {
+        "passage": "Nincs",
+        "question": "A részletben, amikor Miss Spivey bejelenti, hogy látott tevét, a diákok reakciója arra utal, hogy ők",
+        "options": [
+            "(A) elragadtatottak.",
+            "(B) elbűvöltek.",
+            "(C) zavarodottak.",
+            "(D) aggódók."
+        ],
+        "label": "C",
+        "ind": 22
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "A szöveg alapján a tankönyvírók az 1990-es évek elején valószínűleg melyik állapotra számítottak volna a gyors rostok blokkolásának eredményeként?",
+        "options": [
+            "(A) A többi idegrost tüzelési sebessége növekedne.",
+            "(B) A tesztalany a gyenge ingereket fájdalmasnak érzékelné.",
+            "(C) A test úgy kompenzálna, hogy lassú rostokat használna a nyomás érzékelésére.",
+            "(D) A rezgések érzékelésének képessége romlana."
+        ],
+        "label": "D",
+        "ind": 23
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Mely következtetést támasztják alá legjobban Olausson 1993-as kísérletének eredményei?",
+        "options": [
+            "(A) A testi végtagok ingerlése ugyanolyan gyorsan érzékelhető, mint az agyhoz közelebbi ingerlés.",
+            "(B) Az emberi bőrön lévő szőrszálak jelenléte csökkenti a jelek vezetésének sebességét az idegekben.",
+            "(C) A gyengéd nyomást nemcsak a gyors rostok, hanem a lassú rostok is érzékelik.",
+            "(D) Az ideg tüzelési sebessége függ az idegre gyakorolt nyomás erősségétől."
+        ],
+        "label": "C",
+        "ind": 24
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Ésszerűen feltételezhető, hogy az 1999-es kísérlet egyik tervezett célja az volt, hogy meghatározza a",
+        "options": [
+            "(A) CT rostok által közvetíthető érzések pontos természetét.",
+            "(B) testszőrzet és CT rostok funkciója közötti kapcsolatot.",
+            "(C) CT rostok szerepét a fájdalomérzékelésben.",
+            "(D) mikroneurográfia hatását a CT rostok jelzésére."
+        ],
+        "label": "A",
+        "ind": 25
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "A szöveg leginkább azt sugallja, hogy a méhészek kereskedelmileg gyártott rovarirtószerekkel tett kísérletei az atkafertőzések leküzdésére milyen nem szándékos hatást fejtenek ki?",
+        "options": [
+            "(A) Növelik bizonyos atkapopulációk számát.",
+            "(B) Megölik néhány jótékony baktériumformát.",
+            "(C) Elpusztítják a méhek elsődleges táplálékforrását.",
+            "(D) Tovább károsítják néhány méh egészségét."
+        ],
+        "label": "D",
+        "ind": 0
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "A szerzők által a lóheréről tett kimondatlan feltételezés az, hogy a növények",
+        "options": [
+            "(A) nem termelnek piretrumokat.",
+            "(B) a krizantém nemzetség tagjai.",
+            "(C) általában vad típusú méhkolóniák közelében találhatók.",
+            "(D) nem lesznek jó táplálékforrások a kontroll kolóniák méhei számára."
+        ],
+        "label": "A",
+        "ind": 1
+    },
+    {
+        "passage": "None",
+        "question": "A táblázat adatai alapján a kolónia-összeomlási rendellenességgel sújtott kaptárak hány százalékában fertőződtek meg a méhek mind a négy kórokozóval?",
+        "options": [
+            "(A) 0 százalék",
+            "(B) 77 százalék",
+            "(C) 83 százalék",
+            "(D) 100 százalék"
+        ],
+        "label": "B",
+        "ind": 2
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "A táblázatban szereplő adatok alapján a négy kórokozó közül melyik fertőzte meg a legmagasabb százalékban a kolónia-összeomlási rendellenesség nélküli méhcsaládokat?",
+        "options": [
+            "(A)$\\mathrm{IAPV}$, (B)$\\mathrm{KBV}$, (C)Nosema apis, (D)Nosema ceranae"
+        ],
+        "label": "D",
+        "ind": 3
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "A táblázat adatai alátámasztják-e a szerzők azon állítását, hogy a varroa atkákkal való fertőzés növeli a mézelő méhek érzékenységét a másodlagos fertőzésekre?",
+        "options": [
+            "(A) Igen, mert az adatok bizonyítékot szolgáltatnak arra, hogy egy kórokozóval való fertőzés miatt a kolóniák kolónia-összeomlási rendellenességet szenvedtek el.",
+            "(B) Igen, mert minden kórokozó esetében a fertőzött kolóniák aránya nagyobb a kolónia-összeomlási rendellenességgel rendelkező kolóniák esetében, mint a kolónia-összeomlási rendellenesség nélküli kolóniák esetében.",
+            "(C) Nem, mert az adatok nem szolgáltatnak bizonyítékot a baktériumokról, mint a kolónia-összeomlási rendellenesség okáról.",
+            "(D) Nem, mert az adatok nem jelzik, hogy a mézelő méhek atkák által fertőzöttek voltak-e."
+        ],
+        "label": "D",
+        "ind": 4
+    },
+    {
+        "passage": "Nincs háttérinformáció",
+        "question": "A szöveg során az elsődleges fókusz áthelyeződik",
+        "options": [
+            "(A) Lymie belső gondolatairól a többi szereplő megfigyeléseire.",
+            "(B) egy idegenek közötti eszmecseréről egy kielégítő személyes kapcsolatra.",
+            "(C) a jelenet fizikai környezetéről a különböző szereplők személyiségjegyeire.",
+            "(D) Lymie könyvolvasási élményéről az étteremben lévő emberek leírásaira."
+        ],
+        "label": "D",
+        "ind": 5
+    },
+    {
+        "passage": "Nincs",
+        "question": "Az első bekezdés fő célja az, hogy",
+        "options": [
+            "(A) bemutassa a szöveg főszereplőjét az éjszakai szokásain keresztül.",
+            "(B) jelezze a szöveg időpontját korabeli részletek bemutatásával.",
+            "(C) közvetítse a szöveg környezetét egy hely és egy tárgy leírásával.",
+            "(D) előrevetítsen egy eseményt, amelyet később részletesen leírnak a szövegben."
+        ],
+        "label": "C",
+        "ind": 6
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "A narrátor szerint Lymie végül becsukja a történelemkönyvet, mert",
+        "options": [
+            "(A) az apja csatlakozott hozzá az asztalnál.",
+            "(B) a másik asztalnál lévők túl zavaróak.",
+            "(C) befejezte a fejezetet a Kongresszusról.",
+            "(D) készül elhagyni az éttermet."
+        ],
+        "label": "A",
+        "ind": 7
+    },
+    {
+        "passage": "Nincs háttérinformáció",
+        "question": "A záró bekezdés fő gondolata az, hogy Mr. Peters",
+        "options": [
+            "(A) elhanyagolja, hogy időt töltsön családtagjaival.",
+            "(B) úgy viselkedik, mintha fiatalabb önmaga lenne.",
+            "(C) nagyon tudatában van a gazdagság és hatalom szimbólumainak.",
+            "(D) azzal van elfoglalva, hogy tudja, öregszik."
+        ],
+        "label": "B",
+        "ind": 8
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Az 1. szakaszban Beecher melyik állítást fogalmazza meg a nők státuszáról a férfiakéhoz képest?",
+        "options": [
+            "(A) A nők a férfiaktól függnek a biztonságuk és védelmük érdekében, de a férfiak nagyrészt függetlenek a nőktől.",
+            "(B) A nők alacsonyabb rendűek, mint a férfiak, de a nők szerepe ugyanolyan jelentős, mint a férfiaké.",
+            "(C) A nőknek kevesebb joguk van, mint a férfiaknak, de a nőknek kevesebb kötelezettségük is van.",
+            "(D) A nők felsőbbrendűek, mint a férfiak, de a hagyomány megköveteli, hogy a nők engedelmeskedjenek a férfiaknak."
+        ],
+        "label": "B",
+        "ind": 9
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Beecher az 1. szövegben arra utal, hogy a nők közéletre gyakorolt hatása nagyrészt",
+        "options": [
+            "(A) figyelmen kívül hagyott, mert kevés férfit érdekel, mit gondolnak a nők a politikáról.",
+            "(B) közvetett, mert a nők az otthon és a családi élet keretein belül fejtik ki hatásukat.",
+            "(C) szükségtelen, mert a férfiak képesek önmaguk irányítani a társadalmat.",
+            "(D) szimbolikus, mert a nők hajlamosak idealistábban viszonyulni a politikához, mint a férfiak."
+        ],
+        "label": "B",
+        "ind": 10
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Mi Grimké központi állítása a 2. szövegben?",
+        "options": [
+            "(A) Az egyének jogait nem faj vagy nem határozza meg.",
+            "(B) A férfiaknak és nőknek meg kell tanulniuk együtt dolgozni a társadalom javítása érdekében.",
+            "(C) Az erkölcsi jogok a legfontosabb különbség az emberek és az állatok között.",
+            "(D) A férfiaknak és nőknek egyenlő lehetőségeket kell biztosítani a fejlődéshez."
+        ],
+        "label": "A",
+        "ind": 11
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "A 2. szövegben Grimké milyen megállapítást tesz az emberi jogokról?",
+        "options": [
+            "(A) Különböző kultúrákban másképp tekintenek rájuk a világon.  ",
+            "(B) Megőrzik erkölcsi tekintélyüket, függetlenül attól, hogy törvény által elismertek-e.  ",
+            "(C) Néha ellentmondanak az erkölcsi kötelezettségeknek.  ",
+            "(D) Az idők során fejlettebbé és kifinomultabbá váltak."
+        ],
+        "label": "B",
+        "ind": 12
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Melyik választás írja le legjobban a két szöveg közötti kapcsolatot?",
+        "options": [
+            "(A) A 2. szöveg bemutatja az 1. szövegben tett javaslat gyakorlati nehézségeit.",
+            "(B) A 2. szöveg vitatja az 1. szöveg elsődleges érvelését.",
+            "(C) A 2. szöveg történelmi kontextust ad az 1. szövegben bemutatott nézőpontnak.",
+            "(D) A 2. szöveg kifejti az 1. szövegben burkoltan megfogalmazott több ötletet."
+        ],
+        "label": "B",
+        "ind": 13
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Az alábbi állítások közül melyikkel értene egyet mindkét szerző a szövegek alapján?",
+        "options": [
+            "(A) A nőknek erkölcsi kötelességeik és felelősségeik vannak.",
+            "(B) A férfiak gyakran önzetlenül dolgoznak a politikai változásért.",
+            "(C) A nők erkölcsi kötelezettségeit gyakran alábecsülik.",
+            "(D) A politikai aktivizmus ugyanolyan fontos a nők számára, mint a férfiak számára."
+        ],
+        "label": "A",
+        "ind": 14
+    },
+    {
+        "passage": "None",
+        "question": "A szöveg szerint Maguire megállapításai a taxisofőrökkel kapcsolatban azért jelentősek, mert",
+        "options": [
+            "(A) egy új módszer érvényességét mutatják be.",
+            "(B) bizonyítékot szolgáltatnak egy népszerű nézőponthoz.",
+            "(C) megkérdőjeleznek egy korábbi konszenzust.",
+            "(D) kihívást jelentenek a korábbi adatok hitelességére."
+        ],
+        "label": "C",
+        "ind": 15
+    },
+    {
+        "passage": "Nincs",
+        "question": "Milyen kérdés megválaszolására irányult elsősorban Maguire mentális sportolókkal végzett tanulmánya?",
+        "options": [
+            "(A) A memorizálás aktusa más agyi struktúrákat használ-e, mint a navigáció aktusa?",
+            "(B) A mentális sportolók öröklik-e szokatlan agyi struktúráikat, vagy ezek a struktúrák speciális tevékenységek eredményeként alakulnak ki?",
+            "(C) A fokozott memorizálási képesség rendellenes agyi struktúrát tükröz-e, vagy a normál agyi struktúra szokatlan használatát?",
+            "(D) Mi a kapcsolat az általános kognitív képesség és a mentális sportolók szokatlan agyi struktúrái között?"
+        ],
+        "label": "C",
+        "ind": 16
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "A szöveg szerint, amikor Maguire második tanulmányában a mentális sportolókhoz hasonlították őket, a kontrollcsoport tagjai",
+        "options": [
+            "(A) összességében kevesebb agyi aktivitást mutattak.",
+            "(B) szélesebb kognitív képességtartományt mutattak.",
+            "(C) eltérő agyi aktivitási mintákat mutattak.",
+            "(D) észrevehetően kisebb hippokampális régiókkal rendelkeztek."
+        ],
+        "label": "C",
+        "ind": 17
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "A szöveg leginkább azt sugallja, hogy a mentális sportolók azért sikeresek a memorizálásban, mert",
+        "options": [
+            "(A) kihasználják az agy olyan részeit, amelyeket a rutinmemorizálás során általában nem használnak.",
+            "(B) az általuk megjegyezni próbált információkat absztrakt szimbólumokká alakítják.",
+            "(C) az információkat számértékek listájává szervezik a memorizálás előtt.",
+            "(D) rendszeresen edzik agyukat rejtvényekkel és más szellemi kihívásokkal."
+        ],
+        "label": "A",
+        "ind": 18
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Melyik választás írja le legjobban a szöveg fő témáját?",
+        "options": [
+            "(A) A materialista társadalom korrumpáló hatása",
+            "(B) A kisgyermekek erkölcsi tisztasága",
+            "(C) A gyermekkor naivitásának keserédes rövidsége",
+            "(D) A szülői szeretet helyreállító ereje"
+        ],
+        "label": "D",
+        "ind": 19
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Ahhoz képest, hogy Silas aranya milyen, Eppie úgy van ábrázolva, hogy több",
+        "options": [
+            "(A) életerővel rendelkezik.",
+            "(B) tartóssággal bír.",
+            "(C) védelmet nyújt.",
+            "(D) önellátó."
+        ],
+        "label": "A",
+        "ind": 20
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Melyik állítás írja le legjobban azt a technikát, amelyet az elbeszélő használ Silas jellemének bemutatására, mielőtt örökbe fogadta Eppie-t?",
+        "options": [
+            "(A) Az elbeszélő hangsúlyozza Silas korábbi megszállottságát a gazdagsággal, azáltal, hogy úgy ábrázolja az aranyát, mintha bizonyos viselkedéseket követelne tőle.",
+            "(B) Az elbeszélő aláhúzza Silas korábbi kapzsiságát, azáltal, hogy úgy írja le az aranyát, mintha az önmagától sokszorosodna.",
+            "(C) Az elbeszélő utal Silas korábbi antiszociális hozzáállására, azáltal, hogy szembeállítja jelenlegi viselkedését a szomszédai iránt a korábbi viselkedésével.",
+            "(D) Az elbeszélő bemutatja Silas korábbi öntudat-hiányát, azáltal, hogy azt sugallja, nem képes visszaemlékezni az életére Eppie előtt."
+        ],
+        "label": "A",
+        "ind": 21
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "A narrátor szerint, milyen következménye van annak, hogy Silas örökbe fogadta Eppie-t?",
+        "options": [
+            "(A) lemondott minden pénz utáni vágyról.",
+            "(B) jobban megérti helyét a természetben.",
+            "(C) úgy tűnik, hogy elfogadóbb mások segítségével szemben.",
+            "(D) másfajta jövőt vár."
+        ],
+        "label": "D",
+        "ind": 22
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "A narrátor Eppie és Silas kapcsolatát úgy írja le, hogy kapcsolatot teremt Eppie",
+        "options": [
+            "(A) fizikai sérülékenysége és Silas érzelmi törékenysége között.",
+            "(B) növekvő tudatossága és Silas élet iránti egyre nagyobb elkötelezettsége között.",
+            "(C) határtalan energiája és Silas kielégíthetetlen vagyonszerzési vágya között.",
+            "(D) fizikai növekedése és Silas saját halandóságának fájdalmas érzékelése között."
+        ],
+        "label": "B",
+        "ind": 23
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "A szöveg fő célja az, hogy",
+        "options": [
+            "(A) leírja, hogyan tudnak a repülőgépek osztagai üzemanyagot megtakarítani, ha V alakban repülnek.",
+            "(B) megvitatja a lefelé irányuló légáramlatok hatásait a madarakra és repülőgépekre.",
+            "(C) elmagyarázza a kutatást, amelyet annak tanulmányozására végeztek, hogy miért repülnek egyes madarak V alakban.",
+            "(D) szemléltesse, hogyan érzékelik a madarak a légáramlatokat a tollaik segítségével. A szerző idézi a \"A levegő eléggé kiszámíthatatlanná válik egy csapkodó szárny mögött\" mondatot."
+        ],
+        "label": "C",
+        "ind": 24
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Mi következtethető ésszerűen arra vonatkozóan, hogy miért használta Usherwood az északi tarvarjakat a tanulmányának alanyaként?",
+        "options": [
+            "(A) A tarvarjak jól ismerték a vándorlási útvonalukat.",
+            "(B) Usherwood tudta, hogy a tarvarjak hozzászoktak ahhoz, hogy adatgyűjtőket viseljenek vándorlás közben.",
+            "(C) A tarvarjak testfelépítése hasonló a modern repülőgépekéhez.",
+            "(D) A tarvarjak könnyen elérhetők voltak Usherwood és csapata számára a követés és megfigyelés érdekében."
+        ],
+        "label": "D",
+        "ind": 25
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "A 2. szakasz alapján Meltzer és csapata milyen bizonyítékokra támaszkodott, hogy megkérdőjelezze a Younger Dryas becsapódási hipotézist?",
+        "options": [
+            "(A) A feltételezett becsapódás jeleit mutató helyszínekhez rendelt dátumok újraértékelése",
+            "(B) További Clovis műtárgyak felfedezése számos helyszínen a kezdetben azonosított 29 mellett",
+            "(C) Elemzések, amelyek kimutatják, hogy nanodiamantok előfordulhatnak olyan geológiai formációkban, amelyek nem mutatják az űrbeli becsapódások jeleit",
+            "(D) Nagy iridiumkoncentrációk, amelyeket az állítólagos becsapódási réteg alatti üledékrétegekben találtak"
+        ],
+        "label": "A",
+        "ind": 0
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Melyik állítás írja le legjobban a két szöveg közötti kapcsolatot?",
+        "options": [
+            "(A) A 2. szöveg kritikát fogalmaz meg az 1. szövegben leírt központi hipotézisről.",
+            "(B) A 2. szöveg elmagyarázza az 1. szövegben kidolgozott központi hipotézis által vizsgált tudományos kérdést.",
+            "(C) A 2. szöveg az 1. szövegben összefoglalt központi hipotézis lehetséges következményeit tárgyalja.",
+            "(D) A 2. szöveg az 1. szövegben előterjesztett központi hipotézis melletti bizonyítékokat azonosítja."
+        ],
+        "label": "A",
+        "ind": 1
+    },
+    {
+        "passage": "Nincs",
+        "question": "Mindkét szöveg szerzői úgy jellemzik a hatás hipotézist, mint",
+        "options": [
+            "['(A)megbízható bizonyítékokkal nem alátámasztott.', '(B)érdekes, de nehezen értékelhető véglegesen.', '(C)a nagyközönség számára vonzóbb, mint a szakemberek számára.', '(D)ellentmondásos a tudományos közösségben.']"
+        ],
+        "label": "D",
+        "ind": 2
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Ha Meltzer megállapításai (2. szöveg) pontosak, mi következtethető legésszerűbben az üveg- és szén gömböcskékről, amelyeket az 1. szöveg utolsó bekezdése említ?",
+        "options": [
+            "(A) Lehet, hogy nem a fiatalabb dryas elején keletkeztek.",
+            "(B) A fiatalabb dryas időszakában bekövetkezett globális lehűlés termékei.",
+            "(C) Legmagasabb koncentrációban a Clovis régészeti lelőhelyeken találták őket.",
+            "(D) Lehet, hogy valami szerepet játszottak a Clovis emberek szerszámtechnológiájában."
+        ],
+        "label": "A",
+        "ind": 3
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Az első bekezdés fő célja az, hogy",
+        "options": [
+            "(A) Nawabot szerető apaként jellemezze.",
+            "(B) felvázolja Nawab egy tipikus napjának időbeosztását.",
+            "(C) leírja Nawab különböző pénzkereseti vállalkozásait.",
+            "(D) szembeállítsa Nawab és Harouni életstílusát."
+        ],
+        "label": "C",
+        "ind": 4
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "A szövegből ésszerűen levonható következtetés, hogy Harouni főként azért ad Nawabnak motorkerékpárt, mert",
+        "options": [
+            "(A) Harouni értékeli, hogy Nawab keményen dolgozik, hogy eltartsa a családját.",
+            "(B) Harouni saját maga számára lát előnyt abban, hogy Nawabnak motorkerékpárt ad.",
+            "(C) Nawab beszéde a legékesszólóbb, amit Harouni valaha is hallott.",
+            "(D) Nawab azzal fenyegetőzik, hogy felmond, ha Harouni nem egyezik bele, hogy motorkerékpárt ad neki."
+        ],
+        "label": "B",
+        "ind": 5
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "A szöveg azt állítja, hogy a farmvezetők hogyan reagálnak arra, hogy Nawab motorkerékpárt kap:",
+        "options": [
+            "(A) Undorral.",
+            "(B) Boldogsággal.",
+            "(C) Irigységgel.",
+            "(D) Közönnyel."
+        ],
+        "label": "A",
+        "ind": 6
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "A szöveg alapján Nawab szerint mi a legjobb eredménye annak, hogy megszerezte a motorkerékpárt?",
+        "options": [
+            "(A) Az emberek „Nagybácsinak” kezdik hívni.",
+            "(B) Ki tudja bővíteni az üzletét.",
+            "(C) Képes oktatni a lányait.",
+            "(D) Több időt tud tölteni a feleségével."
+        ],
+        "label": "D",
+        "ind": 7
+    },
+    {
+        "passage": "None",
+        "question": "A szöveg fő célja az, hogy",
+        "options": [
+            "(A) elemezze azokat a technológiai fejlesztéseket, amelyek befolyásolták a hírek előállítását, terjesztését és fogadtatását.",
+            "(B) megvitassa a hírmédia, mint a közhasznú tudás forrásának megítélésében bekövetkezett változásokat.",
+            "(C) bemutassa, hogyan befolyásolják az újságírók értékkeretei a hírek előállítását.",
+            "(D) megkérdőjelezze a hagyományos nézetet, miszerint a hírek a közhasznú tudás egy formája."
+        ],
+        "label": "B",
+        "ind": 8
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "A szöveg szerint, melyik elvárással néznek szembe most a hagyományos hatóságok?",
+        "options": [
+            "(A) Nem szabad, hogy kereskedelmi megfontolások befolyásolják őket.",
+            "(B) Elkötelezetteknek kell lenniük a pozitív társadalmi változások elérése iránt.",
+            "(C) Tiszteletben kell tartaniuk a nyilvános és magánjellegű tudás közötti különbséget.",
+            "(D) Átláthatónak kell lenniük a hiedelmeik és feltételezéseik tekintetében."
+        ],
+        "label": "D",
+        "ind": 9
+    },
+    {
+        "passage": "Nincs",
+        "question": "A szerzők arra utalnak, hogy a közvélemény kezd hinni abban, hogy az újságírók tudósításainak kerülniük kellene",
+        "options": [
+            "(A) személyes megítéléseket a beszámolt eseményekkel kapcsolatban.",
+            "(B) a feltétlenül szükségesnél több információt.",
+            "(C) idézeteket a témával foglalkozó hatóságoktól.",
+            "(D) részleteket, amelyeket a hírek alanyai szeretnének titokban tartani."
+        ],
+        "label": "A",
+        "ind": 10
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "A táblázat alapján melyik évben bíztak meg leginkább az emberek a hírmédiában?",
+        "options": [
+            "(A) 1985",
+            "(B) 1992",
+            "(C) 2003",
+            "(D) 2011"
+        ],
+        "label": "A",
+        "ind": 11
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Melyik állítást támasztja alá legjobban a táblázatban bemutatott információ?",
+        "options": [
+            "(A) 1985 és 2011 között az pontatlan hírek aránya drámaian megemelkedett.",
+            "(B) 1992 és 2003 között majdnem megduplázódott azok aránya, akik úgy vélték, hogy a hírszervezetek elfogultak.",
+            "(C) 2003 és 2007 között az emberek nézetei a hírszervezetek pontosságáról, függetlenségéről és pártatlanságáról nagyon keveset változtak.",
+            "(D) 2007 és 2011 között az emberek észlelése, hogy a hírszervezetek pontosak, növekedett, de az, hogy a hírszervezetek pártatlanok, csökkent."
+        ],
+        "label": "C",
+        "ind": 12
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "A szövegben bemutatottak szerint Theis és Adler kutatása elsősorban milyen típusú bizonyítékokra támaszkodott?",
+        "options": [
+            "['(A) Közvetlen megfigyelés', '(B) Történelmi adatok', '(C) Szakértői tanúvallomás', '(D) Véletlenszerű mintavétel']"
+        ],
+        "label": "A",
+        "ind": 13
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Mely állítás vonatkozóan a csíkos uborkabogarakra vonható le legésszerűbben a szövegből?",
+        "options": [
+            "(A) Elsősorban a texasi tök növényeken táplálkoznak.",
+            "(B) Kevésbé vonzza őket a dimetoxibenzén, mint a méheket.",
+            "(C) Csak kisebb negatív hatásokat tapasztalnak a baktériumos hervadás betegség hordozásának eredményeként.",
+            "(D) Ugyanaz a vegyület vonzza őket a texasi tök illatában, mint a sütőtök méheket."
+        ],
+        "label": "D",
+        "ind": 14
+    },
+    {
+        "passage": "Nincs",
+        "question": "A szerző azt jelzi, hogy kezdetben hihetőnek tűnik, hogy a texasi tök növények több beporzót vonzhatnának, ha",
+        "options": [
+            "(A) nem lennének illatos virágaik.",
+            "(B) a méheken kívül más rovarokra irányulnának.",
+            "(C) növelnék virágillatukat.",
+            "(D) többféle illatos vegyületet bocsátanának ki."
+        ],
+        "label": "C",
+        "ind": 15
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "A szöveg szerint Theis és Adler kutatása melyik alábbi kérdésre ad választ?",
+        "options": [
+            "(A) Hogyan növelhetik a texasi tök növények a beporzók látogatásainak számát?",
+            "(B) Miért van felső határa a texasi tök növények által kibocsátott aroma intenzitásának?",
+            "(C) Miért menti meg a kézi beporzás a bogarak által megtámadott texasi tök növények termésének súlyát?",
+            "(D) Miért hagyják abba a texasi tök növények a beporzók számára vonzó illat kibocsátását, amikor bogarak vannak jelen?"
+        ],
+        "label": "B",
+        "ind": 16
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Az 1. szövegben Lincoln azt állítja, hogy a törvény megszegésének milyen következménye van?",
+        "options": [
+            "['(A) Lassítja a rossz törvények hatályon kívül helyezését.', '(B) Aláássa és elutasítja a nemzet értékeit.', '(C) Lassan, de elkerülhetetlenül a tömeg uralmához vezet.', '(D) Megosztottságot teremt a társadalmi csoportok között.']"
+        ],
+        "label": "B",
+        "ind": 17
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "A 2. szakaszban Thoreau arra utal, hogy a kormányzat néhány igazságtalan aspektusa",
+        "options": [
+            "(A) felszínes, és könnyen kijavítható.",
+            "(B) finom, és alaposan tanulmányozni kell.",
+            "(C) önjavító, és hasznos lehet.",
+            "(D) elkerülhetetlen, és el kell viselni."
+        ],
+        "label": "D",
+        "ind": 18
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Mindegyik szöveg elsődleges célja az, hogy",
+        "options": [
+            "(A) érveljen a jogi kötelességek és erkölcsi parancsolatok közötti különbségről.",
+            "(B) megvitassa, hogyan kell törvényeket hozni és megváltoztatni egy demokráciában.",
+            "(C) kifejtse azt a nézetet, hogy az egyéneknek követniük kell-e az ország összes törvényét.",
+            "(D) megfogalmazza azokat a szabványokat, amelyek alapján a törvények igazságosnak vagy igazságtalannak értékelhetők."
+        ],
+        "label": "C",
+        "ind": 19
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "A szövegek alapján, mi a közös vonás Lincoln és Thoreau álláspontjában az abolicionizmussal kapcsolatban?",
+        "options": [
+            "(A) Mindkét szerző úgy látja, hogy az ügy radikális lépéseket igényel.",
+            "(B) Mindkét szerző központi elemként tekint az ügyre érvelésében.",
+            "(C) Egyik szerző sem várja, hogy az ügy széles körű elfogadást nyerjen.",
+            "(D) Egyik szerző sem vallja magáénak az ügyet."
+        ],
+        "label": "D",
+        "ind": 20
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "A szöveget kinek a nézőpontjából írták?",
+        "options": [
+            "(A) Fogyasztó, aki különféle lehetőségeket értékel.",
+            "(B) Tudós, aki versengő kutatási módszereket hasonlít össze.",
+            "(C) Újságíró, aki felsorolja egy terület változásait.",
+            "(D) Hobbi szinten foglalkozó személy, aki az új technológia képességeit magyarázza."
+        ],
+        "label": "C",
+        "ind": 21
+    },
+    {
+        "passage": "Nincs",
+        "question": "A szöveg szerint a kétoldalas napelemek valószínűleg úgy növelik a hatékonyságot, hogy",
+        "options": [
+            "(A) kevés energiát igényelnek a működéshez.",
+            "(B) elnyelik a visszavert fényt.",
+            "(C) viszonylag olcsón gyárthatók.",
+            "(D) megakadályozzák, hogy a fény elérje a talajt."
+        ],
+        "label": "B",
+        "ind": 22
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "A szöveg utolsó mondata elsősorban azt szolgálja, hogy",
+        "options": [
+            "(A) kifejezze az aggodalmat egy anyag korlátai miatt.",
+            "(B) azonosítson egy akadályt, amelyet le kell küzdeni.",
+            "(C) előrejelzést tegyen bizonyos eszközök hatékony használatáról.",
+            "(D) bemutasson egy lehetséges új kutatási területet."
+        ],
+        "label": "B",
+        "ind": 23
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Melyik állítás írja le legjobban azt a technikát, amit Smith a szövegen keresztül alkalmaz, hogy elősegítse fő mondanivalóját?",
+        "options": [
+            "(A) Kijelentéseit retorikai kérdések formájában mutatja be, amelyek többnyire implicit negatív válaszokat hordoznak.",
+            "(B) Ellenfeleit az általuk tett önellentmondó megjegyzések idézésével kritizálja.",
+            "(C) Minden központi gondolatát érzelmileg erőteljes anekdotával illusztrálja.",
+            "(D) Nézetei ésszerűségét hangsúlyozza azáltal, hogy azokat úgy mutatja be, mintha általánosan elfogadottak lennének."
+        ],
+        "label": "A",
+        "ind": 0
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Melyik választás foglalja össze legjobban az első bekezdést?",
+        "options": [
+            "(A) Smith kifejt egy hagyományos nézőpontot és bizonyítékokat mutat be annak alátámasztására.",
+            "(B) Smith elutasít egy állítást és részletezi az okait ennek megtételére.",
+            "(C) Smith bemutatja a témáját és történelmi hátteret biztosít annak megértéséhez.",
+            "(D) Smith azonosít egy problémát és lépéseket javasol annak orvoslására."
+        ],
+        "label": "B",
+        "ind": 1
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "A szövegben Smith amellett érvel, hogy a nők számára lehetséges, hogy melyik tevékenységet folytassák?",
+        "options": [
+            "(A) Humanitárius elvek szerint cselekedni, miközben megőrzik nőiességüket",
+            "(B) Személyes erkölcsükhöz ragaszkodni, miközben politikailag semlegesek maradnak",
+            "(C) Hozzájárulni családjuk pénzügyi biztonságához, miközben megfelelnek a társadalmi elvárásoknak",
+            "(D) Ellenszegülni a háborús felhívásoknak, miközben ellenzik a rabszolgaságot"
+        ],
+        "label": "A",
+        "ind": 2
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Smith szerint az amerikai alkotmány mely intézkedést követeli meg az északi szabad államok részéről, ha a rabszolgák felkelnének?",
+        "options": [
+            "(A) Az északi államoknak meg kellene szakítaniuk a kapcsolatot a rabszolgatartó államokkal.",
+            "(B) Az északi államoknak menedéket kellene nyújtaniuk a rabszolgatartó államokból érkező menekülteknek.",
+            "(C) Az északi államoknak segíteniük kellene a rabszolgatartó államokat a rabszolgák lázadásának leverésében.",
+            "(D) Az északi államoknak pénzügyi támogatást kellene nyújtaniuk a lázadó rabszolgáknak."
+        ],
+        "label": "C",
+        "ind": 3
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "A szövegben Smith azt sugallja, hogy a rabszolgaság hogyan befolyásolja az Egyesült Államokat?",
+        "options": [
+            "(A) az ország nemzetközi közösségbeli hírnevének csökkentésével.",
+            "(B) sok nő arra késztetésével, hogy megtagadják hűségüket az országhoz.",
+            "(C) erőszakos konfliktusok okozásával az ország sok területén.",
+            "(D) az ország kormányának tekintélyének gyengítésével."
+        ],
+        "label": "A",
+        "ind": 4
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Az 1. szakasz első bekezdése elsősorban arra szolgál, hogy",
+        "options": [
+            "(A) bemutasson egy állítást, amelyet a szöveg során alátámasztanak és fejlesztenek.",
+            "(B) bemutasson egy vitát, amelyet a szövegben leírt tanulmány hivatott megoldani.",
+            "(C) azonosítson egy problémát, amelynek megoldásában a szövegben tárgyalt kutatás segíthet.",
+            "(D) felkínáljon egy elméletet, amelyet a szövegben bemutatott eredmények megkérdőjeleznek."
+        ],
+        "label": "C",
+        "ind": 5
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "A 1. szöveg szerzője arra utal, hogy Lewis csapatának a mikroorganizmusok növesztésére alkalmazott módszerének egyik előnye az, hogy",
+        "options": [
+            "(A) azonosítja a talajbaktériumok növekedéséhez szükséges feltételeket, és ezeket a jellemzőket mesterséges talajban is megismétli.",
+            "(B) lehetővé teszi a talajbaktériumok számára, hogy több tápanyagot vegyenek fel, mint amennyit általában fogyasztanak természetes környezetben.",
+            "(C) közvetlenül a baktériumok sejtfalaira hat, nem pedig az általuk termelt fehérjékre.",
+            "(D) lehetővé teszi a kutatók számára, hogy kihasználják azokat a talajbaktériumokat, amelyeket korábban nem tudtak hasznosítani."
+        ],
+        "label": "D",
+        "ind": 6
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "A 2. szöveg szerzője valószínűleg melyik állítással értene egyet a teixobactin fejlesztéséről?",
+        "options": [
+            "(A) Kiderül belőle, hogy egyes antibiotikumok hatékonyak a gram-negatív baktériumok ellen.",
+            "(B) Megmutatja, hogy a hagyományos módszerek még mindig új típusú antibiotikumokat eredményezhetnek.",
+            "(C) Kétségbe vonja annak gyakorlati megvalósíthatóságát, hogy új antibiotikumokat keressünk egzotikus környezetekben.",
+            "(D) Megerősít egy régóta fennálló hiedelmet egy új antibiotikumforrás lehetőségéről."
+        ],
+        "label": "D",
+        "ind": 7
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "A 2. szakasz utolsó mondatában a szerző elsősorban azért használja az \"öt év és 500 millió font\" kifejezést, hogy",
+        "options": [
+            "(A) hangsúlyozza az erőfeszítés mértékét, amely szükséges ahhoz, hogy a teixobactin elérhetővé váljon a fogyasztók számára.",
+            "(B) kritizálja a kormány által a teixobactin fejlesztésére fordított finanszírozás mértékét.",
+            "(C) aláhúzza az időt és pénzt, amelyet már a teixobactin kutatására fordítottak.",
+            "(D) összehasonlítsa a teixobactin fejlesztésére fordított pénzt más antibiotikumok fejlesztésére fordított összeggel."
+        ],
+        "label": "A",
+        "ind": 8
+    },
+    {
+        "passage": "Nincs előzmény.",
+        "question": "Melyik választás írja le legjobban az 1. és a 2. szöveg közötti kapcsolatot?",
+        "options": [
+            "(A) A 2. szöveg értékeli az 1. szövegben tárgyalt kutatás jelentőségét.",
+            "(B) A 2. szöveg javaslatot tesz az 1. szövegben leírt módszertan módosítására.",
+            "(C) A 2. szöveg konkrét példákat használ az 1. szövegben tárgyalt fogalmak illusztrálására.",
+            "(D) A 2. szöveg elutasító álláspontot képvisel az 1. szövegben említett eredményekkel kapcsolatban."
+        ],
+        "label": "A",
+        "ind": 9
+    },
+    {
+        "passage": "Nincs",
+        "question": "Mindkét szöveg azt a pontot emeli ki, hogy a teixobactin hasznos lehet",
+        "options": [
+            "['(A)a laboratóriumi körülmények között előállított antibiotikumok jövőbeli fejlesztésének szabványosításában.', '(B)azoknak a fertőzéseknek a leküzdésében, amelyek már nem reagálnak más antibiotikumokkal történő kezelésre.', '(C)a patogén talajgombák terjedésének ellenőrzésében.', '(D)egy új módszer kialakításában az antibiotikumok hatékonyságának tanulmányozására.']"
+        ],
+        "label": "B",
+        "ind": 10
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Melyik következtetést támasztják alá legjobban a 2. szakaszban található információk az 1. szakaszban leírt kísérlet egereiről?",
+        "options": [
+            "(A) A teixobactinnak való kitettség kevésbé tette őket fogékonnyá a későbbi felső légúti fertőzésekre.",
+            "(B) A gram-pozitív baktériumok fokozzák a teixobactin hatékonyságát a felső légúti fertőzéseik ellen.",
+            "(C) Felső légúti fertőzéseiket valószínűleg nem gram-negatív baktériumok okozták.",
+            "(D) A teixobactin megtámadta a felső légúti fertőzéseiket okozó baktériumok fehérjéit."
+        ],
+        "label": "C",
+        "ind": 11
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Melyik választás írja le legjobban, mi történik a szövegben?",
+        "options": [
+            "(A) Az elbeszélő visszaemlékezik arra, hogyan változott meg egy másik szereplő viselkedése.",
+            "(B) Az elbeszélő küzd azért, hogy megértse egy másik szereplő motivációit.",
+            "(C) Az elbeszélő megvitatja a közös szakmai érdeklődési köröket egy másik szereplővel.",
+            "(D) Az elbeszélő elmeséli azokat az eseményeket, amelyek egy másik szereplőt arra vezettek, hogy támogassa a projektjét."
+        ],
+        "label": "C",
+        "ind": 12
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "A szöveg szerint Tiffany várja a közelgő Chicagói Világkiállítást, mint egy lehetőséget arra, hogy",
+        "options": [
+            "(A) nagyobb népszerű elismerést szerezzen.",
+            "(B) sok dekorációs tárgyat eladjon.",
+            "(C) más híres művészekkel együttműködjön.",
+            "(D) bemutassa azokat a darabokat, amelyeket kritikai elismerésben részesítettek."
+        ],
+        "label": "A",
+        "ind": 13
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "A narrátor azt jelzi, hogy Tiffany tájékoztatja őt az új projektjeiről azáltal, hogy",
+        "options": [
+            "(A) bemutat egy sor tervet azokról az ólomüveg ablakokról, amelyeket meg akar valósítani.",
+            "(B) bemutat néhány kész ólomüveg ablakot, és részletesen leírja azokat.",
+            "(C) megkérdezi a véleményét az akvarell festményekről, amelyeket Chicagóban tervez kiállítani.",
+            "(D) bemutat egy diagramot, amelyen látható a Chicagóban kiállítani tervezett műalkotások elhelyezése."
+        ],
+        "label": "A",
+        "ind": 14
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "A szöveg alapján a leginkább ésszerűen feltételezhető, hogy az elbeszélő tehetségei közé tartozik az a képesség, hogy",
+        "options": [
+            "(A) képzeletgazdag neveket találjon ki az általa használt üveg színeinek.",
+            "(B) egy meglévő ötletet fejlesszen tovább technikai újításokkal műalkotások számára.",
+            "(C) hiteles kritikákat nyújtson klasszikus műalkotásokról.",
+            "(D) részletes vázlatokat készítsen, amelyekre nagyobb műalkotások alapozhatók."
+        ],
+        "label": "B",
+        "ind": 15
+    },
+    {
+        "passage": "Nincs",
+        "question": "A szöveg fő célja az, hogy",
+        "options": [
+            "['(A)leírja egy jelenség okait és következményeit.', '(B)új megoldást javasoljon egy folyamatban lévő problémára.', '(C)megkérdőjelezze, hogy a legújabb kutatásoknak van-e gyakorlati alkalmazása.', '(D)bírálja az új eredményekhez vezető módszertant.']"
+        ],
+        "label": "A",
+        "ind": 16
+    },
+    {
+        "passage": "None",
+        "question": "A szöveg alapján melyik választás írja le legjobban Frick és Rodríguez-Pose első és második tanulmányának kapcsolatát?",
+        "options": [
+            "(A) A második tanulmány kijavít egy kisebb hibát az első tanulmány kutatásában.",
+            "(B) A második tanulmány megerősít egy olyan hipotézist, amelyet az első tanulmányban nem tudtak megerősíteni.",
+            "(C) A második tanulmány az első tanulmány eredményeire épít.",
+            "(D) A második tanulmány egy közelmúltbeli esemény negatívabb értelmezését kínálja, mint az első tanulmány."
+        ],
+        "label": "C",
+        "ind": 17
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "A szöveg alapján ésszerűen feltételezhető, hogy egy megaváros gazdasági hatása egy országra",
+        "options": [
+            "(A) nagyobb azokban az országokban, amelyeknek nagyobb a fizikai területe.",
+            "(B) a megavárosban található vállalatok típusától függ.",
+            "(C) viszonylag egyenlő a fejlődő országok és a magas jövedelmű országok esetében.",
+            "(D) semlegesíthető egy megaváros fenntartásának gazdasági költségével."
+        ],
+        "label": "B",
+        "ind": 18
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "A grafikon szerint mely években haladta meg először a fejlődő országok városi népességének medián mérete a magas jövedelmű országokét?",
+        "options": [
+            "(A) 1965–1970",
+            "(B) 1980–1985",
+            "(C) 1990–1995",
+            "(D) 2005–2010"
+        ],
+        "label": "C",
+        "ind": 19
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Melyik állítást a szövegből támasztja alá legjobban a grafikon?",
+        "options": [
+            "(A) A fejlődő országok városainak medián népessége 1960 és 2010 között élesebben nőtt, mint a magas jövedelmű országok városainak medián népessége.",
+            "",
+            "(B) 1960-ban a legnagyobb átlagos városmérettel rendelkező országok több mint fele magas jövedelmű ország volt.",
+            "",
+            "(C) Egy nagyvárosban 100 000 ember hozzáadása növeli a gazdasági növekedést a magas jövedelmű országokban, de csökkenti a gazdasági növekedést a fejlődő országokban.",
+            "",
+            "(D) A fejlődő országoknak előnyük származik abból, ha a városi népesség nagyobb része kisebb és közepes méretű városokban él."
+        ],
+        "label": "A",
+        "ind": 20
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Mit jelez az 1. szöveg a humán genomról?",
+        "options": [
+            "(A) Nagy számú változáson ment keresztül az idők során.",
+            "(B) Mérete közel megháromszorozódott az elmúlt néhány millió évben.",
+            "(C) Sokkal több gént tartalmaz, mint a nem emberi főemlősök genomjai.",
+            "(D) Csak néhány gént tart meg azok közül, amelyek jelen voltak a gyenyiszovánok genomjában."
+        ],
+        "label": "A",
+        "ind": 21
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Az 1. szöveg alapján, melyik fogalom valószínűleg hozzájárult Haussler csapatának kezdeti érdeklődéséhez a NOTCH2NL iránt?",
+        "options": [
+            "(A) Hasonló gének gyakran különböző szerepeket játszanak a különböző fajok fejlődésében.  ",
+            "(B) Egyetlen gén általában különböző funkciókkal rendelkezik attól függően, hogy hol helyezkedik el a genomában.  ",
+            "(C) A genomában egymás közelében lévő gének általában hasonló ütemben duplikálódnak.  ",
+            "(D) Egymással rokon gének hajlamosak összehasonlítható biológiai szerepeket betölteni a fejlődés során."
+        ],
+        "label": "D",
+        "ind": 22
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Melyik választás írja le legjobban a szövegek közötti kulcsfontosságú különbséget?",
+        "options": [
+            "(A) Az 1. szöveg csak számítógépes szimulációkból származó adatokra hivatkozik, míg a 2. szöveg szimulációkból és fosszíliákból származó adatokat is említ.  ",
+            "(B) Az 1. szöveg kizárólag az emberi ősök agyának genetikai elemzésével foglalkozik, míg a 2. szöveg több főemlős faj agyának genetikai elemzését tárgyalja.  ",
+            "(C) Az 1. szöveg korlátozza a vitát az emberi történelem legutóbbi evolúciós változásaira, míg a 2. szöveg évezredeken át zajló változásokat vizsgál.  ",
+            "(D) Az 1. szöveg a kis léptékű genetikai változásokra összpontosít, amelyek befolyásolták az agy evolúcióját, míg a 2. szöveg a nagyszabású, populáció szintű változások hatására összpontosít."
+        ],
+        "label": "D",
+        "ind": 23
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Mindkét részlet állítja, hogy a modern emberi agy körülbelül háromszor nagyobb, mint a következő csoportok agya:",
+        "options": [
+            "(A) bonobók.",
+            "(B) csimpánzok.",
+            "(C) korai homininok.",
+            "(D) neandervölgyiek."
+        ],
+        "label": "B",
+        "ind": 24
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "A szöveg egyik központi témája az, hogy",
+        "options": [
+            "'(A) a polgárok jogainak bővítése nem feltétlenül javítja a nemzeti egészségügyi eredményeket.', '(B) az emberi jogi kezdeményezéseknek általában több finanszírozást kellene kapniuk, mint az egészségügyi kezdeményezéseknek.', '(C) az emberi jogokat keretként kellene használni a kormányzati politikában az őslakos kérdések kapcsán.', '(D) az őslakos népek jogaira való összpontosítás elvonja a figyelmet az őslakos közösségek gyakorlati problémáiról.'"
+        ],
+        "label": "C",
+        "ind": 25
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Calma szerint a kormány azon mulasztása, hogy az őslakosok egészségügyi kezdeményezéseire fordított kiadásait konkrét egészségügyi eredményekhez kösse, káros, mert",
+        "options": [
+            "(A) megerősíti a negatív hozzáállást a kormány pénzügyi alkalmasságával kapcsolatban.  ",
+            "(B) aláássa az erőfeszítéseket a gyakorlatok egységesítésére a kormány minden osztályán.  ",
+            "(C) fenntartja a kormánytisztviselők hatalommal való visszaélésének mintáját.  ",
+            "(D) lehetővé teszi a kormány számára, hogy elkerülje a politikáiért való elszámoltathatóság kötelezettségét."
+        ],
+        "label": "D",
+        "ind": 0
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Calma rámutat, hogy a múltban az ausztrál kormány melyik aspektusát hangsúlyozta az őslakosokkal való kapcsolatának?",
+        "options": [
+            "['(A) Az a hajlandóság, amit az őslakos vezetőkkel való találkozásra mutatott', '(B) A sajnálat, amit az őslakosokkal szemben elkövetett igazságtalanságok miatt kifejezett', '(C) Azok a javulások, amelyeket az őslakosok életkörülményeiben ért el', '(D) Azok a pénzügyi források, amelyeket az őslakos ügyekre fordított']"
+        ],
+        "label": "D",
+        "ind": 1
+    },
+    {
+        "passage": "Nincs háttérinformáció",
+        "question": "A szöveg alapján Calma valószínűleg egyetértene azzal, hogy az őslakosokkal kapcsolatos programok nagyobb eséllyel lennének sikeresek, ha az ausztrál kormány",
+        "options": [
+            "(A) felhatalmazná az őslakos közösségeket, hogy segítsenek az ilyen programok kidolgozásában és végrehajtásában.",
+            "(B) ugyanolyan bőkezűen finanszírozná ezeket a programokat, mint a nem őslakosokat segítő programokat.",
+            "(C) az egészségügyi kezdeményezések mintájára alakítaná ki ezeket a programokat, amelyeknek már bizonyítottan van sikeres múltjuk.",
+            "(D) annyi erőforrást szentelne ezekre a programokra, mint az előző kormány tette."
+        ],
+        "label": "A",
+        "ind": 2
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "A szöveg alapján Calma úgy tekint a beszéde közönségére, mint akik",
+        "options": [
+            "(A) szkeptikusak azzal kapcsolatban, hogy a kormány sikertelen őslakos politikáiért felelős egyéni személyeket felelősségre vonják-e.",
+            "",
+            "(B) rosszul tájékozottak a legtöbb őslakos közösségben tapasztalható gazdasági és társadalmi helyzetekről.",
+            "",
+            "(C) kételkednek abban, hogy van-e értelme az őslakos ügyeket a tágabb emberi jogi kontextusban tárgyalni.",
+            "",
+            "(D) túlságosan elnézőek azzal a ténnyel szemben, hogy a kormány kezdeményezései az őslakos népeket érintő egyenlőtlenségek kezelésére nem jártak sikerrel."
+        ],
+        "label": "D",
+        "ind": 3
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "A szöveg fő célja az, hogy",
+        "options": [
+            "(A) megtárgyaljon egy tanulmányt, amely a Földön található nagy számú meteoritot próbálja megmagyarázni, amelyek primitív aszteroidákról származnak.",
+            "(B) leírja azokat a versengő hipotéziseket, amelyek a primitív aszteroidák kialakulásának körülményeiről szólnak.",
+            "(C) bemutasson egy tudományos vitát a differenciált aszteroidák gyakoriságáról az aszteroidaövben a korai Naprendszerben.",
+            "(D) magyarázattal szolgáljon a differenciált aszteroidák egyik összetevőjének hiányára az aszteroidaövben és a Földön található meteoritok között."
+        ],
+        "label": "D",
+        "ind": 4
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "A szöveg leginkább azt sugallja, hogy ha az aszteroidaövön belüli ütközéses erózió elegendő lenne a szövegben tárgyalt helyzet magyarázatához, akkor ennek következtében a tudósok arra számítanának, hogy",
+        "options": [
+            "(A) Vesta nem az egyetlen nagy különálló aszteroida az aszteroidaövben.",
+            "(B) az aszteroidaövben sokkal kevesebb primitív aszteroida van, mint jelenleg.",
+            "(C) az aszteroidaövben lévő vas töredékek hajlamosak kisebbek lenni, mint az aszteroidaövben lévő sziklás töredékek.",
+            "(D) eredetileg körülbelül annyi primitív aszteroida volt, mint különálló aszteroida az aszteroidaövben."
+        ],
+        "label": "B",
+        "ind": 5
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "A szöveg szerint Bottke és kollégái azzal magyarázzák a vas töredékek jelenlétét az aszteroidaövben, hogy a töredékek",
+        "options": [
+            "(A) differenciálódott aszteroidák maradványai, amelyeket az aszteroidaövben történt ütközések során pusztítottak el.",
+            "(B) viszonylag közel jöttek létre a Naphoz, és nagy objektumok gravitációja miatt kerültek az aszteroidaövbe.",
+            "(C) földi bolygókon alakultak ki, és primitív aszteroidákkal való ütközések során kerültek az aszteroidaövbe.",
+            "(D) a földi bolygók régiójában alakultak ki, de primitív aszteroidák szülőtestjeivel való ütközések során kerültek az aszteroidaövbe."
+        ],
+        "label": "B",
+        "ind": 6
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Az adatok a táblázatban legjobban azt a következtetést támasztják alá, hogy az aszteroidaöv teljes tömegének többsége olyan aszteroidákban található, amelyek",
+        "options": [
+            "(A) primitívek.",
+            "(B) bazaltosak.",
+            "(C) magas a fényvisszaverő képességük.",
+            "(D) alacsony a fényvisszaverő képességük."
+        ],
+        "label": "A",
+        "ind": 7
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Feltételezve, hogy a négy legnagyobb aszteroidaöv-objektum az itt felsorolt 11 aszteroidatípus között van, melyik állítás ezekről az aszteroidákról van a legjobban alátámasztva az adatok alapján a táblázatban?",
+        "options": [
+            "(A) Egyikük sem V típusú.",
+            "(B) Egyikük sem valószínű, hogy tartalmaz szenet.",
+            "(C) Egyikük K típusú.",
+            "(D) Kettő közülük azonos típusú."
+        ],
+        "label": "D",
+        "ind": 8
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "A szöveg és a táblázat együttvéve leginkább azt sugallja, hogy a néhány csillagász által javasolt modell mely következtetést vonná le a C típusú aszteroidákról?",
+        "options": [
+            "(A) S típusú aszteroidákból származnak, amelyek megolvadtak.",
+            "(B) Valaha kisebb részét képezték az aszteroidaövnek, mint a V típusú aszteroidák.",
+            "(C) Kevesebb ütközést éltek át, mint az L típusú aszteroidák.",
+            "(D) Fiatalabbak, mint az M típusú aszteroidák."
+        ],
+        "label": "D",
+        "ind": 9
+    },
+    {
+        "passage": "Nincs háttér-információ.",
+        "question": "Melyik választás foglalja össze legjobban a szöveget?",
+        "options": [
+            "(A) Egy szereplő találkozik egy régi baráttal, és rájön, hogy nem tudják folytatni a barátságukat.",
+            "(B) Egy régi barát meghívása arra késztet egy szereplőt, hogy elgondolkodjon a múlton és a jelenen.",
+            "(C) Egy véletlen találkozás egy régi baráttal arra inspirál egy szereplőt, hogy új életet kezdjen egy másik országban.",
+            "(D) Egy szereplő közelmúltbeli szakmai sikere arra készteti, hogy segítséget nyújtson egy régi barátnak."
+        ],
+        "label": "B",
+        "ind": 10
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Melyik választás írja le legjobban azt a lelkiállapotot, amelyet Gallaher visszatérése inspirál Little Chandlerben?",
+        "options": [
+            "(A) Lenyűgözi Gallaher sikere, még ha ennek gondolata saját boldogtalanságára is emlékezteti.  ",
+            "(B) Aggódik amiatt, hogy lekicsinyelje Gallaher eredményeit annak érdekében, hogy a sajátját jobbnak tüntesse fel.  ",
+            "(C) Irigyli Gallaher figyelemre méltó sikerét, és dühös amiatt, ahogyan Gallaher azt elérte.  ",
+            "(D) Csodálja Gallaher hírnévre való emelkedését, de hálás, hogy ő maga viszonylag észrevétlen életet él."
+        ],
+        "label": "A",
+        "ind": 11
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "A szövegből ésszerűen következtethetünk arra, hogy Little Chandler egyik kiemelkedő jellemvonása, hogy ő",
+        "options": [
+            "(A) túlzottan kérkedik a személyes eredményeivel.",
+            "(B) gyakran kiszámíthatatlan más emberekkel való kapcsolataiban.",
+            "(C) erősen kritikus más emberek törekvéseivel szemben.",
+            "(D) kissé hiú a személyes megjelenésével kapcsolatban."
+        ],
+        "label": "D",
+        "ind": 12
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "A szöveg alapján melyik választás azonosítja legjobban Little Chandler jellemének ellentmondásos impulzusát?",
+        "options": [
+            "(A) Egy társadalmi világra koncentrál, amelyet végső soron üres látványosságnak tart.",
+            "(B) Olyan látványokba és hangokba merül el, amelyeket végső soron lényegtelennek talál.",
+            "(C) Megvet egy történelmi kort, amelyet elismeri, hogy bizonyos szempontból előnyösebb a jelenhez képest.",
+            "(D) Izgalmat merít abból, hogy olyan helyzetekbe hozza magát, amelyeket félelmetesnek talál."
+        ],
+        "label": "D",
+        "ind": 13
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "A záró bekezdés fő hatása az, hogy",
+        "options": [
+            "(A) közvetítse Little Chandler érzését, hogy utólag az elkerülhetetlenség bizonyos fokát tulajdonítja Gallaher sikerének.",
+            "(B) sugallja, hogy milyen mértékben változtatta meg Gallaher sikere Little Chandler róla alkotott emlékeit.",
+            "(C) bemutassa, hogy Little Chandler Gallaherbe vetett bizalma Gallaher sikere által igazolódott.",
+            "(D) jellemezze Little Chandlert, aki sajnálja, hogy nem tudta előre látni Gallaher sikerét."
+        ],
+        "label": "A",
+        "ind": 14
+    },
+    {
+        "passage": "Nincs háttér-információ.",
+        "question": "Melyik választás írja le legjobban a szöveg általános szerkezetét?",
+        "options": [
+            "(A) Egy népszerű hiedelem egy adott iparágról kerül megmagyarázásra, az ezt a hiedelmet támogató kísérletek kerülnek ismertetésre, és a kísérletek következményei kerülnek azonosításra.",
+            "(B) Egy váratlan állítás a fogyasztói viselkedésről kerül bemutatásra, az állítást támogató példák részletezése történik, és az állítást megerősítő kísérletek kerülnek megvitatásra.",
+            "(C) Egy gazdasági elméletről folyó vita kerül felvázolásra, a vitában szereplő két ellentétes nézőpont részletesebb magyarázata történik, és az egyik nézőpontot támogató kutatás kerül elmesélésre.",
+            "(D) Egy általános üzleti gyakorlat negatív hatása kerül bemutatásra, két történet használatos illusztrációként, és a javulást javasló kutatás összegzése történik."
+        ],
+        "label": "B",
+        "ind": 15
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "A szövegben szereplő tanulmányok azt sugallják, hogy ha egy nagy könyvesbolt lánc vásárlóinak olyan információkat adnának, amelyek a bolt kisebb versenytársaira összpontosítanak, akkor valószínű eredmény az lenne, hogy a nagy bolt",
+        "options": [
+            "(A) több pozitív értékelést kapna a vásárlóitól.",
+            "(B) olyan vásárlókat szerezne, akik úgy érzékelik, hogy több választási lehetőséget kínál, mint a kisebb boltok.",
+            "(C) hasznot húzna abból, hogy az emberek úgy érzékelik, hogy a versenye még nagyobbá vált.",
+            "(D) vásárlókat veszítene, akik most úgy látnák, hogy versenytársa a kisebb boltoknak."
+        ],
+        "label": "D",
+        "ind": 16
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Az 1. szöveg szerint miért nehéz megszámolni a vadon élő tigriseket?",
+        "options": [
+            "(A) rendkívül gyorsan mozognak egyik helyről a másikra.",
+            "(B) olyan környezetben élnek, amely az emberek számára viszonylag elérhetetlen.",
+            "(C) külsőleg hasonlítanak más rokon fajokra.",
+            "(D) olyan viselkedést mutatnak, ami potenciálisan fenyegető az emberek számára."
+        ],
+        "label": "B",
+        "ind": 17
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Az 1. szakasz alapján mi lehet az egyik tényező, amely hozzájárulhatott a bejelentett globális tigrispopuláció növekedéséhez?",
+        "options": [
+            "(A) A fényképészeti technológia javult az állatok észlelésében távoli környezetekben.",
+            "(B) A közelmúltban alkalmazott mérési technikák pontosabbak az állatok számolásában, mint a korábban használtak.",
+            "(C) A tudósok jobban megértik a veszélyeztetett fajok populációinak tipikus növekedési ütemét.",
+            "(D) A természetvédelmi stratégiák egységesebbek országról országra, mint korábban."
+        ],
+        "label": "B",
+        "ind": 18
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "A 2. szakasz szerint milyen tényező miatt lehet hibás a WWF és a Global Tiger Forum által kínált vad tigris populáció becslés?",
+        "options": [
+            "(A) Általánosítás egy valószínűleg hiányos bizonyíték-kiválasztásból",
+            "(B) Olyan adatokra való korlátozódás, amelyek bizonyos országokban relevánsabbak, mint másokban",
+            "(C) Egy új kísérleti eszközre való támaszkodás, amelyet a terepen még nem teszteltek alaposan",
+            "(D) Az időbeli populációnövekedés stabilitásának feltételezése, amelyet az adatok nem támasztanak alá"
+        ],
+        "label": "A",
+        "ind": 19
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Melyik választás írja le a legjobban a két szöveg közötti kapcsolatot?",
+        "options": [
+            "(A) A 2. szöveg összehasonlítja és kritizálja az 1. szövegben ajánlott megőrzési megoldásokat.",
+            "(B) A 2. szöveg megkérdőjelezi az 1. szövegben bemutatott tudósok szakmai hitelességét.",
+            "(C) A 2. szöveg több alkalmazást javasol az 1. szöveg következtetéseire.",
+            "(D) A 2. szöveg megkérdőjelezi az 1. szövegben tárgyalt kutatási eredmények megbízhatóságát."
+        ],
+        "label": "D",
+        "ind": 20
+    },
+    {
+        "passage": "Nincs háttérinformáció",
+        "question": "A szövegekből ésszerűen kikövetkeztethető, hogy a szerzők mindketten egyetértenének abban, hogy a vadon élő tigrisek populációméretei",
+        "options": [
+            "(A) bizonyos országokban jobban helyreállnak, mint másokban.",
+            "(B) kezdik elérni a 2010-ben rögzített szinteket.",
+            "(C) kiszámíthatóan reagálnak az agresszív természetvédelmi próbálkozásokra.",
+            "(D) folyamatos emberi beavatkozás ellenére is folyamatosan csökkennek."
+        ],
+        "label": "A",
+        "ind": 21
+    },
+    {
+        "passage": "Nincs háttér-információ",
+        "question": "A 2. szöveg szerzője a legvalószínűbben úgy reagálna az 1. szöveg első bekezdésének következtetéseire, hogy kijelenti, az ilyen állítások",
+        "options": [
+            "(A) csak a tigrisek bizonyos alfajaira vonatkoznak, és ezért nem meggyőzőek.",
+            "(B) ösztönzést adnak az országoknak és régióknak arra, hogy további befektetéseket eszközöljenek a vadvédelmi programokba.",
+            "(C) bizonyítják, hogy a veszélyeztetett fajok védelmére tett szigorú erőfeszítések gyors népesség-helyreálláshoz vezetnek.",
+            "(D) azt az illúziót kelthetik az emberekben, hogy a tigrisek helyreállnak, miközben valójában továbbra is éber védelmet igényelnek."
+        ],
+        "label": "D",
+        "ind": 22
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "A szövegben Parsons főként úgy mutatja be magát, mint aki",
+        "options": [
+            "(A) ésszerű a politikai történelem elemzésében.",
+            "(B) neheztel a közelmúlt politikai eseményei miatt.",
+            "(C) vívódik a politikai pártok jövőbeli szerepét illetően.",
+            "(D) több mint egy politikai nézőpont iránt is együttérző."
+        ],
+        "label": "A",
+        "ind": 23
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Parsons beszédének elsődleges célja az, hogy",
+        "options": [
+            "(A) megvitasson egy politikai filozófiát, amely kezd kimenni a divatból.",
+            "(B) felvázoljon egy új megközelítést az elnyomott csoportok igényeinek kielégítésére.",
+            "(C) indokolja egy másik ideológia elfogadását.",
+            "(D) rámutasson az aktuális politikai rendszer következetlenségeire."
+        ],
+        "label": "C",
+        "ind": 24
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "A szövegben Parsons arra utal, hogy egyszer azt hitte, hogy",
+        "options": [
+            "(A) a többségi szabály kizárja az egyéni aktivizmus szükségességét.",
+            "(B) a kevesek mozgósítása a többség javát szolgálja.",
+            "(C) a fejlődés akkor következik be, amikor mindenki egy közös cél felé dolgozik együtt.",
+            "(D) a kormány használható olyan változások elérésére, amelyeket az állampolgárok remélnek."
+        ],
+        "label": "D",
+        "ind": 25
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "A szöveg alapján ésszerűen feltételezhető, hogy Parsons úgy gondolja, hogy a pozitív társadalmi változás csak akkor fog bekövetkezni, ha",
+        "options": [
+            "(A) tömegek jól ismerik a politikai történelmet.",
+            "(B) a politikai pártok elkötelezik magukat a reformok mellett.",
+            "(C) kevesebb politikai párt verseng az emberek szavazataiért.",
+            "(D) hangos egyének kényszerítik a kormányokat, hogy foglalkozzanak az őket érintő kérdésekkel."
+        ],
+        "label": "D",
+        "ind": 0
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Milyen érvet használ Parsons annak alátámasztására, hogy milyen mértékben bízhatnak a választók a politikai pártokban?",
+        "options": [
+            "(A) A politikai pártok eleve korruptak, mert az emberi természetet túl könnyen korrumpálja a hatalom.",
+            "(B) A pártok gyakran úgy erősítik meg hatalmukat, hogy megállapodásokat kötnek az ellenkező pártokkal.",
+            "(C) A politikai pártok mindig feláldozzák saját eszméiket a pragmatikus cselekvések érdekében.",
+            "(D) A pártok jellemzően olyan álláspontokat képviselnek, amelyek sok tagjuk meggyőződésével ellentétesek."
+        ],
+        "label": "A",
+        "ind": 1
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "A szöveg alapján Parsons valószínűleg azt jósolná, hogy egy versengő pártokat magában foglaló politikai rendszer folyamatosan",
+        "options": [
+            "(A)az elnyomásához vezet azoknak a nézeteknek, amelyeket kedvezőtlennek tartanak.",
+            "(B)egyre több háborúzó pártra szakad.",
+            "(C)akadályozza a gazdasági növekedést, és így a haladást is hátráltatja.",
+            "(D)egy túlságosan tudományos megközelítés kialakulását segíti elő a politikában."
+        ],
+        "label": "A",
+        "ind": 2
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "A szöveg szerint Parsons anarchizmus iránti támogatása azon az elképzelésen alapul, hogy az anarchizmus",
+        "options": [
+            "(A) a vagyont és a tulajdont egyenlőbben osztja el a lakosság körében.",
+            "(B) közömbös a követőinek társadalmi státusza iránt.",
+            "(C) olyan helyzetet teremt, amely lehetővé teszi az egyének számára a kibontakozást.",
+            "(D) lehetővé teszi az emberek számára, hogy létrehozzanak egy szervezeti struktúrát, amelynek vezetői az elnyomottak jogaiért küzdenek."
+        ],
+        "label": "C",
+        "ind": 3
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "A szöveg fő célja az, hogy",
+        "options": [
+            "(A) ellentétbe állítsa a vadon élő és a fogságban nevelt harkálypintyek eszközhasználati viselkedését.",
+            "(B) leírja azokat a kísérleteket, amelyek célja a harkálypintyek eszközhasználatának előnyeinek tisztázása.",
+            "(C) megvitasson egy tanulmányt, amely a főemlősök és a harkálypintyek közötti különbségekkel foglalkozik az eszközhasználat szempontjából.",
+            "(D) bemutassa azokat a kutatásokat, amelyek magyarázatot adnak a harkálypintyek eszközhasználati viselkedésének kialakulására."
+        ],
+        "label": "D",
+        "ind": 4
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "A szöveg alapján ésszerűen feltételezhető, hogy a kutatók kísérletének tervezése segített minimalizálni annak lehetőségét, hogy",
+        "options": [
+            "(A) a két csirke csoport között fontos különbségek voltak, a modellen kívül, amellyel a csoportokat nevelték.",
+            "(B) bármely egyes csibe modellre adott válaszát befolyásolták a csoport többi csibéjének válaszai.",
+            "(C) mindkét csibe csoportnál a szerszámhasználati viselkedés elsajátítását befolyásolták a rendelkezésre álló potenciális eszközök.",
+            "(D) a csibék különböző szerszámhasználati fejlődési szakaszainak elérése az emberek csibék cselekedeteinek értékelésétől függött."
+        ],
+        "label": "A",
+        "ind": 5
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "A szöveg leginkább azt sugallja, hogy a főemlősök társadalmi rendszere lehetővé teszi a fiatal állatok számára, hogy",
+        "options": [
+            "(A) rendszeresen megfigyelhessék fajtársaikat, ahogyan eszközöket használnak.",
+            "(B) elérjék az érettséget anélkül, hogy megtanulták volna eszközökkel megszerezni az élelmet.",
+            "(C) korlátozzák az eszközökkel kapcsolatos tudás átadását kizárólag közeli rokonokra.",
+            "(D) kísérletezzenek eszköztervekkel anélkül, hogy nagy kockázatot vállalnának az élelem elvesztésére, ha a tervek sikertelenek."
+        ],
+        "label": "A",
+        "ind": 6
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "A szöveg alapján a kutatók következtetése, hogy a harkálypinty, amely az új emelő technikát használta, egyéni tanulást mutatott, részben azzal a ténnyel van alátámasztva, hogy",
+        "options": [
+            "(A)nem voltak olyan genetikai variációk, amelyek közösek lettek volna minden pinty esetében, akik nem használták ezt a technikát, és amelyek közösek lettek volna azokkal a pintyekkel, akik nem használták ezt a technikát.",
+            "(B)ezek a pintyek hajlamosak voltak abbahagyni a technika használatát, miután a kutatók megváltoztatták a mesterséges rések kialakítását, hogy csökkentsék a technika hatékonyságát.",
+            "(C)a technika azon része, amely eltér a szokásos eszközhasználati viselkedéstől, egy résen belül történik, ezért nehéz más pintyek számára megfigyelni és társadalmilag elsajátítani.",
+            "(D)valószínűleg nincs olyan természetes körülmény, amely elősegítette volna a technika kifejlődését és annak korábbi átadását ezeknek a pintyeknek."
+        ],
+        "label": "D",
+        "ind": 7
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Az 1. táblázat szerint az átlagos szám, ahány alkalommal a harkálypintyfiókák, amelyeket szerszámhasználó modellek nélkül neveltek fel, ágakat használtak szerszámként, a következő volt:",
+        "options": [
+            "(A) 10,7.",
+            "(B) 7,4.",
+            "(C) 5,6.",
+            "(D) 3,6."
+        ],
+        "label": "C",
+        "ind": 8
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Melyik állítást támasztják alá legjobban a 2. táblázat adatai azokról a harkálypintyekről, amelyek a különleges emelő technikát alkalmazták a zsákmányszerzéshez?",
+        "options": [
+            "(A) Legalább egyikük ötször próbálkozott a technikával, mielőtt sikeresen zsákmányt szerzett volna.",
+            "(B) Az első zsákmányszerzési siker után néhányan teljesen abbahagyták a technika használatát.",
+            "(C) Az első zsákmányszerzési siker után egyikük sem próbálkozott a technikával ötszörnél többször.",
+            "(D) Egyikük sem volt sikeres a technikával az első próbálkozás során."
+        ],
+        "label": "A",
+        "ind": 9
+    },
+    {
+        "passage": "Nincs háttérinformáció",
+        "question": "A szöveg szerint a narrátor milyen tényt tud Celia szomszédairól, mielőtt meglátogatná Celia lakását?",
+        "options": [
+            "(A) Micho Alvarez és Benny Quinto közeli barátok.  ",
+            "(B) Benny Quinto valaha papnak tanult.  ",
+            "(C) Micho Alvareznek érzékeny oldala van.  ",
+            "(D) Quisqueya festi a haját."
+        ],
+        "label": "D",
+        "ind": 10
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Melyik választás írja le legjobban az elbeszélő kapcsolatát Celia fiaival?",
+        "options": [
+            "(A) Az elbeszélő ismeri Celia fiait, mert barátok az elbeszélő lányával.",
+            "(B) Az elbeszélő lánya ugyanabba az iskolába jár, mint Mayor.",
+            "(C) Az elbeszélő látta Mayort személyesen, de Enrique-t csak Celia fényképén.",
+            "(D) Az elbeszélő látta Enrique-t focizni, de soha nem látta Mayort."
+        ],
+        "label": "C",
+        "ind": 11
+    },
+    {
+        "passage": "None",
+        "question": "A szöveg alapján a legésszerűbb feltételezni, hogy Celia mely kérdésre tudja a választ a mesélő családjával kapcsolatban, mielőtt a mesélő meglátogatja a lakását?",
+        "options": [
+            "(A) Hány gyermeke van a mesélőnek?",
+            "(B) Hova jár a mesélő lánya iskolába?",
+            "(C) Mi a mesélő foglalkozása?",
+            "(D) Mióta él a mesélő és családja az Egyesült Államokban?"
+        ],
+        "label": "B",
+        "ind": 12
+    },
+    {
+        "passage": "None",
+        "question": "A szövegben tárgyalt központi gondolat az, hogy",
+        "options": [
+            "(A) az indokok megfogalmazása egy vélemény mellett arra késztetheti az embereket, hogy rájöjjenek, tévednek.",
+            "(B) egy probléma részletes leírásának folyamata mérsékeltebbé teheti az embereket a problémával kapcsolatos nézeteikben.",
+            "(C) a legtöbb embert valójában nem érdekli a bonyolult elképzelések megértése.",
+            "(D) az emberek valószínűleg alábecsülik a leglelkesebben vallott álláspontjukat, hogy elkerüljék mások megsértését."
+        ],
+        "label": "B",
+        "ind": 13
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "A szöveg során a fő fókusz eltolódik",
+        "options": [
+            "(A) egy régóta fennálló probléma megvitatásáról, egy jelentésre, amely hiteltelenné teszi a probléma megoldására irányuló korábbi kísérleteket, majd egy javaslatra a jövőbeli cselekvésre.",
+            "(B) egy jelenség bemutatásáról, a jelenséggel kapcsolatos kísérletek leírására, majd a kísérletek eredményein alapuló ajánlásra.",
+            "(C) egy viselkedés két versengő elméletének magyarázatáról, egy tanulmány összefoglalására, amely azt hivatott eldönteni, melyik elmélet helyes, majd egy általános beszámolóra a terület jövőjéről.",
+            "(D) egy trend megfigyeléséről, annak okainak elemzésére, majd egy kutatási tanulmány javaslatára, amely igazolja az elemzést."
+        ],
+        "label": "B",
+        "ind": 14
+    },
+    {
+        "passage": "Nincs háttér-információ.",
+        "question": "A szöveg arra utal, hogy Fernbach a laboratóriumi munka során melyik eredményen lepődött volna meg leginkább?",
+        "options": [
+            "(A) Nem találtak kapcsolatot a probléma összetettsége és az önkéntesek álláspontjának erőssége között.",
+            "(B) Miután az önkénteseket megkérték, hogy elemezzenek egy bonyolult politikai kérdést, a megértésük nem növekedett.",
+            "(C) Amikor az önkénteseket megkérték, hogy sorolják fel az általuk támogatott politika melletti érveiket, a nézeteik általában nem változtak az elvégzett gyakorlat hatására.",
+            "(D) Amikor az önkénteseknek bonyolult kérdésekkel kapcsolatban tettek fel kérdéseket, kiderült, hogy azok, akiknek a legszélsőségesebb nézeteik voltak, értették meg a legjobban azokat."
+        ],
+        "label": "D",
+        "ind": 15
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "A szöveg alapján melyik cselekedet csökkentené legvalószínűbben a politikai szélsőségességet a polgárok körében?",
+        "options": [
+            "(A) Olyan szervezett csoportok létrehozása, amelyek tagjai megosztják egymással legmélyebben vallott meggyőződéseiket.",
+            "(B) Azon kötelezettség bevezetése, hogy a politikusok részletesen magyarázzák el javasolt politikáikat egy választás előtt.",
+            "(C) Olyan jótékonysági szervezetek népszerűsítése, amelyek lehetőséget biztosítanak pénzadományozásra méltó, de alulfinanszírozott ügyek számára.",
+            "(D) Olyan események szervezése, amelyek arra ösztönzik az embereket, hogy egymással ellentétes nézeteket valló személyekkel lépjenek kapcsolatba."
+        ],
+        "label": "B",
+        "ind": 16
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "A szöveg fő célja az, hogy",
+        "options": [
+            "['(A)összehasonlítsa a fotoszintézist alkalmazó növényfajok tevékenységeit azokkal, amelyek nem alkalmazzák azt.', '(B)feltárja a tudósok próbálkozásait a növények beporzókat vonzó módszereinek megértésére.', '(C)leírjon egy tanulmányt, amely bemutat egy adott növényfaj védekezési stratégiáját.', '(D)magyarázza azokat a kísérleti eredményeket, amelyek a szín funkcióját hasonlítják össze növényekben és állatokban.']"
+        ],
+        "label": "C",
+        "ind": 17
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "A szöveg azt jelzi, hogy a növények színezésének más funkcióival összehasonlítva az álcázás a növényekben",
+        "options": [
+            "(A) mélyebb megértést nyújtott a tudósoknak a potenciális táplálékforrásokról.",
+            "(B) különböző jellegzetes színárnyalatok szélesebb skáláját használta ki.",
+            "(C) kevésbé hatékony védekezésnek bizonyult a ragadozók ellen.",
+            "(D) kevesebb tudományos vizsgálat tárgya volt."
+        ],
+        "label": "D",
+        "ind": 18
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "A szövegből legésszerűbben az következtethető ki, hogy sok növény tápanyagigénye azzal a következménnyel jár, hogy",
+        "options": [
+            "(A) felerősíti a növények színezési mintáit.",
+            "(B) korlátozza a növények védekezési lehetőségeit.",
+            "(C) növeli a növények energiafogyasztását.",
+            "(D) szűkíti a növények potenciális élőhelyeit."
+        ],
+        "label": "B",
+        "ind": 19
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "A szövegből ésszerűen arra lehet következtetni, hogy Burke különösen fel van háborodva a Nemzetgyűlés azon döntésén, hogy",
+        "options": [
+            "(A) korlátozza a király hatalmát.",
+            "(B) megnövelje a kormány méretét.",
+            "(C) a nyilvánosság jóváhagyását kérje.",
+            "(D) figyelmen kívül hagyja a korábbi vezetők tanácsát."
+        ],
+        "label": "C",
+        "ind": 20
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "A szöveg alapján Burke úgy véli, hogy azok a francia vezetők, akik mérsékelt álláspontokat képviselnek,",
+        "options": [
+            "['(A)bátrak, de valószínűleg nem bíznak bennük.', '(B)gyávák, de valószínűleg dicsérni fogják őket.', '(C)erényesek, de valószínűleg figyelmen kívül hagyják őket.', '(D)értelmesek, de valószínűleg aláássák őket.']"
+        ],
+        "label": "D",
+        "ind": 21
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Burke központi állítása az utolsó bekezdésben az, hogy a britek",
+        "options": [
+            "(A) nem tettek hatékony lépéseket a jogaik védelmére.  ",
+            "(B) bölcsen cselekedtek, amikor módosították, nem pedig lecserélték politikai rendszerüket.  ",
+            "(C) megpróbálták kormányzati formájukat exportálni szomszédaikhoz.  ",
+            "(D) lényegében változatlanul hagyták kormányukat évszázadokon keresztül."
+        ],
+        "label": "B",
+        "ind": 22
+    },
+    {
+        "passage": "None",
+        "question": "A szövegben Burke melyik következőt tiszteli a legjobban?",
+        "options": [
+            "['(A) A brit választópolgárok', '(B) A múlt generációinak brit vezetői', '(C) Azok a brit állampolgárok, akiket a franciák inspirálnak', '(D) Franciaország korábbi kormányának vezetői']"
+        ],
+        "label": "B",
+        "ind": 23
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Az 1. szakasz alapján melyik hipotetikus felfedezés támogatná leginkább az ütközési hipotézist?",
+        "options": [
+            "(A) Az északi jégsapka alatti aszteroida becsapódási kráter magas irídiumszintet tartalmaz, és a fiatalabb dryas kezdete utánra datálták.",
+            "",
+            "(B) Üveg- és karbonszférulák több ponton is megjelennek a geológiai feljegyzésekben, de soha nem irídiumlerakódásokkal együtt.",
+            "",
+            "(C) Jégmagok elemzése azt sugallja, hogy a globális hőmérsékletek körülbelül 13 000 évvel a fiatalabb dryas kezdete előtt kezdtek csökkenni.",
+            "",
+            "(D) Magas ozmíumszinteket figyeltek meg a geológiai feljegyzésekben körülbelül 13 000 évvel ezelőttről, ami ritka a Földön, de viszonylag gyakori az aszteroidákban."
+        ],
+        "label": "D",
+        "ind": 24
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Az 1. szakasz szerint a tudóscsoport úgy véli, hogy a bizonyos üledékes rétegekben talált fekete karbonizált anyagot melyik jelenség okozta egy kozmikus ütközést követően?",
+        "options": [
+            "['(A)Klíma lehűlés', '(B)Tömeges kihalások', '(C)Gyorsan terjedő tüzek', '(D)Iridium lerakódások']"
+        ],
+        "label": "C",
+        "ind": 25
+    }
+]

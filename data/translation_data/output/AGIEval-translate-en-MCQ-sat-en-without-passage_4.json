@@ -1,0 +1,308 @@
+[
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Melyik állítás írja le legjobban azt a technikát, amit Smith a szövegen keresztül alkalmaz, hogy elősegítse fő mondanivalóját?",
+        "options": [
+            "(A) Kijelentéseit retorikai kérdések formájában mutatja be, amelyek többnyire implicit negatív válaszokat hordoznak.",
+            "(B) Ellenfeleit az általuk tett önellentmondó megjegyzések idézésével kritizálja.",
+            "(C) Minden központi gondolatát érzelmileg erőteljes anekdotával illusztrálja.",
+            "(D) Nézetei ésszerűségét hangsúlyozza azáltal, hogy azokat úgy mutatja be, mintha általánosan elfogadottak lennének."
+        ],
+        "label": "A",
+        "ind": 0
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Melyik választás foglalja össze legjobban az első bekezdést?",
+        "options": [
+            "(A) Smith kifejt egy hagyományos nézőpontot és bizonyítékokat mutat be annak alátámasztására.",
+            "(B) Smith elutasít egy állítást és részletezi az okait ennek megtételére.",
+            "(C) Smith bemutatja a témáját és történelmi hátteret biztosít annak megértéséhez.",
+            "(D) Smith azonosít egy problémát és lépéseket javasol annak orvoslására."
+        ],
+        "label": "B",
+        "ind": 1
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "A szövegben Smith amellett érvel, hogy a nők számára lehetséges, hogy melyik tevékenységet folytassák?",
+        "options": [
+            "(A) Humanitárius elvek szerint cselekedni, miközben megőrzik nőiességüket",
+            "(B) Személyes erkölcsükhöz ragaszkodni, miközben politikailag semlegesek maradnak",
+            "(C) Hozzájárulni családjuk pénzügyi biztonságához, miközben megfelelnek a társadalmi elvárásoknak",
+            "(D) Ellenszegülni a háborús felhívásoknak, miközben ellenzik a rabszolgaságot"
+        ],
+        "label": "A",
+        "ind": 2
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Smith szerint az amerikai alkotmány mely intézkedést követeli meg az északi szabad államok részéről, ha a rabszolgák felkelnének?",
+        "options": [
+            "(A) Az északi államoknak meg kellene szakítaniuk a kapcsolatot a rabszolgatartó államokkal.",
+            "(B) Az északi államoknak menedéket kellene nyújtaniuk a rabszolgatartó államokból érkező menekülteknek.",
+            "(C) Az északi államoknak segíteniük kellene a rabszolgatartó államokat a rabszolgák lázadásának leverésében.",
+            "(D) Az északi államoknak pénzügyi támogatást kellene nyújtaniuk a lázadó rabszolgáknak."
+        ],
+        "label": "C",
+        "ind": 3
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "A szövegben Smith azt sugallja, hogy a rabszolgaság hogyan befolyásolja az Egyesült Államokat?",
+        "options": [
+            "(A) az ország nemzetközi közösségbeli hírnevének csökkentésével.",
+            "(B) sok nő arra késztetésével, hogy megtagadják hűségüket az országhoz.",
+            "(C) erőszakos konfliktusok okozásával az ország sok területén.",
+            "(D) az ország kormányának tekintélyének gyengítésével."
+        ],
+        "label": "A",
+        "ind": 4
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Az 1. szakasz első bekezdése elsősorban arra szolgál, hogy",
+        "options": [
+            "(A) bemutasson egy állítást, amelyet a szöveg során alátámasztanak és fejlesztenek.",
+            "(B) bemutasson egy vitát, amelyet a szövegben leírt tanulmány hivatott megoldani.",
+            "(C) azonosítson egy problémát, amelynek megoldásában a szövegben tárgyalt kutatás segíthet.",
+            "(D) felkínáljon egy elméletet, amelyet a szövegben bemutatott eredmények megkérdőjeleznek."
+        ],
+        "label": "C",
+        "ind": 5
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "A 1. szöveg szerzője arra utal, hogy Lewis csapatának a mikroorganizmusok növesztésére alkalmazott módszerének egyik előnye az, hogy",
+        "options": [
+            "(A) azonosítja a talajbaktériumok növekedéséhez szükséges feltételeket, és ezeket a jellemzőket mesterséges talajban is megismétli.",
+            "(B) lehetővé teszi a talajbaktériumok számára, hogy több tápanyagot vegyenek fel, mint amennyit általában fogyasztanak természetes környezetben.",
+            "(C) közvetlenül a baktériumok sejtfalaira hat, nem pedig az általuk termelt fehérjékre.",
+            "(D) lehetővé teszi a kutatók számára, hogy kihasználják azokat a talajbaktériumokat, amelyeket korábban nem tudtak hasznosítani."
+        ],
+        "label": "D",
+        "ind": 6
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "A 2. szöveg szerzője valószínűleg melyik állítással értene egyet a teixobactin fejlesztéséről?",
+        "options": [
+            "(A) Kiderül belőle, hogy egyes antibiotikumok hatékonyak a gram-negatív baktériumok ellen.",
+            "(B) Megmutatja, hogy a hagyományos módszerek még mindig új típusú antibiotikumokat eredményezhetnek.",
+            "(C) Kétségbe vonja annak gyakorlati megvalósíthatóságát, hogy új antibiotikumokat keressünk egzotikus környezetekben.",
+            "(D) Megerősít egy régóta fennálló hiedelmet egy új antibiotikumforrás lehetőségéről."
+        ],
+        "label": "D",
+        "ind": 7
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "A 2. szakasz utolsó mondatában a szerző elsősorban azért használja az \"öt év és 500 millió font\" kifejezést, hogy",
+        "options": [
+            "(A) hangsúlyozza az erőfeszítés mértékét, amely szükséges ahhoz, hogy a teixobactin elérhetővé váljon a fogyasztók számára.",
+            "(B) kritizálja a kormány által a teixobactin fejlesztésére fordított finanszírozás mértékét.",
+            "(C) aláhúzza az időt és pénzt, amelyet már a teixobactin kutatására fordítottak.",
+            "(D) összehasonlítsa a teixobactin fejlesztésére fordított pénzt más antibiotikumok fejlesztésére fordított összeggel."
+        ],
+        "label": "A",
+        "ind": 8
+    },
+    {
+        "passage": "Nincs előzmény.",
+        "question": "Melyik választás írja le legjobban az 1. és a 2. szöveg közötti kapcsolatot?",
+        "options": [
+            "(A) A 2. szöveg értékeli az 1. szövegben tárgyalt kutatás jelentőségét.",
+            "(B) A 2. szöveg javaslatot tesz az 1. szövegben leírt módszertan módosítására.",
+            "(C) A 2. szöveg konkrét példákat használ az 1. szövegben tárgyalt fogalmak illusztrálására.",
+            "(D) A 2. szöveg elutasító álláspontot képvisel az 1. szövegben említett eredményekkel kapcsolatban."
+        ],
+        "label": "A",
+        "ind": 9
+    },
+    {
+        "passage": "Nincs",
+        "question": "Mindkét szöveg azt a pontot emeli ki, hogy a teixobactin hasznos lehet",
+        "options": [
+            "['(A)a laboratóriumi körülmények között előállított antibiotikumok jövőbeli fejlesztésének szabványosításában.', '(B)azoknak a fertőzéseknek a leküzdésében, amelyek már nem reagálnak más antibiotikumokkal történő kezelésre.', '(C)a patogén talajgombák terjedésének ellenőrzésében.', '(D)egy új módszer kialakításában az antibiotikumok hatékonyságának tanulmányozására.']"
+        ],
+        "label": "B",
+        "ind": 10
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Melyik következtetést támasztják alá legjobban a 2. szakaszban található információk az 1. szakaszban leírt kísérlet egereiről?",
+        "options": [
+            "(A) A teixobactinnak való kitettség kevésbé tette őket fogékonnyá a későbbi felső légúti fertőzésekre.",
+            "(B) A gram-pozitív baktériumok fokozzák a teixobactin hatékonyságát a felső légúti fertőzéseik ellen.",
+            "(C) Felső légúti fertőzéseiket valószínűleg nem gram-negatív baktériumok okozták.",
+            "(D) A teixobactin megtámadta a felső légúti fertőzéseiket okozó baktériumok fehérjéit."
+        ],
+        "label": "C",
+        "ind": 11
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Melyik választás írja le legjobban, mi történik a szövegben?",
+        "options": [
+            "(A) Az elbeszélő visszaemlékezik arra, hogyan változott meg egy másik szereplő viselkedése.",
+            "(B) Az elbeszélő küzd azért, hogy megértse egy másik szereplő motivációit.",
+            "(C) Az elbeszélő megvitatja a közös szakmai érdeklődési köröket egy másik szereplővel.",
+            "(D) Az elbeszélő elmeséli azokat az eseményeket, amelyek egy másik szereplőt arra vezettek, hogy támogassa a projektjét."
+        ],
+        "label": "C",
+        "ind": 12
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "A szöveg szerint Tiffany várja a közelgő Chicagói Világkiállítást, mint egy lehetőséget arra, hogy",
+        "options": [
+            "(A) nagyobb népszerű elismerést szerezzen.",
+            "(B) sok dekorációs tárgyat eladjon.",
+            "(C) más híres művészekkel együttműködjön.",
+            "(D) bemutassa azokat a darabokat, amelyeket kritikai elismerésben részesítettek."
+        ],
+        "label": "A",
+        "ind": 13
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "A narrátor azt jelzi, hogy Tiffany tájékoztatja őt az új projektjeiről azáltal, hogy",
+        "options": [
+            "(A) bemutat egy sor tervet azokról az ólomüveg ablakokról, amelyeket meg akar valósítani.",
+            "(B) bemutat néhány kész ólomüveg ablakot, és részletesen leírja azokat.",
+            "(C) megkérdezi a véleményét az akvarell festményekről, amelyeket Chicagóban tervez kiállítani.",
+            "(D) bemutat egy diagramot, amelyen látható a Chicagóban kiállítani tervezett műalkotások elhelyezése."
+        ],
+        "label": "A",
+        "ind": 14
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "A szöveg alapján a leginkább ésszerűen feltételezhető, hogy az elbeszélő tehetségei közé tartozik az a képesség, hogy",
+        "options": [
+            "(A) képzeletgazdag neveket találjon ki az általa használt üveg színeinek.",
+            "(B) egy meglévő ötletet fejlesszen tovább technikai újításokkal műalkotások számára.",
+            "(C) hiteles kritikákat nyújtson klasszikus műalkotásokról.",
+            "(D) részletes vázlatokat készítsen, amelyekre nagyobb műalkotások alapozhatók."
+        ],
+        "label": "B",
+        "ind": 15
+    },
+    {
+        "passage": "Nincs",
+        "question": "A szöveg fő célja az, hogy",
+        "options": [
+            "['(A)leírja egy jelenség okait és következményeit.', '(B)új megoldást javasoljon egy folyamatban lévő problémára.', '(C)megkérdőjelezze, hogy a legújabb kutatásoknak van-e gyakorlati alkalmazása.', '(D)bírálja az új eredményekhez vezető módszertant.']"
+        ],
+        "label": "A",
+        "ind": 16
+    },
+    {
+        "passage": "None",
+        "question": "A szöveg alapján melyik választás írja le legjobban Frick és Rodríguez-Pose első és második tanulmányának kapcsolatát?",
+        "options": [
+            "(A) A második tanulmány kijavít egy kisebb hibát az első tanulmány kutatásában.",
+            "(B) A második tanulmány megerősít egy olyan hipotézist, amelyet az első tanulmányban nem tudtak megerősíteni.",
+            "(C) A második tanulmány az első tanulmány eredményeire épít.",
+            "(D) A második tanulmány egy közelmúltbeli esemény negatívabb értelmezését kínálja, mint az első tanulmány."
+        ],
+        "label": "C",
+        "ind": 17
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "A szöveg alapján ésszerűen feltételezhető, hogy egy megaváros gazdasági hatása egy országra",
+        "options": [
+            "(A) nagyobb azokban az országokban, amelyeknek nagyobb a fizikai területe.",
+            "(B) a megavárosban található vállalatok típusától függ.",
+            "(C) viszonylag egyenlő a fejlődő országok és a magas jövedelmű országok esetében.",
+            "(D) semlegesíthető egy megaváros fenntartásának gazdasági költségével."
+        ],
+        "label": "B",
+        "ind": 18
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "A grafikon szerint mely években haladta meg először a fejlődő országok városi népességének medián mérete a magas jövedelmű országokét?",
+        "options": [
+            "(A) 1965–1970",
+            "(B) 1980–1985",
+            "(C) 1990–1995",
+            "(D) 2005–2010"
+        ],
+        "label": "C",
+        "ind": 19
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Melyik állítást a szövegből támasztja alá legjobban a grafikon?",
+        "options": [
+            "(A) A fejlődő országok városainak medián népessége 1960 és 2010 között élesebben nőtt, mint a magas jövedelmű országok városainak medián népessége.",
+            "",
+            "(B) 1960-ban a legnagyobb átlagos városmérettel rendelkező országok több mint fele magas jövedelmű ország volt.",
+            "",
+            "(C) Egy nagyvárosban 100 000 ember hozzáadása növeli a gazdasági növekedést a magas jövedelmű országokban, de csökkenti a gazdasági növekedést a fejlődő országokban.",
+            "",
+            "(D) A fejlődő országoknak előnyük származik abból, ha a városi népesség nagyobb része kisebb és közepes méretű városokban él."
+        ],
+        "label": "A",
+        "ind": 20
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Mit jelez az 1. szöveg a humán genomról?",
+        "options": [
+            "(A) Nagy számú változáson ment keresztül az idők során.",
+            "(B) Mérete közel megháromszorozódott az elmúlt néhány millió évben.",
+            "(C) Sokkal több gént tartalmaz, mint a nem emberi főemlősök genomjai.",
+            "(D) Csak néhány gént tart meg azok közül, amelyek jelen voltak a gyenyiszovánok genomjában."
+        ],
+        "label": "A",
+        "ind": 21
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Az 1. szöveg alapján, melyik fogalom valószínűleg hozzájárult Haussler csapatának kezdeti érdeklődéséhez a NOTCH2NL iránt?",
+        "options": [
+            "(A) Hasonló gének gyakran különböző szerepeket játszanak a különböző fajok fejlődésében.  ",
+            "(B) Egyetlen gén általában különböző funkciókkal rendelkezik attól függően, hogy hol helyezkedik el a genomában.  ",
+            "(C) A genomában egymás közelében lévő gének általában hasonló ütemben duplikálódnak.  ",
+            "(D) Egymással rokon gének hajlamosak összehasonlítható biológiai szerepeket betölteni a fejlődés során."
+        ],
+        "label": "D",
+        "ind": 22
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Melyik választás írja le legjobban a szövegek közötti kulcsfontosságú különbséget?",
+        "options": [
+            "(A) Az 1. szöveg csak számítógépes szimulációkból származó adatokra hivatkozik, míg a 2. szöveg szimulációkból és fosszíliákból származó adatokat is említ.  ",
+            "(B) Az 1. szöveg kizárólag az emberi ősök agyának genetikai elemzésével foglalkozik, míg a 2. szöveg több főemlős faj agyának genetikai elemzését tárgyalja.  ",
+            "(C) Az 1. szöveg korlátozza a vitát az emberi történelem legutóbbi evolúciós változásaira, míg a 2. szöveg évezredeken át zajló változásokat vizsgál.  ",
+            "(D) Az 1. szöveg a kis léptékű genetikai változásokra összpontosít, amelyek befolyásolták az agy evolúcióját, míg a 2. szöveg a nagyszabású, populáció szintű változások hatására összpontosít."
+        ],
+        "label": "D",
+        "ind": 23
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Mindkét részlet állítja, hogy a modern emberi agy körülbelül háromszor nagyobb, mint a következő csoportok agya:",
+        "options": [
+            "(A) bonobók.",
+            "(B) csimpánzok.",
+            "(C) korai homininok.",
+            "(D) neandervölgyiek."
+        ],
+        "label": "B",
+        "ind": 24
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "A szöveg egyik központi témája az, hogy",
+        "options": [
+            "'(A) a polgárok jogainak bővítése nem feltétlenül javítja a nemzeti egészségügyi eredményeket.', '(B) az emberi jogi kezdeményezéseknek általában több finanszírozást kellene kapniuk, mint az egészségügyi kezdeményezéseknek.', '(C) az emberi jogokat keretként kellene használni a kormányzati politikában az őslakos kérdések kapcsán.', '(D) az őslakos népek jogaira való összpontosítás elvonja a figyelmet az őslakos közösségek gyakorlati problémáiról.'"
+        ],
+        "label": "C",
+        "ind": 25
+    }
+]

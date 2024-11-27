@@ -1,0 +1,362 @@
+[
+    {
+        "passage": "A kis számú újszülött, amelyet a magas árak és a nők változó társadalmi helyzete okoz, Ázsia egyik legsúlyosabb problémája. Amikor erről beszélnek, hallhat egy Japánban kitalált szót, amely a Double Income Kids (kettős jövedelmű gyerekek) kifejezést jelenti. Sok nagy ázsiai városban, mint Szöul, Szingapúr és Tokió, rendkívül magas a ház költsége. Egy fiatal pár, aki saját házat szeretne vásárolni, körülbelül 300 000 dollárt kell fizessen (bár az árak csökkentek). Egy egy hálószobás, egy étkezőszobás, konyhás és fürdőszobás lakásért a pár körülbelül 900 dollárt fog fizetni havonta. Továbbá, ha gyermeket szeretnének, a gyermek oktatása nagyon drága. Például a legtöbb óvoda legalább 5000 dollárt kér évente. Ilyen helyzetben nehéz a gyermekeket megengedni. A házas nők száma, akik folytatni akarják a munkát, mert élvezik azt. Azonban ha gyermeket akarnak, azonnal komoly problémákkal szembesülnek. Bár a legtöbb vállalat lehetővé teszi, hogy a nők rövid időre elhagyják a munkahelyüket, hogy gyermeket szüljenek, elvárják, hogy a gyermeket nevelő nők adják fel a munkájukat. Röviden, ha megfelelően akarják nevelni a gyerekeket, mindkét szülőnek dolgoznia kell, de az anyáknak nehéz dolgozni. Valójában azoknak a nőknek, akik folytatni akarják a munkát, választaniuk kell a gyermekvállalás vagy a munkájuk megtartása között. Egy szóval, az ázsiai kormányoknak lépéseket kell tenniük a jelenlegi helyzet javítása érdekében a lehető leghamarabb.",
+        "question": "Mennyit fog fizetni egy pár évente egy lakás megvásárlásáért és egy gyermek óvodába járatásáért?",
+        "options": [
+            "A. $5,000      ",
+            "B. $5,900      ",
+            "C. $10,800      ",
+            "D. $15,800"
+        ],
+        "label": "D",
+        "ind": 0
+    },
+    {
+        "passage": "A kevés számú újszülött, amelyet a magas árak és a nők társadalmi helyzetének változása okozott, az egyik legsúlyosabb probléma Ázsiában. Amikor erről beszélnek, Japánban kitalált szót hallhat. Ez a szó azt jelenti, hogy Kettős Jövedelmű Gyerekek(小孩). Sok nagy ázsiai városban, mint például Szöul, Szingapúr és Tokió, egy ház ára rendkívül magas. Egy fiatal párnak, aki saját házat szeretne vásárolni, körülbelül 300 000 dollárt kell fizetnie (bár az árak csökkentek). Egy egy hálószobás, egy étkezővel, egy konyhával és egy fürdőszobával rendelkező lakásért a pár körülbelül 900 dollárt fizet havonta. Ráadásul, ha gyermeket szeretnének, a gyermek oktatása nagyon drága. Például a legtöbb óvoda legalább 5000 dollárt számít fel évente. Ilyen helyzetben nehéz megengedni a gyermekvállalást. A házas nők száma, akik folytatni szeretnék a munkát, mert élvezik a munkájukat. Azonban, ha gyermeket szeretnének, azonnal komoly problémákkal kell szembenézniük. Bár a legtöbb vállalat megengedi a nőknek, hogy rövid időre otthagyják a munkát, hogy gyermeket szüljenek, elvárják, hogy a gyermeket nevelő nők feladják állásukat. Röviden, ha megfelelően szeretnék felnevelni gyermekeiket, mindkét szülőnek dolgoznia kell, de az anyáknak nehéz dolgozni. Valójában azoknak a nőknek, akik folytatni szeretnék a munkát, választaniuk kell a gyermekvállalás és a munkájuk megtartása között. Összefoglalva, az ázsiai kormányoknak minél hamarabb lépéseket kell tenniük a jelenlegi helyzet javítására.",
+        "question": "Úgy tűnik, hogy a szöveg szerint az ázsiai kormányoknak ________ kellene tenniük.",
+        "options": [
+            "A. hagyni, hogy a nők otthon maradjanak és gyermeket szüljenek",
+            "B. megengedni, hogy az egyik szülő dolgozni menjen",
+            "C. gondoskodni a nők növekvő munkavállalási igényeiről",
+            "D. megbüntetni azokat a vállalatokat, amelyek megengedik a nőknek, hogy otthagyják a munkájukat"
+        ],
+        "label": "C",
+        "ind": 1
+    },
+    {
+        "passage": "Camillo Oliver mérnök 40 éves volt, amikor 1908-ban elindította a vállalatot. Az ivreai gyárában tervezte és gyártotta az első olasz írógépet. Ma a vállalat központja még mindig Ivrea-ban, Torinó közelében található, de a vállalat sokkal nagyobb, mint abban az időben, és irodáik vannak szerte a világon. 1930-ra 700 fős személyzet dolgozott, és a vállalat évi 13 000 gépet gyártott. Néhány gép olaszországi ügyfelekhez került, de az Olivetti több írógépet exportált más országokba. Camillo fia, Adriano, 1924-ben kezdett el dolgozni a vállalatnál, majd később ő lett a vezető. Bevezette a gyártósor számára a szabványos sebességet, és technológiai és tervezési szakembereket alkalmazott. A vállalat új és jobb írógépeket, majd számológépeket fejlesztett ki. 1959-ben az ELEA számítógéprendszert gyártotta. Ez volt az első nagy számítógép, amelyet Olaszországban terveztek és gyártottak. Adriano 1960-as halála után a vállalat pénzügyi problémákkal küzdött. Más vállalatok, különösen a japánok, gyorsabban haladtak az elektronikai technológia terén, mint az olasz vállalat. 1978-ban Carlo de Benedetti lett az új vezető. Az Olivetti növelte marketing- és szervizhálózatát, és megállapodásokat kötött más vállalatokkal, hogy fejlettebb irodai felszereléseket tervezzenek és gyártsanak. Hamarosan a világ vezető információs technológiai és kommunikációs vállalatai közé került. Az Olivetti csoportnak jelenleg öt önálló vállalata van - egy személyi számítógépek, egy rendszerek és szolgáltatások, és kettő távközlés számára.",
+        "question": "A szövegből megtudjuk, hogy ______________.",
+        "options": [
+            "(A) 1930-ra az Olivetti évi 13 000 írógépet gyártott  ",
+            "(B) Az Olivetti többet keresett az 1960-as években, mint az 1950-es években  ",
+            "(C) Az Olivetti 700 fős személyzetének néhány tagja rendszeresen látogatta az olasz ügyfeleket  ",
+            "(D) Olivetti már a kezdetektől fogva más országokban is irodákat hozott létre"
+        ],
+        "label": "A",
+        "ind": 2
+    },
+    {
+        "passage": "Camillo Oliver mérnök 40 éves volt, amikor 1908-ban elindította a céget. Ivrea-i gyárában tervezte és gyártotta az első olasz írógépet. Ma a vállalat központja még mindig Ivrea-ban van, közel Torinóhoz, de a cég sokkal nagyobb, mint azokban az időkben, és irodák vannak szerte a világon. 1930-ra 700 fős személyzet volt, és a vállalat évente 13 000 gépet gyártott. Néhányat olaszországi ügyfelekhez szállítottak, de az Olivetti több írógépet exportált más országokba. Camillo fia, Adriano, 1924-ben kezdett el dolgozni a cégnél, és később ő lett a főnök. Bevezette a gyártósor szabványos sebességét, és technológiai, valamint tervezési szakértőket alkalmazott. A vállalat új és jobb írógépeket, majd számológépeket fejlesztett ki. 1959-ben gyártotta az ELEA számítógépes rendszert. Ez volt az első nagygépes számítógép, amelyet Olaszországban terveztek és gyártottak. Miután Adriano 1960-ban meghalt, a vállalat pénzügyi problémákkal küzdött. Más cégek, különösen a japánok, gyorsabban haladtak az elektronikai technológiában, mint az olasz vállalat. 1978-ban Carlo de Benedetti lett az új főnök. Az Olivetti növelte marketing- és szolgáltatási hálózatait, és megállapodásokat kötött más vállalatokkal, hogy fejlettebb irodai eszközöket tervezzenek és gyártsanak. Hamarosan a világ vezető informatikai és kommunikációs vállalatai közé került. Jelenleg az Olivetti csoportnak öt független cége van - egy a személyi számítógépek, egy a rendszerek és szolgáltatások, kettő pedig a telekommunikáció számára.",
+        "question": "Mi volt valószínűleg az Olivetti elektronikai technológiában való lemaradásának közvetlen következménye?",
+        "options": [
+            "['(A) Adriano halála.      ', '(B) Egy pénzügyi problémákkal teli időszak.', '(C) Gyorsabb előrehaladás.     ', '(D) Megállapodásai más cégekkel.']"
+        ],
+        "label": "B",
+        "ind": 3
+    },
+    {
+        "passage": "Az mérnök, Camillo Oliver 40 éves volt, amikor 1908-ban megalapította a céget. Az ivreai gyárában tervezte és gyártotta az első olasz írógépet. Ma a vállalat központja még mindig Ivreában, Torinó közelében található, de a cég sokkal nagyobb, mint annak idején, és irodái vannak világszerte. 1930-ra a személyzet létszáma elérte a 700 főt, és a vállalat évente 13 000 írógépet gyártott. Néhányat olaszországi vásárlóknak szállítottak, de az Olivetti több írógépet exportált más országokba. Camillo fia, Adriano, 1924-ben kezdett el dolgozni a cégnél, később pedig a vezetője lett. Bevezette a termelési vonal szabványos sebességét, és technológiai és tervezési szakértőket alkalmazott. A cég új és jobb írógépeket, majd számológépeket fejlesztett ki. 1959-ben előállította az ELEA számítógépes rendszert, amely az első Olaszországban tervezett és gyártott mainframe számítógép volt. Adriano 1960-as halála után a cég pénzügyi problémákkal küzdött. Más cégek, különösen a japánok, gyorsabban haladtak az elektronikai technológia terén, mint az olasz cég. 1978-ban Carlo de Benedetti lett az új vezető. Az Olivetti növelte marketing- és szervizhálózatát, és megállapodásokat kötött más cégekkel, hogy fejlettebb irodai berendezéseket tervezzen és gyártson. Hamarosan a világ vezető információs technológiai és kommunikációs vállalatai közé került. Az Olivetti csoportnak jelenleg öt független cége van – egy a személyi számítógépek, egy a rendszerek és szolgáltatások, és kettő a telekommunikáció területén.",
+        "question": "Mit tudunk az Olivettiről?",
+        "options": [
+            "(A) A világ legjobb írógépét gyártotta.     ",
+            "(B) A világ első mainframe számítógépét tervezte. ",
+            "(C) Több írógépet exportált, mint más cégek. ",
+            "(D) Öt független cége van, központja Ivreában található."
+        ],
+        "label": "D",
+        "ind": 4
+    },
+    {
+        "passage": "Az 1908-ban az akkor 40 éves mérnök, Camillo Oliver megalapította a vállalatot. Ivrea-i gyárában tervezte és gyártotta az első olasz írógépet. Ma a vállalat központja még mindig Ivreában, Torinó közelében található, de a cég sokkal nagyobb, mint akkoriban, és irodák vannak világszerte. 1930-ra már 700 fő dolgozott ott, és a vállalat évente 13 000 gépet gyártott. Egy részük olasz vásárlókhoz került, de az Olivetti több írógépet exportált más országokba. Camillo fia, Adriano, 1924-ben kezdett a vállalatnál dolgozni, és később ő lett a főnök. Bevezette a gyártósor egységes sebességét, és technológia valamint formatervezés szakértőket alkalmazott. A vállalat új és jobb írógépeket, majd számológépeket (计算机) fejlesztett. 1959-ben elkészítette az ELEA számítógépes rendszert. Ez volt az első Olaszországban tervezett és gyártott nagyszámítógép（主机）. Adriano 1960-as halála után a vállalat pénzügyi problémákkal küzdött. Más cégek, különösen a japánok, gyorsabban haladtak az elektronikai technológia terén, mint az olasz vállalat. 1978-ban Carlo de Benedetti lett az új főnök. Az Olivetti növelte marketing és szolgáltatási hálózatát, és megállapodásokat kötött más cégekkel, hogy fejlettebb irodai berendezéseket tervezzen és gyártson. Hamarosan az információs technológia és kommunikáció terén a világ vezető vállalatai közé került. Jelenleg az Olivetti csoportban öt független vállalat működik—egy a személyi számítógépekre, egy a rendszerekre és szolgáltatásokra, és kettő a telekommunikációra.",
+        "question": "A szöveg legjobb címe ____________ lenne.",
+        "options": [
+            "(A) Az Olivetti eredete      ",
+            "(B) Az Olivetti sikere   ",
+            "(C) Az Olivetti története  ",
+            "(D) Az Olivetti gyártása"
+        ],
+        "label": "C",
+        "ind": 5
+    },
+    {
+        "passage": "Gondolkodtál már azon, miért tart tovább nyugatra repülni, mint keletre? Öt órát vesz igénybe a kelet-nyugati út New Yorkból (NY) Londonba, de hét órát utazni nyugat-keleti irányban Londonból NY-ba. A különbség oka egy légköri jelenség, amelyet sugáráramlatnak neveznek. A sugáráramlat egy nagyon nagy magasságú szél, amely mindig nyugatról keletre fúj az Atlanti-óceánon. A repülőgépek, amelyek állandó légsebességgel haladnak, így gyorsabban haladnak a kelet-nyugati irányban, amikor a széllel mozognak, mint az ellenkező irányban. Mi történne, ha hirtelen kikapcsolnánk a Föld gravitációját? Tegyük fel, hogy varázslatosan kikapcsolhatnánk a gravitációt. Az épületek és más szerkezetek lebegnének? Az attól függne, hogy mennyire szorosan kapcsolódnak a Földhöz. A Föld meglehetősen nagy sebességgel mozog, több mint ezer mérföld/óránként. Ha egy zsinóron körbeforgatsz valamit a fejed körül, az körbe-körbe megy, amíg el nem engeded a zsinórt. A gravitáció „kikapcsolása” olyan lenne, mint elengedni a zsinórt. Azok a dolgok, amelyek nincsenek a Földhöz kötve, egyenes vonalban repülnének el. Az épületekben lévő emberek hirtelen felfelé lőnének nagy sebességgel, amíg el nem érik a mennyezetet. A legtöbb dolog odakint elrepülne az űrbe.",
+        "question": "Milyen információt szerezhetünk az első szakaszból?",
+        "options": [
+            "(A) A sugáráramlat befolyásolja, hogy milyen gyorsan repülnek a repülőgépek.",
+            "(B) A repülőgépek lassabban mennek, amikor a széllel mozognak.",
+            "(C) Több időbe telik New Yorkból Londonba repülni, mint Londonból New Yorkba.",
+            "(D) A sugáráramlat mindig keletről nyugatra fúj az Atlanti-óceánon."
+        ],
+        "label": "A",
+        "ind": 6
+    },
+    {
+        "passage": "Gondolkodtál már valaha azon, miért tart tovább nyugatra repülni, mint keletre? Öt órába telhet, hogy New Yorkból (NY) Londonba kelet-nyugati irányban eljussunk, de hét órába, hogy Londonból NY-ba nyugat-keleti irányban. A különbség oka egy légköri jelenség, amelyet sugáráramlatnak neveznek. A sugáráramlat egy nagyon nagy magasságban fújó szél, amely mindig nyugatról keletre fúj át az Atlanti-óceánon. A repülőgépek, amelyek állandó légsebességgel mozognak, így gyorsabban haladnak nyugat-keleti irányban, amikor a széllel haladnak, mint az ellenkező irányban. Mi történne, ha a Földön hirtelen kikapcsolnák a gravitációt? Tegyük fel, hogy varázslatosan kikapcsolhatnánk a gravitációt. Lebegnének-e az épületek és más struktúrák? Az, hogy mi történne, attól függne, mennyire erősen kapcsolódnak a tárgyak a Földhöz. A Föld elég nagy sebességgel mozog, több mint ezer mérföld/órás sebességgel. Ha egy zsinóron körbeforgatnál valamit a fejed körül, akkor körbe-körbe menne, amíg el nem engeded a zsinórt. A gravitáció \"kikapcsolása\" olyan lenne, mint elengedni a zsinórt. Azok a dolgok, amelyek nincsenek kapcsolódva a Földhöz, egyenesen elrepülnének. Az épületekben lévő emberek hirtelen nagy sebességgel felfelé lőnének, amíg neki nem ütköznek a mennyezetnek. A legtöbb dolog a szabadban az űrbe repülne.",
+        "question": "A második részben aláhúzott \"shoot\" szó valószínűleg azt jelenti, hogy \"__________\".",
+        "options": [
+            "['(A)hív', '(B)gyorsan mozog', '(C)kijön', '(D)gyorsan növekszik']"
+        ],
+        "label": "B",
+        "ind": 7
+    },
+    {
+        "passage": "Gondolkodtál már valaha azon, miért tart tovább repülővel nyugatra repülni, mint keletre? Öt órába telhet nyugat-kelet irányba repülni New Yorkból (NY) Londonba, de hét órába telik kelet-nyugat irányba utazni Londonból NY-ba. A különbség oka egy légköri jelenség, amelyet sugáráramlásnak neveznek. A sugáráramlás egy nagyon magas szintű szél, amely mindig nyugatról keletre fúj az Atlanti-óceán felett. A repülőgépek, amelyek állandó légsebességgel mozognak, így gyorsabban haladnak nyugat-kelet irányba, amikor mozognak a széllel, mint az ellenkező irányba. Mi történne, ha a Föld gravitációja hirtelen megszűnne? Tételezzük fel, hogy varázsütésre kikapcsolhatnánk a gravitációt. Vajon az épületek és más szerkezetek elúsznának? Az, hogy mi történne, attól függne, hogy mennyire erősen vannak a dolgok a Földhöz rögzítve. A Föld elég nagy sebességgel mozog, több mint ezer mérföld per órával. Ha valamit a fejed körül forgatsz egy madzagon, az körbe-körbe megy, amíg el nem engeded a madzagot. A gravitáció \"kikapcsolása\" olyan lenne, mint elengedni a madzagot. A Földhöz nem rögzített dolgok egyenes vonalban repülnének el. Az emberek az épületekben hirtelen nagy sebességgel felfelé lőnének, amíg el nem érik a plafont. A legtöbb dolog a szabadban az űrbe repülne.",
+        "question": "Le lehet vonni azt a következtetést, hogy gravitáció nélkül _____________.",
+        "options": [
+            "(A) az épületek és más szerkezetek elúsznának",
+            "(B) a fák és épületek nem olyan könnyen repülnének el",
+            "(C) valami a fejed körül nem úszna el",
+            "(D) minden, ami az épületeken kívül van, az űrbe repülne"
+        ],
+        "label": "B",
+        "ind": 8
+    },
+    {
+        "passage": "Gondolkodtál már azon, miért tart tovább repülővel nyugat felé utazni, mint kelet felé? Öt órába telhet nyugatról keletre repülni New Yorkból (NY) Londonba, de hét órába kerülhet kelet-nyugati irányban utazni Londonból NY-ba. A különbség oka egy légköri jelenség, amelyet sugáráramlatnak neveznek. A sugáráramlat nagyon magas magasságú szél, amely mindig nyugatról keletre fúj az Atlanti-óceán felett. A repülőgépek, amelyek állandó légsebességgel mozognak, így gyorsabban haladnak nyugatról keletre, amikor a széllel haladnak, mint az ellenkező irányban. Mi történne, ha hirtelen kikapcsolnánk a gravitációt a Földön? Tegyük fel, hogy varázslatosan kikapcsolhatnánk a gravitációt. Az épületek és más szerkezetek elrepülnének? Az, hogy mi történne, attól függne, hogy a dolgok mennyire szorosan kapcsolódnak a Földhöz. A Föld meglehetősen nagy sebességgel mozog, több mint ezer mérföld/órás sebességgel. Ha egy zsinóron valamit a fejed körül forgatsz, körbe-körbe megy, amíg el nem engeded a zsinórt. A gravitáció „kikapcsolása” olyan lenne, mintha elengednéd a zsinórt. A Földhöz nem rögzített dolgok egyenes vonalban repülnének el. Az épületekben lévő emberek hirtelen nagy sebességgel felfelé lőnének, amíg neki nem ütköznének a mennyezetnek. A legtöbb dolog odakint az űrbe repülne.",
+        "question": "Hol olvashatjuk valószínűleg ezt a szöveget?",
+        "options": [
+            "(A) Egy kutatási dolgozatban.      ",
+            "(B) Egy rövid történetben.   ",
+            "(C) Egy utazási magazinban.     ",
+            "(D) Egy diák könyvében."
+        ],
+        "label": "D",
+        "ind": 9
+    },
+    {
+        "passage": "Az amerikai városok hasonlóak más városokhoz a világon: Minden országban a városok tükrözik a kultúra értékeit. Az amerikai városok változnak, ahogyan az amerikai társadalom is változik. A második világháború után a legtöbb nagy amerikai város lakossága csökkent; azonban sok Sun Belt városban nőtt a lakosság. Los Angeles és Houston olyan városok, ahol a lakosság áthelyeződése a városba és onnan kifelé tükrözi az amerikai társadalom változó értékeit. Az 1940-es évek végén és az 1950-es évek elején a városlakók gazdagabbá váltak. Több gyerekük lett, így több helyre volt szükségük. Kiköltöztek a városi lakásaikból, hogy saját otthont vásároljanak. Házakat vettek a külvárosokban. Most a dolgok változnak. Azoknak az embereknek a gyermekei, akik az 1950-es években elhagyták a városokat, ma már felnőttek. Sokan, ellentétben a szüleikkel, a városokban akarnak élni. Továbbra is költöznek a Sun Belt városokba és az északkeleti és közép-nyugati régebbi városokba. Sok fiatal szakember költözik vissza a városba. Ők a várost részesítik előnyben a külvárosokkal szemben, mert a munkájuk ott van; vagy egyszerűen élvezik a város által kínált izgalmakat és lehetőségeket. Ez a lakossági átrendeződés problémákat is hoz magával, valamint előnyöket. Számtalan szegény embernek el kell hagynia a városi lakásait, mert a tulajdonosok el akarják adni az épületeket, vagy eladásra szánt lakásokat akarnak készíteni a bérlés helyett. Az 1950-es években sok szegény embernek nem volt elég pénze a külvárosokba költözni; most sokan közülük ugyanazoknak az embereknek nincs elég pénzük a városban maradni. Csak néhány évvel ezelőtt még azt gondolták, hogy a régi amerikai városok haldoklanak. Néhány városlakó most ragyogó, új jövőt lát. Mások csak problémákat és konfliktusokat látnak. Egy dolog biztos: sok haldokló város újra él.",
+        "question": "Mit gondol a szerző a világ városairól?",
+        "options": [
+            "(A) Életben vannak.",
+            "(B) Reménytelenek.",
+            "(C) Hasonlóak.",
+            "(D) Különbözőek."
+        ],
+        "label": "C",
+        "ind": 10
+    },
+    {
+        "passage": "Az amerikai városok hasonlóak a világ más városaihoz: minden országban a városok tükrözik a kultúra értékeit. Az amerikai városok változnak, ahogy az amerikai társadalom is változik. A második világháború után a legtöbb nagy amerikai város népessége csökkent; azonban sok Sun Belt városban nőtt a népesség. Los Angeles és Houston olyan városok, ahol a népességmozgások tükrözik az amerikai társadalom változó értékeit. Az 1940-es évek végén és az 1950-es évek elején a városlakók gazdagabbak lettek. Több gyermekük született, így több helyre volt szükségük. Kiköltöztek a városi lakásaikból, hogy saját otthont vásároljanak. Házakat vásároltak a külvárosokban. Most a dolgok változnak. Azoknak az embereknek a gyermekei, akik az 1950-es években elhagyták a városokat, most felnőttek. Sokan, szüleikkel ellentétben, a városokban akarnak élni. Továbbra is a Sun Belt városokba és az északkeleti és középnyugati régebbi városokba költöznek. Sok fiatal szakember költözik vissza a városba. A várost részesítik előnyben a külvárosokkal szemben, mert ott vannak a munkáik; vagy egyszerűen élvezik a város nyújtotta izgalmakat és lehetőségeket. Ez a népességmozgás problémákat és előnyöket is hoz magával. Számtalan szegény embernek el kell hagynia a városi lakásait, mert a tulajdonosok el akarják adni az épületeket, vagy eladásra szánt lakásokat akarnak kialakítani a bérlés helyett. Az 1950-es években sok szegény embernek nem volt elég pénze a külvárosba költözni; most sokuknak nincs elég pénze a városban maradni. Csak néhány évvel ezelőtt az emberek azt gondolták, hogy a régebbi amerikai városok haldoklanak. Néhány városlakó most egy fényes, új jövőt lát. Mások csak problémákat és konfliktusokat látnak. Egy dolog biztos: sok haldokló város újra él.",
+        "question": "Miért akartak az amerikai városlakók a külvárosokban élni a második világháború után?",
+        "options": [
+            "(A) Mert a régebbi amerikai városok haldokoltak.",
+            "(B) Mert gazdagabbak lettek és több helyre volt szükségük.",
+            "(C) Mert a városok a társadalom legrosszabb részeit tartalmazták.",
+            "(D) Mert alig engedhették meg maguknak, hogy a városban éljenek."
+        ],
+        "label": "B",
+        "ind": 11
+    },
+    {
+        "passage": "Az amerikai városok hasonlóak a világ más városaihoz: minden országban a városok tükrözik a kultúra értékeit. Az amerikai városok változnak, ahogy az amerikai társadalom is változik. A II. világháború után a legtöbb nagy amerikai város népessége csökkent; azonban sok Napövi városban a népesség növekedett. Los Angeles és Houston olyan városok, ahol a népesség elmozdulása a városba és onnan kifejezi az amerikai társadalom változó értékeit. Az 1940-es évek végén és az 1950-es évek elején a városlakók gazdagabbá váltak. Több gyermekük volt, ezért több helyre volt szükségük. Kiköltöztek a városi lakásaikból, hogy saját otthonokat vásároljanak. Házakat vettek a külvárosban. Most azonban a dolgok változnak. Az emberek, akik az 1950-es években elhagyták a városokat, gyermekeik most már felnőttek. Sokan közülük, ellentétben szüleikkel, városban akarnak élni. Továbbra is a Napövi városokba és az északkeleti és középnyugati öregebb városokba költöznek. Sok fiatal szakember költözik vissza a városba. Előnyben részesítik a várost a külvárossal szemben, mert ott van a munkahelyük; vagy egyszerűen élvezik a város által kínált izgalmakat és lehetőségeket. Ez a népességmozgás problémákat és előnyöket is hoz magával. Számtalan szegény ember kénytelen elhagyni a városi lakásait, mert a tulajdonosok el akarják adni az épületeket, vagy eladásra szánják azokat bérlés helyett. Az 1950-es években sok szegény embernek nem volt elég pénze ahhoz, hogy a külvárosba költözzön; most ezek közül az emberek közül soknak nincs elég pénze ahhoz, hogy a városban maradjon. Csak néhány évvel ezelőtt az emberek azt gondolták, hogy az öregebb amerikai városok haldoklanak. Néhány városlakó most fényes, új jövőt lát. Mások csak problémákat és konfliktusokat látnak. Egy dolog biztos: sok haldokló város újra életre kelt.",
+        "question": "A negyedik bekezdés szerint sok szegény ember az amerikai városokban _______.",
+        "options": [
+            "['(A)lakhatási problémákkal szembesül', '(B)kénytelen a külvárosba költözni', '(C)el akarja adni az épületeit', '(D)több pénzre van szüksége a megélhetési költségekhez']"
+        ],
+        "label": "A",
+        "ind": 12
+    },
+    {
+        "passage": "Az amerikai városok hasonlóak a világ más városaihoz: minden országban a városok tükrözik a kultúra értékeit. Az amerikai városok változnak, éppúgy, mint az amerikai társadalom. A második világháború után a legtöbb nagy amerikai város lakossága csökkent; azonban sok napövi város lakossága növekedett. Los Angeles és Houston olyan városok, ahol a lakosság városba való áthelyeződése és onnan való elmozdulása tükrözi az amerikai társadalom változó értékeit. Az 1940-es évek végén és az 1950-es évek elején a városlakók gazdagabbak lettek. Több gyermekük volt, ezért több helyre volt szükségük. Elköltöztek a városi lakásaikból, hogy saját otthont vásároljanak. Házakat vettek a külvárosban. Most a dolgok változnak. Azoknak az embereknek a gyermekei, akik az 1950-es években elhagyták a városokat, most felnőttek. Sokan, ellentétben szüleikkel, a városban akarnak élni. Továbbra is költöznek a napövi városokba és az északkeleti és középnyugati régebbi városokba. Sok fiatal szakember költözik vissza a városba. A várost részesítik előnyben a külvárossal szemben, mert ott van a munkájuk; vagy egyszerűen élvezik a város által kínált izgalmat és lehetőségeket. Ez a népességmozgás problémákat és előnyöket egyaránt hoz. Számtalan szegény embernek kell elhagynia a városi lakásait, mert a tulajdonosok el akarják adni az épületeket, vagy eladásra szánt lakásokat akarnak létrehozni bérlés helyett. Az 1950-es években sok szegény embernek nem volt elég pénze, hogy a külvárosba költözzön; most ezek közül sok embernek nincs elég pénze arra, hogy a városokban maradjon. Csak néhány évvel ezelőtt az emberek azt gondolták, hogy a régebbi amerikai városok haldoklanak. Néhány városlakó most fényes, új jövőt lát. Mások csak problémákat és konfliktusokat látnak. Egy dolog biztos: sok haldokló város újra él.",
+        "question": "Következtethetünk a szövegből, hogy ___________.",
+        "options": [
+            "(A)az amerikai városok rosszabbá válnak        ",
+            "(B)az embereknek különböző véleménye van az amerikai városokról",
+            "(C)sokan most elköltöznek az amerikai városokból  ",
+            "(D)a népesség csökken a régebbi amerikai városokban"
+        ],
+        "label": "B",
+        "ind": 13
+    },
+    {
+        "passage": "Az apám 44 éves volt, és tudta, hogy nem fogja megérni a 45-öt. Írt nekem egy levelet, és remélte, hogy valami abban segíteni fog nekem életem hátralevő részében. Amióta 12 évesen először olvastam az ő levelét, néhány szava a szívemben él. Egy rész mindig kiemelkedik. „Most úgy teszel, mintha az időt pazarolnád. De tudom, hogy egy nap valami nagyszerűt fogsz tenni, ami a legjobbak közé emel téged.” Az a tudat, hogy apám hitt bennem, engedélyt adott nekem, hogy higgyek magamban. „Valami nagyszerűt fogsz tenni.” Nem tudta, mi lesz az, és én sem, de életem bizonyos szakaszaiban, amikor büszke voltam magamra, emlékszem az ő szavaira, és bárcsak itt lenne, hogy megkérdezhessem. „Erre gondoltál, apa? Tovább kellene mennem?” Most, hogy már messze vagyok a 12-től, rájövök, hogy büszke lett volna minden előrelépésemre. Mostanában azonban úgy érzem, azt akarná, hogy továbblépjek a következőre: legyen valaki másra büszke, és higgyen benne. Itt az ideje elkezdeni írni a saját leveleimet a gyermekeimnek. A gyermekeink ugyanazzal a megválaszolatlan kérdéssel fordulnak hozzánk, amivel mi is fordultunk. A gyerekeink nem tartják vissza magukat, mert félnek a kudarctól. Csak attól félnek, hogy csalódást okoznak nekünk. Nem aggódnak a csalódottság miatt. Az ő félelmük – mint az enyém volt apám leveléig – az, hogy csalódást okoznak. Adj engedélyt a gyermekeidnek, hogy sikeresek legyenek. Azért írnak, hogy higgy bennük. Mindig tudtam, hogy a szüleim szeretnek engem. De hidd el nekem. Ez a hit teljesebb lesz, ez a szeretet valóságosabb lesz, és az önmagukba vetett hitük nagyobb lesz, ha a szívükre írod a szavakat. „Ne aggódj; valami nagyszerűt fogsz tenni.” Szüleik áldásának hiánya lehet az egyetlen dolog, ami visszatartja őket.",
+        "question": "A szövegből megtudjuk, hogy a szerző",
+        "options": [
+            "(A)fiatalon elvesztette az apját",
+            "(B)Keményen dolgozott, mielőtt elolvasta volna apja levelét",
+            "(C)Megkérdezte apja engedélyét, hogy higgyen magában",
+            "(D)Pontosan tudta, milyen nagyszerű dolgot akar apja, hogy megtegyen"
+        ],
+        "label": "A",
+        "ind": 14
+    },
+    {
+        "passage": "Apám 44 éves volt, és tudta, hogy nem fogja megérni a 45-öt. Írt nekem egy levelet, és remélte, hogy valami abból segíteni fog nekem az életem hátralevő részében. Attól a naptól kezdve, amikor 12 évesen először olvastam a levelét, néhány szava a szívemben él. Egy rész mindig kiemelkedik. „Jelenleg úgy teszel, mintha csak az idődet töltenéd. De tudom, hogy egy nap valami nagyszerű dolgot fogsz tenni, ami a legjobbak közé emel majd.” Az, hogy tudtam, hogy apám hitt bennem, megengedte, hogy én is higgyek magamban. „Valami nagyszerű dolgot fogsz tenni.” Nem tudta, mi lesz az, és én sem, de életem bizonyos szakaszaiban, amikor büszkén néztem magamra, emlékeztem a szavaira és azt kívántam, bárcsak itt lenne, hogy megkérdezhessem: „Erről beszéltél, Apa? Folytassam?” Már messze a 12-től, rájöttem, hogy büszke lett volna bármilyen előrehaladásomra. Mostanában azonban úgy vélem, azt szeretné, ha továbblépnék a következő lépésre: büszkének lenni, és hinni valaki másban. Itt az ideje, hogy elkezdjem írni a saját leveleimet a gyermekeimnek. Gyermekeink ugyanazzal a megválaszolatlan kérdéssel fordulnak hozzánk, amivel mi is tettük. Gyermekeink nem fogják vissza magukat, mert félnek a kudarctól. Csak attól félnek, hogy csalódást okoznak nekünk. Nem aggódnak a csalódottság miatt. A félelmük - mint az enyém volt apám leveléig - az, hogy csalódást okoznak. Adj gyermekeidnek engedélyt a sikerre. Arra várnak, hogy higgy bennük. Mindig tudtam, hogy a szüleim szeretnek. De hidd el. Ez a hit teljesebb lesz, az a szeretet valóságosabb lesz, és az önmagukba vetett hitük nagyobb lesz, ha a szívükre írod a szavakat. „Ne aggódj; valami nagyszerű dolgot fogsz tenni.” Az a szülői áldás hiánya lehet az egyetlen dolog, ami visszatartja őket.",
+        "question": "Mit mond a szerző a 3. bekezdésben?",
+        "options": [
+            "(A) A gyerekeknek szükségük van a szülők leveleire.            ",
+            "(B) A gyerekek félnek a csalódottságtól. ",
+            "(C) Gyermekeinek a kudarctól való félelme visszatartotta őket. ",
+            "(D) Apja levele megszüntette a szülei csalódásától való félelmét."
+        ],
+        "label": "D",
+        "ind": 15
+    },
+    {
+        "passage": "Az apám 44 éves volt, és tudta, hogy nem éri meg a 45-öt. Írt nekem egy levelet, és remélte, hogy valami abból segíteni fog nekem életem hátralévő részében. Azóta, hogy 12 éves koromban először olvastam az ő levelét, néhány szava a szívemben él. Egy rész mindig kiemelkedik: \"Most éppen úgy teszel, mintha csak időt töltenél el, de tudom, hogy egy nap valami nagyszerű dolgot fogsz tenni, ami a legjobbak közé emel majd téged.\" Az, hogy tudtam, apám hitt bennem, engedélyt adott arra, hogy én is higgyek magamban. \"Valami nagyszerű dolgot fogsz tenni.\" Nem tudta, mi lesz az, és én sem, de életem bizonyos pillanataiban, amikor büszke voltam magamra, emlékeztem a szavaira, és azt kívántam, bárcsak itt lenne, hogy megkérdezzem: \"Erre gondoltál, apa? Folytassam?\" Most már messze vagyok a 12-től, és rájöttem, hogy büszke lett volna, amikor bármilyen előrelépést tettem. Az utóbbi időben azonban eljutottam arra a meggyőződésre, hogy azt szeretné, ha továbblépnék a következő lépésre: hogy büszke legyek valaki másra, és higgyek benne. Ideje elkezdenem a saját leveleimet írni a gyerekeimnek. Gyermekeink ugyanazzal a megválaszolatlan kérdéssel fordulnak hozzánk, mint amivel mi is. Gyermekeink nem tartják vissza magukat, mert félnek a kudarctól. Csak attól félnek, hogy csalódást okoznak nekünk. Nem aggódnak amiatt, hogy csalódottak lesznek. Az ő félelmük – ahogy az enyém is volt, amíg meg nem kaptam apám levelét – az, hogy csalódást okoznak. Adj gyermekednek engedélyt a sikerre. Arra vágynak, hogy higgy bennük. Mindig tudtam, hogy a szüleim szeretnek. De bízz bennem. Ez a hit teljesebb lesz, ez a szeretet valóságosabb, és az önmagukba vetett hitük nagyobb lesz, ha ezeket a szavakat írod a szívükre: \"Ne aggódj, valami nagyszerű dolgot fogsz tenni.\" Ha nem kapják meg ezt az áldást a szüleiktől, talán ez az egyetlen dolog, ami visszatartja őket.",
+        "question": "Melyik igaz a szerzőről?",
+        "options": [
+            "['(A) Nem volt lehetősége a sikerre.', '(B) 12 évesen visszaírt apjának.', '(C) Biztos volt benne, hogy a szülei szerették őt.', '(D) Egyszer megkérdezte apját a levélről.']"
+        ],
+        "label": "C",
+        "ind": 16
+    },
+    {
+        "passage": "Az apám 44 éves volt, és tudta, hogy nem fogja megérni a 45-öt. Írt nekem egy levelet, és remélte, hogy valami benne segíteni fog nekem az életem hátralévő részében. Attól a naptól kezdve, amikor 12 évesen először olvastam a levelét, néhány szava a szívemben él. Egy rész mindig kiemelkedik. \"Most úgy teszel, mintha időpocsékoló lennél. De tudom, hogy egy nap valami nagyszerűt fogsz tenni, ami a legjobbak közé emel.\" Az, hogy tudtam, apám hitt bennem, megengedte, hogy én is higgyek magamban. \"Valami nagyszerűt fogsz tenni.\" Nem tudta, mi lesz az, és én sem, de életem olyan időszakaiban, amikor büszke voltam magamra, emlékeztem a szavaira, és azt kívántam, bárcsak itt lenne, hogy megkérdezhessem. \"Erre gondoltál, apa? Folytassam?\" Már messze vagyok a 12-től, és rájöttem, hogy büszke lett volna bármilyen előrelépésre, amit tettem. Mostanában viszont úgy gondolom, hogy azt szeretné, ha tovább lépnék a következő dologra: hogy büszke legyek, és higgyek valaki másban. Ideje elkezdeni írni a saját leveleimet a gyermekeimnek. A gyermekeink ugyanazzal a megválaszolatlan kérdéssel fordulnak hozzánk, mint ami nekünk is volt. A gyerekeink nem tartják vissza magukat, mert félnek a kudarctól. Csak attól félnek, hogy csalódást okoznak nekünk. Nem aggódnak amiatt, hogy csalódottak lesznek. Az ő félelmük - ahogy az enyém is volt apám leveléig - az, hogy csalódást okoznak. Adj engedélyt a gyerekeidnek, hogy sikeresek legyenek. Arra vágynak, hogy higgy bennük. Mindig tudtam, hogy a szüleim szeretnek. De hidd el, ez a hit teljesebb lesz, ez a szeretet valóságosabb lesz, és a hitük önmagukban nagyobb lesz, ha a szavakat a szívükre írod. \"Ne aggódj; valami nagyszerűt fogsz tenni.\" Lehet, hogy az egyetlen dolog, ami visszatartja őket, az a szülői áldás hiánya.",
+        "question": "A szöveg fő célja az, hogy _______.",
+        "options": [
+            "['(A)leírja a gyermekek gondolkodását', '(B)válaszoljon néhány kérdésre, amit a gyermekek feltesznek', '(C)hangsúlyozza a kommunikáció fontosságát', '(D)tanácsot adjon a szülőknek, hogy bátorítsák gyermekeiket']"
+        ],
+        "label": "D",
+        "ind": 17
+    },
+    {
+        "passage": "Az egyre növekvő népesség élelmezési szükséglete nagy nyomást gyakorol a világ vízellátására. Mivel a világ vízkészletének 97%-a túl sós ahhoz, hogy meg lehessen inni vagy a mezőgazdaságban felhasználható legyen, a víz globális ellátását gondosan kell kezelni, különösen a mezőgazdaságban. Bár a vízhiány ötlete furcsának tűnhet valakinek, aki olyan országban él, ahol magas a csapadékmennyiség, a világ számos mezőgazdasági iparága állandó vízhiányt tapasztal. Bár lehet gátakat építeni, hogy vizet tároljanak mezőgazdasági célokra száraz területeken és száraz évszakokban, a víz újraelosztásának költségei nagyon magasak. Nemcsak maga a mérnöki tevékenység költséges, hanem a környezeti költségeket is figyelembe kell venni. Ahol völgyeket árasztanak el, hogy gátakat hozzanak létre, házak vesznek el és a vadvilág élőhelyei megsemmisülnek. Ezenkívül a víz könnyen áramolhat csöveken keresztül a mezőkre, de nem szállítható a világ egyik oldaláról a másikra. Ezért minden országnak a saját vízgazdálkodására kell támaszkodnia, hogy biztosítsa mezőgazdasági igényeit. Ez különösen aggasztó azok számára az országok számára, amelyek mezőgazdasági iparágai öntözésre támaszkodó területeken találhatók. Texasban a farmerek túlzott öntözővíz-felhasználása a vízkészletek 25%-os csökkenéséhez vezetett. Az Egyesült Államok délnyugati részén található Központi Völgy területén egy hatalmas vízügyi mérnöki projekt biztosított vizet a száraz völgyek mezőgazdálkodásához, de a vízfelhasználás nagy részét rosszul kezelték. Szaúd-Arábia kísérletei, hogy búzát termesszenek a sivatagos területeken, hatalmas mennyiségű öntözővíz kiszivattyúzását eredményezték a föld alatti tartalékokból. Mivel ezekben a területekben nincs csapadék, az ilyen tartalékok csak csökkenhetnek, és úgy vélik, hogy ötven év szivattyúzás után ki fognak merülni.",
+        "question": "Az első két bekezdésből megtudjuk, hogy .",
+        "options": [
+            "(A) a világ vízkészletének nagy része felhasználható",
+            "(B) a magas csapadékmennyiségű országokban élők szerencsésnek érzik magukat",
+            "(C) a víz újraelosztásának költségeit figyelembe kell venni",
+            "(D) a vizet könnyen lehet csöveken keresztül szállítani a világ másik oldalára"
+        ],
+        "label": "C",
+        "ind": 18
+    },
+    {
+        "passage": "A növekvő népesség élelmezésének szükségessége nagy nyomást gyakorol a világ vízkészletére. Mivel a világ vízkészletének 97%-a túl sós ahhoz, hogy meg lehessen inni vagy mezőgazdaságban fel lehessen használni, a vízkészletet világszerte gondosan kell kezelni, különösen a mezőgazdaságban. Bár a vízhiány gondolata furcsának tűnhet valakinek, aki szerencsés, hogy egy magas csapadékú országban él, a világ számos mezőgazdasági iparága állandó vízhiánnyal küzd. Bár gátakat lehet építeni a víz tárolására száraz területeken és száraz évszakokban, a víz újraelosztásának költségei nagyon magasak. Nemcsak a mérnöki munka költsége jelentős, hanem a környezeti költségeket is figyelembe kell venni. Ahol völgyeket árasztanak el, hogy gátakat hozzanak létre, házak vesznek el és vadon élő állatok élőhelyei pusztulnak el. Ráadásul a víz könnyen áramolhat csöveken keresztül a mezőkig, de nem szállítható egyik oldalról a másikra a világon. Ezért minden országnak a saját vízkészletének kezelésére kell támaszkodnia, hogy kielégítse mezőgazdasági igényeit. Ez különösen aggasztó azoknak az országoknak, ahol a mezőgazdasági iparágak öntözéstől függenek. Texasban a gazdák túlzott öntözővíz-használata 25%-os csökkenést eredményezett a vízkészletekben. Az USA délnyugati részének Központi Völgy területén egy hatalmas vízmérnöki projekt biztosított vizet a száraz völgyek mezőgazdasága számára, de a vízhasználat nagy részét rosszul kezelték. Szaúd-Arábia próbálkozása, hogy búzát termesszen sivatagi területeken, hatalmas mennyiségű öntözővíz kiszivattyúzását eredményezte a föld alatti tartalékokból. Mivel ezekben a területeken nincs csapadék, az ilyen tartalékok csak csökkenhetnek, és úgy vélik, hogy ötven évnyi szivattyúzás után kimerülhetnek.",
+        "question": "Melyik állítás igaz?",
+        "options": [
+            "['(A) A vízkészletek Texasban 75%-kal csökkentek.', '(B) A világ legtöbb iparága vízhiánytól szenved.', '(C) Szaúd-Arábia föld alatti vize 20 év múlva kifogyhat.', '(D) A vízhasználat jó kezelése eredményezte a projektet a Központi Völgyben.']"
+        ],
+        "label": "C",
+        "ind": 19
+    },
+    {
+        "passage": "A növekvő népesség ellátásának szükséglete nagy nyomást gyakorol a világ vízellátására. Mivel a világ vízkészletének 97%-a túl sós ahhoz, hogy meg lehessen inni vagy mezőgazdasági célokra használni, a vízkészlet világszintű kezelésére van szükség, különösen a mezőgazdaságban. Bár a vízhiány (短缺) gondolata furcsának tűnhet annak, aki szerencsésen egy csapadékban gazdag országban él, a világ számos mezőgazdasági iparága állandó vízhiánnyal küzd. Noha gátakat lehet építeni a víz tárolására száraz területeken és száraz évszakokban, a víz újraelosztásának (重新分配) költségei nagyon magasak. Nemcsak az építés saját költsége van, hanem figyelembe kell venni a környezetre gyakorolt költségeket is. Ahol völgyeket (山谷) árasztanak el gátak létrehozásához, házak vesznek el és a vadon élő állatok élőhelyei pusztulnak el. Emellett a víz könnyen áramolhat csöveken keresztül a mezőkre, de nem lehet szállítani a világ egyik oldaláról a másikra. Ezért minden országnak saját vízkezelésére kell támaszkodnia, hogy kielégítse mezőgazdasági igényeit. Ez különösen aggasztó azoknak az országoknak, ahol a mezőgazdasági iparágak öntözéstől (灌溉) függenek. Texasban a gazdák túlzott öntözési vízhasználata 25%-os csökkenést eredményezett a vízkészletekben. Az USA délnyugati részén, a Central Valley területén egy hatalmas vízmérnöki projekt biztosított vizet a száraz völgyek mezőgazdaságának, de a vízhasználat nagy része rosszul lett kezelve. Szaúd-Arábia kísérletei a sivatagi területeken való búzatermesztésre hatalmas mennyiségű öntözővíz szivattyúzását eredményezték a földalatti tartalékokból. Mivel ezekben a területeken nincs csapadék, az ilyen tartalékok csak csökkenhetnek, és úgy vélik, hogy ötven év szivattyúzás után ki fognak merülni.",
+        "question": "Mit valószínűleg tárgyal a következő bekezdés?",
+        "options": [
+            "(A)Lépések a vízhasználat kezelésének javítására.      ",
+            "(B)A gátak építési költségeinek csökkentésének módjai.   ",
+            "(C)Intézkedések a világszintű vízhiány kezelésére.   ",
+            "(D)Megközelítések a vízellátásra nehezedő nyomás kezelésére."
+        ],
+        "label": "A",
+        "ind": 20
+    },
+    {
+        "passage": "A növekvő népesség táplálása iránti igény nagy nyomást gyakorol a világ vízkészleteire. Mivel a világ vizének 97%-a túl sós ahhoz, hogy meg lehessen inni vagy mezőgazdaságban használni, a világ vízkészleteinek gondos kezelése szükséges, különösen a mezőgazdaságban. Bár a vízhiány ötlete furcsának tűnhet valakinek, aki elég szerencsés ahhoz, hogy magas csapadékú országban éljen, a világ számos mezőgazdasági iparága állandó vízhiánnyal küzd. Bár gátakat lehet építeni, hogy vizet tároljanak a mezőgazdasági használatra száraz területeken és száraz évszakokban, a víz újraelosztásának költségei nagyon magasak. Nemcsak a mérnöki munkák költsége jelentős, hanem környezeti költségekkel is számolni kell. Ahol völgyeket árasztanak el gátak létrehozása érdekében, házak vesznek el és vadon élő állatok élőhelyei pusztulnak el. Ráadásul a víz könnyen áramolhat csöveken keresztül a mezőkre, de nem szállítható a világ egyik oldaláról a másikra. Minden országnak ezért saját vízgazdálkodására kell támaszkodnia, hogy kielégítse mezőgazdasági igényeit. Ez különösen aggasztó azoknak az országoknak, amelyek mezőgazdasági iparágai öntözéstől függő területeken találhatók. Texasban a gazdák túlzott öntözővíz-használata 25%-os csökkenést eredményezett a víztározókban. Az USA délnyugati részén található Közép-völgyi területen egy hatalmas vízmérnöki projekt biztosított vizet a száraz völgyek mezőgazdasági célú ellátására, de a vízhasználatot gyakran rosszul kezelték. Szaúd-Arábia kísérletei, hogy búzát termesszenek sivatagos területeken, hatalmas mennyiségű öntözővíz szivattyúzását eredményezték a földalatti készletekből. Mivel ezekben a területeken nincs csapadék, az ilyen készletek csak csökkenhetnek, és úgy vélik, hogy ötven év szivattyúzás után kimerülnek.",
+        "question": "A szöveg főként a következőkről szól:",
+        "options": [
+            "(A) vízellátás és növekvő népesség  ",
+            "(B) vízhasználat kezelése és mezőgazdaság  ",
+            "(C) víz újraelosztása és vadvilág védelme  ",
+            "(D) vízhiány és környezetvédelem"
+        ],
+        "label": "B",
+        "ind": 21
+    },
+    {
+        "passage": "__Csendes-óceáni Tudományos Központ Útmutató__ ◆Látogasson el a __Csendes-óceáni Tudományos Központ Üzletébe__ Ne felejtsen el megállni a Csendes-óceáni Tudományos Központ Üzleténél, miközben itt van, hogy válasszon egy csodálatos tudományos tevékenységet vagy emlékezzen a látogatására. Az üzlet a 3. épület emeletén található, közvetlenül a Lézer Dóm mellett. ◆__Éhes__ Kiállításaink táplálják az elméjét, de mi van a testével? Kávézónk teljes menüt kínál ebéd- és snacklehetőségekkel, valamint szezonális különlegességekkel. A kávézó az 1. épület emeletén található, és naponta nyitva tart, amíg a Csendes-óceáni Tudományos Központ egy órával zárás előtt be nem zár. ◆__Bérleti Információk__A látogatás során bármilyen holmi tárolására szekrények állnak rendelkezésre. A szekrények az 1. épületben találhatók az Információs Pult közelében és a 3. épületben. Babakocsik és kerekesszékek bérelhetők az Információs Pultnál és a Denny Way bejáratnál. Személyi igazolvány szükséges. ◆T__ámogassa a Csendes-óceáni Tudományos Központot__ 1962 óta a Csendes-óceáni Tudományos Központ szenvedélyt (热情) ébresztett a felfedezés és az élethosszig tartó tanulás iránt a tudomány, a matematika és a technológia területén. Ma a Csendes-óceáni Tudományos Központ évente több mint 1,3 millió embert szolgál ki, és kutatásalapú tudományos oktatást hoz az osztálytermekbe és a közösségi eseményekre Washington állam területén. Ez egy csodálatos teljesítmény, amelyet nem tudnánk elérni egyéni, vállalati és más társadalmi szervezetek nagylelkű támogatása nélkül. Látogasson el a pacificorganzier.org-ra, hogy megtudja, hogyan támogathatja a Csendes-óceáni Tudományos Központot.",
+        "question": "Hol vásárolhat szuvenírt a Csendes-óceáni Tudományos Központban?",
+        "options": [
+            "['(A) Az 1. épületben.', '(B) A 3. épületben.', '(C) A Lézer Dómnál.', '(D) A Denny Way bejáratnál.']"
+        ],
+        "label": "B",
+        "ind": 22
+    },
+    {
+        "passage": "__Csendes-óceáni Tudományos Központ Útmutató__ ◆Látogasson el a __Csendes-óceáni Tudományos Központ Áruházába__ Ne felejtse el meglátogatni a Csendes-óceáni Tudományos Központ Áruházát, miközben itt van, hogy szerezzen egy csodálatos tudományos tevékenységet vagy emlékezzen a látogatására. Az áruház a 3. épület emeletén található közvetlenül a Lézer Dóm mellett. ◆__Éhes__ Kiállításaink táplálják az elméjét, de mi van a testével? Kávézónk teljes ebéd- és snackmenüt kínál, valamint szezonális különlegességeket. A kávézó az 1. épület emeletén található, és naponta nyitva tart a Csendes-óceáni Tudományos Központ zárása előtt egy óráig. ◆__Bérleti Információk__ Zárható szekrények állnak rendelkezésre, hogy tárolhassa a holmiját a látogatása során. A zárható szekrények az 1. épületben az Információs Pult közelében és a 3. épületben találhatók. Babakocsik és kerekesszékek bérelhetők az Információs Pultnál és a Denny Way bejáratánál. Személyazonosító igazolvány szükséges. ◆__Támogassa a Csendes-óceáni Tudományos Központot__ 1962 óta a Csendes-óceáni Tudományos Központ szenvedélyt ébreszt a felfedezés és a tudomány, matematika és technológia élethosszig tartó tanulása iránt. Ma a Csendes-óceáni Tudományos Központ évente több mint 1,3 millió embert szolgál ki, és kutatásalapú tudományos oktatást hoz osztálytermekbe és közösségi eseményekre szerte Washington államban. Ez egy csodálatos teljesítmény, amelyet nem érhetünk el egyének, vállalatok és más társadalmi szervezetek nagylelkű támogatása nélkül. Látogasson el a pacificorganzier.org oldalra, hogy megtudja, hogyan támogathatja a Csendes-óceáni Tudományos Központot.",
+        "question": "Mit tesz a Csendes-óceáni Tudományos Központ az iskolákért?",
+        "options": [
+            "['(A) Tudományos tanárokat képez.', '(B) Tudományos könyveket terjeszt.', '(C) Tudományos kutatásokat oszt meg.', '(D) Beviszi a tudományt az osztálytermekbe.']"
+        ],
+        "label": "D",
+        "ind": 23
+    },
+    {
+        "passage": "__Pacific Science Center Útmutató__ ◆Látogasson el a __Pacific Science Center Üzletébe__ Ne felejtsen el megállni a Pacific Science Center Üzletében, amíg itt van, hogy beszerezzen egy csodálatos tudományos tevékenységet vagy emlékezzen a látogatására. Az üzlet a 3. épület emeletén található, közvetlenül a Laster Dome mellett. ◆__Éhes__ Kiállításaink táplálják az elméjét, de mi a helyzet a testével? Kávézónk teljes ebéd- és snackmenüt kínál, valamint szezonális különlegességeket. A kávézó az 1. épület emeletén található, és naponta nyitva van, amíg a Pacific Science Center zárása előtt egy órával be nem zár. ◆__Bérlési információk__ Zárható szekrények állnak rendelkezésre, hogy elhelyezhesse személyes tárgyait látogatása során. A zárható szekrények az 1. épületben, az Információs pult közelében és a 3. épületben találhatók. Babakocsik és kerekesszékek bérelhetők az Információs pultnál és a Denny Way bejáratánál. Személyi igazolvány szükséges. ◆__Támogassa a Pacific Science Center-t__ 1962 óta a Pacific Science Center inspirálja a felfedezés és az élethosszig tartó tanulás iránti szenvedélyt a tudomány, a matematika és a technológia területén. Ma a Pacific Science Center évente több mint 1,3 millió embert szolgál ki, és kutatásalapú tudományos oktatást biztosít osztálytermekben és közösségi eseményeken Washington állam egész területén. Ez egy csodálatos teljesítmény, amit nem tudnánk elérni az egyének, vállalatok és más társadalmi szervezetek nagylelkű támogatása nélkül. Látogasson el a pacificorganzier.orgra, hogy megtalálja a különféle módokat, ahogyan támogathatja a Pacific Science Center-t.",
+        "question": "Mi a szöveg utolsó részének célja?",
+        "options": [
+            "['(A) Adományok ösztönzése.', '(B) Közelgő események hirdetése.', '(C) Különleges kiállítások bemutatása.', '(D) A Központ történetének elmondása.']"
+        ],
+        "label": "A",
+        "ind": 24
+    },
+    {
+        "passage": "Önkéntesek a Vadvilágért szervezetnél dolgozom, amely egy mentési és oktatási szervezet a Bailey Arborétumban, Locust Valleyben. A sérült, elárvult vagy beteg állatok megsegítése szívszorító lehet; a túlélés soha nem biztos. Azonban, amikor sikerül, az egyszerűen gyönyörű. Kaptam egy segélyhívást egy nőtől Muttontownból. Talált egy fiatal baglyot a földön. Amikor megérkeztem, láttam egy 2-3 hetes baglyot. Már biztonságosan elhelyezték egy hordozóban. Megvizsgáltam a fiókát, és rendben lévőnek tűnt. Ha megtalálnám a fészket, talán vissza tudnám tenni, de nem sikerült. A következő feladatom az volt, hogy egy fészket építsek, és rögzítsem egy fára. A háztulajdonos nagyon segítőkész volt. Találtunk egy drótkosarat. Tettem néhány fenyőágat a kosárba, hogy biztonságos és kényelmes legyen ez a fészek. A fiókát a fészekbe helyeztem, és gyorsan megnyugodott. Most már csak a szülőkre volt szükség, de ők hiányoztak. Adtam a háztulajdonosnak egy felvételt a bagolyfiókák éhes kiáltásairól. Ezek hirdetik a fiókák jelenlétét a felnőtteknek; talán a mi fiókánkat is arra ösztönözhetik, hogy kezdjen el hívogatni. Annyi információt adtam a tulajdonosnak, amennyit csak tudtam, és hazamentem, hogy megnézzem, milyen híreket hoz az éjszaka. Egy idegtépő éjszaka volt, de néha a természet szellemei ránk mosolyognak! A háztulajdonos felhívott, hogy a szülők reagáltak a felvételekre. Átmentem, és láttam, hogy a fióka a fészekben egészségesen és aktívan néz ki. És a legnagyobb látvány kísérte a fészekben — EBÉD! A szülők teljesítették kötelességüket, és valószínűleg folytatni is fogják.",
+        "question": "Mit nem lehet elkerülni a szerző mentési munkájában az első bekezdés szerint?",
+        "options": [
+            "(A) Hiábavaló erőfeszítések.",
+            "(B) Sérülések elszenvedése a munkája során.",
+            "(C) Bizonytalanság érzése a jövőjét illetően.",
+            "(D) Állatok, akiket kényszerítenek elhagyni otthonukat."
+        ],
+        "label": "A",
+        "ind": 25
+    },
+    {
+        "passage": "Önkéntesként dolgozom a Volunteers for Wildlife nevű szervezetnél, amely egy mentési és oktatási szervezet a Bailey Arborétumban, Locust Valley-ben. A sérült, elhagyott vagy beteg lények megsegítése szívszorító lehet; a túlélés sosem biztos. Azonban, ha sikerül, az egyszerűen gyönyörű. Egy nő hívott segítségért Muttontown-ból. Talált egy fiatal baglyot a földön. Amikor megérkeztem, egy 2-3 hetes baglyot láttam. Már biztonságba helyezték egy hordozóban. Megvizsgáltam a fiókát, és rendben lévőnek tűnt. Ha meg tudtam volna találni a fészket, talán vissza tudtam volna helyezni, de nem volt szerencsém. A következő munkám az volt, hogy építsek egy fészket, és rögzítsem egy fára. A háztulajdonos nagyon segítőkész volt. Találtunk egy drót kosarat. Néhány fenyőágat tettem a kosárba, hogy a fészek biztonságos és kényelmes legyen. A fiókát a fészekbe helyeztem, és gyorsan megnyugodott. Most már csak a szülőkre volt szükség, de ők nem voltak ott. Adtam a háztulajdonosnak egy felvételt a bagolyfiókák éhező kiáltásairól. Ezek hirdetik a fiókák jelenlétét a felnőttek számára; talán a mi fiókánkat is buzdítják majd, hogy hívogassa őket. A lehető legtöbb információt adtam a tulajdonosnak, és hazamentem, hogy meglássam, milyen híreket hoz az éjszaka. Kétségtelenül egy ideges éjszaka volt, de néha a természet szellemei ránk mosolyognak! A háztulajdonos felhívott, hogy a szülők reagáltak a felvételekre. Átmentem, és láttam, hogy a fióka a fészekben egészségesnek és aktívnak tűnik. És a fészekben a legnagyobb látvány kísérte — EBÉD! A szülők teljesítették kötelességüket, és valószínűleg folytatni is fogják.",
+        "question": "Miért hívták a szerzőt Muttontown-ba?",
+        "options": [
+            "['(A) Hogy megmentsen egy nőt.', '(B) Hogy gondoskodjon egy nőről.', '(C) Hogy megnézzen egy bagolyfiókát.', '(D) Hogy meggyógyítson egy fiatal baglyot.']"
+        ],
+        "label": "C",
+        "ind": 26
+    },
+    {
+        "passage": "Önkéntesek a Vadvilágért szervezetnél dolgozom, egy mentő- és oktatási szervezetnél a Bailey Arborétumban, Locust Valleyben. A sérült, elveszett vagy beteg állatok megsegítése szívszorító lehet; a túlélés sosem biztos. Azonban, amikor sikerül, az egyszerűen gyönyörű. Mentési hívást kaptam egy nőtől Muttontownból. Talált egy fiatal bagolyt a földön. Amikor megérkeztem, egy 2-3 hetes baglyot láttam. Biztonság érdekében már egy hordozóba helyezték. Megvizsgáltam a fiókát, és jónak tűnt. Ha megtalálhatnám a fészket, talán vissza tudnám helyezni, de nem volt szerencsém. A következő feladatom az volt, hogy készítsek egy fészket és rögzítsem egy fára. A háztulajdonos nagyon segítőkész volt. Találtunk egy drót kosarat. Fenyőágakat tettem a kosárba, hogy a fészek biztonságos és kényelmes legyen. A fiókát a fészekbe helyeztem, és gyorsan megnyugodott. Most már csak a szülők hiányoztak, de nem voltak jelen. Adtam a háztulajdonosnak egy felvételt a bagolyfiókák éhségsikolyairól. Ezek hirdetik a fiókák jelenlétét a felnőtteknek; talán a mi fiókánkat is hívásra ösztönözhetik. A lehető legtöbb információt adtam a tulajdonosnak, és hazamentem, hogy megnézzem, milyen híreket hoz az éjszaka. Bizonytalan éjszaka volt, de néha a természet szellemei ránk mosolyognak! A háztulajdonos felhívott, hogy a szülők reagáltak a felvételekre. Odaautóztam, és láttam a fiókát a fészekben, egészségesen és aktívan. És a fészekben a legnagyobb látvány - EBÉD - is ott volt! A szülők teljesítették kötelességüket, és valószínűleg folytatni is fogják.",
+        "question": "Mi nyugtatta meg a fiókát?",
+        "options": [
+            "(A) Egy új fészek.  ",
+            "(B) Némi étel.  ",
+            "(C) Egy felvétel.  ",
+            "(D) A szülei."
+        ],
+        "label": "A",
+        "ind": 27
+    },
+    {
+        "passage": "Az Önkénesek a Vadonért nevű szervezettel dolgozom, amely egy mentő és oktató szervezet a Bailey Arborétumban, Locust Valleyben. Sérült, elűzött vagy beteg lények megsegítése szívszorító lehet; a túlélés sosem biztos. Azonban, amikor sikerül, az egyszerűen gyönyörű. Mentési hívást kaptam egy nőtől Muttontownban. Talált egy fiatal baglyot a földön. Amikor megérkeztem, láttam egy 2-3 hetes baglyot. Már biztonságosan elhelyezték egy hordozóban. Megvizsgáltam a fiókát, és rendben lévőnek tűnt. Ha meg tudnám találni a fészket, talán vissza tudnám tenni, de nem volt szerencsém. A következő feladatom az volt, hogy építsek egy fészket, és rögzítsem egy fára. A háztulajdonos nagyon segítőkész volt. Találtunk egy drótkosarat. Tettem néhány fenyőágat a kosárba, hogy a fészek biztonságos és kényelmes legyen. A fiókát a fészekbe helyeztem, és gyorsan megnyugodott. Most már csak a szülőkre volt szükség, de ők nem voltak jelen. Adtam a háztulajdonosnak egy felvételt a bagolyfiókák éhségkiáltásairól. Ezek jelzik a fiókák jelenlétét a felnőtteknek; talán arra is ösztönzik a mi fiókánkat, hogy ő is elkezdjen hívni. Annyi információt adtam a tulajdonosnak, amennyit csak lehetett, és hazamentem, hogy megnézzem, milyen hírekkel szolgál az éjszaka. Bizony, idegtépő éjszaka volt, de néha a természet szellemei ránk mosolyognak! A háztulajdonos felhívott, hogy a szülők reagáltak a felvételekre. Odaautóztam, és láttam a fiókát a fészekben, egészségesnek és aktívnak tűnt. És a fészekben a legnagyszerűbb látvány kísérte - EBÉD! A szülők teljesítették kötelességüket, és valószínűleg folytatni is fogják.",
+        "question": "Hogyan érezheti magát a szerző az esemény kimenetele kapcsán?",
+        "options": [
+            "['(A)Váratlan.', '(B)Gyönyörű.', '(C)Humoros.', '(D)Elkeserítő.']"
+        ],
+        "label": "B",
+        "ind": 28
+    },
+    {
+        "passage": "A világ leghíresebb zenészei közül néhányan nemrégiben Párizsban és New Orleansban gyűltek össze, hogy megünnepeljék az első éves Nemzetközi Jazz Napot. Az UNESCO (az Egyesült Nemzetek Nevelésügyi, Tudományos és Kulturális Szervezete) nemrégiben április 30-át jazz-zene napjává nyilvánította, hogy felhívja a figyelmet a jazz-zene jelentőségére és annak potenciáljára, hogy összekötő hangként szolgáljon a kultúrák között. A megünneplések ellenére azonban az Egyesült Államokban a jazz közönsége továbbra is zsugorodik és öregszik, és a zene nem tudott kapcsolatot teremteni a fiatalabb generációkkal. Jason Moran feladata, hogy ezen változtasson. Mint a Kennedy Központ jazz művészeti tanácsadója, Moran reméli, hogy szélesebb közönséget vonz a jazz számára, elérhetőbbé teszi a zenét, és megőrzi annak történelmét és kultúráját. „Úgy tűnik, hogy a jazz nem igazán része az amerikai étvágynak” – mondja Moran a National Public Radio riporterének, Neal Conannak. „Amit el szeretnék érni, az az, hogy az én generációm és a fiatalabbak kezdjék el újragondolni és megérteni, hogy a jazz már nem fekete-fehér. Valójában színes, és valójában digitális.” Moran szerint a jazz mai problémáinak egyike, hogy a zene szórakoztató aspektusa elveszett. „A zenét nem lehet ma úgy bemutatni, ahogyan 1908-ban vagy 1958-ban volt. Tovább kell fejlődnie, mert a világ működése már nem ugyanaz” – mondja Moran. Tavaly Moran egy olyan projekten dolgozott, amely Fats Waller zenéjét táncpartira rendezte át, „csak hogy visszahozza a gondolatba, hogy Waller zenéje ugyanolyan tánczene, mint koncertzene” – mondja Moran. „Számomra ez a rekontextualizálás. A zenében hol rejlik az érzelem? Mi, emberek, szerzünk-e betekintést abba, hogyan beszéljünk magunkról, és hogyan vezet egy olyan absztrakt dolog, mint egy Charlie Parker lemez, párbeszédbe az érzelmeinkről és gondolatainkról? Néha szem elől tévesztjük, hogy a zenének szélesebb kontextusa van” – mondja Moran. „Ezért szeretném folytatni ezeket a párbeszédeket. Ezek azok a dolgok, amiket támogatni szeretnék.”",
+        "question": "Miért nyilvánította az UNESCO április 30-át Nemzetközi Jazz Napnak?",
+        "options": [
+            "(A) A jazz születésének emlékére.",
+            "(B) A kulturális sokszínűség védelmére.",
+            "(C) Az emberek zene tanulásának ösztönzésére.",
+            "(D) A jazz értékének elismerésére."
+        ],
+        "label": "D",
+        "ind": 29
+    },
+    {
+        "passage": "A világ néhány leghíresebb zenésze nemrégiben Párizsban és New Orleansban gyűlt össze, hogy megünnepelje az első éves Nemzetközi Jazz Napot. Az UNESCO (az Egyesült Nemzetek Nevelésügyi, Tudományos és Kulturális Szervezete) nemrégiben április 30-át jelölte ki a jazz zene népszerűsítésére, jelentőségének kiemelésére és annak lehetőségének bemutatására, hogy egyesítő hangként szolgáljon a különböző kultúrák között. Az ünneplések ellenére azonban az Egyesült Államokban a jazz közönsége továbbra is zsugorodik és öregszik, és a zene nem tud kapcsolódni a fiatalabb generációkhoz. Jason Moran feladata, hogy segítsen ezen változtatni. A Kennedy Központ jazz művészeti tanácsadójaként Moran reméli, hogy szélesíti a jazz közönségét, elérhetőbbé teszi a zenét, és megőrzi annak történelmét és kultúráját. „Úgy tűnik, hogy a jazz nem igazán része az amerikai étvágynak” – mondja Moran a National Public Radio riportere, Neal Conan számára. „Amit el szeretnék érni, az az, hogy az én generációm és a fiatalabbak kezdjék újragondolni és megérteni, hogy a jazz már nem fekete és fehér. Valójában színes, és valójában digitális.” Moran szerint a jazz mai problémáinak egyike az, hogy a zene szórakoztató aspektusa elveszett. „A zenét nem lehet ma úgy bemutatni, ahogyan 1908-ban vagy 1958-ban történt. Tovább kell haladnia, mert a világ működése nem ugyanaz” – mondja Moran. Tavaly Moran dolgozott egy projekten, amely Fats Waller zenéjét egy táncparti számára rendezte be: „Csak hogy visszakerüljön a fejekbe, hogy Waller annyira tánczene, mint koncertzene” – mondja Moran. „Számomra ez az újrakontextualizálás. A zenében hol rejlik az érzelem? Vajon mi, emberek, szerzünk-e bármilyen betekintést abba, hogyan beszéljünk magunkról, és hogyan indít el egy olyan absztrakt dolog, mint egy Charlie Parker lemez, párbeszédet az érzelmeinkről és gondolatainkról? Néha szem elől tévesztjük, hogy a zene szélesebb kontextusban van” – mondja Moran, „így folytatni szeretném ezeket a párbeszédeket. Ezeket a dolgokat szeretném előmozdítani.”",
+        "question": "29. Mire utal a harmadik bekezdésben aláhúzott „az” szó?",
+        "options": [
+            "(A) A jazz elérhetőbbé válása.",
+            "(B) A jazz termelésének gyorsabb növekedése.",
+            "(C) A jazz kevésbé népszerű a fiatalok körében.",
+            "(D) A jazz közönségének növekedése."
+        ],
+        "label": "C",
+        "ind": 30
+    },
+    {
+        "passage": "A világ néhány leghíresebb zenésze nemrégiben Párizsban és New Orleansban gyűlt össze, hogy megünnepelje az első éves Nemzetközi Jazz Napot. Az UNESCO (az Egyesült Nemzetek Nevelésügyi, Tudományos és Kulturális Szervezete) nemrégiben április 30-át jelölte ki a jazz zene, annak jelentősége és kultúrák közötti egyesítő szerepe tudatosításának napjaként. Az ünnepségek ellenére az Egyesült Államokban a jazz közönsége továbbra is csökken és öregszik, és a zene nem tudott kapcsolatot teremteni a fiatalabb generációkkal. Jason Morannak az a feladata, hogy segítsen ezen változtatni. A Kennedy Központ jazz művészeti tanácsadójaként Moran reméli, hogy bővíteni tudja a jazz közönségét, elérhetőbbé teszi a zenét, és megőrzi annak történelmét és kultúráját. „A jazz úgy tűnik, mintha már nem lenne része az amerikai étvágynak” – mondja Moran a National Public Radio riporterének, Neal Conannak. „Amit el akarok érni, az az, hogy az én generációm és a fiatalabbak kezdjék újragondolni és megérteni, hogy a jazz már nem fekete-fehér. Valójában színes, és valójában digitális.” Moran szerint az egyik probléma a mai jazzel, hogy a zene szórakoztató aspektusa elveszett. „A zenét ma nem lehet úgy bemutatni, ahogy 1908-ban vagy 1958-ban volt. Tovább kell lépnie, mert a világ működése nem ugyanaz” – mondja Moran. Tavaly Moran egy olyan projekten dolgozott, amely Fats Waller zenéjét táncpartira rendezte át, „csak hogy visszategyük a gondolatba, hogy Waller zenéje ugyanúgy tánczene, mint koncertzene” – mondja Moran. „Számomra ez az újrakontextualizálás. A zenében hol rejlik az érzelem? Mi, emberek, szerzünk-e valamilyen betekintést abba, hogyan beszéljünk magunkról, és hogyan vezessünk egy olyan elvont dolog, mint egy Charlie Parker lemez, párbeszédet az érzelmeinkről és gondolatainkról? Néha szem elől tévesztjük, hogy a zene szélesebb kontextusban van” – mondja Moran, „ezért szeretném folytatni ezeket a párbeszédeket. Ezek azok a dolgok, amelyeket ápolni szeretnék.”",
+        "question": "Mit vonhatunk le Moran véleményéről a jazz kapcsán?",
+        "options": [
+            "(A) Fokozatosan el fog tűnni.",
+            "(B) Továbbra is fekete-fehér marad.",
+            "(C) Lépést kell tartania az időkkel.",
+            "(D) 50 évente változik."
+        ],
+        "label": "C",
+        "ind": 31
+    },
+    {
+        "passage": "A világ legismertebb zenészei közül néhányan nemrégiben Párizsban és New Orleansban gyűltek össze, hogy megünnepeljék az első éves Nemzetközi Jazz Napot. Az UNESCO (az Egyesült Nemzetek Nevelésügyi, Tudományos és Kulturális Szervezete) nemrégiben április 30-át jelölte ki olyan napként, amelyen a jazz zenére, annak jelentőségére és kultúrák közötti egyesítő szerepére hívják fel a figyelmet. Az ünneplések ellenére az Egyesült Államokban a jazz közönsége folyamatosan csökken és öregszik, és a zene nem tudott kapcsolatot teremteni a fiatalabb generációkkal. Jason Morannak, a Kennedy Center jazz művészeti tanácsadójának feladata, hogy ezen változtasson. Moran reméli, hogy kibővíti a jazz közönségét, elérhetőbbé teszi a zenét, és megőrzi annak történelmét és kultúráját. „Úgy tűnik, hogy a jazz már nem igazán része az amerikai étvágynak” – mondja Moran a National Public Radio riporterének, Neal Conannak. „Amit elérni remélek, az az, hogy az én generációm és a fiatalabbak újragondolják és megértsék, hogy a jazz már nem fekete és fehér. Valójában színes, és digitális.” Moran szerint a jazz egyik problémája ma az, hogy a zene szórakoztató aspektusa elveszett. „A zenét ma nem lehet úgy bemutatni, mint 1908-ban vagy 1958-ban. Tovább kell fejlődnie, mert a világ működése nem ugyanaz” – mondja Moran. Tavaly Moran egy olyan projekten dolgozott, amely Fats Waller zenéjét egy táncpartira rendezte át, „csak hogy visszategyük a köztudatba, hogy Waller zenéje annyira tánczene, mint koncertzene” – mondja Moran. „Számomra ez az újrakonteksztualizálás. A zenében hol rejlik az érzelem? Mi, emberek, nyerünk-e bármilyen betekintést abba, hogyan beszéljünk magunkról, és hogyan juttat el minket egy olyan absztrakt dolog, mint egy Charlie Parker lemez, egy párbeszédhez az érzelmeinkről és gondolatainkról? Néha szem elől tévesztjük, hogy a zenének tágabb kontextusa van” – mondja Moran, „ezért szeretném folytatni ezeket a párbeszédeket. Ezek azok a dolgok, amiket ápolni akarok.”",
+        "question": "31. Melyik lehet a legjobb cím a szöveghez?",
+        "options": [
+            "['(A) A jazz jövőjének feltárása.', '(B) A jazz felemelkedése és hanyatlása.', '(C) Egy jazz zenész története.', '(D) A jazz nap ünneplése.']"
+        ],
+        "label": "A",
+        "ind": 32
+    }
+]

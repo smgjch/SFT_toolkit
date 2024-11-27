@@ -1,0 +1,425 @@
+[
+    {
+        "passage": "Üdvözöljük az Elektronikus Faluban, hogy felfedezhesse a nyelvoktatás és -tanulás új módjait. Elektronikus Falu Program (2015. június 18., csütörtök) Nearpod❖ 9:00-tól 10:00-ig ❖ 501-es terem A Nearpod egy szoftverprogram, amely gazdag kontextust teremt a szókincs tanulásához. Az előadó megmutatja, hogyan lehet használni. TEO❖ 14:00-tól 15:00-ig ❖ 502-es terem Diákjaink különböző háttérrel rendelkeznek, de ugyanaz a vágyaik, hogy online tanuljanak. Az előadó példákat mutat be az első online órájából, hogy elmagyarázza, hogyan kezdhet el bármely tanár online tanítani a TEO-val. Kahoot❖ 10:30-tól 11:30-ig ❖ 601-es terem A Kahoot szoftver használható nyelvtani tesztek létrehozására, amelyeket hálózaton lehet értékelni. Azonnali visszajelzést adhat a diákoknak, beleértve a jelentéseket az erősségeikről és gyengeségeikről. Prezi❖ 15:30-tól 16:20-ig ❖ 602-es terem A Prezi használata a hallgatási és beszédórákon felhívja a diákok figyelmét a folyékonyabb beszédre. Az előadó megmutatja, hogyan használhatják a diákok a Prezit, hogy magabiztosan mutassanak be különböző témákat, beleértve a család, barátok és hobbik bemutatását.",
+        "question": "Melyik következő lehetőség értékelheti a nyelvtani tanulását?",
+        "options": [
+            "(A) Nearpod. ",
+            "(B) Kahoot. ",
+            "(C) TEO. ",
+            "(D) Prezi."
+        ],
+        "label": "B",
+        "ind": 0
+    },
+    {
+        "passage": "Üdvözöljük az Elektronikus Faluban, hogy felfedezzen új módszereket a nyelvtanítás és -tanulás terén. Elektronikus Falu Program (2015. június 18., csütörtök) Nearpod❖ 9:00-től 10:00-ig ❖ 501-es terem A Nearpod egy szoftverprogram, amely gazdag kontextust teremt a diákok számára a szókincs tanulásához. Az előadó bemutatja, hogyan lehet használni. TEO❖ 14:00-tól 15:00-ig ❖ 502-es terem Diákjaink különböző háttérrel rendelkeznek, de ugyanaz a vágy hajtja őket az online tanulás iránt. Az előadó első online órájának példáival magyarázza el, hogyan kezdhet bármely tanár online oktatást a TEO-val. Kahoot❖ 10:30-tól 11:30-ig ❖ 601-es terem A Kahoot szoftver használható hálózaton történő nyelvtani tesztek létrehozására és értékelésére. Azonnali visszajelzést nyújthat a diákoknak, beleértve az erősségeikről és gyengeségeikről szóló jelentéseket. Prezi❖ 15:30-tól 16:20-ig ❖ 602-es terem A Prezi használata hallgatási és beszédtanfolyamokon felkelti a diákok figyelmét, hogy folyékonyabban beszéljenek. Az előadó megmutatja, hogyan használhatják a diákok a Prezit különböző témák magabiztos bemutatására, beleértve a család, barátok és hobbik bemutatását.",
+        "question": "Egy tanár, aki online tanítást szeretne tanulni, várhatóan mikor érkezik meg ______.",
+        "options": [
+            "(A)9:00, (B)10:30, (C)14:00, (D)15:30"
+        ],
+        "label": "C",
+        "ind": 1
+    },
+    {
+        "passage": "Amikor Helene An öt lánya fiatal volt, Helene mindig azt mondta nekik, hogy az egységben van erő. Ennek bemutatására felemelt egy evőpálcikát, amely egy személyt jelképezett. Aztán könnyedén eltörte két darabra. Ezután összekötött több evőpálcikát, ami a családot jelképezte. Megmutatta a lányoknak, hogy nehéz eltörni az összekötött pálcikákat. Ez a családi egységről szóló tanítás megmaradt a lányokban, ahogy felnőttek. Helene An és családja egy nagy étteremláncot birtokol Kaliforniában. Azonban amikor Helene és férje, Danny elhagyták otthonukat Vietnamban 1975-ben, nem volt sok pénzük. San Franciscóba költöztették a családjukat. Ott csatlakoztak Danny édesanyjához, Dianához, aki egy kis olasz szendvicsboltot birtokolt. Nem sokkal ezután Helene és Diana átalakították a szendvicsboltot egy kis vietnami étteremmé. Az öt lány segített az étteremben, amikor fiatalok voltak. Helene azonban nem akarta, hogy a lányai mindig a családi üzletben dolgozzanak, mert túl keménynek tartotta. Végül a lányok mind diplomát szereztek és elmentek saját maguk dolgozni, de egyenként visszatértek dolgozni a családi üzletbe. Új éttermeket nyitottak San Franciscóban és Los Angelesben. Bár a családtagok néha nem értettek egyet egymással, együtt dolgoztak a siker érdekében. Lányuk, Elisabeth elmagyarázza: \"Anyánk megtanította nekünk, hogy a sikerhez egység kell, és az egységhez béke kell. A család ereje nélkül nincs üzlet.\" Bővülő üzletük 1996-ban nagyvállalattá vált, három generáció dolgozott együtt. Most az An család vállalata évente több mint 20 millió dollárt keres. Bár egy kis étteremmel kezdték, nagy álmaik voltak, és együtt dolgoztak. Most nagy sikernek örvendenek.",
+        "question": "Helene több evőpálcikát kötött össze, hogy megmutassa ______.",
+        "options": [
+            "['(A)a családi egység ereje', '(B)a felnőtté válás nehézségei', '(C)az evőpálcikák előnyei', '(D)az oktatás legjobb módja']"
+        ],
+        "label": "A",
+        "ind": 2
+    },
+    {
+        "passage": "Amikor Helene An öt lánya fiatal volt, mindig azt mondta nekik, hogy az egységben (团结) erő rejlik. Ennek bemutatására felemelt egy evőpálcikát, amely egy személyt képviselt. Majd könnyedén kettétörte. Ezután több evőpálcikát összekötött, amely a családot szimbolizálta. Megmutatta a lányoknak, hogy nehéz eltörni az összekötött pálcikákat. Ez a családi egységről szóló lecke velük maradt, ahogy felnőttek. Helene An és családja egy nagy étteremlánc tulajdonosa Kaliforniában. Azonban amikor Helene és férje, Danny 1975-ben elhagyták otthonukat Vietnamban, nem volt sok pénzük. San Franciscóba költöztek. Ott csatlakoztak Danny édesanyjához, Dianához, aki egy kis olasz szendvicsboltot birtokolt. Nem sokkal később Helene és Diana átalakították a szendvicsboltot egy kis vietnami étteremmé. Az öt lány segített az étteremben, amikor fiatalok voltak. Helene azonban nem akarta, hogy a lányai mindig a családi vállalkozásban dolgozzanak, mert úgy gondolta, hogy ez túl nehéz. Végül a lányok mindannyian elvégezték az egyetemet és elmentek, hogy saját maguk dolgozzanak, de egyenként visszatértek, hogy a családi vállalkozásban dolgozzanak. Új éttermeket nyitottak San Franciscóban és Los Angelesben. Annak ellenére, hogy a családtagok néha nem értettek egyet egymással, együtt dolgoztak a vállalkozás sikeréért. Lányuk, Elisabeth így magyarázza: \"Anyánk azt tanította nekünk, hogy a sikerhez egységre van szükség, az egységhez pedig békére. A család ereje nélkül nincs üzlet.\" Terjeszkedő vállalkozásuk 1996-ban nagyvállalattá vált, három generációs An családtagokkal együtt dolgozva. Most az An család vállalata évente több mint 20 millió dollárt termel. Bár egy kis étteremmel kezdték, nagy álmaik voltak, és együtt dolgoztak. Mostanra nagy sikert értek el.",
+        "question": "Mit tanulhatunk a 2. bekezdésből az An családról?",
+        "options": [
+            "(A) 1975-ben indítottak vállalkozást",
+            "(B) Pénz nélkül hagyták el Vietnamot",
+            "(C) Éttermet vásároltak San Franciscóban",
+            "(D) Szendvicsboltot nyitottak Los Angelesben"
+        ],
+        "label": "B",
+        "ind": 3
+    },
+    {
+        "passage": "Amikor Helene An öt lánya fiatal volt, mindig azt mondta nekik, hogy az egységben (团结) erő rejlik. Ennek szemléltetésére felemelt egy pálcikát, ami egy embert jelképezett. Aztán könnyedén kettétörte. Ezután több pálcikát kötött össze, ami egy családot jelképezett. Megmutatta a lányoknak, hogy a kötött pálcikákat nehéz eltörni. Ez a családi egységről szóló lecke megmaradt a lányokban, ahogy felnőttek. Helene An és családja egy nagy étteremlánc tulajdonosa Kaliforniában. Azonban amikor Helene és férje, Danny 1975-ben elhagyták otthonukat Vietnámban, nem volt sok pénzük. Családjukkal San Franciscóba költöztek. Ott csatlakoztak Danny édesanyjához, Dianához, aki egy kis olasz szendvicsboltot birtokolt. Nem sokkal később Helene és Diana a szendvicsboltot egy kis vietnámi étteremmé alakította át. Az öt lány segített az étteremben, amikor fiatalok voltak. Helene azonban nem akarta, hogy lányai mindig a családi vállalkozásban dolgozzanak, mert túl nehéznek tartotta. Végül a lányok mind befejezték a főiskolát, és elmentek saját maguk dolgozni, de egyenként visszatértek, hogy a családi vállalkozásban dolgozzanak. Új éttermeket nyitottak San Franciscóban és Los Angelesben. Még ha a családtagok néha nem is értettek egyet egymással, együtt dolgoztak, hogy sikeressé tegyék az üzletet. Elisabeth, az egyik lány, elmagyarázza: \"Anyánk azt tanította nekünk, hogy a sikerhez egység kell, és az egységhez béke szükséges. Családi erő nélkül nincs üzlet.\" Bővülő vállalkozásuk 1996-ban nagyvállalattá vált, három generációval az An családból, akik együtt dolgoztak. Most az An család vállalata évente több mint 20 millió dollárt termel. Bár egy kis étteremmel kezdték, nagy álmokat dédelgettek, és együtt dolgoztak. Most nagy sikernek örvendenek.",
+        "question": "Mit következtethetünk az An lányokkal kapcsolatban?",
+        "options": [
+            "(A) Nem fejezték be a főiskolai tanulmányaikat.",
+            "(B) Nem bírták elviselni a munkát a családi vállalkozásban.",
+            "(C) Hatással volt rájuk, amit Helene tanított nekik.",
+            "(D) Zavarta őket a családtagok közötti nézeteltérés."
+        ],
+        "label": "C",
+        "ind": 4
+    },
+    {
+        "passage": "Amikor Helene An öt lánya fiatal volt, mindig azt mondta nekik, hogy az egységben van erő (团结). Ennek bemutatására felemelt egy evőpálcikát, amely egy személyt jelképezett. Aztán könnyen kettétörte. Ezután több evőpálcikát kötött össze, amely a családot képviselte. Megmutatta a lányoknak, hogy nehéz eltörni az összekötött evőpálcikákat. Ez a családi összetartásról szóló lecke elkísérte a lányokat, miközben felnőttek. Helene An és családja nagy étteremlánccal rendelkezik Kaliforniában. Azonban amikor Helene és férje, Danny 1975-ben elhagyták otthonukat Vietnámban, nem volt sok pénzük. San Franciscóba költöztették a családjukat. Ott csatlakoztak Danny anyjához, Dianához, aki egy kis olasz szendvicsboltot vezetett. Röviddel ezután Helene és Diana a szendvicsboltot egy kis vietnámi étteremmé alakították. Az öt lány segített az étteremben, amikor fiatalok voltak. Helene azonban nem akarta, hogy lányai mindig a családi vállalkozásban dolgozzanak, mert úgy gondolta, hogy ez túl nehéz. Végül a lányok mindannyian diplomát szereztek, és elmentek, hogy maguknak dolgozzanak, de egyenként visszatértek a családi vállalkozásba. Új éttermeket nyitottak San Franciscóban és Los Angelesben. Még akkor is, ha a családtagok néha nem értettek egyet egymással, együtt dolgoztak a siker érdekében. Lányuk, Elisabeth elmagyarázza: \"Anyánk megtanította nekünk, hogy a sikerhez egységre van szükségünk, és az egységhez békére van szükség. Családi erő nélkül nincs vállalkozás.\" Bővülő vállalkozásuk 1996-ban nagyvállalattá vált, három generációval együtt dolgozva. Most az An-cég évente több mint 20 millió dollárt keres. Bár egy kis étteremmel kezdték, nagy álmaik voltak, és együtt dolgoztak. Most nagy sikert arattak.",
+        "question": "Melyik lehet a legjobb cím a szöveghez?",
+        "options": [
+            "['(A)Hogyan vezessünk egy vállalatot', '(B)Az erő a békéből fakad', '(C)Hogyan érjünk el egy nagy álmot', '(D)A családi összetartás sikert épít']"
+        ],
+        "label": "D",
+        "ind": 5
+    },
+    {
+        "passage": "Ahogy az internetezők egyre inkább az internetre támaszkodnak az információk tárolásában, vajon kevesebbet jegyeznek meg az emberek? Ha tudja, hogy számítógépe elmenti az információkat, miért tárolja azokat a saját személyes memóriájában, az agyában? A szakértők azon töprengenek, vajon az internet megváltoztatja-e azt, hogy mit és hogyan jegyzünk meg. Egy nemrégiben készült tanulmányban Betsy Sparrow professzor néhány kísérletet végzett. Ő és kutatócsoportja arra volt kíváncsi, hogy az internet hogyan változtatja meg a memóriát. Az első kísérletben 40 jelentéktelen tényt adtak az embereknek, hogy gépeljék be a számítógépbe. Az első csoport tisztában volt vele, hogy a számítógép elmenti az információt. A második csoport úgy értette, hogy a számítógép nem menti el. Később a második csoport jobban emlékezett az információkra. Az első csoport tagjai tudták, hogy újra megtalálhatják az információt, így nem próbálták megjegyezni. Egy másik kísérletben a kutatók olyan tényeket adtak az embereknek, amelyeket meg kellett jegyezniük, és elmondták nekik, hol található az információ az interneten. Az információ egy adott számítógépes mappában volt. Meglepő módon az emberek később jobban emlékeztek a mappa helyére, mint a tényekre. Amikor az emberek használják az internetet, nem az információt jegyzik meg. Inkább azt jegyzik meg, hogyan találják meg. Ezt hívják \"interaktív memóriának\". Sparrow szerint nem válunk rossz memóriájú emberekké az internet hatására. Ehelyett a számítógép-használók erősebb interaktív memóriát fejlesztenek ki; azaz az emberek megtanulják, hogyan szervezzék a hatalmas mennyiségű információt, hogy később hozzáférhessenek. Ez nem jelenti azt, hogy okosabbak vagy butábbak leszünk, de kétségtelen, hogy a memóriahasználatunk módja változik.",
+        "question": "A szöveg két kérdéssel kezdődik, hogy ______.",
+        "options": [
+            "A. bevezesse a fő témát",
+            "B. bemutassa a szerző hozzáállását",
+            "C. leírja, hogyan kell használni az internetet",
+            "D. elmagyarázza, hogyan kell információt tárolni"
+        ],
+        "label": "A",
+        "ind": 6
+    },
+    {
+        "passage": "Ahogy az internethasználók egyre inkább az internetre támaszkodnak az információk tárolásában, kevesebbet emlékeznek az emberek? Ha tudod, hogy a számítógéped elmenti az információt, miért tárolnád azt a saját személyes emlékezetedben, az agyadban? A szakértők azon tűnődnek, hogy vajon az internet megváltoztatja-e azt, amit és ahogyan emlékezünk. Egy nemrégiben készült tanulmányban Betsy Sparrow professzor néhány kísérletet végzett. Ő és kutatócsoportja azt akarták megtudni, hogy az internet hogyan változtatja meg az emlékezetet. Az első kísérletben 40 jelentéktelen tényt adtak az embereknek, hogy begépeljék egy számítógépbe. Az első csoport megértette, hogy a számítógép elmenti az információt. A második csoport megértette, hogy a számítógép nem menti el. Később a második csoport jobban emlékezett az információra. Az első csoport tudta, hogy újra megtalálhatják az információt, ezért nem próbálták megjegyezni. Egy másik kísérletben a kutatók tényeket adtak az embereknek, hogy emlékezzenek, és megmondták nekik, hol találhatják meg az információt az interneten. Az információ egy adott számítógépes mappában volt. Meglepő módon az emberek később jobban emlékeztek a mappa helyére, mint a tényekre. Amikor az emberek az internetet használják, nem az információra emlékeznek. Inkább arra emlékeznek, hogyan találják meg azt. Ezt hívják \"transzaktív emlékezetnek\". Sparrow szerint nem válunk gyenge memóriájú emberekké az internet miatt. Ehelyett a számítógép-felhasználók erősebb transzaktív emlékeket fejlesztenek ki; azaz az emberek megtanulják, hogyan szervezzék meg a hatalmas mennyiségű információt, hogy később hozzáférhessenek. Ez nem jelenti azt, hogy intelligensebbé vagy kevésbé intelligenssé válunk, de kétségtelen, hogy az emlékezet használata változik.",
+        "question": "Mit tanulhatunk az első kísérletről?",
+        "options": [
+            "(A) Sparrow csapata begépelte az információt egy számítógépbe.",
+            "(B) A két csoport egyformán jól emlékezett az információra.",
+            "(C) Az első csoport nem próbálta megjegyezni az információt.",
+            "(D) A második csoport nem értette az információt."
+        ],
+        "label": "C",
+        "ind": 7
+    },
+    {
+        "passage": "Ahogy az internetfelhasználók egyre inkább az internetre támaszkodnak az információ tárolásában, vajon kevesebbet emlékeznek-e az emberek? Ha tudod, hogy a számítógéped megőrzi az információt, miért tárold a saját személyes memóriádban, az agyadban? A szakértők azon tűnődnek, vajon az internet megváltoztatja-e, hogy mit és hogyan emlékszünk. Egy nemrégiben készült tanulmányban Betsy Sparrow professzor néhány kísérletet végzett. Ő és kutatócsoportja arra voltak kíváncsiak, hogy az internet változtatja-e a memóriát. Az első kísérletben 40 jelentéktelen tényt adtak az embereknek, hogy gépeljék be egy számítógépbe. Az első csoport megértette, hogy a számítógép elmenti az információt. A második csoport megértette, hogy a számítógép nem menti el. Később a második csoport jobban emlékezett az információra. Az első csoport tagjai tudták, hogy újra megtalálhatják az információt, így nem próbálták megjegyezni. Egy másik kísérletben a kutatók tényeket adtak az embereknek, hogy emlékezzenek rájuk, és megmondták nekik, hol találják meg az információt az interneten. Az információ egy meghatározott számítógépes mappában volt. Meglepő módon az emberek később jobban emlékeztek a mappa helyére, mint a tényekre. Amikor az emberek az internetet használják, nem magát az információt jegyzik meg. Inkább azt jegyzik meg, hogyan találják meg. Ezt \"transzaktív memóriának\" nevezik. Sparrow szerint nem válunk rossz memóriájú emberekké az internet eredményeként. Ehelyett a számítógép-felhasználók erősebb transzaktív memóriát fejlesztenek ki; vagyis az emberek megtanulják, hogyan szervezzék meg a hatalmas mennyiségű információt, hogy később hozzáférhessenek hozzá. Ez nem jelenti azt, hogy intelligensebbek vagy kevésbé intelligensek leszünk, de kétségtelen, hogy a memória használatának módja változik.",
+        "question": "A transzaktív memóriában az emberek ______.",
+        "options": [
+            "(A) az információt észben tartják",
+            "(B) megváltoztatják az információ mennyiségét",
+            "(C) úgy szervezik az információt, mint egy számítógép",
+            "(D) emlékeznek, hogyan találják meg az információt"
+        ],
+        "label": "D",
+        "ind": 8
+    },
+    {
+        "passage": "Ahogy az internethasználók egyre inkább függenek az internettől az információk tárolásában, vajon kevesebbet emlékeznek az emberek? Ha tudod, hogy a számítógéped elmenti az információt, miért tárolnád a saját személyes memóriádban, az agyadban? A szakértők azon tűnődnek, vajon az internet megváltoztatja-e, hogy mit és hogyan jegyzünk meg. Egy nemrégiben készült tanulmányban Betsy Sparrow professzor néhány kísérletet végzett. Ő és kutatócsoportja meg akarták tudni, hogy az internet hogyan változtatja meg az emlékezetet. Az első kísérletben 40 jelentéktelen tényt adtak az embereknek, hogy begépeljék egy számítógépbe. Az első csoport megértette, hogy a számítógép elmenti az információt. A második csoport megértette, hogy a számítógép nem menti el az információt. Később a második csoport jobban emlékezett az információra. Az első csoport emberei tudták, hogy újra megtalálhatják az információt, ezért nem próbálták megjegyezni. Egy másik kísérletben a kutatók tényeket adtak az embereknek, hogy emlékezzenek meg, és megmondták nekik, hol találják meg az információt az interneten. Az információ egy adott számítógépes mappában volt. Meglepő módon az emberek később jobban emlékeztek a mappa helyére, mint a tényekre. Amikor az emberek használják az internetet, nem az információra emlékeznek, hanem arra, hogyan találják meg. Ezt \"transzaktív memóriának\" nevezik. Sparrow szerint nem válunk feledékenyebbé az internet eredményeként. Ehelyett a számítógéphasználók erősebb transzaktív memóriát fejlesztenek ki; vagyis az emberek megtanulják, hogyan szervezzék meg az óriási mennyiségű információt, hogy később hozzáférhessenek. Ez nem jelenti azt, hogy intelligensebbek vagy kevésbé intelligensek lennénk, de kétségtelen, hogy az emlékezet használati módja változik.",
+        "question": "Mi az internet hatása Sparrow kutatása szerint?",
+        "options": [
+            "(A) Másképp használjuk az emlékezetet.",
+            "(B) Intelligensebbek lettünk.",
+            "(C) Rosszabb a memóriánk, mint korábban.",
+            "(D) Jobb módszerre van szükségünk az információ eléréséhez."
+        ],
+        "label": "A",
+        "ind": 9
+    },
+    {
+        "passage": "A világon rendkívül nagy számú hangya él. Egy-egy hangya alig nyom valamit, de összességében nagyjából annyit nyomnak, mint az emberiség összessége. Szinte mindenhol élnek, kivéve a fagyos hegycsúcsokon és a sarkkörök környékén. Az ő méretükhöz képest a hangyák meglepően sikeresek, ami nagyrészt csodálatos szociális viselkedésüknek köszönhető. Az egy néhány száztól több tízmillióig terjedő kolóniákban szervezik életüket világos munkamegosztással. Még csodálatosabb az, hogyan érik el ezt a szervezettségi szintet. Míg mi hangot és látást használunk a kommunikációhoz, a hangyák elsősorban feromonokra (külső hormonok) támaszkodnak, amelyeket az egyedek bocsátanak ki, és amelyeket a kolónia tagjai megéreznek vagy megkóstolnak. Amikor egy hangya ételt talál, feromont bocsát ki, amely egyenesen az élelemhez vezeti a többieket. Amikor egy egyed támadás alatt áll vagy haldoklik, riasztó feromont bocsát ki, hogy figyelmeztesse a kolóniát, hogy védekező egységként készüljön fel a konfliktusra. Valójában, ha a háború művészetéről van szó, a hangyáknak nincs párjuk. Teljesen félelem nélküliek, és könnyedén szembeszállnak egy náluk sokkal nagyobb teremtménnyel, nagy csoportokban támadnak, és legyőzik célpontjukat. Olyan mértékben elkötelezettek a kolónia közjóléte iránt, hogy nemcsak a katona hangyák, hanem a munkás hangyák is feláldozzák magukat, hogy segítsenek legyőzni egy ellenséget. Ilyen önzetlen és elkötelezett magatartással ezek az apró lények több mint 140 millió éve túléltek a Földön, sokkal tovább, mint a dinoszauruszok. Mivel egyként gondolkodnak, kollektív intelligenciájuk nagyobb, mint amit az egyéni részek alapján várnánk.",
+        "question": "A szövegből megtudhatjuk, hogy a hangyák ____________.",
+        "options": [
+            "(A)nem hajlandók megosztani az ételt",
+            "(B)nem találhatók meg a sarkkörök környékén",
+            "(C)sikeresebbek, mint minden más állat",
+            "(D)túl sokan vannak ahhoz, hogy bármilyen szintű szervezettséget elérjenek"
+        ],
+        "label": "B",
+        "ind": 10
+    },
+    {
+        "passage": "A világon rendkívül sok hangya él. Minden egyes hangya alig nyom valamit, de összességében nagyjából annyit nyomnak, mint az egész emberiség. Szinte mindenhol élnek, kivéve a jeges hegycsúcsokon és a sarkok környékén. Méretükhöz képest a hangyák lenyűgözően sikeresek voltak, nagyrészt csodálatos társadalmi viselkedésük miatt. A néhány száztól több tízmillióig terjedő kolóniákban szervezik életüket egyértelmű munkamegosztással. Még ennél is lenyűgözőbb, hogy hogyan érik el ezt a szintű szervezettséget. Míg mi hangot és látást használunk a kommunikációhoz, a hangyák elsősorban feromonokra, az egyének által kibocsátott és a kolónia többi tagja által szagolt vagy ízlelt vegyi anyagokra támaszkodnak. Amikor egy hangya ételt talál, feromont bocsát ki, amely másokat egyenesen az ételhez vezet. Amikor egy hangya támadás alatt áll vagy haldoklik, riasztó feromont bocsát ki, hogy figyelmeztesse a kolóniát a védekezésre való felkészülésre. Valójában, ha a háború művészetéről van szó, a hangyáknak nincs párjuk. Teljesen félelem nélkül állnak szemben náluk sokkal nagyobb lényekkel, nagy csoportokban támadva és legyűrve célpontjukat. Olyan mértékű odaadással vannak a kolónia közös javának, hogy nemcsak a katona hangyák, hanem a munkás hangyák is feláldozzák életüket, hogy legyőzzenek egy ellenséget. Ilyen önzetlen és elkötelezett viselkedéssel ezek a kis lények több mint 140 millió éve élnek a Földön, jóval tovább, mint a dinoszauruszok. Mivel egyként gondolkodnak, kollektív intelligenciájuk nagyobb, mint amit az egyéni részek alapján várnánk.",
+        "question": "A hangyák feromonokat használhatnak ______ célra.",
+        "options": [
+            "['(A)menekülés', '(B)kommunikáció', '(C)ellenségek figyelmeztetése', '(D)munkamegosztás']"
+        ],
+        "label": "B",
+        "ind": 11
+    },
+    {
+        "passage": "Világszerte rendkívül nagy számú hangya él. Minden egyes hangya alig nyom valamit, de együttvéve nagyjából annyit nyomnak, mint az egész emberiség. Szinte mindenütt élnek, kivéve a jeges hegycsúcsokon és a sarkok körül. Méretükhöz képest a hangyák lenyűgözően sikeresek voltak, nagyrészt csodálatos társadalmi viselkedésüknek köszönhetően. Azokban a kolóniákban, amelyek mérete néhány száztól több tízmillióig terjed, életüket világos munkamegosztással szervezik meg. Még ennél is elképesztőbb, hogy hogyan érik el ezt a szintű szervezettséget. Míg mi hangot és látást használunk a kommunikációhoz, a hangyák elsősorban feromonokra támaszkodnak, amelyek olyan vegyi anyagok, amelyeket az egyedek bocsátanak ki, és amelyeket a kolónia többi tagja szagol vagy ízlel. Amikor egy hangya élelmet talál, olyan feromont termel, amely egyenesen az élelem helyére vezeti a többieket. Amikor egy egyedi hangyát megtámadnak vagy haldoklik, riasztó feromont bocsát ki, hogy figyelmeztesse a kolóniát a védelemre való felkészülésre. Valójában, amikor a háború művészetéről van szó, a hangyáknak nincs párjuk. Teljesen félelem nélküliek, és könnyedén vállalnak egy náluk sokkal nagyobb lényt, nagy csoportokban támadnak és legyőzik célpontjukat. Olyan mértékben elkötelezettek a kolónia közös érdeke iránt, hogy nemcsak a katona hangyák, hanem a dolgozó hangyák is hajlandók feláldozni életüket egy ellenség legyőzése érdekében. Ilyen önzetlen és odaadó módon viselkedve ezek az apró lények több mint 140 millió éve élnek a Földön, sokkal hosszabb ideig, mint a dinoszauruszok. Mivel egyként gondolkodnak, kollektív intelligenciájuk nagyobb, mint amit az egyedi részeik alapján elvárnánk.",
+        "question": "Mit jelent a 3. bekezdés aláhúzott kifejezése \"take on\"?",
+        "options": [
+            "(A) Elfogadni. (B) Alkalmazni. (C) Játszani vele. (D) Harcolni ellene."
+        ],
+        "label": "D",
+        "ind": 12
+    },
+    {
+        "passage": "A világon rendkívül sok hangya él. Minden egyes hangya alig nyom valamit, de összességében nagyjából annyit nyomnak, mint az egész emberiség. Szinte mindenhol élnek, kivéve a fagyos hegycsúcsokat és a sarkköröket. Az ő méretükhöz képest a hangyák megdöbbentően sikeresek, főleg a csodálatos társadalmi viselkedésük miatt. Kolóniákban élnek, amelyek mérete néhány száztól több tízmillióig terjed, életüket egyértelmű munkamegosztással szervezik meg. Még lenyűgözőbb, ahogyan ezt a szerveződési szintet elérik. Míg mi hangot és látást használunk a kommunikációhoz, a hangyák elsősorban feromonokra támaszkodnak, amelyeket az egyedek bocsátanak ki, és a kolónia többi tagja érez vagy megkóstol. Amikor egy hangya ételt talál, egy olyan feromont termel, amely egyenesen az ételhez vezeti a többieket. Amikor egy hangyát megtámadnak vagy haldoklik, riasztó feromont bocsát ki, hogy figyelmeztesse a kolóniát a védekezésre. Valójában, ha a háború művészetéről van szó, a hangyáknak nincs párjuk. Teljesen félelem nélküliek és készek szembeszállni egy náluk sokkal nagyobb lénnyel, nagy csoportokban támadva és legyőzve célpontjukat. Olyan mértékben elkötelezettek a kolónia közös java iránt, hogy nemcsak a katona hangyák, hanem a dolgozó hangyák is hajlandóak feláldozni életüket, hogy legyőzzék az ellenséget. Azáltal, hogy ilyen önzetlen és odaadó módon viselkednek, ezek a kis lények túléltek a Földön több mint 140 millió évig, sokkal tovább, mint a dinoszauruszok. Mivel egyként gondolkodnak, kollektív intelligenciájuk nagyobb, mint amit egyedi részeik alapján várnánk.",
+        "question": "Mi járul hozzá leginkább a hangyák túléléséhez?",
+        "options": [
+            "(A) Viselkedésük. ",
+            "(B) Méretük. ",
+            "(C) Számuk. ",
+            "(D) Súlyuk."
+        ],
+        "label": "A",
+        "ind": 13
+    },
+    {
+        "passage": "Az élelmiszer két alapvető módon szolgál a kommunikáció eszközeként. A kenyér vagy más ételek megosztása az emberi hagyomány része, amely elősegítheti az egységet és a bizalmat. Az ételeknek lehet különös jelentésük is, és fontos szerepet játszhatnak a család vagy egy kultúra ünnepeiben vagy hagyományaiban. Az ételeink – és azt, hogy mikor és hogyan fogyasztjuk őket – gyakran egy adott kultúrára jellemzőek, vagy akár egy országon belül is különbözhetnek a vidéki és városi területek között. A kenyér megosztása, akár különleges alkalomkor, akár a családi vacsoraasztalnál, a közösség szimbóluma. Sok kultúra ünnepli a születésnapokat és az esküvőket tortákkal, amelyeket a vendégek között osztanak szét. A korai tortafélék egyszerűen egyfajta kenyér voltak, így ez a hagyomány a kenyér megosztásának szokásában gyökerezik. Az étel fontos szerepet játszik sok újévi ünnepségen is. Az Egyesült Államok déli részén a kukoricakenyér darabjai az újévi jólétet jelentő aranytömböket képviselik. Görögországban az emberek egy különleges tortát, a *vasilopita*-t osztanak meg. Egy érmét rejtenek a tortába, amely az új év sikerét jelzi annak, aki megkapja. Sok kultúrának vannak szertartásai a gyermek születésének megünneplésére, és az étel jelentős szerepet játszhat. Kínában, amikor a baba egy hónapos, a családok névadó és üdvözlő ünnepséget tartanak, amely során piros színű tojásokat adnak a vendégeknek. Sok kultúrában kerek ételeket, például szőlőt, kenyeret és holdtortákat fogyasztanak az üdvözlő ünnepségeken, hogy a családi egységet szimbolizálják. A táplálkozás szükséges az élethez, így nem meglepő, hogy az étel ilyen fontos része a különböző kultúráknak világszerte.",
+        "question": "A szöveg szerint a kenyér megosztása ______.",
+        "options": [
+            "(A) az élelmiszer hiányát jelzi",
+            "(B) elősegítheti az egység fejlődését",
+            "(C) egyedülálló hagyomány a vidéki területeken",
+            "(D) a születésnapi ünnepségekben gyökerezik"
+        ],
+        "label": "B",
+        "ind": 14
+    },
+    {
+        "passage": "Az étel két alapvető módon szolgál kommunikációként. A kenyér vagy más ételek megosztása egy általános emberi szokás, amely elősegítheti az egységet és a bizalmat. Az ételnek lehet sajátos jelentése, és jelentős szerepet játszhat egy család vagy kultúra ünnepeiben vagy hagyományaiban. Az ételek, amelyeket eszünk – és mikor és hogyan esszük őket – gyakran egy adott kultúrára jellemzőek, vagy akár eltérhetnek az ország vidéki és városi területei között. A kenyér megosztása, legyen az egy különleges alkalom során vagy a családi vacsoraasztalnál, a közösségesség általános szimbóluma. Sok kultúra ünnepli a születésnapokat és esküvőket tortákkal, amelyeket felszeletelnek és megosztanak a vendégek között. A torta korai formái egyszerűen egyfajta kenyér voltak, így ez a hagyomány a kenyér megosztásának szokásában gyökerezik. Az étel fontos szerepet játszik sok újévi ünneplésben is. Az Egyesült Államok déli részén például a kukoricakenyér darabjai az újévben a jólét aranytömbjeit jelképezik. Görögországban az emberek egy különleges tortát, a *vasilopita*-t osztják meg. Egy érmét tesznek a tortába, amely az újévben sikert jelképez annak a személynek, aki megkapja. Sok kultúrában vannak szertartások a gyermek születésének megünneplésére, és az étel fontos szerepet játszhat. Kínában, amikor a baba egy hónapos, a családok névadó és üdvözlő ünnepséget tartanak, amely során piros tojásokat adnak a vendégeknek. Sok kultúrában a kerek ételeket, mint például a szőlő, kenyér és holdtorták, üdvözlő ünnepségeken fogyasztják, hogy a családi egységet szimbolizálják. A táplálkozás az élethez szükséges, így nem meglepő, hogy az étel ilyen fontos része a különböző kultúráknak szerte a világon.",
+        "question": "Mit jelképez az érme a *vasilopita*-ban annak, aki az újévben megkapja?",
+        "options": [
+            "(A) Bizalom.  ",
+            "(B) Siker.  ",
+            "(C) Egészség.  ",
+            "(D) Közösség."
+        ],
+        "label": "B",
+        "ind": 15
+    },
+    {
+        "passage": "Az élelmiszer két alapvető módon szolgál kommunikációs formaként. A kenyér vagy más ételek megosztása egy közös emberi hagyomány, amely elősegítheti az egységet és a bizalmat. Az ételeknek specifikus jelentése is lehet, és jelentős szerepet játszhatnak egy család vagy kultúra ünnepségeiben vagy hagyományaiban. Az általunk fogyasztott ételek – és az, hogy mikor és hogyan fogyasztjuk őket – gyakran egy adott kultúrára jellemzők, vagy akár egy országon belül is különbözhetnek vidéki és városi területek között. A kenyér megosztása, akár különleges alkalom során, akár a családi vacsoraasztalnál, az összetartozás közös jelképe. Számos kultúra ünnepli a születésnapokat és házasságokat tortákkal, amelyeket felvágnak és megosztanak a vendégek között. A torta korai formái egyszerűen egyfajta kenyér voltak, így ez a hagyomány a kenyér megosztásának szokásából ered. Az étel fontos szerepet játszik számos újévi ünnepségen is. Az Egyesült Államok déli részén a kukoricakenyér darabjai a gazdagság aranyrögjeit jelképezik az új évben. Görögországban az emberek egy különleges tortát, a vasilopitát osztanak meg. Egy érmét helyeznek a tortába, amely az új év sikereit jelképezi annak a személynek, aki megkapja. Számos kultúrában vannak szertartások a gyermek születésének megünneplésére, és az étel jelentős szerepet játszhat. Kínában, amikor a baba egy hónapos, a családok nevet adnak és köszöntik gyermeküket egy ünnepségen, amely során piros tojásokat adnak a vendégeknek. Számos kultúrában kerek ételeket, például szőlőt, kenyeret és holdtortákat fogyasztanak a köszöntő ünnepségeken, hogy a családi egységet jelképezzék. A táplálkozás az élethez szükséges, így nem meglepő, hogy az étel ilyen fontos részét képezi a világ különböző kultúráinak.",
+        "question": "A szerző az ételek szerepét az ünnepségeken az alábbi módon magyarázza: ______.",
+        "options": [
+            "['(A)példák használatával', '(B)összehasonlítások készítésével', '(C)okok elemzésével', '(D)folyamatok leírásával']"
+        ],
+        "label": "A",
+        "ind": 16
+    },
+    {
+        "passage": "Az étel két alapvető módon szolgál kommunikációs eszközként. A kenyér vagy más ételek megosztása egy általános emberi hagyomány, amely elősegítheti az egységet és a bizalmat. Az ételnek lehet sajátos jelentése is, és jelentős szerepet játszhat egy család vagy kultúra ünnepeiben vagy hagyományaiban. Az általunk fogyasztott ételek – és az, hogy mikor és hogyan fogyasztjuk őket – gyakran egy adott kultúrára jellemzőek, vagy akár egy országon belül is eltérhetnek a vidéki és városi területek között. A kenyér megosztása, akár egy különleges alkalom során, akár a családi vacsora asztalánál, a összetartozás közös szimbóluma. Sok kultúra ünnepli a születésnapokat és esküvőket tortákkal, amelyeket felvágnak és megosztanak a vendégek között. A korai torták egyszerűen egyfajta kenyér voltak, így ez a hagyomány az étel megosztásának szokásában gyökerezik. Az étel fontos szerepet játszik sok Újévi ünnepségen is. Az Egyesült Államok déli részén a kukoricakenyér darabjai az újév gazdagságát jelképező aranytömböket képviselnek. Görögországban az emberek egy különleges tortát, a *vasilopita*-t osztanak meg. Egy érmét helyeznek a tortába, ami az újév sikerét jelzi annak, aki kapja. Sok kultúrában vannak szertartások a gyermek születésének ünneplésére, és az étel jelentős szerepet játszhat. Kínában, amikor a baba egy hónapos lesz, a családok elnevezik és üdvözlik gyermeküket egy ünnepséggel, amely során vörös színű tojásokat ajándékoznak a vendégeknek. Sok kultúrában kerek ételeket, például szőlőt, kenyeret és holdtortákat fogyasztanak az üdvözlő ünnepségeken a családi egység jelképeként. A táplálkozás az élethez szükséges, így nem meglepő, hogy az étel ilyen fontos szerepet játszik a világ különböző kultúráiban.",
+        "question": "Miről szól főként a szöveg?",
+        "options": [
+            "(A) Az étel megosztásának szokása.",
+            "(B) Az étel sajátos jelentése.",
+            "(C) Az étel szerepe a ceremóniákban.",
+            "(D) Az étel fontossága a kultúrában."
+        ],
+        "label": "D",
+        "ind": 17
+    },
+    {
+        "passage": "Üdvözöljük a világ egyik legnagyobb lábbeli-gyűjteményében, amely irigységgel tölti el az embert. Itt, a Lábbeli Múzeumban kiállításokat láthat a világ minden tájáról. Megtudhatja, milyen cipőket viseltek az ókori egyiptomiak és a popsztárok egyaránt. 1. terem: A hírességek lábbelijei részleg valószínűleg a múzeum legnépszerűbb része. Az 1950-es években indult, és széles választékot kínál cipőkből és csizmákból, amelyek királynőké, elnököké, popsztároké és színészeké voltak! A legtöbb látogató rendkívül érdekesnek találja a hírességek lábbeli választását. 2. terem: A látogatóink többsége megdöbben és meglepődik a \"különleges célú\" cipők gyűjteménye láttán, amely a Lábbeli Múzeumban kiállítva található. Például vannak kínai cipők, amelyeket selyemből készítettek, és amelyeket a nők viseltek, hogy szorosan kössék meg a lábukat, hogy ne nőjenek túl nagyra! 3. terem: A cipők és csizmák mellett a múzeum cipő alakú tárgyakat is kiállít. A választék hihetetlen. Például van egy fém lámpa, amely egy pár cipőre hasonlít, és görög borosüvegek, amelyek lábakra emlékeztetnek! A lábbeli könyvtár: Az emberek a világ minden tájáról jönnek, hogy tanulmányozzák kiváló lábbeli könyvtárunkat. Tervezők és kutatók jönnek ide, hogy információt keressenek a lábbeli témájához kapcsolódó bármiről és mindenről.",
+        "question": "Hol találna egy híres énekes cipőjét?",
+        "options": [
+            "(A) 1. terem.                               ",
+            "(B) 2. terem.",
+            "(C) 3. terem.                               ",
+            "(D) A lábbeli könyvtár."
+        ],
+        "label": "A",
+        "ind": 18
+    },
+    {
+        "passage": "Üdvözöljük a világ egyik legnagyobb lábbeli gyűjteményében, amely irigységgel tölti el. Itt, a Lábbeli Múzeumban kiállításokat láthat a világ minden tájáról. Megismerheti az ókori egyiptomiaktól a popsztárokig mindenki által viselt cipőket. 1. szoba A hírességek lábbeli részlege valószínűleg a múzeum legnépszerűbb része. Az 1950-es években indult, és széles választékát mutatja be a cipőknek és csizmáknak, amelyek királynőktől és elnököktől kezdve popsztárokig és színészekig mindenkinek a tulajdonában vannak! A legtöbb látogató rendkívül érdekesnek találja a hírességek lábbeli választását. 2. szoba A legtöbb látogatónk megdöbben és megdöbben a \"különleges célú\" cipők gyűjteményén, amelyeket itt, a Lábbeli Múzeumban állítanak ki. Például vannak kínai cipők, amelyeket selyemből készítettek, és amelyeket nők viseltek, hogy szorosan kössék a lábukat, megakadályozva azok túlzott növekedését! 3. szoba A cipők és csizmák mellett a múzeum cipő alakú tárgyakat is kiállít. A változatosság hihetetlen. Például van egy fémlámpa, amely cipőpárra emlékeztet, és görög borosüvegek, amelyek lábakra hasonlítanak! A lábbeli könyvtár Az emberek a világ minden tájáról érkeznek, hogy tanulmányozzanak kiváló lábbeli könyvtárunkban. Tervezők és kutatók jönnek ide, hogy információkat keressenek a lábbeli témájával kapcsolatos bármiről és mindenről.",
+        "question": "Minden kiállítási tárgy az egyes szobákban       .",
+        "options": [
+            "A. ugyanazt a témát osztja meg                    ",
+            "B. ugyanaz az alakja van",
+            "C. ugyanabból az anyagból készült             ",
+            "D. ugyanahhoz a társadalmi osztályhoz tartozik"
+        ],
+        "label": "A",
+        "ind": 19
+    },
+    {
+        "passage": "Üdvözöljük a világ egyik legnagyobb lábbeligyűjteményében, amely irigységgel tölthet el. Itt, a Lábbeli Múzeumban kiállításokat tekinthet meg a világ minden tájáról. Megtudhatja, milyen cipőket viseltek mindenki az ókori egyiptomiaktól kezdve a popcsillagokig. 1. terem Az egész múzeum talán legnépszerűbb része a hírességek lábbelijeinek szekciója. Az 1950-es években indult, és széles választékot kínál cipőkből és csizmákból, amelyek királynőké, elnököké, popcsillagoké és színészeké voltak! A legtöbb látogató rendkívül érdekesnek találja a hírességek lábbeliválasztását. 2. terem A legtöbb látogatót lenyűgözi és megdöbbenti a „különleges célú” cipők gyűjteménye, amely itt látható a Lábbeli Múzeumban. Például vannak kínai selyemből készült cipők, amelyeket a nők viseltek, hogy szorosan kössék a lábukat, megakadályozva annak túlzott növekedését! 3. terem A cipők és csizmák mellett a múzeum cipő alakú tárgyakat is kiállít. A változatosság hihetetlen. Például van egy fémlámpa, amely egy pár cipőre hasonlít, valamint görög borosüvegek, amelyek lábakra emlékeztetnek! Lábbeli Könyvtár Az emberek a világ minden tájáról jönnek, hogy tanulmányozzanak kiváló lábbelikönyvtárunkban. Tervezők és kutatók jönnek ide, hogy információkat keressenek mindenről, ami a lábbelik témájához kapcsolódik.",
+        "question": "Melyik állítás igaz a szöveg szerint?",
+        "options": [
+            "A. Az 1. terem legidősebb kiállított tárgyait az 1950-es években készítették.",
+            "B. A 2. terem a múzeum leglátogatottabb helye.",
+            "C. A 3. terem kiállítási tárgyai változatosabbak, mint a másik két teremé.",
+            "D. A kutatók a Lábbeli Könyvtárba adatokat keresni járnak."
+        ],
+        "label": "D",
+        "ind": 20
+    },
+    {
+        "passage": "Üdvözöljük a világ egyik legnagyobb lábbeli gyűjteményében, amely iriggyé teszi Önt. Itt a Lábbeli Múzeumban a világ minden tájáról származó kiállításokat láthat. Megtudhatja, milyen cipőket viseltek az ókori egyiptomiaktól kezdve a pop sztárokig. 1. terem A hírességek lábbeli részlege valószínűleg a legnépszerűbb az egész múzeumban. Az 1950-es években indult, itt széles választékban találhatók cipők és csizmák, amelyek királynőkhöz, elnökökhöz, pop sztárokhoz és színészekhez tartoznak! A legtöbb látogató rendkívül érdekesnek találja a hírességek lábbeli választását. 2. terem A látogatóink többségét lenyűgözi és megdöbbenti a „különleges célú” cipők gyűjteménye, amely itt látható a Lábbeli Múzeumban. Például vannak kínai cipők, amelyek selyemből készültek, és amelyeket a nők azért viseltek, hogy szorosan megkössék a lábukat, hogy ne nőjenek túl nagyra! 3. terem A cipők és csizmák mellett a múzeum cipő alakú tárgyakat is kiállít. A választék hihetetlen. Például van egy fém lámpa, amely egy pár cipőre emlékeztet, és görög boros üvegek, amelyek lábakra hasonlítanak! A Lábbeli Könyvtár Az emberek a világ minden tájáról jönnek, hogy tanulmányozzanak a kiváló lábbeli könyvtárunkban. Tervezők és kutatók jönnek ide, hogy információkat keressenek a lábbeli témájával kapcsolatos bármilyen és minden dologról.",
+        "question": "A szöveg célja, hogy több embert ösztönözzön arra, hogy         .",
+        "options": [
+            "A. kutatásokat végezzenek",
+            "B. cipőket tervezzenek",
+            "C. látogassák meg a múzeumot",
+            "D. kövessék a hírességeket"
+        ],
+        "label": "C",
+        "ind": 21
+    },
+    {
+        "passage": "Miért rózsaszín vagy lila a lányok színe, és miért kék vagy barna a fiúké? A válasz nagyrészt a kulturális értékektől és a személyes tapasztalatoktól függ. Az egyiptomiak számára a zöld a tavasz reményének és örömének színe volt, míg a muszlimok számára a mennyországot jelenti. A piros sok kultúrában a jó szerencse szimbóluma. Kínában a gyerekek pénzt kapnak egy piros borítékban, hogy jó szerencsét hozzanak az újévben. Sok nemzetnél a kék a védelem és a vallásos hiedelmek szimbóluma. A görög emberek gyakran viselnek kék nyakláncot, remélve, hogy megvédik magukat a bajtól. Az emberek színválasztását a testük reakciói is befolyásolják. Azt mondják, hogy a zöld a legpihentetőbb szín. Képes csökkenteni a fájdalmat és ellazítani az embereket mentálisan és fizikailag egyaránt. Megállapították, hogy azoknak az embereknek, akik zöld környezetben dolgoznak, kevesebb a gyomorfájásuk. A piros szín emelheti az ember vérnyomását és növelheti az étvágyat. Sok dekorátor különböző árnyalatú pirosat használ az éttermekben. Hasonlóképpen, sok kereskedelmi weboldalon van egy piros \"Vásárolj most\" gomb, mert a piros könnyen megragadja az emberek figyelmét. A kék egy másik nyugtató szín. A pirossal ellentétben a kék csökkentheti az étvágyat. Tehát ha kevesebbet szeretnél enni, néhányan azt javasolják, hogy kék tányérokból egyél. Legközelebb, amikor eldöntöd, hogy mit vegyél fel, vagy milyen színnel díszítsd a szobádat, gondold át alaposan a színt.",
+        "question": "A muszlimok főként miért tekintik a zöldet a mennyország szimbólumának?",
+        "options": [
+            "A. kulturális értékek",
+            "B. kereskedelmi célok",
+            "C. személyes tapasztalatok",
+            "D. a színre adott fizikai reakciók"
+        ],
+        "label": "A",
+        "ind": 22
+    },
+    {
+        "passage": "Miért a rózsaszín vagy a lila a lányok színe, és miért a kék vagy a barna a fiúké? A válasz nagyrészt a kulturális értékektől és a személyes tapasztalatoktól függ. Az egyiptomiak számára a zöld a tavaszi remény és öröm színe volt, míg a muszlimok számára a mennyországot jelenti. Sok kultúrában a piros a jó szerencse szimbóluma. Kínában a gyerekek pénzt kapnak egy piros borítékban, hogy szerencsét hozzanak az új évben. Sok nemzet számára a kék a védelem és a vallási hiedelmek szimbóluma. A görögök gyakran viselnek kék nyakláncot, remélve, hogy megvédik magukat a bajoktól. Az emberek színválasztását a testük reakciói is befolyásolják. A zöldről azt mondják, hogy a legtöbb pihentető szín. Képes csökkenteni a fájdalmat és ellazítani az embereket mind szellemileg, mind fizikailag. Azok, akik zöld környezetben dolgoznak, kevesebb gyomorpanaszról számoltak be. A piros vérnyomás emelkedést okozhat és növelheti az étvágyat. Sok dekorátor különböző árnyalatú piros színt alkalmaz az éttermekben. Hasonlóképpen, sok kereskedelmi weboldalon van egy piros \"Vásárolj most\" gomb, mert a piros olyan szín, amely könnyen felkelti az emberek figyelmét. A kék egy másik nyugtató szín. Ellentétben a pirossal, a kék étvágycsökkenést okozhat. Tehát ha kevesebbet szeretnél enni, egyesek azt javasolják, hogy kék tányérokból egyél. Legközelebb, amikor eldöntöd, mit viselj vagy milyen színnel díszítsd a szobádat, gondolj alaposan a színre.",
+        "question": "Miért van sok kereskedelmi weboldalon piros \"Vásárolj most\" gomb?",
+        "options": [
+            "A. Az emberek fizikai ellazítása érdekében.",
+            "  B. Az emberek étvágyának növelése érdekében.",
+            "  C. Az emberek vásárlásra ösztönzése érdekében.",
+            "  D. A vérnyomás emelése érdekében."
+        ],
+        "label": "C",
+        "ind": 23
+    },
+    {
+        "passage": "Miért a rózsaszín vagy lila a lányok színe, és a kék vagy barna a fiúké? A válasz nagyrészt a kulturális értékektől és a személyes tapasztalatoktól függ. Az egyiptomiak számára a zöld a tavasz reményét és örömét jelentette, míg a muszlimok számára a mennyországot. A piros sok kultúrában a szerencse szimbóluma. Kínában a gyerekek piros borítékban kapnak pénzt, hogy szerencsét hozzon az újévben. Sok nemzet számára a kék a védelem és a vallási hiedelmek szimbóluma. A görög emberek gyakran viselnek kék nyakláncot, remélve, hogy megvédik magukat a bajoktól. Az emberek színválasztását a testük reagálása is befolyásolja. A zöldről azt mondják, hogy a legpihentetőbb szín. Képes csökkenteni a fájdalmat és mentálisan, valamint fizikailag is ellazítani az embereket. Azoknál az embereknél, akik zöld környezetben dolgoznak, kevesebb gyomorfájdalmat tapasztaltak. A piros megemelheti az ember vérnyomását és növelheti az étvágyat. Sok dekoratőr különböző árnyalatú pirosat használ az éttermekben. Hasonlóképpen, sok kereskedelmi weboldalon van piros \"Vásárolj most\" gomb, mert a piros könnyen megragadja az emberek figyelmét. A kék egy másik nyugtató szín. A pirossal ellentétben a kék csökkentheti az emberek étvágyát. Tehát ha kevesebbet szeretnél enni, egyesek azt javasolják, hogy a kék tányérokból étkezés segíthet. Legközelebb, amikor azon gondolkodsz, mit viselj vagy milyen színűre fesd a szobádat, gondold át alaposan a színt.",
+        "question": "Milyen szín segíthet a fogyásban a szöveg szerint?",
+        "options": [
+            "A. Piros        ",
+            "B. Zöld        ",
+            "C. Kék        ",
+            "D. Lila"
+        ],
+        "label": "C",
+        "ind": 24
+    },
+    {
+        "passage": "Miért a rózsaszín vagy lila a lányok színe, és miért a kék vagy barna a fiúké? A válasz nagyrészt a kulturális értékektől és a személyes tapasztalatoktól függ. Az egyiptomiak számára a zöld a tavasz reményét és örömét jelképezte, míg a muszlimoknál a mennyországot jelenti. A piros sok kultúrában a szerencse szimbóluma. Kínában a gyerekek pénzt kapnak egy piros borítékban, hogy szerencsét hozzanak az új évben. Sok nemzet számára a kék a védelem és vallási hiedelmek szimbóluma. A görögök gyakran viselnek kék nyakláncot, remélve, hogy védelmet nyújt a bajok ellen. Az emberek színválasztását a testük színekkel szembeni reakciója is befolyásolja. Azt mondják, a zöld a legpihentetőbb szín. Képes csökkenteni a fájdalmat és mind mentálisan, mind fizikailag ellazítani az embereket. A zöld környezetben dolgozó embereknél kevesebb gyomorpanaszt észleltek. A piros szín megemelheti az ember vérnyomását és növelheti az étvágyat. Sok dekorátor különböző vörös árnyalatokat használ az éttermekben. Hasonlóképpen, sok kereskedelmi weboldalon van egy piros „Vásárlás most” gomb, mert a piros könnyen megragadja az emberek figyelmét. A kék egy másik nyugtató szín. A pirossal ellentétben a kék csökkentheti az étvágyat. Tehát ha kevesebbet szeretne enni, egyesek azt javasolják, hogy kék tányérokból egyen. Legközelebb, amikor eldönti, mit viseljen vagy milyen színnel dekorálja a szobáját, gondolja át alaposan a színt.",
+        "question": "Melyik lenne a legmegfelelőbb cím a szöveghez?",
+        "options": [
+            "A. Színek és emberek",
+            "B. A színek kulturális jelentése",
+            "C. Színek és személyes tapasztalatok",
+            "D. A színek jelentése és funkciója"
+        ],
+        "label": "D",
+        "ind": 25
+    },
+    {
+        "passage": "Amikor Frida Kahlo festményeit Londonban kiállították, egy költő úgy írta le a festményeit, mint „egy szalag egy bomba körül”. Az ilyen megjegyzések látszólag azt sugallják, hogy Kahlo nagy hatással volt az ő idejének művészeti világára. Sajnos, ma sokkal nagyobb név, mint amilyen az ő idejében volt. 1907-ben született egy faluban, közel Mexikóvároshoz, Kahlo hétéves korában gyermekbénulásban (polio) szenvedett. Gerince (spine) görbült lett, ahogy idősebb lett. Majd 1925-ben, egy iskolabusz balesetben több helyen eltört a háta. Élete hátralévő részében a művész számos műtéten esett át, de semmi sem tudta meggyógyítani a hátában lévő rettenetes fájdalmat. Azonban a balesetnek volt egy váratlan mellékhatása. Miközben ágyában fekve lábadozott, Kahlo megtanult festeni. 1929-ben férjhez ment Diego Riverához, egy másik híres mexikói művészhez. Rivera nagy hatása Kahlo stílusára látható korai munkáiban, de a későbbi, 1940-es évekbeli alkotásaiban, amelyek ma a legjobbnak számítanak, már kevésbé érezhető a férje befolyása. Sajnos, munkái nem keltettek nagy figyelmet az 1930-as és 1940-es években, még a saját hazájában sem. Első egyéni kiállítása Mexikóban csak 1953-ban került megrendezésre. Halála után több mint egy évtizedig Kahlo munkái nagyrészt észrevétlenek maradtak a világ számára, de az 1970-es években végre nemzetközi hírnévre tettek szert.",
+        "question": "Mit jelent a „sokkal nagyobb név” kifejezés az 1. bekezdésben?",
+        "options": [
+            "['   A. sokkal jobb művész                      ', '(B) sokkal tehetségesebb művész ', '(C) sokkal erősebb személy                ', '(D) sokkal híresebb személy']"
+        ],
+        "label": "D",
+        "ind": 26
+    },
+    {
+        "passage": "Amikor Frida Kahlo festményei Londonban voltak kiállítva, egy költő úgy írta le a festményeit, mint „egy szalag egy bomba körül”. Az ilyen megjegyzések azt sugallják, hogy Kahlo nagy hatással volt a korabeli művészeti világra. Sajnos, ma sokkal nagyobb név, mint amilyen az ő idejében volt. 1907-ben született egy Mexikóváros melletti faluban, Kahlo hét évesen gyermekbénulásban szenvedett. Gerince ferde lett, ahogy idősebb lett. Aztán 1925-ben, egy iskolabusz balesetben több helyen eltört a háta. Élete hátralévő részében a művész sok műtéten esett át, de semmi sem tudta meggyógyítani a szörnyű fájdalmat a hátában. Azonban a balesetnek volt egy váratlan mellékhatása. Amíg ágyban fekve lábadozott, Kahlo megtanult festeni. 1929-ben feleségül ment Diego Riverához, egy másik híres mexikói művészhez. Rivera erős hatása Kahlo stílusára látható korai munkáiban, de a későbbi, az 1940-es évekből származó munkáiban, amelyeket ma a legjobb munkáinak tartanak, már kevésbé érződik férje hatása. Sajnos munkái nem vonzottak sok figyelmet az 1930-as és 1940-es években, még hazájában sem. Első önálló kiállítását Mexikóban csak 1953-ban tartották. Több mint egy évtizeddel 1954-es halála után Kahlo munkái nagyrészt észrevétlenek maradtak a világ számára, de az 1970-es években munkái végre nemzetközi hírnévre tettek szert.",
+        "question": "A szörnyű fájdalmat, amit Kahlo szenvedett, a következők okozták:",
+        "options": [
+            "A. gyermekbénulás   ",
+            "B. a görbe gerince  ",
+            "C. hátsérülések    ",
+            "D. a műtétek, amelyeken átesett"
+        ],
+        "label": "C",
+        "ind": 27
+    },
+    {
+        "passage": "Amikor Frida Kahlo festményei kiállításra kerültek Londonban, egy költő úgy írta le a képeit, mint \"egy szalag a bomba körül\". Az ilyen megjegyzések azt sugallják, hogy Kahlo nagy hatással volt korának művészeti világára. Sajnos valójában sokkal nagyobb név ma, mint amilyen az ő idejében volt. 1907-ben született egy Mexikóváros melletti faluban, Kahlo hét éves korában gyermekbénulásban szenvedett. Gerince görbült lett, ahogy idősebb lett. Majd 1925-ben egy iskolabusz balesetben több helyen is eltört a háta. Élete hátralévő részében számos műtéten esett át, de semmi sem tudta meggyógyítani a hátfájását. Azonban a balesetnek váratlan mellékhatása volt. Miközben ágyban feküdt és lábadozott, Kahlo megtanulta, hogyan fessen. 1929-ben feleségül ment Diego Rivera-hoz, egy másik híres mexikói művészhez. Rivera erős hatása Kahlo stílusára látható a korai munkáiban, de az 1940-es évekből származó későbbi munkái, amelyeket ma a legjobbnak tartanak, már kevesebb befolyást mutatnak férjétől. Sajnos munkái nem váltottak ki nagy figyelmet az 1930-as és 1940-es években, még saját hazájában sem. Első egyéni kiállítása Mexikóban csak 1953-ban került megrendezésre. Több mint egy évtizeddel az 1954-es halála után Kahlo munkái nagyrészt észrevétlenek maradtak a világ számára, de az 1970-es években végre nemzetközi hírnévre tettek szert.",
+        "question": "Kahlo stílusa egyre függetlenebbé vált az            óta.",
+        "options": [
+            "['   A.1930-as évek               ', '(B)1940-es évek            ', '(C)1950-es évek            ', '(D)1970-es évek']"
+        ],
+        "label": "B",
+        "ind": 28
+    },
+    {
+        "passage": "Amikor Frida Kahlo festményeit Londonban kiállították, egy költő úgy írta le a festményeit, mint \"egy szalag a bomba körül\". Az ilyen megjegyzések azt sugallják, hogy Kahlo nagy hatással volt a korabeli művészeti világra. Sajnos valójában ma sokkal nagyobb név, mint amilyen az ő idejében volt. 1907-ben született egy faluban Mexikóváros közelében, Kahlo hét éves korában gyermekbénulásban szenvedett. A gerince idősebb korára meggörbült. Aztán, 1925-ben, egy iskolabusz-balesetben a háta több helyen eltört. Élete hátralevő részében a művész számos operáción esett át, de semmi sem tudta meggyógyítani a hátában lévő szörnyű fájdalmat. Azonban a balesetnek volt egy váratlan mellékhatása. Amíg ágyban feküdt és lábadozott, Kahlo megtanult festeni. 1929-ben feleségül ment Diego Riverához, egy másik híres mexikói művészhez. Rivera erős hatása Kahlo stílusára korai munkáiban látható, de a későbbi, 1940-es évekbeli munkái, amelyeket ma a legjobb munkáinak tartanak, kevesebb hatást mutatnak a férjétől. Sajnos az 1930-as és 1940-es években a munkái nem vonzottak sok figyelmet, még a hazájában sem. Az első egyéni kiállítását Mexikóban csak 1953-ban tartották. Több mint egy évtizeddel az 1954-es halála után Kahlo munkái nagyrészt észrevétlenek maradtak a világ számára, de az 1970-es években végre nemzetközi hírnevet kezdtek szerezni.",
+        "question": "Mi a szerző hozzáállása Kahlóhoz?",
+        "options": [
+            "(A) Odaadás  ",
+            "(B) Szimpátia  ",
+            "(C) Aggodalom  ",
+            "(D) Bátorítás"
+        ],
+        "label": "B",
+        "ind": 29
+    },
+    {
+        "passage": "Ázsiában különleges versenyeket rendeznek, ahol a sárkányok bonyolult mintákkal rendelkeznek, és olyan eszközökkel vannak felszerelve, amelyek zenét játszanak, amikor a szél átfúj rajtuk. Bár minden sárkánynak hasonló a szerkezete, méretükben és formájukban nagyon különböznek. Sárkányharc versenyeket is rendeznek, ahol a versenyzők a sárkányaikat használják fel, hogy megtámadják és ledöntsék ellenfeleik sárkányait, vagy elvágják a zsinórjaikat. Több mint 15 éve a Big Wind Sárkánygyár sárkánykészítő és sárkányrepülő órákat tart a gyerekeknek egy hawaii szigeten. A sárkánykészítő órákon a diákok akár 20 perc alatt is készíthetnek sárkányt! Már négyéves gyerekek is megtanulhatják, hogyan kell sárkányt röptetni. Jonathan Socher és felesége, Daphne 1980-ban alapították a sárkánygyárat. A sárkányaikat nejlonból készítik. A tervezésük hawaii témákat ábrázol, amelyeket Daphne alkotott meg. A mintákat forró késsel vágják ki a nejlonból, amely lezárja az éleket, majd közvetlenül a sárkányra rögzítik őket. Az órákhoz használt sárkány egy szokásos gyémánt alakú sárkány szivárványmintával. A különbség e sárkány és az órák során készítettek között az, hogy ez egy kétzsinóros irányítható sárkány. A Big Wind alkalmazottai röptetik a sárkányt, és néhány percig megmutatják a diákoknak, hogyan irányítja a sárkány irányát, ha az egyik, majd a másik zsinórt húzzák. Ezután az irányítást a diákok veszik át. Jonathan ragaszkodik ahhoz, hogy nem szükséges hatalmas, lenyűgöző sárkányt készíteni ahhoz, hogy élvezhessük a sárkánykészítést és -repítést. Még a legegyszerűbb szerkezet is működhet, és órákig tartó szórakozást nyújthat. Gyerünk, próbáld ki!",
+        "question": "Melyik állítás igaz a szöveg szerint?",
+        "options": [
+            "A. Forró kést használnak a nejlon vasalásához.",
+            "B. A gyerekek soha nem röptetnek sárkányt egyedül a repülő leckéken.",
+            "C. A sárkányharc versenyeken nem szabad elvágni a sárkányzsinórokat.",
+            "D. Daphne tervezi a sárkányokat a Big Wind Sárkánygyár számára."
+        ],
+        "label": "D",
+        "ind": 30
+    },
+    {
+        "passage": "Ázsiában különleges versenyeket rendeznek, ahol a sárkányok bonyolult kialakításúak, és hangszerekkel vannak felszerelve, amelyek zenei hangokat adnak ki, ahogy a szél átfúj rajtuk. Bár minden sárkány hasonló szerkezetű, méretükben és formájukban nagyban különböznek egymástól. Sárkányharc versenyeket is tartanak, ahol a versenyzők sárkányaikkal támadják és leejtik ellenfeleik sárkányait vagy elvágják a zsinórjaikat. Több mint 15 éve a Big Wind Kite Factory sárkánykészítő és sárkányrepülő órákat tart a gyerekeknek egy hawaii szigeten. Sárkánykészítő óráikon a diákok akár 20 perc alatt is készíthetnek sárkányokat! Már négy éves gyerekek is megtanulhatnak sárkányt eregetni. Jonathan Socher és felesége, Daphne 1980-ban indították el a sárkánygyárat. A sárkányaik nejlonból készülnek. Tervezéseik hawaii témájúak, Daphne által készítve. A mintákat egy forró késsel vágják ki a nejlonból, amely lezárja a széleket, majd közvetlenül a sárkányra rögzítik. Az oktatásra használt sárkány egy hagyományos gyémánt alakú sárkány szivárvány mintával. A különbség e sárkány és azok között, amelyeket az órák során készítenek, hogy ez egy kétzsinóros irányítható sárkány. A Big Wind alkalmazottai eregetik a sárkányt, és néhány percig megmutatják a diákoknak, hogyan irányítja a sárkány irányát az egyik zsinór, majd a másik meghúzása. Ezután az irányítást átadják a diákoknak. Jonathan ragaszkodik hozzá, hogy nem szükséges hatalmas, látványos sárkányt készíteni ahhoz, hogy élvezzük a sárkánykészítést és eregetést. Még a legegyszerűbb szerkezet is működhet, és órákig tartó szórakozást nyújthat. Gyerünk, próbáld ki!",
+        "question": "Mi a különbség a repülési órákon használt sárkányban?",
+        "options": [
+            "['(A) Két zsinórja van.                    ', '(B) Egyszerű a kialakítása', '(C) Szivárvány mintája van.               ', '(D) Gyémánt alakú.']"
+        ],
+        "label": "A",
+        "ind": 31
+    },
+    {
+        "passage": "Ázsiában különleges versenyeket rendeznek, ahol a sárkányok bonyolult formatervezéssel rendelkeznek, és olyan hangszereket szerelnek rájuk, amelyek zenei hangokat adnak ki, ahogy a szél átfúj rajtuk. Bár minden sárkány hasonló szerkezettel bír, méretük és alakjuk széles körben eltérő. Sárkányharc-versenyeket is rendeznek, ahol a versenyzők sárkányaikkal támadják és ledöntik ellenfeleik sárkányait, vagy elvágják a zsinórjaikat. Több mint 15 éve a Big Wind Kite Factory sárkánykészítő és sárkányreptető órákat tart a gyerekeknek egy hawaii szigeten. A sárkánykészítő órákon a diákok akár 20 perc alatt is elkészíthetik a sárkányokat! Már négyéves gyerekek is megtanulhatják, hogyan kell sárkányt reptetni. Jonathan Socher és felesége, Daphne 1980-ban alapították a sárkánygyárat. Sárkányaik nejlonból készülnek. Daphne hawaii témákat tervez, amelyek a nejlonból forró késsel vannak kivágva, ami lezárja a széleket, majd közvetlenül a sárkányra rögzítik őket. Az oktatásokhoz használt sárkány egy szokványos gyémánt alakú sárkány szivárványmintával. A különbség a között a sárkány és azok között, amelyeket az órákon készítenek, az, hogy ez egy kétszálas irányítható sárkány. A Big Wind alkalmazottai reptetik a sárkányt, és néhány percig megmutatják a diákoknak, hogyan irányítható a sárkány egyik, majd másik zsinór meghúzásával. Ezután a diákok kapják meg az irányítást. Jonathan ragaszkodik ahhoz, hogy nem szükséges hatalmas, lenyűgöző sárkányt készíteni ahhoz, hogy élvezetes legyen a sárkánykészítés és reptetés. Még a legegyszerűbb szerkezet is működhet, és órákon át tartó szórakozást nyújthat. Próbáld ki!",
+        "question": "Jonathan szerint mire van szükség ahhoz, hogy élvezetes legyen a sárkányozás?",
+        "options": [
+            "A. Egy nagy sárkány.",
+            "(B)Bármilyen típusú sárkány.",
+            "   C. Egy összetett szerkezet.",
+            "(D)Egy sárkány, ami lenyűgözi a többieket."
+        ],
+        "label": "B",
+        "ind": 32
+    },
+    {
+        "passage": "Ázsiában különleges versenyeket rendeznek, ahol a sárkányok bonyolult dizájnnal rendelkeznek, és olyan eszközökkel vannak felszerelve, amelyek zenei hangokat adnak ki, amikor a szél átfúj rajtuk. Bár minden sárkánynak hasonló a szerkezete, méretükben és alakjukban nagyon különbözőek. Sárkányharc versenyeket is tartanak, ahol a versenyzők sárkányaikkal támadják meg és hozzák le ellenfeleik sárkányait, vagy elvágják a zsinórjukat. Több mint 15 éve a Big Wind Kite Factory sárkánykészítő és sárkányeregető órákat tart a gyerekek számára egy hawaii szigeten. Az ő sárkánykészítő óráikon a diákok akár 20 perc alatt is elkészíthetnek egy sárkányt! Már négyéves gyerekek is megtanulhatnak sárkányt eregetni. Jonathan Socher és felesége, Daphne 1980-ban indították el a sárkánygyárat. Az ő sárkányaik nylonból készülnek. A dizájnjaik hawaii témák, amelyeket Daphne készített. A mintákat forró késsel vágják ki a nylonból, amely lezárja a széleket, majd közvetlenül a sárkányra erősítik. Az a sárkány, amelyet az órák adásához használnak, egy hagyományos gyémánt sárkány szivárványmintával. A különbség e sárkány és azok között, amelyeket az órák során készítenek, az, hogy ez egy kétzsinóros irányítható sárkány. A Big Wind alkalmazottai eregetik a sárkányt, és néhány percig megmutatják a diákoknak, hogyan lehet irányítani a sárkány haladási irányát az egyik, majd a másik zsinór meghúzásával. Ezután az irányítást átadják a diákoknak. Jonathan ragaszkodik ahhoz, hogy nem szükséges hatalmas, lenyűgöző sárkányt készíteni ahhoz, hogy élvezetes legyen a sárkánykészítés és -eregetés. Még a legegyszerűbb szerkezet is működhet, és órákon át tartó szórakozást nyújthat. Gyerünk, próbálja ki!",
+        "question": "Mit ír le főként a szöveg?",
+        "options": [
+            "['   A. Egy sárkánygyár         ', '(B)Sárkányeregető órák.', '   C. Különleges versenyek.              ', '(D)A sárkánykészítési folyamat.']"
+        ],
+        "label": "A",
+        "ind": 33
+    },
+    {
+        "passage": "Üdvözöljük a jövőbeli életében! Reggel felkelsz, és belenézel a tükörbe. Az arcod feszes és fiatalos. 2035-ben az orvosi technológia jobb, mint valaha. Sok korabeli ember akár 150 évig is élhet, így 40 évesen egyáltalán nem vagy öreg. A szüleid pedig éppen egy öregedésgátló kezelést kaptak. Most mindhárman ugyanannyi idősnek néztek ki! Azt mondod az ingednek: \"Változz pirosra.\" Az kékből pirosra vált. 2035-ben az \"okos ruhák\" olyan részecskéket tartalmaznak, amelyek sokkal kisebbek, mint a tested sejtjei. A részecskék programozhatók a ruhák színének vagy mintájának megváltoztatására. Belépsz a konyhába. Felveszed a tejet, de egy hang azt mondja: \"Ezt nem kellene meginnod!\" A hűtőd leolvasta a tejet tartalmazó chipet, és tudja, hogy a tej már régi. 2035-ben a boltban minden élelmiszeren ilyen chip található. Itt az ideje munkába menni. 2035-ben az autók maguktól vezetnek. Csak mondd meg az \"okos autódnak\", hova menjen. Útközben a kabátod ujjával felhívhatsz egy barátot. Az ilyen \"okos technológia\" körülötted van. Tehát vajon mindezek valóra válnak? \"Ahhoz, hogy az új technológia sikeres legyen,\" mondja Andrew Zolli tudós, \"annyival jobbnak kell lennie, hogy lecserélje azt, amink már van.\" Az internet egy példa erre. Mi lesz a következő?",
+        "question": "A szövegből megtudhatjuk, hogy a jövőben__________.",
+        "options": [
+            "['(A)az emberek soha nem öregszenek meg', '(B)mindenki ugyanúgy fog kinézni', '(C)a piros lesz a legnépszerűbb szín', '(D)a ruhák képesek lesznek megváltoztatni a mintájukat']"
+        ],
+        "label": "D",
+        "ind": 34
+    },
+    {
+        "passage": "Üdvözöljük a jövőbeli életében! Felkel reggel és belenéz a tükörbe. Az arca feszes és fiatalos. 2035-ben az orvosi technológia jobb, mint valaha. Sok kortársa akár 150 évig is élhet, így 40 évesen nem számít öregnek. A szülei pedig éppen anti-aging kezelést kaptak. Most mindhárman ugyanannyi idősnek néznek ki! Azt mondja az ingének: „Válts pirosra.” Az kékről pirosra változik. 2035-ben az „okos ruhák” részecskéket tartalmaznak, amelyek sokkal kisebbek, mint a testében lévő sejtek. A részecskék programozhatók a ruhák színének vagy mintájának megváltoztatására. Belép a konyhába. Felveszi a tejet, de egy hang azt mondja: „Ezt nem kéne meginnod!” A hűtője elolvasta a tejet tartalmazó chipet, és tudja, hogy a tej régi. 2035-ben a boltban minden egyes élelmiszernek van ilyen chipje. Ideje munkába menni. 2035-ben az autók magukat vezetik. Csak mondja meg az „okos autónak”, hova menjen. Útközben felhívhat egy barátot a kabátujján keresztül. Ilyen „okos technológia” van körülöttünk. Vajon mindezek megvalósulnak? „Az új technológiák sikeréhez” – mondja Andrew Zolli tudós –, „annak sokkal jobbnak kell lennie, hogy lecserélje azt, amink már van.” Az internet egy példa. Mi lesz a következő?",
+        "question": "Mit lehet következtetni a 4. bekezdésből?",
+        "options": [
+            "['(A) A tej ártalmas lesz az egészségre.', '(B) Több ital lesz elérhető eladásra.', '(C) A bolti élelmiszerek elektronikus információt fognak tartalmazni.', '(D) A bolti tej sokkal tovább friss marad.']"
+        ],
+        "label": "C",
+        "ind": 35
+    },
+    {
+        "passage": "Üdvözlünk a jövő életedben! Reggel felkelsz, és belenézel a tükörbe. Az arcod feszes és fiatalos. 2035-ben az orvosi technológia jobb, mint valaha. Sok veled egykorú ember akár 150 évig is élhet, így 40 évesen egyáltalán nem vagy öreg. A szüleid pedig éppen anti-aging kezelést kaptak. Most mindhárman egykorúnak néztek ki! Azt mondod az ingednek: \"Változz pirosra.\" Az kékről pirosra változik. 2035-ben az \"okos ruhák\" részecskéket tartalmaznak, amelyek sokkal kisebbek, mint a tested sejtjei. A részecskéket úgy lehet programozni, hogy megváltoztassák a ruhák színét vagy mintáját. Belsétálsz a konyhába. Felveszed a tejet, de egy hang megszólal: \"Nem szabadna azt innod!\" A hűtőd leolvasta a csipről az információt, ami a tejről szól, és tudja, hogy a tej régi. 2035-ben minden élelmiszerboltban található élelmiszeren van ilyen csip. Itt az idő munkába menni. 2035-ben az autók magukat vezetik. Csak mondd meg az \"okos autódnak\", hová menjen. Út közben felhívhatsz egy barátot a kabátujjadon keresztül. Az ilyen \"okos technológia\" körülvesz téged. Szóval mindezek a dolgok valóra válnak? \"Ahhoz, hogy az új technológia sikeres legyen,\" mondja Andrew Zolli tudós, \"sokkal jobbnak kell lennie, hogy helyettesítse azt, amink már van.\" Az internet egy példa. Mi lesz a következő?",
+        "question": "Melyik az alábbiak közül van megemlítve a szövegben?",
+        "options": [
+            "['(A) Semmi sem helyettesítheti az internetet.', '(B) A hűtők tudni fogják, mire van szükségük az embereknek.', '(C) A kabátujjak útmutatóként használhatók.', '(D) Az autók képesek lesznek automatikusan vezetni.']"
+        ],
+        "label": "D",
+        "ind": 36
+    },
+    {
+        "passage": "Üdvözöllek a jövőbeli életedben! Felkelsz reggel, és belenézel a tükörbe. Az arcod feszes és fiatalos. 2035-ben az orvosi technológia jobb, mint valaha. Sok ember a te korodban akár 150 évig is élhet, így 40 évesen egyáltalán nem vagy öreg. És a szüleid éppen átestek egy öregedésgátló kezelésen. Most mind a hárman ugyanannyi idősnek néztek ki! Azt mondod az ingednek: \"Változz pirosra.\" Az kékből pirosra vált. 2035-ben az \"okos ruhák\" olyan részecskéket tartalmaznak, amelyek sokkal kisebbek, mint a tested sejtjei. A részecskéket úgy lehet programozni, hogy megváltoztassák a ruhák színét vagy mintáját. Belsétálsz a konyhába. Felveszed a tejet, de egy hang azt mondja: \"Nem kellene innod azt!\" A hűtőd elolvasta a chipet, amely információkat tartalmaz a tejről, és tudja, hogy a tej régi. 2035-ben az élelmiszerbolt minden cikke ilyen chippel rendelkezik. Ideje munkába menni. 2035-ben az autók magukat vezetik. Csak mondd meg az \"okos autódnak\", hová menjen. Útközben felhívhatsz egy barátot a kabátujjad segítségével. Az ilyen \"okos technológia\" mindenhol körülötted van. Tehát vajon mindezek a dolgok valóra válnak? \"Ahhoz, hogy az új technológia sikeres legyen,\" mondja Andrew Zolli tudós, \"olyan sokkal jobbnak kell lennie, hogy helyettesítse azt, amink már van.\" Az internet egy példa erre. Mi lesz a következő?",
+        "question": "Miről szól főként a szöveg?",
+        "options": [
+            "['(A)Élelmiszer és ruházat 2035-ben.', '(B)A jövő technológiája a mindennapi életben.', '(C)A jövő orvosi kezelései.', '(D)Az új technológia sikerének oka.']"
+        ],
+        "label": "B",
+        "ind": 37
+    },
+    {
+        "passage": "__San Francisco Fire Engine Tours____San Francisco Winery Tour__Running: February 1st through April 30th\nThis delicious tour goes through the city on its way to Treasure Island where we will stop at the famous Winery SF. Here you can enjoy 4 pours of some of the best wine San Francisco has to offer.(Included in tickets price)\nDeparting from the Cannery: Tour times upon request.\nDuration(时长): 2 hours\nPrice: $90\n__Back to the Fifties Tour__Running: August 16th through August 31st\nThis tour transports you back in time to one of San Francisco’s most fantastic periods, the 1950s! Enjoy fun history as we take you through San Francisco for a free taste of ice cream.\nDeparting from the Cannery: 5:00 pm and 7:00 pm\nDuration: 2 hours\nPrice: $90\n__Spooky Halloween Tour__Running: October 10th through October 31st\nJoin us for a ride through the historical Presidio district. Authentic fire gear(服装) is provided for your warmth as our entertainers take you to some of the most thrilling parts of San Francisco.\nDeparting from the Cannery: 6:30 pm and 8:30 pm\nDuration: 1 hour and 30 minutes\nPrice: Available upon request\n__Holiday Lights Tour__Running: December 6th through December 23nd\nThis attractive tour takes you to some of San Francis’s most cheerful holiday scenes. Authentic fire gear is provided for your warmth as you get into the holiday spirit.\nDeparting from the Cannery: 7:00 pm and 9:00 pm\nDuration: 1 hour and 30 minutes\nAdvance reservations required.",
+        "question": "Which of the tours is available in March?",
+        "options": [
+            "['(A)San Francisco Winery Tour.', '(B)Back to the Fifties Tour.', '(C)Spooky Halloween Tour.', '(D)Holiday Lights Tour.']"
+        ],
+        "label": "A",
+        "ind": 38
+    }
+]

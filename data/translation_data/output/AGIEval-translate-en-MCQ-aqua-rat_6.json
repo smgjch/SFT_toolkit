@@ -1,0 +1,314 @@
+[
+    {
+        "passage": "None",
+        "question": "Egy kétjegyű szám 18-cal meghaladja a számjegyeinek összegét. Ha az egyes helyén lévő számjegy kétszerese a tizes helyén lévő számjegynek, mi a szám?",
+        "options": [
+            "['(A)12', '(B)24', '(C)42', '(D)48', '(E)49']"
+        ],
+        "label": "B",
+        "ind": 0
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Tegyük fel, hogy bármely valós szám x esetén [x] az x-nél kisebb vagy azzal egyenlő legnagyobb egész számot jelöli. Legyen L(x,y) = [x] + [y] + [x + y] és R(x,y) = [2x] + [2y]. Ekkor lehetetlen találni bármely két pozitív valós számot, x-et és y-t, amelyekre",
+        "options": [
+            "(A)L(x,y) = R(x,y)",
+            "(B)L(x,y) ≠ R(x,y)",
+            "(C)L(x,y) < R(x,y)",
+            "(D)L(x,y) < R(x,y)",
+            "(E)Egyik sem"
+        ],
+        "label": "D",
+        "ind": 1
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Három harang 36 másodperc, 40 másodperc és 48 másodperc időközönként szólal meg. Egy adott időpontban egyszerre kezdenek el harangozni. Mikor fognak újra együtt harangozni?",
+        "options": [
+            "['(A)6 perc múlva', '(B)12 perc múlva', '(C)18 perc múlva', '(D)24 perc múlva', '(E)egyik sem']"
+        ],
+        "label": "B",
+        "ind": 2
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Egy 14 méter magas villanyoszlop 10 méteres árnyékot vet. Határozza meg egy fa magasságát, amely hasonló körülmények között 15 méteres árnyékot vet.",
+        "options": [
+            "['(A)21', '(B)22', '(C)20', '(D)23', '(E)24']"
+        ],
+        "label": "A",
+        "ind": 3
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "A kedvenc gyümölcsstandomnál egy narancs 18 dollárba kerül, egy ananász 27 dollárba, és egy szőlő 15 dollárba. Ugyanezen logika alapján meg tudnád mondani, mennyibe kerül egy mangó?",
+        "options": [
+            "['(A)22 dollár', '(B)15 dollár', '(C)20 dollár', '(D)18 dollár', '(E)10 dollár']"
+        ],
+        "label": "B",
+        "ind": 4
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "A koordináta síkon egy háromszög csúcsai az (a,0), (b,0) és (x,y) pontokban vannak. Ha a>x>b>0>y, akkor a következők közül melyik adja meg a háromszög területét?",
+        "options": [
+            "(A) (ay−by)/2  ",
+            "(B) (ab−ay)/2  ",
+            "(C) (by−ay)/2  ",
+            "(D) (ay+by)/x  ",
+            "(E) (a−b)/2y"
+        ],
+        "label": "C",
+        "ind": 5
+    },
+    {
+        "passage": "Nincs",
+        "question": "Egy autó 20 óra alatt fejez be egy utat 60 km/óra sebességgel. Ha ugyanazt a távolságot 10 óra alatt kell megtenni, mennyivel nő az autó sebessége?",
+        "options": [
+            "(A)80 km/óra, (B)50 km/óra, (C)120 km/óra, (D)70 km/óra, (E)80 km/óra"
+        ],
+        "label": "C",
+        "ind": 6
+    },
+    {
+        "passage": "Nincs",
+        "question": "Három barát, Alan, Roger és Péter megpróbál válaszolni egy vizsgakérdésre. Alan véletlenszerűen tippel, így 1/5 valószínűsége van annak, hogy helyesen talál. Roger csal, mert belenéz az előtte ülő diák dolgozatába, így 2/3 valószínűséggel válaszol helyesen. Péter lelkiismeretesen elvégzi a számításokat, majd bejelöli a választ, így 5/6 valószínűséggel ad helyes választ. Mi a valószínűsége annak, hogy a kérdés helyesen megoldódik, de nem csalás útján?",
+        "options": [
+            "['(A)1/18', '(B)1/9', '(C)23/90', '(D)5/18', '(E)13/45']"
+        ],
+        "label": "A",
+        "ind": 7
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "A különbség az egyszerű kamat és a kamatos kamat között ugyanazon kamatláb mellett 5000 Rs. esetén 2 év alatt 72 Rs. A kamatláb mennyi?",
+        "options": [
+            "['(A)10%', '(B)12%', '(C)6%', '(D)8%', '(E)4%']"
+        ],
+        "label": "B",
+        "ind": 8
+    },
+    {
+        "passage": "None",
+        "question": "Mind a 250 fájl Sam merevlemezén fertőzött vagy vírussal, vagy féreggel, vagy mindkettővel. Azoknak a fájloknak a száma, amelyek csak féreggel fertőzöttek, 2,5-szerese azoknak a fájloknak a számának, amelyeket mind vírussal, mind féreggel fertőztek meg. Ha a fájlok 50%-át nem fertőzte meg vírus, hány fájlja nem fertőződött meg féreggel?",
+        "options": [
+            "(A) 50, (B) 70, (C) 75, (D) 100, (E) 125"
+        ],
+        "label": "C",
+        "ind": 9
+    },
+    {
+        "passage": "Egy apa Rs. 5100-t szeretne elosztani két fia, Mohan és Sohan között, akik jelenleg 23 és 24 évesek. Az összeget úgy osztja el, hogy ha részesedéseiket 4%-os éves kamatos kamattal fektetik be, akkor egyenlő összeget kapnak, amikor elérik a 26 éves kort. Határozza meg Mohan részesedését.",
+        "question": "Egy apa Rs. 5100-t szeretne elosztani két fia, Mohan és Sohan között, akik jelenleg 23 és 24 évesek. Az összeget úgy osztja el, hogy ha részesedéseiket 4%-os éves kamatos kamattal fektetik be, akkor egyenlő összeget kapnak, amikor elérik a 26 éves kort. Határozza meg Mohan részesedését.",
+        "options": [
+            "(A) 2400",
+            "(B) 2500",
+            "(C) 2600",
+            "(D) 2700",
+            "(E) Egyik sem"
+        ],
+        "label": "B",
+        "ind": 10
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Mi 60%-a 30%-ának 1400 grammnak?",
+        "options": [
+            "['(A)450 g', '(B)100 g', '(C)252 g', '(D)240 g', '(E)Egyik sem']"
+        ],
+        "label": "C",
+        "ind": 11
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Egy bizonyos folyadék egy lefolyón keresztül w/25 gallon sebességgel halad át minden x másodpercben. Ezzel a sebességgel hány percig tart, amíg y gallon átfolyik a lefolyón?",
+        "options": [
+            "['(A)y/(1200xy)', '(B)20xy/w', '(C)5xy/(12w)', '(D)w/(3xy)', '(E)3y/(wx)']"
+        ],
+        "label": "C",
+        "ind": 12
+    },
+    {
+        "passage": "Nincs",
+        "question": "Egy alumínium és ezüst ötvözetéből készült érme mérete 2 x 15 mm (2 mm vastag és átmérője 15 mm). Ha az érme súlya 30 gramm, és az ötvözetben az alumínium térfogata megegyezik az ezüstével, akkor mennyi lesz egy 1 x 30 mm-es, tiszta alumíniumból készült érme súlya, ha az ezüst kétszer olyan nehéz, mint az alumínium?",
+        "options": [
+            "(A)36 gramm, (B)40 gramm, (C)42 gramm, (D)48 gramm, (E)50 gramm"
+        ],
+        "label": "B",
+        "ind": 13
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Ha egy szám 2/3-ából kivonunk 10-et, az eredmény egyenlő 40 és a szám 1/3-ának összegével. Mi a szám?",
+        "options": [
+            "['(A)100', '(B)160', '(C)150', '(D)210', '(E)220']"
+        ],
+        "label": "C",
+        "ind": 14
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Mi a legnagyobb egész értékű 'k', amelyre az x² - 5x + k = 0 másodfokú egyenletnek két valós és különböző gyöke van?",
+        "options": [
+            "['(A)9', '(B)7', '(C)3', '(D)8', '(E)12']"
+        ],
+        "label": "C",
+        "ind": 15
+    },
+    {
+        "passage": "None",
+        "question": "900 + 5 × 12 = ?",
+        "options": [
+            "['(A)820', '(B)202', '(C)420', '(D)209', '(E)960']"
+        ],
+        "label": "E",
+        "ind": 16
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Shweta 10 km/órás sebességgel halad, de minden 15 km végén 10 percet megáll pihenni. Hány órára lesz szüksége, hogy 100 km-t megtegyen?",
+        "options": [
+            "(A) 9 óra.",
+            "(B) 10 óra.",
+            "(C) 11 óra.",
+            "(D) 12 óra.",
+            "(E) 13 óra."
+        ],
+        "label": "C",
+        "ind": 17
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Mr. Sam 17 órát utazik vonattal egy bizonyos városba és autóval tér vissza. 4 órát veszít, ha mindkét irányba vonattal utazik. Mennyi időt vett volna igénybe, ha mindkét irányba autóval utazott volna?",
+        "options": [
+            "['(A)22 óra', '(B)18 óra', '(C)16 óra', '(D)20 óra', '(E)13 óra']"
+        ],
+        "label": "E",
+        "ind": 18
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Jim megtöltötte a kutyája tálját kutyaeledellel. Reggel 8:00-kor kezdve Jim kutyája pontosan óránként evett, minden etetéskor az eredetileg a tálban lévő kutyaeledel pontosan 1/3 részét fogyasztva el. Hány százaléka volt megközelítőleg az eredeti eledelnek a kutya táljában közvetlenül azelőtt, hogy a kutya délben enni kezdett volna ugyanazon a napon?",
+        "options": [
+            "['(A)20%', '(B)25%', '(C)30%', '(D)35%', '(E)40%']"
+        ],
+        "label": "A",
+        "ind": 19
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "János felmérést végzett az autók színéről. A felmérést kitöltők 60%-a nő volt. A megkérdezett férfiak közül 75% a piros autókat részesítette előnyben a zöldekkel szemben. Ha 10 férfi jobban szerette a zöld autókat, mint a pirosakat, hány ember vett részt a felmérésben?",
+        "options": [
+            "['(A)100', '(B)120', '(C)50', '(D)200', '(E)80']"
+        ],
+        "label": "A",
+        "ind": 20
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Hányféleképpen érhet el egy fiú a 10 lépcsőfokból álló lépcsősor tetejére, ha minden alkalommal vagy egy, vagy két lépést tehet?",
+        "options": [
+            "(A)88, (B)89, (C)90, (D)91, (E)92"
+        ],
+        "label": "B",
+        "ind": 21
+    },
+    {
+        "passage": "Nincs",
+        "question": "Ha egy gallon üdítő 40% narancsléből és 60% vízből áll, hány további gallon narancslét kell hozzákeverni ahhoz, hogy a narancslé az üdítő 60%-át tegye ki?",
+        "options": [
+            "['(A)0.5', '(B)1', '(C)1.25', '(D)1.5', '(E)2']"
+        ],
+        "label": "A",
+        "ind": 22
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Mi a 9^3-7 kifejezés utolsó számjegye?",
+        "options": [
+            "(A)1, (B)3, (C)5, (D)2, (E)4"
+        ],
+        "label": "D",
+        "ind": 23
+    },
+    {
+        "passage": "Nincs háttérinformáció",
+        "question": "Egy versenyen 5 ló indul. Mr. Jain véletlenszerűen kiválaszt két lovat, és fogad rájuk. Mekkora a valószínűsége annak, hogy kiválasztotta a győztes lovat?",
+        "options": [
+            "(A) 1/5",
+            "(B) 2/5",
+            "(C) 3/5",
+            "(D) 4/5",
+            "(E) 6/5"
+        ],
+        "label": "B",
+        "ind": 24
+    },
+    {
+        "passage": "Nincs",
+        "question": "Ha 2272-t és 875-öt egy 3-jegyű N számmal osztjuk, ugyanazt a maradékot kapjuk. N számjegyeinek összege:",
+        "options": [
+            "['(A)10', '(B)11', '(C)12', '(D)13', '(E)14']"
+        ],
+        "label": "A",
+        "ind": 25
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Egy teszten a sikeresen vizsgázó diákok átlaga 83 volt, míg a sikertelen diákok átlaga 55. Ha az osztály összesített átlaga 76 volt, akkor az osztály hány százaléka vizsgázott sikeresen?",
+        "options": [
+            "['(A)44%', '(B)66%', '(C)68%', '(D)72%', '(E)75%']"
+        ],
+        "label": "E",
+        "ind": 26
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Egy munkás átlagkeresete egy olyan két hét alatt, amely 15 egymást követő munkanapból állt, napi 90 dollár volt. Az első 7 nap alatt az átlagkeresete napi 87 dollár volt, az utolsó 7 nap alatt pedig napi 92 dollár volt. Mennyi volt a keresete a 8. napon?",
+        "options": [
+            "['(A)$83', '(B)$92', '(C)$90', '(D)$97', '(E)$104']"
+        ],
+        "label": "D",
+        "ind": 27
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Két szám aránya 3:5. Ha mindkettőből 9-et kivonunk, az új számok aránya 12:23. Melyik a kisebb szám?",
+        "options": [
+            "['(A)21', '(B)33', '(C)35', '(D)42', '(E)58']"
+        ],
+        "label": "B",
+        "ind": 28
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Ha Ajay jelenlegi életkorából 6 évet kivonunk, és a fennmaradó összeget 18-cal elosztjuk, akkor megkapjuk Rahul jelenlegi életkorát. Ha Rahul 2 évvel fiatalabb, mint Denis, akinek életkora 5 év, akkor mennyi Ajay jelenlegi életkora?",
+        "options": [
+            "(A)40",
+            "(B)60",
+            "(C)70",
+            "(D)80",
+            "(E)90"
+        ],
+        "label": "B",
+        "ind": 29
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Annának 4 könyve van. Ha úgy dönt, hogy a 4 könyvet minden lehetséges kombinációban elrendezi, és csak egy könyvet mozgat meg percenként, mennyi időbe telne neki?",
+        "options": [
+            "['(A)22 perc', '(B)30 perc', '(C)15 perc', '(D)24 perc', '(E)35 perc']"
+        ],
+        "label": "D",
+        "ind": 30
+    },
+    {
+        "passage": "Nincs",
+        "question": "A gumiabroncsok gyártója 20%-os kedvezményt kínál a tömlő nélküli gumiabroncsok árából. Néhány kiskereskedő további kedvezményeket is kínál. Ha egy kiskereskedő további 20%-os kedvezményt ad, akkor mekkora a teljes kedvezmény ennél a kiskereskedőnél?",
+        "options": [
+            "['(A)10%', '(B)25%', '(C)28%', '(D)30%', '(E)36%']"
+        ],
+        "label": "E",
+        "ind": 31
+    }
+]

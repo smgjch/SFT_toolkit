@@ -1,0 +1,359 @@
+[
+    {
+        "passage": "Pontosan öt diák—Grecia, Hakeem, Joe, Katya és Louise—dolgozik egy egyetemi művészeti galériában egy különleges kiállításon, amely pontosan öt napig tart, hétfőtől péntekig. Minden nap két nem átfedő műszakra oszlik—első és második—, és minden diák pontosan két műszakot dolgozik. Minden műszakot pontosan egy diák végzi a következő ütemezési korlátozások szerint: Egyik diák sem dolgozik ugyanazon a napon mindkét műszakban. Két egymást követő napon Louise a második műszakot végzi. Két nem egymást követő napon Grecia az első műszakot végzi. Katya kedden és pénteken dolgozik. Hakeem és Joe legalább egyszer ugyanazon a napon dolgoznak. Grecia és Louise soha nem dolgoznak ugyanazon a napon.",
+        "question": "A következő lehetőségek közül melyik lehet a galéria második műszakjában dolgozó diákok listája, hétfőtől péntekig sorrendben?",
+        "options": [
+            "['(A) Hakeem, Louise, Louise, Hakeem, Katya', '(B) Joe, Hakeem, Grecia, Louise, Louise', '(C) Joe, Katya, Hakeem, Louise, Katya', '(D) Louise, Katya, Joe, Louise, Katya', '(E) Louise, Louise, Hakeem, Joe, Joe']"
+        ],
+        "label": "A",
+        "ind": 0
+    },
+    {
+        "passage": "Öt diák – Grecia, Hakeem, Joe, Katya és Louise – dolgozik egy egyetemi művészeti galériában egy különleges kiállítás során, amely pontosan öt napig tart, hétfőtől péntekig. Minden nap két nem átfedő műszakra van osztva – első és második műszak –, és minden diák pontosan két műszakot dolgozik. Minden műszakot pontosan egy diák dolgozik a következő ütemezési korlátozások szerint: Egy diák sem dolgozik egy napon mindkét műszakban. Két egymást követő napon Louise a második műszakban dolgozik. Két nem egymást követő napon Grecia az első műszakban dolgozik. Katya kedden és pénteken dolgozik. Hakeem és Joe legalább egyszer ugyanazon a napon dolgoznak. Grecia és Louise soha nem dolgoznak ugyanazon a napon.",
+        "question": "Melyik állításnak kell igaznak lennie az alábbiak közül?",
+        "options": [
+            "(A) Grecia nem dolgozik a galériában kedden.",
+            "(B) Hakeem nem dolgozik a galériában szerdán.",
+            "(C) Joe nem dolgozik a galériában kedden.",
+            "(D) Joe nem dolgozik a galériában csütörtökön.",
+            "(E) Louise nem dolgozik a galériában kedden."
+        ],
+        "label": "C",
+        "ind": 1
+    },
+    {
+        "passage": "Pontosan öt diák – Grecia, Hakeem, Joe, Katya és Louise – fog dolgozni egy egyetemi művészeti galériában egy különleges kiállítás alatt, amely pontosan öt napig tart, hétfőtől péntekig. Minden nap két nem átfedő műszakra oszlik – első és második –, és minden diák pontosan két műszakot dolgozik. Minden műszakot pontosan egy diák dolgozik az alábbi ütemezési korlátozások szerint: Egy diák sem dolgozik mindkét műszakban ugyanazon a napon. Két egymást követő napon Louise a második műszakban dolgozik. Két nem egymást követő napon Grecia az első műszakban dolgozik. Katya dolgozik kedden és pénteken. Hakeem és Joe legalább egyszer ugyanazon a napon dolgozik. Grecia és Louise soha nem dolgoznak ugyanazon a napon.",
+        "question": "Ha Hakeem dolgozik a galériában szerdán, akkor Joe-nak az alábbi napok melyik párján kell dolgoznia a galériában?",
+        "options": [
+            "(A) Hétfő és szerda",
+            "(B) Hétfő és csütörtök",
+            "(C) Kedd és szerda",
+            "(D) Kedd és csütörtök",
+            "(E) Szerda és csütörtök"
+        ],
+        "label": "B",
+        "ind": 2
+    },
+    {
+        "passage": "Pontosan öt diák—Grecia, Hakeem, Joe, Katya és Louise—dolgozik egy kampusz művészeti galériában egy különleges kiállítás során, amely pontosan öt napig tart, hétfőtől péntekig. Minden nap két nem átfedő műszakra van osztva—első és második—, és minden diák pontosan két műszakot dolgozik. Minden műszakot pontosan egy diák dolgozik az alábbi munkarendi korlátozások szerint: Egyik diák sem dolgozik mindkét műszakban ugyanazon a napon. Két egymást követő napon Louise a második műszakban dolgozik. Két nem egymást követő napon Grecia az első műszakban dolgozik. Katya kedden és pénteken dolgozik. Hakeem és Joe legalább egyszer ugyanazon a napon dolgozik. Grecia és Louise soha nem dolgozik ugyanazon a napon.",
+        "question": "Ha van legalább egy nap, amikor Grecia és Joe is dolgozik a galériában, akkor melyik lehet igaz az alábbiak közül?",
+        "options": [
+            "(A) Grecia az első műszakban dolgozik kedden.",
+            "(B) Hakeem a második műszakban dolgozik hétfőn.",
+            "(C) Hakeem a második műszakban dolgozik szerdán.",
+            "(D) Joe az első műszakban dolgozik szerdán.",
+            "(E) Joe az első műszakban dolgozik csütörtökön."
+        ],
+        "label": "E",
+        "ind": 3
+    },
+    {
+        "passage": "Pontosan öt diák - Grecia, Hakeem, Joe, Katya és Louise - dolgozik egy egyetemi művészeti galériában egy különleges kiállítás ideje alatt, amely pontosan öt napig tart, hétfőtől péntekig. Minden nap két, egymást nem átfedő műszakra oszlik - első és második -, minden diák pontosan két műszakot dolgozik. Minden műszakot pontosan egy diák dolgozik a következő ütemezési korlátozásoknak megfelelően: Egyik diák sem dolgozik mindkét műszakban egy napon. Két egymást követő napon Louise a második műszakban dolgozik. Két nem egymást követő napon Grecia az első műszakban dolgozik. Katya kedden és pénteken dolgozik. Hakeem és Joe legalább egyszer ugyanazon a napon dolgoznak. Grecia és Louise soha nem dolgoznak ugyanazon a napon.",
+        "question": "Ha Katya a második műszakot dolgozza kedden a galériában, akkor az alábbiak közül melyik lehet igaz?",
+        "options": [
+            "(A) Grecia dolgozik az első műszakban hétfőn.",
+            "(B) Hakeem dolgozik az első műszakban hétfőn.",
+            "(C) Hakeem dolgozik a második műszakban szerdán.",
+            "(D) Joe dolgozik a második műszakban csütörtökön.",
+            "(E) Louise dolgozik a második műszakban hétfőn."
+        ],
+        "label": "B",
+        "ind": 4
+    },
+    {
+        "passage": "Pontosan öt diák - Grecia, Hakeem, Joe, Katya és Louise - dolgozik egyetemi művészeti galériában egy különleges kiállítás során, amely pontosan öt napig tart, hétfőtől péntekig. Minden nap két nem átfedő műszakra oszlik - első és második -, és minden diák pontosan két műszakot dolgozik. Minden műszakot pontosan egy diák dolgozik a következő ütemezési korlátozások szerint: Egy diák sem dolgozik egy nap mindkét műszakjában. Két egymást követő napon Louise a második műszakban dolgozik. Két nem egymást követő napon Grecia az első műszakban dolgozik. Katya kedden és pénteken dolgozik. Hakeem és Joe legalább egyszer ugyanazon a napon dolgoznak. Grecia és Louise soha nem dolgoznak ugyanazon a napon.",
+        "question": "Melyik az alábbiak közül elfogadható ütemterv a szakácskönyvek kiadására?",
+        "options": [
+            "(A) ősz: K, L, M és O tavasz: N és P",
+            "(B) ősz: K, L, N és O tavasz: M és P",
+            "(C) ősz: K, L, N és P tavasz: M és O",
+            "(D) ősz: K, M, N és O tavasz: L és P",
+            "(E) ősz: M és O tavasz: K, L, N és P"
+        ],
+        "label": "E",
+        "ind": 5
+    },
+    {
+        "passage": "Egy kiadó azt tervezi, hogy hat szakácskönyvet—K, L, M, N, O és P—jelentet meg a következő év folyamán. Mindegyik szakácskönyv két évszak egyikében jelenik meg—ősszel vagy tavasszal—, az alábbi feltételek szerint: M és P nem jelenhetnek meg ugyanabban az évszakban. K és N ugyanabban az évszakban kell, hogy megjelenjenek. Ha K ősszel jelenik meg, akkor O-nak is ősszel kell megjelennie. Ha M ősszel jelenik meg, akkor N-nek tavasszal kell megjelennie.",
+        "question": "Ha M ősszel jelenik meg, melyik az alábbiak közül az a két szakácskönyv, amelyek M-mel együtt ősszel jelenhetnek meg?",
+        "options": [
+            "'(A) K és O', '(B) L és N', '(C) L és O', '(D) N és P', '(E) O és P'"
+        ],
+        "label": "C",
+        "ind": 6
+    },
+    {
+        "passage": "Egy kiadó hat szakácskönyvet tervez kiadni – K, L, M, N, O és P – az elkövetkező év folyamán. Mindegyik szakácskönyv két évszak egyikében fog megjelenni – ősszel vagy tavasszal – az alábbi feltételek szerint: M és P nem jelenhet meg ugyanabban az évszakban. K és N ugyanabban az évszakban kell, hogy megjelenjenek. Ha K ősszel jelenik meg, O-nak is ősszel kell megjelennie. Ha M ősszel jelenik meg, N-nek tavasszal kell megjelennie.",
+        "question": "Ha N ősszel jelenik meg, melyik lehet igaz a következők közül?",
+        "options": [
+            "(A) K tavasszal jelenik meg.",
+            "(B) L ősszel jelenik meg.",
+            "(C) M ősszel jelenik meg.",
+            "(D) O tavasszal jelenik meg.",
+            "(E) P tavasszal jelenik meg."
+        ],
+        "label": "B",
+        "ind": 7
+    },
+    {
+        "passage": "Egy kiadó azt tervezi, hogy hat szakácskönyvet ad ki – K, L, M, N, O és P – a következő év során. Mindegyik szakácskönyvet két évszak egyikében adják ki – ősszel vagy tavasszal – az alábbi feltételek szerint: M és P nem jelenhet meg ugyanabban az évszakban. K és N ugyanabban az évszakban kell, hogy megjelenjen. Ha K ősszel jelenik meg, akkor O-nak is ősszel kell megjelennie. Ha M ősszel jelenik meg, akkor N-nek tavasszal kell megjelennie.",
+        "question": "A szakácskönyvek kiadási ütemezése teljesen meghatározott, ha az alábbiak közül melyik igaz?",
+        "options": [
+            "(A) K ősszel jelenik meg, és L tavasszal.",
+            "(B) O ősszel jelenik meg, és P tavasszal.",
+            "(C) P ősszel jelenik meg, és L tavasszal.",
+            "(D) Mind K, mind L tavasszal jelenik meg.",
+            "(E) Mind M, mind L ősszel jelenik meg."
+        ],
+        "label": "A",
+        "ind": 8
+    },
+    {
+        "passage": "Egy kiadó azt tervezi, hogy hat szakácskönyvet ad ki – K, L, M, N, O és P – a következő év folyamán. Minden szakácskönyv két évszak valamelyikében jelenik meg: ősszel vagy tavasszal, a következő feltételek szerint: M és P nem jelenhetnek meg ugyanabban az évszakban. K és N ugyanabban az évszakban kell, hogy megjelenjenek. Ha K ősszel jelenik meg, akkor O-nak is ősszel kell megjelennie. Ha M ősszel jelenik meg, akkor N-nek tavasszal kell megjelennie.",
+        "question": "Melyik az alábbiak közül, ha azt a feltételt helyettesíti, hogy ha M ősszel jelenik meg, akkor N-nek tavasszal kell megjelennie, ugyanazt a hatást gyakorolja a szakácskönyvek megjelenési ütemezésének meghatározására?",
+        "options": [
+            "['(A)Ha L ősszel jelenik meg, akkor M-nek tavasszal kell megjelennie.', '(B)Ha N ősszel jelenik meg, akkor P-nek is ősszel kell megjelennie.', '(C)Ha M tavasszal jelenik meg, akkor P-nek ősszel kell megjelennie.', '(D)Ha N tavasszal jelenik meg, akkor M-nek is tavasszal kell megjelennie.', '(E)Ha O tavasszal jelenik meg, akkor N-nek is tavasszal kell megjelennie.']"
+        ],
+        "label": "B",
+        "ind": 9
+    },
+    {
+        "passage": "Hét munkást — Quinn, Ruiz, Smith, Taylor, Verma, Wells és Xue — fontolgatnak egy különleges projekt számára. Pontosan három munkást választanak ki a projekt tagjainak, és pontosan egy közülük lesz a projekt vezetője. A kiválasztás az alábbi feltételek szerint történik: Quinn vagy Ruiz csak akkor lehet projekt tag, ha vezeti a projektet. Ha Smith projekt tag, akkor Taylornak is annak kell lennie. Ha Wells projekt tag, sem Ruiz, sem Verma nem lehet az.",
+        "question": "Melyik a következő lehetőségek közül elfogadható a projekt kiválasztásához?",
+        "options": [
+            "(A) Ruiz (vezető), Taylor, Wells",
+            "(B) Verma (vezető), Quinn, Taylor",
+            "(C) Verma (vezető), Smith, Taylor",
+            "(D) Verma (vezető), Smith, Xue",
+            "(E) Xue (vezető), Verma, Wells"
+        ],
+        "label": "C",
+        "ind": 10
+    },
+    {
+        "passage": "Hét munkavállaló – Quinn, Ruiz, Smith, Taylor, Verma, Wells és Xue – van figyelembe véve egy különleges projekt számára. Pontosan három munkavállalót választanak ki projekt tagként, és pontosan egy ezek közül a projektvezető lesz. A kiválasztás a következő korlátozásoknak van alávetve: Quinn vagy Ruiz csak akkor lehet projekt tag, ha ő vezeti a projektet. Ha Smith projekt tag, akkor Taylor is az kell legyen. Ha Wells projekt tag, akkor sem Ruiz, sem Verma nem lehet az.",
+        "question": "Ha Taylor a projektvezető és Wells projekt tag, akkor a harmadik projekt tag csakis a következő lehet:",
+        "options": [
+            "(A) Quinn vagy Smith  ",
+            "(B) Quinn vagy Xue  ",
+            "(C) Ruiz vagy Verma  ",
+            "(D) Smith vagy Xue  ",
+            "(E) Verma vagy Xue"
+        ],
+        "label": "D",
+        "ind": 11
+    },
+    {
+        "passage": "Hét munkást — Quinn, Ruiz, Smith, Taylor, Verma, Wells és Xue — fontolgatnak egy különleges projektre. Pontosan három munkást választanak ki projekt tagként, és közülük pontosan egy lesz a projektvezető. A kiválasztás az alábbi feltételekhez van kötve: Quinn vagy Ruiz csak akkor lehet projekt tag, ha a projektet vezeti. Ha Smith projekt tag, akkor Taylornak is annak kell lennie. Ha Wells projekt tag, akkor sem Ruiz, sem Verma nem lehet az.",
+        "question": "Verma lehet a projektvezető, ha az alábbiak közül melyik igaz?",
+        "options": [
+            "(A) Sem Quinn, sem Smith nincs kiválasztva.",
+            "(B) Sem Ruiz, sem Taylor nincs kiválasztva.",
+            "(C) Sem Smith, sem Taylor nincs kiválasztva.",
+            "(D) Sem Smith, sem Xue nincs kiválasztva.",
+            "(E) Sem Taylor, sem Wells nincs kiválasztva."
+        ],
+        "label": "A",
+        "ind": 12
+    },
+    {
+        "passage": "Hét dolgozót - Quinn, Ruiz, Smith, Taylor, Verma, Wells és Xue - vesznek figyelembe egy különleges projekt számára. Pontosan három dolgozót választanak ki, hogy a projekt tagjai legyenek, és közülük pontosan egy lesz a projekt vezetője. A kiválasztás a következő korlátozásoknak van alávetve: Quinn vagy Ruiz csak akkor lehet projekt tag, ha ő vezeti a projektet. Ha Smith projekt tag, akkor Taylornak is annak kell lennie. Ha Wells projekt tag, akkor sem Ruiz, sem Verma nem lehet az.",
+        "question": "Ha Taylor nem projekt tag, akkor a következő dolgozók közül kinek kell projekt tagnak lennie?",
+        "options": [
+            "(A)Quinn",
+            "(B)Ruiz",
+            "(C)Verma",
+            "(D)Wells",
+            "(E)Xue"
+        ],
+        "label": "E",
+        "ind": 13
+    },
+    {
+        "passage": "Hét munkás—Quinn, Ruiz, Smith, Taylor, Verma, Wells és Xue—közül választják ki azokat, akik egy különleges projekten dolgoznak majd. Pontosan három munkást fognak kiválasztani, hogy a projekt tagjai legyenek, és közülük pontosan egy lesz a projektvezető. A kiválasztás a következő feltételekhez van kötve: Quinn vagy Ruiz csak akkor lehet projekt tag, ha ő vezeti a projektet. Ha Smith projekt tag, akkor Taylornak is annak kell lennie. Ha Wells projekt tag, akkor sem Ruiz, sem Verma nem lehet az.",
+        "question": "A projekt kiválasztása teljesen meghatározott, ha az alábbiak közül melyik igaz?",
+        "options": [
+            "(A) Sem Quinn, sem Smith nincs kiválasztva.",
+            "(B) Sem Quinn, sem Taylor nincs kiválasztva.",
+            "(C) Sem Quinn, sem Xue nincs kiválasztva.",
+            "(D) Sem Ruiz, sem Wells nincs kiválasztva.",
+            "(E) Sem Ruiz, sem Verma nincs kiválasztva."
+        ],
+        "label": "B",
+        "ind": 14
+    },
+    {
+        "passage": "Négy diákot osztanak be egy történelemprojektbe, amely során az 1921, 1922, 1923 és 1924 évekből származó archívumokat kutatják. Mind a négy évhez pontosan egy diák lesz hozzárendelve. Hat diák áll rendelkezésre ehhez a projekthez: Louis, Mollie, Onyx, Ryan, Tiffany és Yoshio. A következő feltételek érvényesek: Csak Louis vagy Tiffany lehet hozzárendelve 1923-hoz. Ha Mollie részt vesz a projektben, akkor őt vagy 1921-hez vagy 1922-höz kell hozzárendelni. Ha Tiffany részt vesz a projektben, akkor Ryant is be kell osztani a projektbe. Ha Ryan be van osztva a projektbe, akkor Onyxnak közvetlenül Ryan előtti évhez kell lennie hozzárendelve.",
+        "question": "Melyik lehetne a diákok pontos beosztása, az első évtől a legutolsóig sorrendben?",
+        "options": [
+            "(A) Louis, Onyx, Ryan, Yoshio",
+            "(B) Mollie, Yoshio, Tiffany, Onyx",
+            "(C) Onyx, Ryan, Louis, Tiffany",
+            "(D) Tiffany, Onyx, Louis, Ryan",
+            "(E) Yoshio, Onyx, Louis, Mollie"
+        ],
+        "label": "C",
+        "ind": 15
+    },
+    {
+        "passage": "Négy diákot egy történelmi projekthez fognak hozzárendelni, amelyben az 1921, 1922, 1923 és 1924 évekből származó archívumokat keresik fel. Mind a négy évhez pontosan egy diákot rendelnek hozzá. Hat diák – Louis, Mollie, Onyx, Ryan, Tiffany és Yoshio – áll rendelkezésre ehhez a projekthez. A következő feltételek érvényesek: Csak Louis vagy Tiffany lehet hozzárendelve 1923-hoz. Ha Mollie-t hozzárendelik a projekthez, akkor őt vagy 1921-hez vagy 1922-höz kell rendelni. Ha Tiffany-t hozzárendelik a projekthez, akkor Ryan-t is hozzárendelik a projekthez. Ha Ryan-t hozzárendelik a projekthez, akkor Onyx-ot a közvetlenül előtte lévő évhez kell rendelni.",
+        "question": "Mollie-t 1922-höz kell rendelni, ha az alábbiak közül melyik igaz?",
+        "options": [
+            "(A) Louis-t 1924-hez rendelik.",
+            "(B) Onyx-ot 1921-hez rendelik.",
+            "(C) Onyx-ot 1924-hez rendelik.",
+            "(D) Tiffany-t 1923-hoz rendelik.",
+            "(E) Yoshio-t 1921-hez rendelik."
+        ],
+        "label": "E",
+        "ind": 16
+    },
+    {
+        "passage": "Négy diákot osztanak be egy történelemprojektbe, amelyben az 1921, 1922, 1923 és 1924-es évek archívumait fogják kutatni. Mind a négy évhez pontosan egy diák lesz hozzárendelve. Hat diák áll rendelkezésre a projekthez: Louis, Mollie, Onyx, Ryan, Tiffany és Yoshio. Az alábbi feltételek vonatkoznak: Csak Louis vagy Tiffany lehet hozzárendelve 1923-hoz. Ha Mollie részt vesz a projektben, akkor őt vagy 1921-hez, vagy 1922-höz kell hozzárendelni. Ha Tiffany részt vesz a projektben, akkor Ryan-nek is részt kell vennie a projektben. Ha Ryan részt vesz a projektben, akkor Onyxt azonnal Ryan előtti évhez kell hozzárendelni.",
+        "question": "Ha Ryan és Yoshio is részt vesz a projektben, akkor az alábbiak közül melyik lehet igaz?",
+        "options": [
+            "(A) Louis van hozzárendelve 1923-hoz.",
+            "(B) Mollie van hozzárendelve 1921-hez.",
+            "(C) Onyx van hozzárendelve 1922-höz.",
+            "(D) Tiffany van hozzárendelve 1924-hez.",
+            "(E) Yoshio van hozzárendelve 1922-höz."
+        ],
+        "label": "A",
+        "ind": 17
+    },
+    {
+        "passage": "Négy diákot fognak beosztani egy történelem projekthez, amely során az 1921, 1922, 1923 és 1924 évekből származó archívumokat keresnek. Mind a négy évhez pontosan egy diák lesz hozzárendelve. Hat diák – Louis, Mollie, Onyx, Ryan, Tiffany és Yoshio – áll rendelkezésre ehhez a projekthez. A következő feltételek érvényesek: Csak Louis vagy Tiffany lehet hozzárendelve 1923-hoz. Ha Mollie részt vesz a projektben, akkor őt vagy 1921-hez vagy 1922-höz kell hozzárendelni. Ha Tiffany részt vesz a projektben, akkor Ryant is be kell osztani a projektbe. Ha Ryan részt vesz a projektben, akkor Onyxnál közvetlenül előtte lévő évhez kell hogy hozzárendeljék.",
+        "question": "Hány diák van, aki hozzárendelhető az 1921-es évhez?",
+        "options": [
+            "(A) hat  ",
+            "(B) öt  ",
+            "(C) négy  ",
+            "(D) három  ",
+            "(E) kettő"
+        ],
+        "label": "D",
+        "ind": 18
+    },
+    {
+        "passage": "Négy diákot fognak megbízni egy történelemprojekttel, amelyben az 1921, 1922, 1923 és 1924 évekből származó archívumokat fognak keresni. Mind a négy évhez pontosan egy diák lesz kijelölve. Hat diák – Louis, Mollie, Onyx, Ryan, Tiffany és Yoshio – áll rendelkezésre ehhez a projekthez. A következő feltételek érvényesek: Csak Louis vagy Tiffany lehet kijelölve 1923-hoz. Ha Mollie részt vesz a projektben, akkor őt vagy 1921-re, vagy 1922-re kell kijelölni. Ha Tiffany részt vesz a projektben, akkor Ryannek is részt kell vennie. Ha Ryan részt vesz a projektben, akkor Onyxt azonnal Ryan előtti évhez kell kijelölni.",
+        "question": "Ha Yoshio nem vesz részt a projektben, melyik következő lehet igaz?",
+        "options": [
+            "(A) Louis nem vesz részt a projektben.  ",
+            "(B) Ryan nem vesz részt a projektben.  ",
+            "(C) Tiffany nem vesz részt a projektben.  ",
+            "(D) Onyx 1922-re van kijelölve.  ",
+            "(E) Louis 1924-re van kijelölve."
+        ],
+        "label": "E",
+        "ind": 19
+    },
+    {
+        "passage": "Négy diákot jelölnek ki egy történelem projektre, amely során az 1921, 1922, 1923 és 1924 évekből származó archívumokat kutatják. Mind a négy évhez pontosan egy diákot rendelnek. Hat diák áll rendelkezésre a projekthez: Louis, Mollie, Onyx, Ryan, Tiffany és Yoshio. A következő feltételek érvényesek: Csak Louis vagy Tiffany lehet kijelölve 1923-ra. Ha Mollie részt vesz a projektben, akkor őt vagy 1921-re, vagy 1922-re kell kijelölni. Ha Tiffany részt vesz a projektben, akkor Ryannek is részt kell vennie a projektben. Ha Ryan részt vesz a projektben, akkor Onyxnál az előző évhez kell őt kijelölni.",
+        "question": "A következő diákok közül melyik NEM lehet kijelölve 1922-re?",
+        "options": [
+            "(A)Louis, (B)Mollie, (C)Onyx, (D)Ryan, (E)Yoshio"
+        ],
+        "label": "A",
+        "ind": 20
+    },
+    {
+        "passage": "Egy új antikvitás bolt egyhetes megnyitója alatt az antik kereskedő pontosan egy antikot fog elárverezni naponta, hat egymást követő napon keresztül - június 1-től június 6-ig. Az elárverezendő antikok a következők: egy szájharmonika, egy lámpa, egy tükör, egy napóra, egy asztal és egy váza. A következő feltételek érvényesek: A napóra nem kerül elárverezésre június 1-jén. Ha a szájharmonika korábbi napon kerül elárverezésre, mint a lámpa, akkor a tükör is korábbi napon kerül elárverezésre, mint a lámpa. A napóra korábbi napon kerül elárverezésre, mint a tükör, és korábbi napon, mint a váza. Az asztal korábbi napon kerül elárverezésre, mint a szájharmonika, vagy korábbi napon, mint a váza, de nem mindkettőnél.",
+        "question": "Melyik lehet a hat antik pontos listája, abban a sorrendben, ahogyan elárverezésre kerülnek június 1-től június 6-ig?",
+        "options": [
+            "['(A) szájharmonika, asztal, napóra, lámpa, váza, tükör', '(B) lámpa, szájharmonika, napóra, tükör, váza, asztal', '(C) szájharmonika, napóra, asztal, tükör, lámpa, váza', '(D) napóra, tükör, szájharmonika, asztal, váza, lámpa', '(E) váza, napóra, lámpa, szájharmonika, asztal, tükör']"
+        ],
+        "label": "C",
+        "ind": 21
+    },
+    {
+        "passage": "Az új antikvitás bolt egyhetes megnyitóján az antikvitás kereskedő pontosan egy antik tárgyat árverez el naponta hat egymást követő napon - június 1-től június 6-ig. Az árverésre kerülő antik tárgyak: egy harmonika, egy lámpa, egy tükör, egy napóra, egy asztal és egy váza. A következő feltételek érvényesek: A napórát nem árverezik el június 1-jén. Ha a harmonikát korábbi napon árverezik el, mint a lámpát, akkor a tükröt is korábbi napon árverezik el, mint a lámpát. A napórát korábbi napon árverezik el, mint a tükröt, és korábbi napon, mint a vázát. Az asztalt korábbi napon árverezik el, mint a harmonikát vagy korábbi napon, mint a vázát, de nem mindkettőt.",
+        "question": "Melyik lehet igaz az alábbiak közül?",
+        "options": [
+            "(A) Az asztalt június 2-án árverezik el, és a lámpát június 3-án árverezik el.",
+            "(B) A napórát június 2-án árverezik el, és a vázát június 3-án árverezik el.",
+            "(C) A tükröt június 3-án árverezik el, és a napórát június 4-én árverezik el.",
+            "(D) A vázát június 4-én árverezik el, és a napórát június 5-én árverezik el.",
+            "(E) A napórát június 4-én árverezik el, és az asztalt június 5-én árverezik el."
+        ],
+        "label": "B",
+        "ind": 22
+    },
+    {
+        "passage": "Az új antikvárium egyhetes megnyitója során az antikvárius pontosan egy antikot árverez el naponta hat egymást követő napon - június 1-jétől június 6-ig. Az aukcióra kerülő antik tárgyak a következők: egy harmonika, egy lámpa, egy tükör, egy napóra, egy asztal és egy váza. A következő feltételek vonatkoznak: A napórát nem árverezik el június 1-jén. Ha a harmonikát egy korábbi napon árverezik el, mint a lámpát, akkor a tükröt is egy korábbi napon kell elárverezni, mint a lámpát. A napórát egy korábbi napon árverezik el, mint a tükröt, és szintén egy korábbi napon, mint a vázát. Az asztalt vagy a harmonikánál, vagy a vázánál korábbi napon árverezik el, de nem mindkettőnél.",
+        "question": "Ha az asztalt egy olyan napon árverezik el, ami későbbi, mint a tükör és a váza elárverezésének napja, akkor melyik lehet igaz az alábbiak közül?",
+        "options": [
+            "(A) A harmonikát egy korábbi napon árverezik el, mint az asztalt.",
+            "(B) Az asztalt egy korábbi napon árverezik el, mint a lámpát.",
+            "(C) Az asztalt egy korábbi napon árverezik el, mint a napórát.",
+            "(D) A tükröt egy korábbi napon árverezik el, mint a vázát.",
+            "(E) A napórát egy korábbi napon árverezik el, mint a lámpát."
+        ],
+        "label": "D",
+        "ind": 23
+    },
+    {
+        "passage": "A hét napig tartó új antikvárium megnyitóján az antikvitás-kereskedő pontosan egy antik tárgyat fog árverezni naponta hat egymást követő napon—június 1-től június 6-ig. Az árverezendő antik tárgyak a következők: egy szájharmonika, egy lámpa, egy tükör, egy napóra, egy asztal és egy váza. A következő feltételek érvényesek: A napórát nem árverezik el június 1-jén. Ha a szájharmonikát korábbi napon árverezik, mint a lámpát, akkor a tükröt is korábbi napon árverezik, mint a lámpát. A napórát korábbi napon árverezik, mint a tükröt, és szintén korábbi napon, mint a vázát. Az asztalt korábbi napon árverezik, mint a szájharmonikát vagy a vázát, de nem mindkettőt.",
+        "question": "Melyik az alábbiak közül NEM lehet az az antik tárgy, amelyet azon a napon árvereznek el, amely közvetlenül megelőzi a váza árverezésének napját?",
+        "options": [
+            "(A) a szájharmonika ",
+            "(B) a lámpa ",
+            "(C) a tükör ",
+            "(D) a napóra ",
+            "(E) az asztal"
+        ],
+        "label": "A",
+        "ind": 24
+    },
+    {
+        "passage": "Az új antik bolt egyhetes megnyitója során az antik kereskedő pontosan egy antik tárgyat árverez el naponta hat egymást követő napon - június 1-jétől június 6-ig. Az árverezésre kerülő antik tárgyak a következők: egy harmonika, egy lámpa, egy tükör, egy napóra, egy asztal és egy váza. A következő feltételek vonatkoznak: A napórát nem árverezik el június 1-jén. Ha a harmonikát korábbi napon árverezik el, mint a lámpát, akkor a tükröt is korábbi napon árverezik el, mint a lámpát. A napórát korábbi napon árverezik el, mint a tükröt, és szintén korábbi napon, mint a vázát. Az asztalt korábbi napon árverezik el, mint a harmonikát vagy a vázát, de nem mindkettőt.",
+        "question": "Melyik lehet igaz az alábbiak közül?",
+        "options": [
+            "(A) A tükröt június 2-án árverezik el.",
+            "(B) A lámpát június 2-án árverezik el.",
+            "(C) A vázát június 2-án árverezik el.",
+            "(D) A lámpát június 3-án árverezik el.",
+            "(E) A tükröt június 5-én árverezik el."
+        ],
+        "label": "E",
+        "ind": 25
+    },
+    {
+        "passage": "A hétnapos nyitási ünnepség alatt egy új régiségboltban a régiségkereskedő pontosan egy régiséget árverez el minden nap hat egymást követő napon - június 1-jétől június 6-ig. Az árverésre kerülő régiségek a következők: egy szájharmonika, egy lámpa, egy tükör, egy napóra, egy asztal és egy váza. Az alábbi feltételek érvényesek: A napóra nem kerül árverésre június 1-jén. Ha a szájharmonika korábbi dátumon kerül árverésre, mint a lámpa, akkor a tükör is korábbi dátumon kerül árverésre, mint a lámpa. A napóra korábbi dátumon kerül árverésre, mint a tükör, és szintén korábbi dátumon, mint a váza. Az asztal korábbi dátumon kerül árverésre, mint a szájharmonika vagy korábbi dátumon, mint a váza, de nem mindkettő.",
+        "question": "Az alábbiak közül melyik lehet igaz?",
+        "options": [
+            "(A) A napóra június 5-én kerül árverésre.",
+            "(B) A napóra június 4-én kerül árverésre.",
+            "(C) A lámpa június 5-én, és a tükör június 6-án kerül árverésre.",
+            "(D) Az asztal június 3-án, és a lámpa június 4-én kerül árverésre.",
+            "(E) A szájharmonika június 2-án, és a váza június 3-án kerül árverésre."
+        ],
+        "label": "B",
+        "ind": 26
+    },
+    {
+        "passage": "Egy kórusigazgató pontosan hat énekest tervez meghallgatni: Kammert, Lugót, Trillót, Waite-t, Yoshidát és Zinnt. Kammer és Lugo meghallgatása rögzítve lesz; a másik négyé nem. A hat meghallgatásnak egymás után kell lezajlania egyetlen nap alatt, az alábbi feltételek szerint: A negyedik meghallgatás nem lehet rögzítve. Az ötödik meghallgatást rögzíteni kell. Waite meghallgatásának korábban kell lezajlania, mint a két rögzített meghallgatásnak. Kammer meghallgatásának korábban kell lezajlania, mint Trilló meghallgatásának. Zinn meghallgatásának korábban kell lezajlania, mint Yoshida meghallgatásának.",
+        "question": "Melyik lehet az alábbiak közül a meghallgatások sorrendje, az elsőtől az utolsóig?",
+        "options": [
+            "(A) Kammer, Trillo, Zinn, Waite, Lugo, Yoshida",
+            "(B) Waite, Kammer, Yoshida, Zinn, Lugo, Trillo",
+            "(C) Waite, Lugo, Kammer, Trillo, Zinn, Yoshida",
+            "(D) Waite, Zinn, Kammer, Trillo, Lugo, Yoshida",
+            "(E) Zinn, Yoshida, Waite, Lugo, Kammer, Trillo"
+        ],
+        "label": "D",
+        "ind": 27
+    },
+    {
+        "passage": "Egy kórusigazgató pontosan hat énekes meghallgatását tervezi: Kammer, Lugo, Trillo, Waite, Yoshida és Zinn. Kammer és Lugo meghallgatása rögzítve lesz; a másik négy nem. A hat meghallgatásnak egymás után kell megtörténnie egy napon belül, a következő feltételek szerint: A negyedik meghallgatás nem lehet rögzítve. Az ötödik meghallgatásnak rögzítve kell lennie. Waite meghallgatásának korábban kell megtörténnie, mint a két rögzített meghallgatásnak. Kammer meghallgatásának korábban kell történnie, mint Trillo meghallgatásának. Zinn meghallgatásának korábban kell történnie, mint Yoshida meghallgatásának.",
+        "question": "A következők közül melyik NEM lehet a második meghallgatás?",
+        "options": [
+            "(A) Kammer meghallgatása",
+            "(B) Lugo meghallgatása",
+            "(C) Trillo meghallgatása",
+            "(D) Waite meghallgatása",
+            "(E) Zinn meghallgatása"
+        ],
+        "label": "C",
+        "ind": 28
+    }
+]

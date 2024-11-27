@@ -1,0 +1,311 @@
+[
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "A szöveg leginkább azt sugallja, hogy a méhészek kereskedelmileg gyártott rovarirtószerekkel tett kísérletei az atkafertőzések leküzdésére milyen nem szándékos hatást fejtenek ki?",
+        "options": [
+            "(A) Növelik bizonyos atkapopulációk számát.",
+            "(B) Megölik néhány jótékony baktériumformát.",
+            "(C) Elpusztítják a méhek elsődleges táplálékforrását.",
+            "(D) Tovább károsítják néhány méh egészségét."
+        ],
+        "label": "D",
+        "ind": 0
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "A szerzők által a lóheréről tett kimondatlan feltételezés az, hogy a növények",
+        "options": [
+            "(A) nem termelnek piretrumokat.",
+            "(B) a krizantém nemzetség tagjai.",
+            "(C) általában vad típusú méhkolóniák közelében találhatók.",
+            "(D) nem lesznek jó táplálékforrások a kontroll kolóniák méhei számára."
+        ],
+        "label": "A",
+        "ind": 1
+    },
+    {
+        "passage": "None",
+        "question": "A táblázat adatai alapján a kolónia-összeomlási rendellenességgel sújtott kaptárak hány százalékában fertőződtek meg a méhek mind a négy kórokozóval?",
+        "options": [
+            "(A) 0 százalék",
+            "(B) 77 százalék",
+            "(C) 83 százalék",
+            "(D) 100 százalék"
+        ],
+        "label": "B",
+        "ind": 2
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "A táblázatban szereplő adatok alapján a négy kórokozó közül melyik fertőzte meg a legmagasabb százalékban a kolónia-összeomlási rendellenesség nélküli méhcsaládokat?",
+        "options": [
+            "(A)$\\mathrm{IAPV}$, (B)$\\mathrm{KBV}$, (C)Nosema apis, (D)Nosema ceranae"
+        ],
+        "label": "D",
+        "ind": 3
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "A táblázat adatai alátámasztják-e a szerzők azon állítását, hogy a varroa atkákkal való fertőzés növeli a mézelő méhek érzékenységét a másodlagos fertőzésekre?",
+        "options": [
+            "(A) Igen, mert az adatok bizonyítékot szolgáltatnak arra, hogy egy kórokozóval való fertőzés miatt a kolóniák kolónia-összeomlási rendellenességet szenvedtek el.",
+            "(B) Igen, mert minden kórokozó esetében a fertőzött kolóniák aránya nagyobb a kolónia-összeomlási rendellenességgel rendelkező kolóniák esetében, mint a kolónia-összeomlási rendellenesség nélküli kolóniák esetében.",
+            "(C) Nem, mert az adatok nem szolgáltatnak bizonyítékot a baktériumokról, mint a kolónia-összeomlási rendellenesség okáról.",
+            "(D) Nem, mert az adatok nem jelzik, hogy a mézelő méhek atkák által fertőzöttek voltak-e."
+        ],
+        "label": "D",
+        "ind": 4
+    },
+    {
+        "passage": "Nincs háttérinformáció",
+        "question": "A szöveg során az elsődleges fókusz áthelyeződik",
+        "options": [
+            "(A) Lymie belső gondolatairól a többi szereplő megfigyeléseire.",
+            "(B) egy idegenek közötti eszmecseréről egy kielégítő személyes kapcsolatra.",
+            "(C) a jelenet fizikai környezetéről a különböző szereplők személyiségjegyeire.",
+            "(D) Lymie könyvolvasási élményéről az étteremben lévő emberek leírásaira."
+        ],
+        "label": "D",
+        "ind": 5
+    },
+    {
+        "passage": "Nincs",
+        "question": "Az első bekezdés fő célja az, hogy",
+        "options": [
+            "(A) bemutassa a szöveg főszereplőjét az éjszakai szokásain keresztül.",
+            "(B) jelezze a szöveg időpontját korabeli részletek bemutatásával.",
+            "(C) közvetítse a szöveg környezetét egy hely és egy tárgy leírásával.",
+            "(D) előrevetítsen egy eseményt, amelyet később részletesen leírnak a szövegben."
+        ],
+        "label": "C",
+        "ind": 6
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "A narrátor szerint Lymie végül becsukja a történelemkönyvet, mert",
+        "options": [
+            "(A) az apja csatlakozott hozzá az asztalnál.",
+            "(B) a másik asztalnál lévők túl zavaróak.",
+            "(C) befejezte a fejezetet a Kongresszusról.",
+            "(D) készül elhagyni az éttermet."
+        ],
+        "label": "A",
+        "ind": 7
+    },
+    {
+        "passage": "Nincs háttérinformáció",
+        "question": "A záró bekezdés fő gondolata az, hogy Mr. Peters",
+        "options": [
+            "(A) elhanyagolja, hogy időt töltsön családtagjaival.",
+            "(B) úgy viselkedik, mintha fiatalabb önmaga lenne.",
+            "(C) nagyon tudatában van a gazdagság és hatalom szimbólumainak.",
+            "(D) azzal van elfoglalva, hogy tudja, öregszik."
+        ],
+        "label": "B",
+        "ind": 8
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Az 1. szakaszban Beecher melyik állítást fogalmazza meg a nők státuszáról a férfiakéhoz képest?",
+        "options": [
+            "(A) A nők a férfiaktól függnek a biztonságuk és védelmük érdekében, de a férfiak nagyrészt függetlenek a nőktől.",
+            "(B) A nők alacsonyabb rendűek, mint a férfiak, de a nők szerepe ugyanolyan jelentős, mint a férfiaké.",
+            "(C) A nőknek kevesebb joguk van, mint a férfiaknak, de a nőknek kevesebb kötelezettségük is van.",
+            "(D) A nők felsőbbrendűek, mint a férfiak, de a hagyomány megköveteli, hogy a nők engedelmeskedjenek a férfiaknak."
+        ],
+        "label": "B",
+        "ind": 9
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Beecher az 1. szövegben arra utal, hogy a nők közéletre gyakorolt hatása nagyrészt",
+        "options": [
+            "(A) figyelmen kívül hagyott, mert kevés férfit érdekel, mit gondolnak a nők a politikáról.",
+            "(B) közvetett, mert a nők az otthon és a családi élet keretein belül fejtik ki hatásukat.",
+            "(C) szükségtelen, mert a férfiak képesek önmaguk irányítani a társadalmat.",
+            "(D) szimbolikus, mert a nők hajlamosak idealistábban viszonyulni a politikához, mint a férfiak."
+        ],
+        "label": "B",
+        "ind": 10
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Mi Grimké központi állítása a 2. szövegben?",
+        "options": [
+            "(A) Az egyének jogait nem faj vagy nem határozza meg.",
+            "(B) A férfiaknak és nőknek meg kell tanulniuk együtt dolgozni a társadalom javítása érdekében.",
+            "(C) Az erkölcsi jogok a legfontosabb különbség az emberek és az állatok között.",
+            "(D) A férfiaknak és nőknek egyenlő lehetőségeket kell biztosítani a fejlődéshez."
+        ],
+        "label": "A",
+        "ind": 11
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "A 2. szövegben Grimké milyen megállapítást tesz az emberi jogokról?",
+        "options": [
+            "(A) Különböző kultúrákban másképp tekintenek rájuk a világon.  ",
+            "(B) Megőrzik erkölcsi tekintélyüket, függetlenül attól, hogy törvény által elismertek-e.  ",
+            "(C) Néha ellentmondanak az erkölcsi kötelezettségeknek.  ",
+            "(D) Az idők során fejlettebbé és kifinomultabbá váltak."
+        ],
+        "label": "B",
+        "ind": 12
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Melyik választás írja le legjobban a két szöveg közötti kapcsolatot?",
+        "options": [
+            "(A) A 2. szöveg bemutatja az 1. szövegben tett javaslat gyakorlati nehézségeit.",
+            "(B) A 2. szöveg vitatja az 1. szöveg elsődleges érvelését.",
+            "(C) A 2. szöveg történelmi kontextust ad az 1. szövegben bemutatott nézőpontnak.",
+            "(D) A 2. szöveg kifejti az 1. szövegben burkoltan megfogalmazott több ötletet."
+        ],
+        "label": "B",
+        "ind": 13
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Az alábbi állítások közül melyikkel értene egyet mindkét szerző a szövegek alapján?",
+        "options": [
+            "(A) A nőknek erkölcsi kötelességeik és felelősségeik vannak.",
+            "(B) A férfiak gyakran önzetlenül dolgoznak a politikai változásért.",
+            "(C) A nők erkölcsi kötelezettségeit gyakran alábecsülik.",
+            "(D) A politikai aktivizmus ugyanolyan fontos a nők számára, mint a férfiak számára."
+        ],
+        "label": "A",
+        "ind": 14
+    },
+    {
+        "passage": "None",
+        "question": "A szöveg szerint Maguire megállapításai a taxisofőrökkel kapcsolatban azért jelentősek, mert",
+        "options": [
+            "(A) egy új módszer érvényességét mutatják be.",
+            "(B) bizonyítékot szolgáltatnak egy népszerű nézőponthoz.",
+            "(C) megkérdőjeleznek egy korábbi konszenzust.",
+            "(D) kihívást jelentenek a korábbi adatok hitelességére."
+        ],
+        "label": "C",
+        "ind": 15
+    },
+    {
+        "passage": "Nincs",
+        "question": "Milyen kérdés megválaszolására irányult elsősorban Maguire mentális sportolókkal végzett tanulmánya?",
+        "options": [
+            "(A) A memorizálás aktusa más agyi struktúrákat használ-e, mint a navigáció aktusa?",
+            "(B) A mentális sportolók öröklik-e szokatlan agyi struktúráikat, vagy ezek a struktúrák speciális tevékenységek eredményeként alakulnak ki?",
+            "(C) A fokozott memorizálási képesség rendellenes agyi struktúrát tükröz-e, vagy a normál agyi struktúra szokatlan használatát?",
+            "(D) Mi a kapcsolat az általános kognitív képesség és a mentális sportolók szokatlan agyi struktúrái között?"
+        ],
+        "label": "C",
+        "ind": 16
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "A szöveg szerint, amikor Maguire második tanulmányában a mentális sportolókhoz hasonlították őket, a kontrollcsoport tagjai",
+        "options": [
+            "(A) összességében kevesebb agyi aktivitást mutattak.",
+            "(B) szélesebb kognitív képességtartományt mutattak.",
+            "(C) eltérő agyi aktivitási mintákat mutattak.",
+            "(D) észrevehetően kisebb hippokampális régiókkal rendelkeztek."
+        ],
+        "label": "C",
+        "ind": 17
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "A szöveg leginkább azt sugallja, hogy a mentális sportolók azért sikeresek a memorizálásban, mert",
+        "options": [
+            "(A) kihasználják az agy olyan részeit, amelyeket a rutinmemorizálás során általában nem használnak.",
+            "(B) az általuk megjegyezni próbált információkat absztrakt szimbólumokká alakítják.",
+            "(C) az információkat számértékek listájává szervezik a memorizálás előtt.",
+            "(D) rendszeresen edzik agyukat rejtvényekkel és más szellemi kihívásokkal."
+        ],
+        "label": "A",
+        "ind": 18
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Melyik választás írja le legjobban a szöveg fő témáját?",
+        "options": [
+            "(A) A materialista társadalom korrumpáló hatása",
+            "(B) A kisgyermekek erkölcsi tisztasága",
+            "(C) A gyermekkor naivitásának keserédes rövidsége",
+            "(D) A szülői szeretet helyreállító ereje"
+        ],
+        "label": "D",
+        "ind": 19
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Ahhoz képest, hogy Silas aranya milyen, Eppie úgy van ábrázolva, hogy több",
+        "options": [
+            "(A) életerővel rendelkezik.",
+            "(B) tartóssággal bír.",
+            "(C) védelmet nyújt.",
+            "(D) önellátó."
+        ],
+        "label": "A",
+        "ind": 20
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Melyik állítás írja le legjobban azt a technikát, amelyet az elbeszélő használ Silas jellemének bemutatására, mielőtt örökbe fogadta Eppie-t?",
+        "options": [
+            "(A) Az elbeszélő hangsúlyozza Silas korábbi megszállottságát a gazdagsággal, azáltal, hogy úgy ábrázolja az aranyát, mintha bizonyos viselkedéseket követelne tőle.",
+            "(B) Az elbeszélő aláhúzza Silas korábbi kapzsiságát, azáltal, hogy úgy írja le az aranyát, mintha az önmagától sokszorosodna.",
+            "(C) Az elbeszélő utal Silas korábbi antiszociális hozzáállására, azáltal, hogy szembeállítja jelenlegi viselkedését a szomszédai iránt a korábbi viselkedésével.",
+            "(D) Az elbeszélő bemutatja Silas korábbi öntudat-hiányát, azáltal, hogy azt sugallja, nem képes visszaemlékezni az életére Eppie előtt."
+        ],
+        "label": "A",
+        "ind": 21
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "A narrátor szerint, milyen következménye van annak, hogy Silas örökbe fogadta Eppie-t?",
+        "options": [
+            "(A) lemondott minden pénz utáni vágyról.",
+            "(B) jobban megérti helyét a természetben.",
+            "(C) úgy tűnik, hogy elfogadóbb mások segítségével szemben.",
+            "(D) másfajta jövőt vár."
+        ],
+        "label": "D",
+        "ind": 22
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "A narrátor Eppie és Silas kapcsolatát úgy írja le, hogy kapcsolatot teremt Eppie",
+        "options": [
+            "(A) fizikai sérülékenysége és Silas érzelmi törékenysége között.",
+            "(B) növekvő tudatossága és Silas élet iránti egyre nagyobb elkötelezettsége között.",
+            "(C) határtalan energiája és Silas kielégíthetetlen vagyonszerzési vágya között.",
+            "(D) fizikai növekedése és Silas saját halandóságának fájdalmas érzékelése között."
+        ],
+        "label": "B",
+        "ind": 23
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "A szöveg fő célja az, hogy",
+        "options": [
+            "(A) leírja, hogyan tudnak a repülőgépek osztagai üzemanyagot megtakarítani, ha V alakban repülnek.",
+            "(B) megvitatja a lefelé irányuló légáramlatok hatásait a madarakra és repülőgépekre.",
+            "(C) elmagyarázza a kutatást, amelyet annak tanulmányozására végeztek, hogy miért repülnek egyes madarak V alakban.",
+            "(D) szemléltesse, hogyan érzékelik a madarak a légáramlatokat a tollaik segítségével. A szerző idézi a \"A levegő eléggé kiszámíthatatlanná válik egy csapkodó szárny mögött\" mondatot."
+        ],
+        "label": "C",
+        "ind": 24
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Mi következtethető ésszerűen arra vonatkozóan, hogy miért használta Usherwood az északi tarvarjakat a tanulmányának alanyaként?",
+        "options": [
+            "(A) A tarvarjak jól ismerték a vándorlási útvonalukat.",
+            "(B) Usherwood tudta, hogy a tarvarjak hozzászoktak ahhoz, hogy adatgyűjtőket viseljenek vándorlás közben.",
+            "(C) A tarvarjak testfelépítése hasonló a modern repülőgépekéhez.",
+            "(D) A tarvarjak könnyen elérhetők voltak Usherwood és csapata számára a követés és megfigyelés érdekében."
+        ],
+        "label": "D",
+        "ind": 25
+    }
+]

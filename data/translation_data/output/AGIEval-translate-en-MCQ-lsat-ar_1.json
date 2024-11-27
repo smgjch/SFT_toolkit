@@ -1,0 +1,355 @@
+[
+    {
+        "passage": "Egy rakodó dokk pontosan hat, 1-től 6-ig számozott rakodóhelyből áll, amelyek egymás mellett helyezkednek el. Mindegyik rakodóhely más-más típusú árut tartalmaz: üzemanyag, gabona, élőállat, gépek, termény vagy textil. A következők vonatkoznak rájuk: A gabonát tartalmazó rakodóhely száma nagyobb, mint az élőállatot tartalmazó rakodóhely száma. Az élőállatot tartalmazó rakodóhely száma nagyobb, mint a textilt tartalmazó rakodóhely száma. A terményt tartalmazó rakodóhely száma nagyobb, mint az üzemanyagot tartalmazó rakodóhely száma. A textilt tartalmazó rakodóhely közvetlenül a terményt tartalmazó rakodóhely mellett van.",
+        "question": "Melyik a következő listák közül az, amelyik helyesen azonosítja az első három rakodóhelyen található árut, sorrendben az 1. rakodóhelytől a 3. rakodóhelyig?",
+        "options": [
+            "(A) üzemanyag, gépek, textil",
+            "(B) gabona, gépek, üzemanyag",
+            "(C) gépek, élőállat, üzemanyag",
+            "(D) gépek, textil, üzemanyag",
+            "(E) gépek, textil, termény"
+        ],
+        "label": "A",
+        "ind": 0
+    },
+    {
+        "passage": "Egy rakodó dokk pontosan hat kikötőből áll, amelyeket a dokk egyik oldalától a másikig folyamatosan 1-től 6-ig számoznak. Mindegyik kikötő különböző típusú rakományt tartalmaz, pontosan hatféle típust: üzemanyag, gabona, haszonállat, gépek, termékek vagy textíliák. Az alábbiak érvényesek: A gabonát tartalmazó kikötő magasabb számmal rendelkezik, mint a haszonállatot tartalmazó kikötő. A haszonállatot tartalmazó kikötő magasabb számmal rendelkezik, mint a textíliákat tartalmazó kikötő. A termékeket tartalmazó kikötő magasabb számmal rendelkezik, mint az üzemanyagot tartalmazó kikötő. A textíliákat tartalmazó kikötő a termékeket tartalmazó kikötő mellett van.",
+        "question": "Melyik az alábbiak közül NEM lehet a 4. kikötőben lévő rakomány típusa?",
+        "options": [
+            "(A) gabona",
+            "(B) haszonállat",
+            "(C) gépek",
+            "(D) termékek",
+            "(E) textíliák"
+        ],
+        "label": "A",
+        "ind": 1
+    },
+    {
+        "passage": "Egy rakodópart pontosan hat, 1-től 6-ig számozott dokkból áll, egymás után a rakodópart egyik oldalától a másikig. Minden dokkban egy-egy különböző típusú rakomány található a következők közül: üzemanyag, gabona, haszonállatok, gépek, termény vagy textiláru. A következő szabályok érvényesek: A gabonát tartalmazó dokk száma nagyobb, mint a haszonállatot tartalmazó dokké. A haszonállatot tartalmazó dokk száma nagyobb, mint a textilárut tartalmazó dokké. A terményt tartalmazó dokk száma nagyobb, mint az üzemanyagot tartalmazó dokké. A textilárut tartalmazó dokk közvetlenül a terményt tartalmazó dokk mellett van.",
+        "question": "Ha pontosan egy dokk van a gépeket tartalmazó dokk és a gabonát tartalmazó dokk között, akkor pontosan hány dokkban van teljesen meghatározva a rakomány típusa?",
+        "options": [
+            "(A) kettő, (B) három, (C) négy, (D) öt, (E) hat"
+        ],
+        "label": "C",
+        "ind": 2
+    },
+    {
+        "passage": "Egy rakodópart pontosan hat dokkból áll, amelyeket 1-től 6-ig számoztak egymás után a rakodópart egyik oldalától a másikig. Mindegyik dokk különböző árut tartalmaz a következő hat típusból: üzemanyag, gabona, élőállat, gépek, termény vagy textil. A következő feltételek érvényesek: A gabonát tartalmazó dokk száma magasabb, mint az élőállatot tartalmazó dokké. Az élőállatot tartalmazó dokk száma magasabb, mint a textilt tartalmazó dokké. A terményt tartalmazó dokk száma magasabb, mint az üzemanyagot tartalmazó dokké. A textilt tartalmazó dokk közvetlenül a terményt tartalmazó dokk mellett van.",
+        "question": "Melyik lehet az alábbiak közül az a dokk, amelyik élőállatot tartalmaz?",
+        "options": [
+            "(A)dokk 1",
+            "(B)dokk 2",
+            "(C)dokk 3",
+            "(D)dokk 5",
+            "(E)dokk 6"
+        ],
+        "label": "D",
+        "ind": 3
+    },
+    {
+        "passage": "Egy rakodóhely pontosan hat rakodóállásból áll, amelyeket 1-től 6-ig számoznak egymás után a rakodóhely egyik oldalától a másikig. Mindegyik rakodóállás különböző tehertípust tartalmaz, pontosan hatféle tehertípust—üzemanyag, gabona, élőállat, gépezet, termény vagy textil. A következő feltételek érvényesek: A gabonát tartalmazó rakodóállás száma nagyobb, mint az élőállatot tartalmazó rakodóállásé. Az élőállatot tartalmazó rakodóállás száma nagyobb, mint a textilt tartalmazó rakodóállásé. A terményt tartalmazó rakodóállás száma nagyobb, mint az üzemanyagot tartalmazó rakodóállásé. A textilt tartalmazó rakodóállás a terményt tartalmazó rakodóállás mellett van.",
+        "question": "Melyik állításnak kell hamisnak lennie?",
+        "options": [
+            "(A) Az üzemanyagot tartalmazó rakodóállás a gépezetet tartalmazó rakodóállás mellett van.",
+            "(B) A gabonát tartalmazó rakodóállás a gépezetet tartalmazó rakodóállás mellett van.",
+            "(C) Az élőállatot tartalmazó rakodóállás az üzemanyagot tartalmazó rakodóállás mellett van.",
+            "(D) A terményt tartalmazó rakodóállás az élőállatot tartalmazó rakodóállás mellett van.",
+            "(E) A textilt tartalmazó rakodóállás az üzemanyagot tartalmazó rakodóállás mellett van."
+        ],
+        "label": "C",
+        "ind": 4
+    },
+    {
+        "passage": "Egy rakodóállás pontosan hat rekeszből áll, amelyeket 1-től 6-ig számoztak meg egymást követően a rakodóállás egyik oldalától a másikig. Mindegyik rekesz különböző árufajtát tartalmaz, pontosan hat közül: üzemanyag, gabona, élőállat, gépek, termény vagy textíliák. A következők érvényesek: A gabonát tartalmazó rekesz magasabb számú, mint az élőállatot tartalmazó rekesz. Az élőállatot tartalmazó rekesz magasabb számú, mint a textíliákat tartalmazó rekesz. A terményt tartalmazó rekesz magasabb számú, mint az üzemanyagot tartalmazó rekesz. A textíliákat tartalmazó rekesz a terményt tartalmazó rekesz mellett van.",
+        "question": "Ha a terményt tartalmazó rekesz az élőállatot tartalmazó rekesz mellett van, akkor az alábbiak közül mindegyik igaz lehet, KIVÉVE:",
+        "options": [
+            "(A) A 2-es rekesz üzemanyagot tartalmaz.",
+            "(B) A 4-es rekesz terményt tartalmaz.",
+            "(C) A 4-es rekesz textíliákat tartalmaz.",
+            "(D) Az 5-ös rekesz gabonát tartalmaz.",
+            "(E) Az 5-ös rekesz gépeket tartalmaz."
+        ],
+        "label": "C",
+        "ind": 5
+    },
+    {
+        "passage": "Egy rakodóállomás pontosan hat dokkból áll, amelyeket 1-től 6-ig sorszámoznak egymás után a dokk egyik oldalától a másikig. Mindegyik dokk különböző típusú rakományt tartalmaz pontosan a következő hat típus közül: üzemanyag, gabona, élőállat, gépek, termény vagy textil. Az alábbiak érvényesek: A gabonát tartalmazó dokk száma magasabb, mint az élőállatot tartalmazó dokké. Az élőállatot tartalmazó dokk száma magasabb, mint a textilt tartalmazó dokké. A terményt tartalmazó dokk száma magasabb, mint az üzemanyagot tartalmazó dokké. A textilt tartalmazó dokk közvetlenül a terményt tartalmazó dokk mellett van.",
+        "question": "Ha a 4-es dokk terményt tartalmaz, akkor pontosan hány dokknál van teljesen meghatározva a tartalmazott rakomány típusa?",
+        "options": [
+            "(A)kettő, (B)három, (C)négy, (D)öt, (E)hat"
+        ],
+        "label": "C",
+        "ind": 6
+    },
+    {
+        "passage": "Egy pékség pontosan háromféle süteményt készít: zabpehely, mogyoróvaj és cukor. Minden héten (hétfőtől péntekig) pontosan három adag mindegyik fajta sütemény készül, és minden adag egy nap alatt készül el elejétől a végéig. A következő feltételek érvényesek: Ugyanazon nap nem készül két adag ugyanabból a fajta süteményből. Legalább egy adag sütemény készül hétfőn. A második adag zabpehely sütemény ugyanazon a napon készül, mint az első adag mogyoróvaj sütemény. A második adag cukor sütemény csütörtökön készül.",
+        "question": "Melyik lehet a napok teljes és pontos listája, amelyeken az egyes fajta sütemények adagjai készülnek?",
+        "options": [
+            "(A) zabpehely: hétfő, szerda, csütörtök mogyoróvaj: szerda, csütörtök, péntek cukor: hétfő, csütörtök, péntek",
+            "(B) zabpehely: hétfő, kedd, csütörtök mogyoróvaj: kedd, szerda, csütörtök cukor: hétfő, szerda, csütörtök",
+            "(C) zabpehely: kedd, szerda, csütörtök mogyoróvaj: szerda, csütörtök, péntek cukor: kedd, csütörtök, péntek",
+            "(D) zabpehely: hétfő, kedd, csütörtök mogyoróvaj: hétfő, szerda, csütörtök cukor: hétfő, csütörtök, péntek",
+            "(E) zabpehely: hétfő, csütörtök, péntek mogyoróvaj: kedd, szerda, csütörtök cukor: hétfő, csütörtök, péntek"
+        ],
+        "label": "A",
+        "ind": 7
+    },
+    {
+        "passage": "Egy pékség pontosan háromféle süteményt készít - zabpelyhes, mogyoróvajas és cukrosat. Pontosan három adag mindenféle sütemény készül hetente (hétfőtől péntekig), és minden adag egyetlen napon készül el, az elejétől a végéig. A következő feltételek érvényesek: Ugyanabból a fajta süteményből nem készül két adag ugyanazon a napon. Legalább egy adag sütemény készül hétfőn. A második adag zabpelyhes sütemény ugyanazon a napon készül, mint az első adag mogyoróvajas sütemény. A második adag cukros sütemény csütörtökön készül.",
+        "question": "Hány olyan nap van hétfőtől péntekig, amikor legfeljebb két adag sütemény készülhet azon a napon?",
+        "options": [
+            "(A) egy, (B) kettő, (C) három, (D) négy, (E) öt"
+        ],
+        "label": "A",
+        "ind": 8
+    },
+    {
+        "passage": "Egy pékség pontosan háromféle süteményt készít – zabpelyhes, mogyoróvajas és cukros. Minden héten (hétfőtől péntekig) pontosan három adag minden típusú sütemény készül, és minden adag egy napon belül készül el elejétől a végéig. A következő feltételek érvényesek: Azonos típusú süteményből nem készül két adag ugyanazon a napon. Legalább egy adag sütemény készül hétfőn. A második adag zabpelyhes sütemény ugyanazon a napon készül, mint az első adag mogyoróvajas sütemény. A második adag cukros sütemény csütörtökön készül.",
+        "question": "Ha az első adag mogyoróvajas sütemény kedden készül, akkor az alábbiak közül mind igaz lehet, KIVÉVE:",
+        "options": [
+            "(A) Két különböző típusú sütemény első adagja hétfőn készül.",
+            "(B) Két különböző típusú sütemény első adagja kedden készül.",
+            "(C) Két különböző típusú sütemény második adagja szerdán készül.",
+            "(D) Két különböző típusú sütemény második adagja csütörtökön készül.",
+            "(E) Két különböző típusú sütemény harmadik adagja pénteken készül."
+        ],
+        "label": "C",
+        "ind": 9
+    },
+    {
+        "passage": "Egy pékség pontosan háromféle süteményt készít – zabpelyhes, mogyoróvajas és cukros. Pontosan három adag mindegyik süteményből készül minden héten (hétfőtől péntekig), és minden adag egyetlen nap alatt készül el, az elejétől a végéig. A következő feltételek érvényesek: Ugyanabból a süteményfajtából nem készül két adag ugyanazon a napon. Legalább egy adag sütemény készül hétfőn. A második adag zabpelyhes sütemény ugyanazon a napon készül, mint az első adag mogyoróvajas sütemény. A második adag cukros sütemény csütörtökön készül.",
+        "question": "Ha szerdán nem készül egy adag sütemény sem, akkor melyiknek kell igaznak lennie az alábbiak közül?",
+        "options": [
+            "(A) Pontosan három adag sütemény készül kedden.",
+            "(B) Pontosan három adag sütemény készül pénteken.",
+            "(C) Legalább két adag sütemény készül hétfőn.",
+            "(D) Legalább két adag sütemény készül csütörtökön.",
+            "(E) Kevesebb adag sütemény készül hétfőn, mint kedden."
+        ],
+        "label": "D",
+        "ind": 10
+    },
+    {
+        "passage": "Egy pékség pontosan háromféle süteményt készít—zabpelyhes, mogyoróvajas és cukros. Minden héten (hétfőtől péntekig) pontosan három adag készül minden süteményfajtából, és minden adag elkészítése egyetlen nap alatt történik. Az alábbi feltételek érvényesek: Ugyanazon süteményfajtából nem készül két adag ugyanazon a napon. Legalább egy adag süteményt készítenek hétfőn. A második adag zabpelyhes sütemény ugyanazon a napon készül, mint az első adag mogyoróvajas sütemény. A második adag cukros sütemény csütörtökön készül.",
+        "question": "Ha pénteken pontosan egy adag készül, akkor az alábbiak közül melyik lehet igaz?",
+        "options": [
+            "(A) Az első adag cukros sütemény hétfőn készül.",
+            "(B) Az első adag zabpelyhes sütemény kedden készül.",
+            "(C) A harmadik adag zabpelyhes sütemény pénteken készül.",
+            "(D) Az első adag mogyoróvajas sütemény szerdán készül.",
+            "(E) A második adag mogyoróvajas sütemény kedden készül."
+        ],
+        "label": "A",
+        "ind": 11
+    },
+    {
+        "passage": "Egy pékség pontosan háromféle süteményt készít - zabpelyhes, mogyoróvajas és cukros. Minden héten (hétfőtől péntekig) pontosan három adagot készítenek mindenféle süteményből, és minden adagot egy nap alatt készítenek el az elejétől a végéig. A következő feltételek érvényesek: Ugyanabból a fajta süteményből két adag nem készülhet ugyanazon a napon. Legalább egy adag sütemény készül hétfőn. A második adag zabpelyhes sütemény ugyanazon a napon készül, mint az első adag mogyoróvajas sütemény. A második adag cukros sütemény csütörtökön készül.",
+        "question": "Ha az egyik fajta sütemény első adagja ugyanazon a napon készül, mint egy másik fajta sütemény harmadik adagja, akkor a következők közül melyik lehet hamis?",
+        "options": [
+            "(A) Legalább egy adag sütemény készül a hét mind az öt napján.",
+            "(B) Legalább két adag sütemény készül szerdán.",
+            "(C) Pontosan egy adag sütemény készül hétfőn.",
+            "(D) Pontosan két adag sütemény készül kedden.",
+            "(E) Pontosan egy adag sütemény készül pénteken."
+        ],
+        "label": "E",
+        "ind": 12
+    },
+    {
+        "passage": "Az iskolai újság számára öt diák – Jiang, Kramer, Lopez, Megregian és O'Neill – egy vagy több darabot értékel a következő három közül: Naplemente, Tamerlán és Hullámzás, de nem értékelnek más darabokat. A következő feltételeknek kell megfelelniük: Kramer és Lopez kevesebb darabot értékel, mint Megregian. Sem Lopez, sem Megregian nem értékel olyan darabot, amelyet Jiang értékel. Kramer és O'Neill mindketten értékelik a Tamerlánt. Pontosan két diák értékel pontosan ugyanazt a darabot vagy darabokat, mint a másik.",
+        "question": "Melyik lehet a következő közül egy pontos és teljes lista azokról a diákokról, akik csak a Naplementét értékelik?",
+        "options": [
+            "(A) Lopez",
+            "(B) O'Neill",
+            "(C) Jiang, Lopez",
+            "(D) Kramer, O'Neill",
+            "(E) Lopez, Megregian"
+        ],
+        "label": "A",
+        "ind": 13
+    },
+    {
+        "passage": "Az iskolai újsághoz öt diák – Jiang, Kramer, Lopez, Megregian és O'Neill – mindegyike pontosan három darabból – Sunset, Tamerlane és Undulation – egyet vagy többet értékel, de más darabokat nem értékelnek. A következő feltételeknek kell megfelelniük: Kramer és Lopez mindegyike kevesebb darabot értékel, mint Megregian. Sem Lopez, sem Megregian nem értékel olyan darabot, amelyet Jiang értékel. Kramer és O'Neill mindketten a Tamerlane-t értékelik. Pontosan két diák értékel pontosan ugyanazt a darabot vagy darabokat, mint a másik.",
+        "question": "Melyik állításnak kell igaznak lennie az alábbiak közül?",
+        "options": [
+            "(A) Jiang több darabot értékel, mint Lopez.",
+            "(B) Megregian több darabot értékel, mint Jiang.",
+            "(C) Megregian több darabot értékel, mint O'Neill.",
+            "(D) O'Neill több darabot értékel, mint Jiang.",
+            "(E) O'Neill több darabot értékel, mint Kramer."
+        ],
+        "label": "B",
+        "ind": 14
+    },
+    {
+        "passage": "Az iskolai újság számára öt diák – Jiang, Kramer, Lopez, Megregian és O'Neill – egy vagy több darabot is megnéz a három közül: Sunset, Tamerlane és Undulation, de más darabokat nem. A következő feltételeknek kell megfelelniük: Kramer és Lopez kevesebb darabot néz meg, mint Megregian. Sem Lopez, sem Megregian nem néz meg olyan darabot, amit Jiang megnéz. Kramer és O'Neill mindketten megnézik a Tamerlane-t. Pontosan két diák nézi meg pontosan ugyanazokat a darabokat, mint egymás.",
+        "question": "Ha pontosan három diák nézi meg az Undulation-t, akkor melyik lehet igaz a következők közül?",
+        "options": [
+            "(A) Megregian nem nézi meg az Undulation-t.",
+            "(B) O'Neill nem nézi meg az Undulation-t.",
+            "(C) Jiang nézi meg az Undulation-t.",
+            "(D) Lopez nézi meg a Tamerlane-t.",
+            "(E) O'Neill nézi meg a Sunset-t."
+        ],
+        "label": "E",
+        "ind": 15
+    },
+    {
+        "passage": "Az iskolai újság számára öt diák – Jiang, Kramer, Lopez, Megregian és O'Neill – mindegyike egy vagy több, pontosan három darabot tekint át: Naplemente, Tamerlán és Hullámzás, de nem tekintenek át más darabokat. A következő feltételeknek kell megfelelni: Kramer és Lopez kevesebb darabot tekintenek át, mint Megregian. Sem Lopez, sem Megregian nem tekinti át azokat a darabokat, amelyeket Jiang áttekint. Kramer és O'Neill mindketten a Tamerlánt tekintik át. Pontosan két diák tekinti át pontosan ugyanazt a darabot vagy darabokat.",
+        "question": "Melyik lehet a következő lehet egy pontos és teljes lista azoknak a diákoknak, akik a Tamerlánt tekintik át?",
+        "options": [
+            "(A) Jiang, Kramer",
+            "(B) Kramer, O'Neill",
+            "(C) Kramer, Lopez, O'Neill",
+            "(D) Kramer, Megregian, O'Neill",
+            "(E) Lopez, Megregian, O'Neill"
+        ],
+        "label": "D",
+        "ind": 16
+    },
+    {
+        "passage": "Az iskolai újság számára öt diák – Jiang, Kramer, Lopez, Megregian és O'Neill – mindegyike pontosan három darab közül egyet vagy többet értékel: Naplemente, Tamerlan és Hullámzás, de más darabokat nem értékelnek. A következő feltételeknek kell megfelelniük: Kramer és Lopez mindegyike kevesebb darabot értékel, mint Megregian. Sem Lopez, sem Megregian nem értékel olyan darabot, amelyet Jiang értékel. Kramer és O'Neill mindketten értékelik a Tamerlant. Pontosan két diák értékel pontosan ugyanazokat a darabokat, mint egymást.",
+        "question": "Ha Jiang nem értékeli a Tamerlant, akkor melyik állításnak kell igaznak lennie az alábbiak közül?",
+        "options": [
+            "(A) Jiang értékeli a Naplementét.",
+            "(B) Lopez értékeli a Hullámzást.",
+            "(C) Megregian értékeli a Naplementét.",
+            "(D) Megregian értékeli a Tamerlant.",
+            "(E) O'Neill értékeli a Hullámzást."
+        ],
+        "label": "D",
+        "ind": 17
+    },
+    {
+        "passage": "Egy adminisztrátornak parkolóhelyeket kell kiosztania hat új alkalmazottnak: Robertson, Souza, Togowa, Vaughn, Xu és Young. Mind a hat alkalmazottnak a következő parkolóhelyek egyikét kell kiosztani: #1, #2, #3, #4, #5 vagy #6. Két alkalmazott nem kaphatja ugyanazt a parkolóhelyet. A parkolóhelyek kiosztását a következő szabályok irányítják: Youngnak magasabb számú parkolóhelyet kell kapnia, mint Togowának. Xunak magasabb számú parkolóhelyet kell kapnia, mint Souzának. Robertsonnak magasabb számú parkolóhelyet kell kapnia, mint Young. Robertsonnak az #1, #2, #3 vagy #4 parkolóhelyet kell kapnia.",
+        "question": "Melyik lehet a parkolóhelyek kiosztása az új alkalmazottak számára az alábbiak közül?",
+        "options": [
+            "(A)#1: Young; #2: Souza; #3: Vaughn; #4: Robertson; #5: Togowa; #6: Xu",
+            "(B)#1: Vaughn; #2: Togowa; #3: Young; #4: Souza; #5: Robertson; #6: Xu",
+            "(C)#1: Togowa; #2: Young; #3: Xu; #4: Robertson; #5: Souza; #6: Vaughn",
+            "(D)#1: Togowa; #2: Robertson; #3: Young; #4: Souza; #5: Vaughn; #6: Xu",
+            "(E)#1: Souza; #2: Togowa; #3: Young; #4: Robertson; #5: Xu; #6: Vaughn"
+        ],
+        "label": "E",
+        "ind": 18
+    },
+    {
+        "passage": "Egy adminisztrátornak hat új alkalmazottnak kell parkolóhelyet kiosztania: Robertson, Souza, Togowa, Vaughn, Xu és Young. Mind a hat alkalmazottnak egyet kell kapnia a következő parkolóhelyek közül: #1, #2, #3, #4, #5, vagy #6. Két alkalmazott nem kaphatja ugyanazt a parkolóhelyet. A parkolóhelyek kiosztását a következő szabályok irányítják: Youngnak magasabb számú parkolóhelyet kell kapnia, mint Togowának. Xunak magasabb számú parkolóhelyet kell kapnia, mint Souzának. Robertsonnak magasabb számú parkolóhelyet kell kapnia, mint Young. Robertsonnak a #1, #2, #3 vagy #4 parkolóhelyet kell kapnia.",
+        "question": "Ha Togowa magasabb számú parkolóhelyet kap, mint Souza, akkor melyik lehet igaz az alábbiak közül?",
+        "options": [
+            "(A) Young a #2 parkolóhelyet kapja.",
+            "(B) Vaughn a #5 parkolóhelyet kapja.",
+            "(C) Togowa a #3 parkolóhelyet kapja.",
+            "(D) Souza a #2 parkolóhelyet kapja.",
+            "(E) Robertson a #3 parkolóhelyet kapja."
+        ],
+        "label": "B",
+        "ind": 19
+    },
+    {
+        "passage": "Egy adminisztrátornak parkolóhelyeket kell kiosztania hat új alkalmazottnak: Robertsonnak, Souzának, Togowának, Vaughnnak, Xunak és Youngnak. Mind a hat alkalmazottnak a következő parkolóhelyek egyikét kell kiosztani: #1, #2, #3, #4, #5 vagy #6. Két alkalmazott nem kaphatja ugyanazt a parkolóhelyet. A parkolóhelyek kiosztását a következő szabályok irányítják: Youngnak magasabb számú parkolóhelyet kell kapnia, mint Togowának. Xunak magasabb számú parkolóhelyet kell kapnia, mint Souzának. Robertsonnak magasabb számú parkolóhelyet kell kapnia, mint Youngnak. Robertsonnak a #1, #2, #3 vagy #4 parkolóhelyet kell kapnia.",
+        "question": "A parkolóhelyek kiosztása az új alkalmazottak mindegyikének teljesen és egyedileg meghatározott, ha a következők közül melyik igaz?",
+        "options": [
+            "(A) Souza a #1 parkolóhelyet kapja.",
+            "(B) Young a #2 parkolóhelyet kapja.",
+            "(C) Vaughn a #3 parkolóhelyet kapja.",
+            "(D) Robertson a #4 parkolóhelyet kapja.",
+            "(E) Xu a #5 parkolóhelyet kapja."
+        ],
+        "label": "C",
+        "ind": 20
+    },
+    {
+        "passage": "Egy adminisztrátornak parkolóhelyeket kell kiosztania hat új alkalmazottnak: Robertson, Souza, Togowa, Vaughn, Xu és Young. Mind a hat alkalmazottnak az alábbi parkolóhelyek egyikét kell kiosztani: #1, #2, #3, #4, #5 vagy #6. Két alkalmazott nem kaphatja ugyanazt a parkolóhelyet. A parkolóhelyek kiosztását a következő szabályok határozzák meg: Youngnak magasabb számmal jelölt parkolóhelyet kell kapnia, mint Togowának. Xunak magasabb számmal jelölt parkolóhelyet kell kapnia, mint Souzának. Robertsonnak magasabb számmal jelölt parkolóhelyet kell kapnia, mint Youngnak. Robertson csak a #1, #2, #3 vagy #4 parkolóhelyet kaphatja.",
+        "question": "A hat új alkalmazott közül hány esetében korlátozódik a parkolóhely kijelölése csak két lehetséges helyre?",
+        "options": [
+            "['(A) egyik sem', '(B) kettő', '(C) három', '(D) négy', '(E) öt']"
+        ],
+        "label": "D",
+        "ind": 21
+    },
+    {
+        "passage": "Egy adminisztrátornak parkolóhelyeket kell kiosztania hat új alkalmazottnak: Robertson, Souza, Togowa, Vaughn, Xu és Young. Mind a hat alkalmazottnak egyet kell kapnia a következő parkolóhelyek közül: #1, #2, #3, #4, #5 vagy #6. Két alkalmazott nem kaphatja ugyanazt a parkolóhelyet. A parkolóhelyek kiosztását a következő szabályok irányítják: Youngnak magasabb számú parkolóhelyet kell kapnia, mint Togowa. Xunak magasabb számú parkolóhelyet kell kapnia, mint Souzának. Robertsonnak magasabb számú parkolóhelyet kell kapnia, mint Youngnak. Robertsonnak az #1, #2, #3 vagy #4 parkolóhelyet kell kapnia.",
+        "question": "Ha Young magasabb számú parkolóhelyet kap, mint Souza, akkor az alábbiak közül melyik lehet igaz?",
+        "options": [
+            "(A) Togowa a #1 parkolóhelyet kapja.",
+            "(B) Young a #2 parkolóhelyet kapja.",
+            "(C) Robertson a #3 parkolóhelyet kapja.",
+            "(D) Souza a #3 parkolóhelyet kapja.",
+            "(E) Vaughn a #4 parkolóhelyet kapja."
+        ],
+        "label": "A",
+        "ind": 22
+    },
+    {
+        "passage": "Egy adminisztrátornak parkolóhelyeket kell kiosztania hat új alkalmazottnak: Robertson, Souza, Togowa, Vaughn, Xu és Young. Mind a hat alkalmazottnak az alábbi parkolóhelyek egyikét kell kiosztani: #1, #2, #3, #4, #5 vagy #6. Két alkalmazott nem kaphatja ugyanazt a parkolóhelyet. A parkolóhelyek kiosztását a következő szabályok irányítják: Youngnak magasabb számú parkolóhelyet kell kapnia, mint Togowának. Xunak magasabb számú parkolóhelyet kell kapnia, mint Souzának. Robertsonnak magasabb számú parkolóhelyet kell kapnia, mint Young. Robertsonnak a #1, #2, #3 vagy #4 parkolóhelyek egyikét kell kapnia.",
+        "question": "Ha Robertson a #3 parkolóhelyet kapja, akkor melyik állításnak kell igaznak lennie az alábbiak közül?",
+        "options": [
+            "(A) Souza a #4 parkolóhelyet kapja.",
+            "(B) Togowa a #2 parkolóhelyet kapja.",
+            "(C) Vaughn az #5 parkolóhelyet kapja.",
+            "(D) Xu a #6 parkolóhelyet kapja.",
+            "(E) Young a #2 parkolóhelyet kapja."
+        ],
+        "label": "E",
+        "ind": 23
+    },
+    {
+        "passage": "Egy kormánynak új nagyköveteket kell kineveznie Venezuelába, Jemenbe és Zambiába. A nagyköveti tisztségekre Jaramillo, Kayne, Landon, Novetzke és Ong a jelöltek. Egy nagykövetet rendelnek minden országba, és egy nagykövet sem kerül több országba. A nagykövetek kijelölésekor a következő feltételeket kell betartani: Vagy Kayne, vagy Novetzke, de nem mindkettő, kerül kiválasztásra egy nagyköveti tisztségre. Ha Jaramillo nagyköveti tisztséget kap, akkor Kayne is. Ha Ong Venezuelában lesz nagykövet, Kayne nem lesz nagykövet Jemenben. Ha Landon nagyköveti tisztséget kap, akkor az Zambiába szól.",
+        "question": "Melyik lehet a nagykövetek kiosztása az alábbiak közül?",
+        "options": [
+            "(A)Venezuela: Jaramillo Jemen: Ong Zambia: Novetzke  ",
+            "(B)Venezuela: Kayne Jemen: Jaramillo Zambia: Landon  ",
+            "(C)Venezuela: Landon Jemen: Novetzke Zambia: Ong  ",
+            "(D)Venezuela: Novetzke Jemen: Jaramillo Zambia: Kayne  ",
+            "(E)Venezuela: Ong Jemen: Kayne Zambia: Landon"
+        ],
+        "label": "B",
+        "ind": 24
+    },
+    {
+        "passage": "Egy kormánynak új nagyköveteket kell kineveznie Venezuelába, Jemenbe és Zambiába. A nagyköveti pozíciókra Jaramillo, Kayne, Landon, Novetzke és Ong pályázik. Minden országba egy nagykövetet neveznek ki, és egy nagykövetet sem neveznek ki több országba. A nagykövetek kinevezése az alábbi feltételeknek kell, hogy megfeleljen: Vagy Kayne vagy Novetzke, de nem mindkettő, kap egy nagyköveti pozíciót. Ha Jaramillo kap egy nagyköveti pozíciót, akkor Kayne is. Ha Ong Venezuelába kap kinevezést nagykövetként, akkor Kayne nem kap kinevezést nagykövetként Jemenbe. Ha Landont nagyköveti pozícióra nevezik ki, akkor az Zambiába szól.",
+        "question": "Az a két pályázó, akik nem kapnak nagyköveti kinevezést, lehetnek",
+        "options": [
+            "(A) Jaramillo és Novetzke, (B) Jaramillo és Ong, (C) Kayne és Landon, (D) Kayne és Novetzke, (E) Landon és Ong"
+        ],
+        "label": "A",
+        "ind": 25
+    },
+    {
+        "passage": "Egy kormánynak új nagyköveteket kell kineveznie Venezuelába, Jemenbe és Zambiába. A nagyköveti posztokra jelöltek Jaramillo, Kayne, Landon, Novetzke és Ong. Minden országba egy nagykövetet neveznek ki, és egy nagykövet sem lesz több országba kinevezve. A nagykövetek kinevezése a következő korlátozásoknak kell, hogy megfeleljen: Kayne vagy Novetzke, de nem mindkettő, az egyik nagyköveti posztra kerül. Ha Jaramillo az egyik nagyköveti posztra kerül, akkor Kayne is. Ha Ong Venezuelába kerül nagykövetként, akkor Kayne nem kerülhet nagykövetként Jemenbe. Ha Landon nagyköveti pozíciót kap, akkor az Zambiába szól.",
+        "question": "Ha Ong Venezuelába kerül nagykövetként, akkor a másik két nagykövet lehet",
+        "options": [
+            "['(A)Jaramillo és Landon', '(B)Jaramillo és Novetzke', '(C)Kayne és Landon', '(D)Kayne és Novetzke', '(E)Landon és Novetzke']"
+        ],
+        "label": "E",
+        "ind": 26
+    },
+    {
+        "passage": "Egy kormánynak új nagyköveteket kell kineveznie Venezuelába, Jemenbe és Zambiába. A nagyköveti posztokra jelöltek Jaramillo, Kayne, Landon, Novetzke és Ong. Minden országba egy nagykövetet neveznek ki, és egy nagykövet sem nevezhető ki több mint egy országba. A nagykövetek kinevezése a következő feltételeknek kell, hogy megfeleljen: Kayne-t vagy Novetzke-t, de nem mindkettőt, ki kell nevezni az egyik nagyköveti posztra. Ha Jaramillo-t kinevezik az egyik nagyköveti posztra, akkor Kayne-t is ki kell nevezni. Ha Ong-ot kinevezik venezuelai nagykövetnek, Kayne-t nem nevezik ki jemeni nagykövetnek. Ha Landon-t kinevezik egy nagyköveti posztra, akkor az Zambiába lesz.",
+        "question": "Ha Kayne-t jemeni nagykövetnek nevezik ki, melyik állításnak kell igaznak lennie?",
+        "options": [
+            "(A) Jaramillo-t kinevezik venezuelai nagykövetnek.",
+            "(B) Landon-t kinevezik zambiai nagykövetnek.",
+            "(C) Ong-ot kinevezik zambiai nagykövetnek.",
+            "(D) Jaramillo-t nem nevezik ki nagyköveti posztra.",
+            "(E) Ong-ot nem nevezik ki nagyköveti posztra."
+        ],
+        "label": "A",
+        "ind": 27
+    },
+    {
+        "passage": "Egy kormánynak új nagyköveteket kell kineveznie Venezuelába, Jemenbe és Zambiába. A nagyköveti posztokra Jaramillo, Kayne, Landon, Novetzke és Ong a jelöltek. Minden országba egy nagykövetet neveznek ki, és egy nagykövet sem nevezhető ki több mint egy országba. A nagykövetek kinevezésének meg kell felelnie a következő feltételeknek: Vagy Kayne vagy Novetzke, de nem mindkettő, kerül kinevezésre az egyik nagyköveti posztra. Ha Jaramillo kinevezésre kerül az egyik nagyköveti posztra, akkor Kayne is kinevezésre kerül. Ha Ongot Venezuelába nevezik ki nagykövetnek, akkor Kayne nem kerül kinevezésre Jemenbe nagykövetnek. Ha Landon nagyköveti posztra kerül kinevezésre, akkor Zambiába kerül.",
+        "question": "Melyik az alábbiak közül NEM lehet igaz?",
+        "options": [
+            "(A) Jaramillo Zambiába kerül kinevezésre nagykövetnek.",
+            "(B) Kayne Zambiába kerül kinevezésre nagykövetnek.",
+            "(C) Novetzke Zambiába kerül kinevezésre nagykövetnek.",
+            "(D) Landon nem kerül kinevezésre nagyköveti posztra.",
+            "(E) Ong nem kerül kinevezésre nagyköveti posztra."
+        ],
+        "label": "C",
+        "ind": 28
+    }
+]

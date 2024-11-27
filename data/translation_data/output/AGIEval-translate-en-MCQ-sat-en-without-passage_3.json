@@ -1,0 +1,308 @@
+[
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Mit sugall a szerző a pelikánok, gólyák és libák V alakú repüléséről?",
+        "options": [
+            "(A) Ugyanúgy kommunikálnak egymással, mint az íbiszek.",
+            "(B) Ugyanazok a vándorlási útvonalaik, mint az íbiszeknek.",
+            "(C) Hasonló örvényt hoznak létre, mint az íbiszek.",
+            "(D) Több energiát használnak fel, mint az íbiszek."
+        ],
+        "label": "C",
+        "ind": 0
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Az 1. szakaszban Tocqueville azt sugallja, hogy a férfiak és nők természetükben azonosként való kezelése milyen következménnyel járna?",
+        "options": [
+            "['(A) Egyik nem sem érezné magát elnyomottnak.', '(B) Mindkét nem nagy mértékben károsodna.', '(C) A férfiak megpróbálnák visszaszerezni elvesztett tekintélyüket.', '(D) A férfiak és nők olyan kiváltságokkal rendelkeznének, amelyekre nincs szükségük.']"
+        ],
+        "label": "B",
+        "ind": 1
+    },
+    {
+        "passage": "Nincs háttérinformáció",
+        "question": "A 2. szövegben Mill leginkább azt sugallja, hogy a nemi szerepek azért ellenállnak a változásnak, mert",
+        "options": [
+            "(A) már régóta a társadalom formális szerveződésének alapját képezik.",
+            "(B) mélyen beágyazott hagyomány kérdései.",
+            "(C) csak közvetetten befolyásolhatók törvényhozási reformok által.",
+            "(D) a jelenleg hatalmon lévő csoportoknak és intézményeknek kedveznek."
+        ],
+        "label": "B",
+        "ind": 2
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Mindkét szerző valószínűleg egyetértene abban, hogy az általuk leírt nemi szerepek változásai",
+        "options": [
+            "(A) egy szélesebb társadalmi átalakulás részét képezik a nagyobb egyenlőség felé.",
+            "(B) valószínűtlenül nyújtanak olyan előnyöket, amelyek meghaladják azok költségeit.",
+            "(C) elkerülhetetlenek a nemek közötti egyenlőség gazdasági előnyei miatt.",
+            "(D) ellentétben állnak az amerikai demokrácia elveivel."
+        ],
+        "label": "A",
+        "ind": 3
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Melyik választás írja le legjobban, hogy a két szerző miként képzeli el az egyén megfelelő helyzetét a társadalomban?",
+        "options": [
+            "(A) Tocqueville úgy véli, hogy az egyén helyzetét fontos szempontok szerint az egyén neme határozza meg, míg Mill szerint az egyén képességei kellene, hogy a meghatározó tényezők legyenek.",
+            "(B) Tocqueville úgy véli, hogy az egyén gazdasági osztálya kellene, hogy meghatározza az egyén helyzetét, míg Mill szerint az osztály nem legitim szempont.",
+            "(C) Tocqueville úgy véli, hogy az egyén temperamentuma kellene, hogy meghatározza az egyén helyzetét, míg Mill szerint a temperamentum nem kellene, hogy tényező legyen az egyén helyzetében.",
+            "(D) Tocqueville úgy véli, hogy az egyén helyzetét az kellene meghatározza, ami a társadalom számára a legelőnyösebb, míg Mill szerint azt kellene meghatározza, amit az egyén a leginkább kielégítőnek talál."
+        ],
+        "label": "A",
+        "ind": 4
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "A szöveg folyamán a fő fókusz eltolódik egy",
+        "options": [
+            "(A) általános beszélgetésről az elbeszélő olvasás iránti szeretetéről egy befolyásos esemény ábrázolására.",
+            "(B) az elbeszélő apjának ábrázolásáról egy szerző vizsgálatára, aki az elbeszélőt elbűvöli.",
+            "(C) az elbeszélő birtokában lévő képesség szimbolikus ábrázolásáról annak alkalmazásának példájára.",
+            "(D) az elbeszélő gyermekkori nehézségeiről szóló történetről ezen nehézségek hatásainak elemzésére."
+        ],
+        "label": "A",
+        "ind": 5
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "A szövegből ésszerűen kikövetkeztethető, hogy az elbeszélő szerint a Nagy remények a legjobb ajándék, amit valaha kapott, mert",
+        "options": [
+            "(A) a könyv elolvasása meggyőzte őt arról, hogy író szeretne lenni.",
+            "(B) korábban csak édességeket és nassolnivalókat kapott ajándékba.",
+            "(C) az ajándék azt jelentette, hogy Sempere nagyra becsülte őt.",
+            "(D) Sempere a könyv szerzőjének barátja volt."
+        ],
+        "label": "A",
+        "ind": 6
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "A narrátor jelzi, hogy mennyit fizet Sempere-nek",
+        "options": [
+            "(A) kevesebbet, mint amennyire Sempere számít a könyvekért.",
+            "(B) semmit, mert Sempere nem fogadja el a pénzét.",
+            "(C) azt a pénzt, amit édességek eladásával keres a többi gyereknek.",
+            "(D) sokkal kevesebbet a könyvekért, mint amennyit érnek."
+        ],
+        "label": "D",
+        "ind": 7
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Melyik állítás jellemzi legjobban Sempere és Charles Dickens kapcsolatát?",
+        "options": [
+            "(A) Sempere a saját írásait Dickens stílusa után mintázza.",
+            "(B) Sempere lelkes csodálója Dickens munkásságának.",
+            "(C) Sempere személyes kapcsolatot érez Dickens életrajzának részleteivel.",
+            "(D) Sempere Dickens legnagyobb elismerő olvasójának tartja magát."
+        ],
+        "label": "B",
+        "ind": 8
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "80 Texas annektálásával; ugyanígy a mexikói háború során szerzett területtel; és ugyanez a helyzet most is. Amikor csak megpróbálták terjeszteni, felháborodás és ellenállás támadt.... Gondolja, hogy az emberi természet megváltozik, hogy ugyanazok az okok, amelyek egy időben felháborodást okoztak, máskor nem ugyanazt a hatást váltják ki? Az 1. szakasz első bekezdésében Douglas terület- és népességnövekedésről szóló értekezésének fő célja az, hogy",
+        "options": [
+            "(A) kontextust adjon Douglas folyamatos terjeszkedés melletti védelméhez.",
+            "(B) azt sugallja, hogy a szabad és rabszolga államokra való felosztás nem veszélyezteti az Uniót.",
+            "(C) utaljon arra, hogy Lincoln nincs tisztában az ország alapvető tényeivel.",
+            "(D) magyarázatot adjon az Egyesült Államok hatalmas és csodálatos képére."
+        ],
+        "label": "B",
+        "ind": 9
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Mit sugall az 1. szöveg az Egyesült Államok kormányának rabszolgaság intézményére vonatkozó rendelkezéseiről, ahogyan azt az Alkotmány keretezi?",
+        "options": [
+            "(A) Nem tartalmaztak eszközöket a szabad államok és a rabszolgatartó államok közötti különbségek összehangolására.",
+            "(B) Számoltak az Unió nyugati területekre való terjeszkedésével.",
+            "(C) Jó alapstruktúrát biztosítottak, amelyet nem kell megváltoztatni.",
+            "(D) Arra az alapfeltevésre épültek, hogy a rabszolgaság szükséges a gazdasági növekedéshez."
+        ],
+        "label": "C",
+        "ind": 10
+    },
+    {
+        "passage": "None",
+        "question": "Passzus 2 alapján Lincoln valószínűleg melyik állítással értene egyet a rabszolgaság körüli vitáról?",
+        "options": [
+            "(A) Csak akkor szüntethető meg, ha az északi államok egyoldalúan cselekszenek a rabszolgaság egész Egyesült Államokbeli eltörlése érdekében.",
+            "(B) Csillapodna, ha felhagynának azzal, hogy a rabszolgaságot olyan régiókba vezessék be, ahol azt nem gyakorolják.",
+            "(C) Azok a törvények, amelyek a rabszolgák tartását szabályozzák, kétértelműsége miatt súlyosbítják.",
+            "(D) Részben az államok közötti vallási és társadalmi értékkülönbségek táplálják."
+        ],
+        "label": "B",
+        "ind": 11
+    },
+    {
+        "passage": "Nincs háttérinformáció",
+        "question": "Melyik választás azonosítja a központi feszültséget a két szöveg között?",
+        "options": [
+            "(A) Douglas változtatásokat javasol a szövetségi rabszolgaság-politikában, de Lincoln azt állítja, hogy ezek a változtatások nem élveznének népszerű támogatást.",
+            "(B) Douglas aggályait fejezi ki a rabszolgaság eltörlésének gazdasági hatásaival kapcsolatban, de Lincoln ezeket az aggályokat irrelevánsnak tartja.",
+            "(C) Douglas bírálja Lincolnt, amiért hibát talál az Alkotmányban, és Lincoln azt állítja, hogy ez a kritika félreértelmezi az ő álláspontját.",
+            "(D) Douglas olyan értelmezést kínál a szövetségi törvényről, amely ellentmond Lincolnéval, és Lincoln azt sugallja, hogy Douglas értelmezése rosszul átgondolt."
+        ],
+        "label": "C",
+        "ind": 12
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Mindkét szöveg azzal a kérdéssel foglalkozik, hogy a rabszolgaság hogyan viszonyul",
+        "options": [
+            "['(A)az Unió terjeszkedéséhez.', '(B)az erkölcsi kérdésekhez.', '(C)a vallási toleranciához.', '(D)az árukereskedelmet szabályozó törvényekhez.']"
+        ],
+        "label": "A",
+        "ind": 13
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "A szöveg elsődleges célja az, hogy",
+        "options": [
+            "(A) megvitassa azokat a megállapításokat, amelyek tudományos magyarázatot adnak a Vénusz légycsapója záródási mechanizmusára.",
+            "(B) bemutassa azokat a kutatásokat, amelyek azt sugallják, hogy a Vénusz légycsapója ragadozó viselkedése mind összetett, mind pedig egyedülálló a növények körében.",
+            "(C) azonosítsa azt a folyamatot, amely során a Vénusz légycsapója záródási mechanizmusa kifejlődött.",
+            "(D) rövid áttekintést nyújtson a Vénusz légycsapójáról és annak ragadozó viselkedéséről."
+        ],
+        "label": "A",
+        "ind": 14
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "A szöveg alapján a Vénusz légycsapója több kiváltó tényezőjének követelménye jelentős előnye, hogy",
+        "options": [
+            "(A) lehetővé teszi a növény számára, hogy azonosítsa zsákmánya faját.",
+            "(B) megőrzi a növény kalcium tartalékait.",
+            "(C) védi a növény energiatartalékait.",
+            "(D) megakadályozza, hogy a növény bezáródjon zsákmánya elfogása előtt."
+        ],
+        "label": "C",
+        "ind": 15
+    },
+    {
+        "passage": "Nincs háttér-információ.",
+        "question": "A szöveg alapján melyik állítás magyarázza legjobban, miért van szüksége a vénusz légycsapónak arra, hogy egy rövid időn belül egy második érzékszőr is megérintse, hogy a csapója bezáruljon?",
+        "options": [
+            "(A) A második érzékszőr egy elektromos töltést hoz létre, amely megfordítja az első érzékszőr által létrehozott töltést.",
+            "(B) A második érzékszőr stabilizálja az első érzékszőr által létrehozott kalciumion-rohamot.",
+            "(C) A második érzékszőr serkenti a kalciumcsatornák megnyílását.",
+            "(D) A második érzékszőr szükséges kiegészítést biztosít az első érzékszőr által felszabadított kalciumkoncentrációhoz."
+        ],
+        "label": "D",
+        "ind": 16
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Melyik választás ír le egy olyan forgatókönyvet, amelyben Hodick és Sievers modellje azt jósolja, hogy a Vénusz légycsapója nem záródik be egy rovar körül?",
+        "options": [
+            "(A) Egy nagy rovar második érintkezése a növény érzékelő szőreivel a kalciumionok összkoncentrációját a csapda küszöbértéke fölé emeli.",
+            "(B) Egy nagy rovar egy második érzékelő szőrt érint, miután egy inaktív periódusban a kalciumionok koncentrációja jelentősen lecsökkent.",
+            "(C) Egy nagy rovar érintkezése a növény érzékelő szőreivel kalciumcsatornák megnyílását okozza a csapdában.",
+            "(D) Egy nagy rovar második érzékelő szőrhöz való érintkezése tíz másodpercen belül történik az első érzékelő szőr érintését követően."
+        ],
+        "label": "B",
+        "ind": 17
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "A szöveg alapján milyen lehetséges kritikát lehetne megfogalmazni Volkov Hodick és Sievers modelljének tesztelésével kapcsolatban?",
+        "options": [
+            "(A) Volkov értelmezése Hodick és Sievers modelljéről helytelen volt.",
+            "(B) Volkov mérései nem támasztották alá Hodick és Sievers modelljének egy központi elemét.",
+            "(C) Volkov közvetlen elektromos áram alkalmazása ellenszenves lett volna Hodick és Sievers számára.",
+            "(D) Volkov technológiája nem állt rendelkezésre Hodick és Sievers számára."
+        ],
+        "label": "B",
+        "ind": 18
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "A szöveg alapján Volkov és kollégái a legkiterjedtebb mértékben melyik bizonyítéktípust használták a Vénusz légycsapója tanulmányozása során?",
+        "options": [
+            "(A) Matematikai modellek, amelyek előrejelzik az elektromos töltést, amely szükséges a Vénusz légycsapója bezárásához",
+            "(B) Azoknak az adatoknak az elemzése, amelyeket korábbi kutatók gyűjtöttek a Vénusz légycsapója elektromosságra adott válaszával kapcsolatban",
+            "(C) Azon információk, amelyeket a Vénusz légycsapója különböző mennyiségű elektromos áramra adott válaszának megfigyeléséből nyertek",
+            "(D) Olyan tudósok által publikált elméletek, akik korábbi modelleket fejlesztettek ki a Vénusz légycsapójáról"
+        ],
+        "label": "C",
+        "ind": 19
+    },
+    {
+        "passage": "Nincs háttérinformáció",
+        "question": "Melyik választás foglalja össze legjobban a szöveget?",
+        "options": [
+            "(A) Egy karakter érkezése a családja tintaboltjába kedves emlékeket idéz fel kedvenc nagynénjéről.  ",
+            "(B) Egy karakter váratlan látogatása boldog újraegyesüléshez vezet családja tintaboltjában.  ",
+            "(C) Egy karakter megérti apja ambícióit, miközben meglátogatja családja tintaboltját.  ",
+            "(D) Egy karakter látogatása családja tintaboltjában elmélyíti a család munkája iránti megbecsülését."
+        ],
+        "label": "D",
+        "ind": 20
+    },
+    {
+        "passage": "None",
+        "question": "A szöveg fő témája az, hogy",
+        "options": [
+            "(A) a családi kapcsolatokat ápolni kell.",
+            "(B) a minőség szándékos erőfeszítéssel érhető el.",
+            "(C) a kemény munka anyagi kompenzációt eredményez.",
+            "(D) a kreativitást konkrétan ki kell fejezni."
+        ],
+        "label": "B",
+        "ind": 21
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "A szöveg során az elbeszélő valakiként van ábrázolva, aki",
+        "options": [
+            "(A) visszahúzódó az ismeretlen emberek körében.",
+            "(B) érzékeny a közvetlen környezetére.",
+            "(C) együttérző mások szükségletei iránt.",
+            "(D) aggódik a felelősségei miatt."
+        ],
+        "label": "B",
+        "ind": 22
+    },
+    {
+        "passage": "Nincs",
+        "question": "A szöveg során az elbeszélő úgy van ábrázolva, mint aki",
+        "options": [
+            "(A) visszafogott ismeretlen emberek körül.",
+            "(B) érzékeny a közvetlen környezetére.",
+            "(C) együttérző mások szükségleteivel szemben.",
+            "(D) aggódik a felelősségei miatt."
+        ],
+        "label": "A",
+        "ind": 23
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Az elbeszélő rámutat arra, hogy az Immortal Heart faluban található tintakészítő műhely és a családja tintaboltja közötti különbség az, hogy a tintabolt",
+        "options": [
+            "(A) lenyűgözőbben mutatja be a család tintáját.",
+            "(B) kényelmesebb helyen található a nyilvánosság számára.",
+            "(C) nagyobb egyéni figyelmet biztosít az ügyfeleknek.",
+            "(D) nagyobb teret kínál a termékek bemutatására."
+        ],
+        "label": "A",
+        "ind": 24
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "1. Egy idézet a Függetlenségi Nyilatkozatból: Smith fő célja a szakaszban az, hogy",
+        "options": [
+            "(A) megvádolja az abolicionistákat azzal, hogy figyelmen kívül hagyják a nők hozzájárulását a mozgalomhoz.",
+            "(B) érveljen amellett, hogy az abolicionizmus és a nők jogai az amerikai forradalom szellemének folytatásai.",
+            "(C) kifejtse, hogy a nők jogai értelmetlenek, amíg a rabszolgaság létezik.",
+            "(D) bátorítsa a nőket, hogy az abolicionista ügyben való részvételüket fontosnak és igazságosnak tekintsék."
+        ],
+        "label": "D",
+        "ind": 25
+    }
+]

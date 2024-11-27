@@ -1,0 +1,893 @@
+[
+    {
+        "passage": "Egy városrész új negyedének tervezésekor úgy döntöttek, hogy egy különleges közösséget építenek a délkeleti, északnyugati irányban, a polgári park központjában. Ez a négy közösség kulturális területként, szabadidős területként, kereskedelmi területként és közigazgatási szolgáltatási területként van kijelölve. Ismert, hogy a közigazgatási szolgáltatási terület a kulturális területtől délnyugatra helyezkedik el, és a kulturális terület a szabadidős területtől délkeletre található.",
+        "question": "Az előző kijelentés alapján, melyik következtetés vonható le az alábbiak közül?",
+        "options": [
+            "(A) A polgári park északra van a közigazgatási szolgáltatási területtől",
+            "(B) A szabadidős terület délnyugatra van a kulturális területtől",
+            "(C) A kulturális negyed az üzleti negyedtől északkeletre van",
+            "(D) Az üzleti negyed délkeletre van a szabadidős területtől"
+        ],
+        "label": "A",
+        "ind": 0
+    },
+    {
+        "passage": "A cég három fiatal munkatársat küldött délre üzleti útra. A három ember véletlenül egymás mellett ült egy sorban. A 24 éves személy jobb oldalán ülő két ember közül legalább az egyik 20 éves volt. Legalább az egyik személy, aki a könyvelő bal oldalán ül, értékesítő, és az értékesítő jobb oldalán ülő két ember közül az egyik szintén értékesítő.",
+        "question": "Tehát kik a három fiatal az üzleti úton?",
+        "options": [
+            "(A) 20 éves könyvelő, 20 éves értékesítő, 24 éves értékesítő",
+            "(B) 20 éves könyvelő, 24 éves értékesítő, 24 éves értékesítő",
+            "(C) 24 éves könyvelő, 20 éves értékesítő, 20 éves értékesítő",
+            "(D) 20 éves könyvelő, 20 éves könyvelő, 24 éves értékesítő"
+        ],
+        "label": "A",
+        "ind": 1
+    },
+    {
+        "passage": "A hagyományos kínai gyógyászat előkészítésében legalább egyféle ginzengnek vagy kodonopszisnak kell lennie, és a következő feltételeknek is teljesülniük kell: 1) Ha van kodonopszis, akkor kell lenni atraktilódának is. 2) Az Atractylodes macrocephala és a ginzeng csak legfeljebb egy lehet. 3) Kellett Shouwu. 4) Ha van Shouwu, akkor kell lenni Atractylodes-nak is.",
+        "question": "A fenti állítás alapján mi vonható le erről a kínai gyógyszerkészítményről?",
+        "options": [
+            "['A Nincs dangshen', 'B Nincs Shouwu', 'C 有 白 术', 'D 不 白 术']"
+        ],
+        "label": "B",
+        "ind": 2
+    },
+    {
+        "passage": "Az utóbbi években a diplomás felvételi vizsgák egyre népszerűbbé váltak. Ennek megfelelően különféle posztgraduális felkészítő tanfolyamok jelentek meg, különösen az angol és politikai felkészítő tanfolyamok szinte kötelezőek a posztgraduális hallgatók számára. Xiaozhuang, aki épp most kezdett el dolgozni, szintén tervezi, hogy részt vesz a posztgraduális felvételi vizsgán, ezért Xiaozhuangnak angol felkészítő órákra kell járnia.",
+        "question": "Az alábbiak közül melyik erősítheti meg legjobban a fenti érvelést?",
+        "options": [
+            "(A) Ha részt veszel egy angol felkészítő órán, átmehetsz a diplomás felvételi vizsgán.",
+            "(B) Csak azok vesznek részt az angol felkészítő órán, akik szándékoznak részt venni a diplomás felvételi vizsgán.",
+            "(C) Még akkor is, ha részt veszel egy angol felkészítő órán, lehet, hogy nem tudsz átmenni a diplomás felvételi vizsgán.",
+            "(D) Ha nem veszel részt az angol felkészítő órán, nem tudsz átmenni a diplomás felvételi vizsgán."
+        ],
+        "label": "D",
+        "ind": 3
+    },
+    {
+        "passage": "Egy egység elvégezte az év végi értékelést, és demokratikus szavazás után öt embert azonosítottak az első díj jelöltjeként. Az öt közül négy kiválasztásakor a következő tényezőket kell figyelembe venni: 1) Legalább egy Bingding személyt választanak ki. 2) Ha E-t választják, akkor A-t és B-t is kiválasztják. 3) Legfeljebb 2 embert választanak ki.",
+        "question": "A fenti állítás alapján megállapítható, hogy ki nincs a negyedikben?",
+        "options": [
+            "['(A)A.', '(B)B.', '(C)C.', '(D)Ding.']"
+        ],
+        "label": "D",
+        "ind": 4
+    },
+    {
+        "passage": "Zhang Ming, Li Ying, Wang Jia és Chen Rui egy csapatban dolgoznak. Jiangsu, Anhui, Fujian és Shandong négy tartományából származnak. Mindenki csak a származási helyének megfelelő nyelvjárást beszéli. Ami a déli fucsieni nyelvjárásokat illeti, a shandongi emberek rendelkeznek a legmagasabb iskolai végzettséggel, és képesek beszélni a Középsík mandarin nyelvet. Wang Jiának alacsonyabb az iskolai végzettsége, mint a fucsienieknek. Li Ying tud huizhoui nyelvjárást beszélni, és Jiangsuból származó osztálytársaival kolléga. Chen Rui nem érti a déli fucsieni nyelvjárást.",
+        "question": "A fenti állítás alapján melyiket állapíthatjuk meg az alábbiak közül?",
+        "options": [
+            "['A Chen Rui nem tudja beszélni a Középsík mandarin nyelvet', 'B Zhang Ming a Minnan nyelvjárást beszéli', 'C Li Ying Shandongból származik', 'D Wang Jia tud huizhoui nyelvjárást beszélni']"
+        ],
+        "label": "B",
+        "ind": 5
+    },
+    {
+        "passage": "Az illetékes osztály vezetője azt mondta, hogy idén néhány területen kísérleti projekteket hajtanak végre a \"kis tulajdonú házak\" átfogó megtisztításának rendszer- és politikai előkészületei érdekében, és megkövetelik, hogy minden helyi szervezet erősítse meg a vidéki közösségi földek nyilvántartását és tanúsítását. Minden kis tulajdonú ház nincs nyilvántartásba véve, és a törvény nem védi őket. Ezért a Hexi faluban épült új ház nem védett a törvény által.",
+        "question": "Melyik állítás gyengíti leginkább a fenti érvet?",
+        "options": [
+            "(A) A Hexi faluban épült új házat az illetékes osztályok hallgatólagosan jóváhagyták.",
+            "(B) A Hexi faluban épült új ház kis tulajdonú ház.",
+            "(C) A Hexi faluban épült új ház vidéki közösségi földön épült.",
+            "(D) A Hexi faluban épült új házak közül néhány nem kis tulajdonú ház."
+        ],
+        "label": "D",
+        "ind": 6
+    },
+    {
+        "passage": "Öt csapat vesz részt a játékban. A közönség a következő megjegyzéseket tette az eredményekkel kapcsolatban: (1) A bajnok vagy a Shannan csapat, vagy a Jiangbei csapat. (2) A bajnok sem Shanbei, sem Jiangnan. (3) A bajnok a Jiangnan csapat. (4) A bajnok nem a Shannan csapat.",
+        "question": "A mérkőzés eredménye azt mutatta, hogy csak egy állítás volt helyes, tehát ki nyerte meg a bajnokságot?",
+        "options": [
+            "['A Shannan', 'B Jiangnan', 'C Shanbei', 'D Jiangbei']"
+        ],
+        "label": "C",
+        "ind": 7
+    },
+    {
+        "passage": "A kis- és közepes méretű városokkal, különösen a kisvárosokkal és falvakkal összehasonlítva, a nagyvárosokban magasabbak a megélhetési költségek, ami elkerülhetetlenül korlátozza a vidéki lakosság beáramlását. Ezért a nagyvárosok önálló fejlődése valójában nem képes megvalósítani az urbanizációt.",
+        "question": "Melyik állítás feltételezése szükséges a következtetés levonásához?",
+        "options": [
+            "(A) Az urbanizáció az egyetlen út Kína fejlődéséhez.",
+            "(B) A nagyvárosok egyszerű fejlődése nem kedvez az urbanizáció előmozdításának.",
+            "(C) Az urbanizáció eléréséhez a városnak teljes mértékben fel kell szívnia a vidéki lakosságot.",
+            "(D) A nagyvárosok vonzereje a külvilágból érkező vidéki lakosság számára jelentősen alacsonyabb, mint a kis- és közepes városoké."
+        ],
+        "label": "C",
+        "ind": 8
+    },
+    {
+        "passage": "A kutatók nemrégiben felfedezték, hogy az emberi agy mélyén található egy terület, amelyet thalamus párnájának neveznek, és amely olyan, mint egy információs pult kezelője, felelős a külső ingerek információinak rendezéséért és az emberi figyelem a viselkedés és a túlélés szempontjából legfontosabb információkra való összpontosításáért. A kutatók rámutattak, hogy ez a felfedezés várhatóan új kezeléseket hozhat az olyan rendellenességek számára, mint a figyelemhiányos hiperaktivitás-zavar és a skizofrénia, amelyeket a figyelem hiánya okoz.",
+        "question": "Az alábbiak közül melyik feltételezés támasztja alá a fenti érvelést?",
+        "options": [
+            "['(A) Néhány skizofréniát nem a figyelem hiánya okoz', '(B) A vizuális információ csak a vizuális kéreg révén kerül továbbításra, hogy egy neurális hálózatot hozzon létre a továbbításhoz', '(C) A kutatók kifejlesztettek egy új technológiát, amely közvetlenül nyomon tudja követni a kommunikációt a vizuális kéreg és a thalamus occipitalis régiója között', '(D) Az agy nem képes egyszerre túl sok információ részletes feldolgozására, és csak szelektíven a viselkedéssel leginkább összefüggő dolgokra összpontosít']"
+        ],
+        "label": "D",
+        "ind": 9
+    },
+    {
+        "passage": "Egy jelentés szerint a márciusig tartó évben a kontinentális kínai vásárlók az amerikai ingatlanokat vásárló külföldi vásárlók második legnagyobb csoportjává váltak, 9 milliárd dolláros tranzakciós volumennel, csak Kanadát megelőzve. Ez 23%-kal magasabb, mint az előző évi 7,3 milliárd dolláros tranzakciós volumen, és 88%-kal magasabb, mint az előző évi 4,8 milliárd dolláros tranzakciós volumen. Egyesek úgy vélik, hogy egyre több gazdag ember van Kínában, akik külföldre helyezik át vagyonukat.",
+        "question": "Melyik állítás a legjobb érv a fenti érv ellen?",
+        "options": [
+            "(A) Sok kínai ember vásárol otthont gyermekeinek, hogy az Egyesült Államokban tanulhassanak.",
+            "(B) Bár a forgalom 23%-kal nőtt, a kínai vásárlók száma nem nőtt ebben az évben.",
+            "(C) Vannak ingatlanspekuláns csoportok a gazdag kínaiak körében, akik Pekingben és Sanghajban spekuláltak.",
+            "(D) Az amerikai ingatlanpiac kockázata az utóbbi években kicsi volt, és bizonyos értékmegőrzési és értéknövekedési funkcióval rendelkezik."
+        ],
+        "label": "B",
+        "ind": 10
+    },
+    {
+        "passage": "Az emberek gyakran használnak mikrohullámú sütőket ételek melegítésére. Néhányan úgy vélik, hogy a mikrohullámú sütő melegítése megváltoztatja az ételek molekuláris szerkezetét, olyan molekulákat hozva létre, amelyeket az emberi test nem ismer fel. Ezek a furcsa molekuláris képletek elfogadhatatlanok az emberi test számára, és némelyek mérgezőek, sőt akár rákot is okozhatnak. Ezért azoknál az embereknél vagy állatoknál, akik gyakran fogyasztanak mikrohullámú ételeket, komoly élettani változások jelentkeznek a testükben, ami súlyos egészségügyi problémákat okozhat.",
+        "question": "A következők közül melyik kérdőjelezheti meg a legjobban a fenti nézetet?",
+        "options": [
+            "(A) A mikrohullámú melegítés nem okoz több tápanyagveszteséget, mint más főzési módszerek.",
+            "(B) Kína mikrohullámú sütő gyártási szabványai összhangban vannak a nemzetközi szabványokkal és az EU szabványokkal.",
+            "(C) A fejlett országokban is gyakori a mikrohullámú sütők használata.",
+            "(D) A mikrohullámú sütő csak az ételek vízmolekuláit melegíti, az étel kémiailag nem változik meg."
+        ],
+        "label": "D",
+        "ind": 11
+    },
+    {
+        "passage": "Egy kutatási jelentés szerint a káderek gyermekeinek aránya a Pekingi Egyetemen az 1980-as évek 20%-áról 1977-re közel 40%-ra emelkedett, meghaladva ezzel a munkások, parasztok és szakmai technikusok gyermekeit, és a legnagyobb hallgatói forrássá vált. Ennek alapján egyes médiumok úgy vélik, hogy a Pekingi Egyetem hallgatóinak és gyermekeiknek aránya 20 éve emelkedik, meghaladva más osztályokat.",
+        "question": "Melyik, ha igaz, leginkább megkérdőjelezi a fenti médiumok véleményét?",
+        "options": [
+            "(A) Az elmúlt 20 évben sok számított káder vállalati káder, ami korábban csak kormánytisztviselőket tartalmazott.",
+            "(B) Külfölddel összehasonlítva a kínai oktatás több lehetőséget biztosít a munkásoknak és parasztoknak az oktatásra és társadalmi mobilitásra.",
+            "(C) Új Kína megalapítása után egyre több munkás és paraszt gyermeke került be az egyetemre.",
+            "(D) A statisztikákban szereplő munkások gyermekeinek egy része korábbi parasztok gyermekei lehetnek."
+        ],
+        "label": "A",
+        "ind": 12
+    },
+    {
+        "passage": "A lótuszlevél a vízi lágyszárú növény levele, amely több éven át él. Kémiai összetevői főként lótusz-alkaloidot, citromsavat, almasavat, glükonsavat, oxálsavat, borostyánkősavat és egyéb alapvető összetevőket tartalmaznak, amelyek gátolják a mitózist. A lótuszlevél különféle alkaloidokat, braszin-glikozidokat, lótuszlevél-glikozidokat és egyéb összetevőket tartalmaz, amelyek hatékonyan csökkenthetik a koleszterint és a triglicerideket, jó hatással van a hiperlipidémia és az elhízott betegek esetében. A lótuszlevél infúziója és főzete képes kitágítani az ereket, tisztítja a hőt és enyhíti a hőt, valamint csökkenti a vérnyomást. Néhány szakértő rámutatott, hogy a lótuszlevél jó fogyókúrás gyógyszer.",
+        "question": "Ha igaz, akkor melyik állítás támasztja alá legjobban a fenti szakértők véleményét?",
+        "options": [
+            "['(A) A lótuszlevél elősegíti a gyomor-bél motilitást és kitisztítja a székletet a szervezetből;', '(B) A lótuszlevél tea egy étel, nem gyógyszer, amely a nem-toxicitás és biztonság előnyeivel rendelkezik;', '(C) A lótuszlevél tea folyékony étellé válik, miután vízbe áztatják, és gyorsan felszívódik a gyomorban rövid idő alatt, magasabb koncentrációval és nagyobb irritációval.', '(D) A lótuszlevél termékek fogyasztása után egy zsírszigetelési réteg képződik az emberi bél falán, amely hatékonyan gátolja a zsír felszívódását;']"
+        ],
+        "label": "D",
+        "ind": 13
+    },
+    {
+        "passage": "2003. augusztus 3-án egy \"110 000 évvel ezelőtti emberi fosszíliát\" tártak fel a Zhangkoudong ősi emberi lelőhelyen, Jiuxiangban, Yiliang megyében. A feltárás bejelentése azonnal széles körű figyelmet keltett a média és a szakértők részéről. Sok, a feltárásban részt vevő szakértő úgy véli, hogy ennek az emberi fogfosszíliának a megjelenése azt jelzi, hogy Zhangkoudongban már 110 000 évvel ezelőtt is voltak emberi tevékenységek. Ez át fogja írni a Kunming környékét, amelyet a Chenggong megyei Longtan-hegy ősi emberi maradványai határoztak meg. Az emberiségnek csak 30 000 éves történelme van.",
+        "question": "Melyik állítás, ha igaz, leginkább megkérdőjelezi a fenti szakértők véleményét?",
+        "options": [
+            "(A) A tudományos körökben eleve viták vannak, és mindenkinek joga van kifejezni a véleményét; (B) Néhány szakértő elemezte a fosszília hosszú tengelyét, koronájának alakját, koronájának ajak- és nyelvfelszíni kiemelkedését és zománcát, stb., és arra a következtetésre jutott, hogy ez a fosszília nem emberi metszőfog fosszília, hanem szarvasfog fosszília; (C) Ezt a fogfosszíliát a kalciumlemeztől 20 cm-re lévő vörös homokrétegben ásták ki 110 000 évvel ezelőtt; (D) Néhány szakértő az urán módszerrel dátumozta Zhangkou barlang minden rétegének kalciumlemezeit, és bizonyította, hogy a fosszíliás fog legrégebbi lerakódásai 300 000 évvel ezelőtt keletkeztek;"
+        ],
+        "label": "B",
+        "ind": 14
+    },
+    {
+        "passage": "Egy adott osztály helyettes vezetőinek nyilvános kiválasztására irányuló felvételi vizsgán összesen 7 ember jelentkezett: A, B, C, D, E, G és G. A statisztikák szerint a 7 ember közül a legmagasabb iskolai végzettség alapképzés és doktori fokozat. Közülük 3 ember Ph.D. fokozattal végzett; 3 nő van. Ismert, hogy A, B és C azonos iskolai végzettséggel rendelkeznek, míg G és G különböző iskolai végzettségűek; E, G és G azonos neműek, míg A és D különböző neműek. A végső kinevezés egy női doktor volt.",
+        "question": "A fenti állítás alapján melyik következtetés vonható le?",
+        "options": [
+            "(A) A egy férfi doktor;",
+            "(B) Én egy női doktor vagyok;",
+            "(C) Geng nem férfi doktor;",
+            "(D) Ding egy női doktor."
+        ],
+        "label": "D",
+        "ind": 15
+    },
+    {
+        "passage": "A folyó melletti nagysebességű vasút egy szakaszán öt állomás van nyugatról keletre felállítva. Ismert, hogy a Fuyi állomás keletre van a Haoyun állomástól és nyugatra a Huyao állomástól, valamint szomszédos a Huyao állomással; a Jiushang állomás szomszédos a Yinling állomással.",
+        "question": "A fenti információk alapján a nyugatról keletre haladó öt állomás sorrendjével kapcsolatban melyik lehetőség lehetséges?",
+        "options": [
+            "(A) Yinling állomás, Haoyun állomás, Jiushang állomás, Fuyi állomás, Huyao állomás;",
+            "(B) Fuyi állomás, Huyao állomás, Jiushang állomás, Yinling állomás, Haoyun állomás;",
+            "(C) Haoyun állomás, Yinling állomás, Jiushang állomás, Fuyi állomás, Huyao állomás;",
+            "(D) Haoyun állomás, Huyao állomás, Fuyi állomás, Yinling állomás, Jiushang állomás;"
+        ],
+        "label": "C",
+        "ind": 16
+    },
+    {
+        "passage": "A folyó mentén a nagysebességű vasút egy szakaszán öt állomás van nyugatról keletre felállítva. Ismert, hogy a Fuyi állomás keletre van a Haoyun állomástól és nyugatra a Huyao állomástól, valamint szomszédos a Huyao állomással; a Jiushang állomás szomszédos a Yinling állomással.",
+        "question": "Ha a Jiushang állomás szomszédos a Haoyun állomással és keletre van a Haoyun állomástól, akkor milyen következtetés vonható le?",
+        "options": [
+            "(A) Huyao keletre áll.; (B) Fuyi nyugatra áll.; (C) Yinling keletre áll.; (D) Leek nyugatra áll."
+        ],
+        "label": "A",
+        "ind": 17
+    },
+    {
+        "passage": "A folyó mentén haladó nagysebességű vasút egy szakaszán öt állomás van nyugatról keletre felállítva. Ismeretes, hogy a Fuyi állomás a Haoyun állomástól keletre és a Huyao állomástól nyugatra helyezkedik el, és szomszédos a Huyao állomással; a Jiushang állomás szomszédos a Yinling állomással.",
+        "question": "Ha Hao Yun a Jiushang állomástól keletre áll, mit kaphatunk?",
+        "options": [
+            "(A) A Yinling állomás szomszédos a Haoyun állomással és nyugatra van a Haoyun állomástól;",
+            "(B) A Haoyun állomás szomszédos a Fuyi állomással és nyugatra van a Fuyi állomástól;",
+            "(C) A Jiushang állomás szomszédos a Haoyun állomással és nyugatra van a Haoyun állomástól;",
+            "(D) A Yinling állomás szomszédos a Fuyi állomással és nyugatra van a Fuyi állomástól;"
+        ],
+        "label": "B",
+        "ind": 18
+    },
+    {
+        "passage": "A folyó melletti nagysebességű vasút egy szakaszán öt állomás található nyugatról keletre. Ismert, hogy a Fuyi állomás keletre van a Haoyun állomástól és nyugatra a Huyao állomástól, valamint szomszédos a Huyao állomással; a Jiushang állomás szomszédos a Yinling állomással.",
+        "question": "Ha a Haoyun állomás szomszédos a Yinling állomással, akkor mit lehet megállapítani?",
+        "options": [
+            "(A) Yinling állomás nyugatra van a Haoyun állomástól",
+            "(B) Fuyi állomás nyugatra van a Jiushang állomástól",
+            "(C) Haoyun állomás nyugatra van a Yinling állomástól",
+            "(D) Jiushang állomás nyugatra van a Fuyi állomástól"
+        ],
+        "label": "D",
+        "ind": 19
+    },
+    {
+        "passage": "Leeds a középső jura időszakban éltek, körülbelül 165 millió évvel ezelőtt. Ez egy hatalmas hal volt a dinoszauruszok korában. A Leeds akár 9 méter hosszúra is megnőhetett a születését követő 20 éven belül, átlagos élettartama pedig körülbelül 40 év volt. A legnagyobb testhossza akár 16,5 métert is elérhetett. Ez a méret összemérhető a modern idők legnagyobb cetcápájával, amelynek átlagos élettartama körülbelül 70 év, így valószínű, hogy a Leeds növekedési üteme meghaladja a cetcápákét.",
+        "question": "Melyik alábbi állítás cáfolhatja meg legjobban a fenti érvelést, ha igaz?",
+        "options": [
+            "(A) A Leeds halak és a cetcápák planktonnal és kis állatokkal táplálkoznak az óceánban, és a növekedési ütem nem lehet jelentősen eltérő.",
+            "(B) Bár a Leeds halak és a cetcápák élettartama jelentősen különbözik, mindkettő körülbelül 20 évesen éri el a felnőttkort, és testalkatuk alapvetően rögzített.",
+            "(C) Bár a halak élettartama különböző, növekedési szakaszaik alapvetően megfelelnek fiatalkori, felnőtt, középkorú és idős koruknak.",
+            "(D) Nincs nyilvánvaló változás a jura kori halak és a modern halak növekedési ciklusában."
+        ],
+        "label": "B",
+        "ind": 20
+    },
+    {
+        "passage": "27,3 év alatt három kenut ástak ki folyamatosan a Huai folyó partján, Xinyang megyében, Henan tartományban. Ezek közül 2010-ben fedezték fel az első kenut a Huaihe folyó partja alatt, a Xuzhuang falu Zhangzhuang Formációjában, Chengjiao településen, Xixian megyében, amelyről bebizonyosodott, hogy Kína egyik legkorábbi és legnagyobb kenue. A kenu 9,3 méter hosszú, 0,8 méter széles és 0,6 méter magas. A szén-14 mérés szerint ezeknek a kenuknak az anyagai pontosan megegyeznek a Jünnan trópusi területein termelt faanyagokkal. Ez azt mutatja, hogy több mint 3000 évvel ezelőtt a klíma Henanban nagyon hasonló volt a trópusi éghajlathoz. A Huaihe folyó középső és alsó szakaszának mindkét oldalán az éghajlat meleg és nedves volt, magas és sűrű erdőkkel, valamint számos állat- és növényfajjal.",
+        "question": "Melyik alábbi állítás támogatja legjobban a fenti érvet, ha igaz?",
+        "options": [
+            "(A) Ezeknek a kenuknak a nyersanyagait nem lehetett a távoli Jünnan őserdőiből szállítani, csak helyben szerezhették be.",
+            "(B) Ezek a kenuk több ezer évig áztak vízben, és nagyon nehezek.",
+            "(C) Az a hely, ahol a Qi Zhou Qiu Jian történet játszódik, a Chu terület, beleértve Xuchang déli részét, Henanban.",
+            "(D) A kenu törzse mindkét végén hegyes, és egy teljes rönkből van kifaragva a jobb megőrzés érdekében."
+        ],
+        "label": "A",
+        "ind": 21
+    },
+    {
+        "passage": "Egy tanulmányban 51 középiskolás önkéntest osztottak be egy tesztcsoportba és egy kontrollcsoportba, hogy ugyanazt a matematikai képzést kapják. Az ötnapos képzés során a kutatók egy transzkraniális véletlenszerű zajstimulációnak nevezett technikát alkalmaztak, hogy enyhén sokkolják a tesztcsoport 25 tagjának azokat az agyterületeit, amelyeket a számítási teljesítménnyel kapcsolatosnak tartottak. Az ezt követő teszteredmények azt mutatták, hogy a tesztcsoport tagjainak matematikai képességei jelentősen meghaladták a kontrollcsoport tagjainak képességeit. Meglepetésükre ennek a képességjavulásnak a hatása legalább fél évig is eltarthat. A kutatók ezért úgy vélik, hogy az agy mikro-sokkja javíthatja az agy számítási teljesítményét.",
+        "question": "Az alábbiak közül melyik állítás támogatja legjobban a fenti kutatók nézeteit, ha igaz?",
+        "options": [
+            "(A) Ez a nem invazív stimuláció olcsó, és nem okoz fájdalmat az emberi testnek.",
+            "(B) Az agy enyhe elektrosokkja után az idegsejtek közötti véráramlás jelentősen fokozódik, de többszöri stimuláció után visszatér a normális szintre.",
+            "(C) A kísérlet előtt a két csoport diákjainak matematikai pontszámai majdnem azonosak voltak.",
+            "(D) Az agy mikro-sokkjaival rendelkező alanyok jobban odafigyelnek a viselkedésükre, és a teszt során jobban tudnak koncentrálni."
+        ],
+        "label": "C",
+        "ind": 22
+    },
+    {
+        "passage": "Egy intézmény felmérést végzett a háromféle lakóingatlan átlagos házáról három kelet-kínai városban (A, B és C), amelyek villák, hétköznapi kereskedelmi házak és megfizethető lakások a magasabbtól az alacsonyabbig, és a közzétett információk tartalmazzák a következő tartalmat: a villaházak árai szerint, a legmagasabbtól a legalacsonyabbig A város, B város és C város; a hétköznapi kereskedelmi házak árai szerint, a legmagasabbtól a legalacsonyabbig A város, B város és B város; a megfizethető lakásárak szerint, a legmagasabbtól a legalacsonyabbig B város, A város, C város.",
+        "question": "A fenti három város lakóingatlanainak összesített átlagárát illetően melyik az alábbi ítéletek közül helytelen?",
+        "options": [
+            "['(A) A város lakóingatlanainak összesített átlagára a legmagasabb', '(B) B város lakóingatlanainak összesített átlagára középen van', '(C) Cingcheng lakóingatlanainak összesített átlagára a legalacsonyabb', '(D) A város lakóingatlanainak összesített átlagára a legalacsonyabb']"
+        ],
+        "label": "D",
+        "ind": 23
+    },
+    {
+        "passage": "Az emberi férfi és női ősök „korának” titka az Y kromoszómában és a mitokondriumban rejlik. Az Y kromoszóma csak apáról fiúra öröklődik, míg a mitokondriumok csak anyáról leányra. Visszatekintve erre a két genetikai anyagra, megállapíthatjuk, hogy minden férfinak van egy közös férfi őse, az „Y kromoszóma Ádám”, és minden nőnek van egy közös női őse, a „mitokondriális Éva”. A kutatók genom szekvenálást és összehasonlító elemzést végeztek kilenc különböző népességből, mint például Ázsia, Afrika és Latin-Amerika, származó 69 férfi esetében, és megállapították, hogy ez a férfi közös ős, az „Y kromoszóma Ádám”, körülbelül 156 000 és 120 000 évvel ezelőtt alakult ki. A mitokondriumok ugyanezen technikai elemzésével a kutatók azt is kiszámították, hogy ez a női közös ős, a „mitokondriális Éva”, 148 000 és 99 000 évvel ezelőtt alakult ki.",
+        "question": "Melyik a következő állítások közül, ami a legmegfelelőbb következtetésként levonható a fenti vitából?",
+        "options": [
+            "(A) „Y kromoszóma Ádám” és „mitokondriális Éva” ugyanabban az időszakban alakultak ki, és „koruk” közel áll egymáshoz, „Y kromoszóma Ádám” lehet korábbi.",
+            "(B) 15 évvel ezelőtt csak egy férfi, „Ádám” volt a Földön.",
+            "(C) Mint két külön egyén, „Ádámnak” és „Évának” soha nem kellett volna találkozniuk.",
+            "(D) A férfiak és nők együtt születnek, és együtt foganták a modern embereket."
+        ],
+        "label": "A",
+        "ind": 24
+    },
+    {
+        "passage": "A kutatások kimutatták, hogy a rovarok a testükön található sztómák rendszere révén „lélegeznek”. A sztómák a légcsőhöz kapcsolódnak, és egyre több réteg kisebb és kisebb levegő tapad egymásra fentről lefelé, ezáltal oxigént juttatva az egész testbe. A jelenlegi légköri oxigénszint mellett a sztómarendszer teljes hossza elérte a határt; ha a teljes hossz meghaladja ezt a határt, az oxigénellátó képesség elégtelenné válik. Ezért megállapítható, hogy az oxigéntartalom mennyisége meghatározhatja a rovarok méretét.",
+        "question": "Az alábbiak közül melyik támasztja alá legjobban a fent említett érvet, ha igaz?",
+        "options": [
+            "(A) Az óceánok gerinctelenjeivel végzett vizsgálatok azt is kimutatták, hogy hidegebb vízben és magasabb oxigéntartalom mellett az ott élő szervezetek is nagyobbak.",
+            "(B) A karbon időszakban a föld légkörének oxigénkoncentrációja 35% volt, ami sokkal magasabb, mint a jelenlegi 21%. Akkoriban sok óriás rovar élt a földön, és a szitakötők szárnyfesztávolsága közel egy méter volt.",
+            "(C) A kis sáskák nem képesek túlélni alacsony oxigéntartalmú környezetben, különösen 15%-nál alacsonyabb oxigénkoncentrációjú környezetben. A felnőtt sáskák képesek túlélni 2%-os oxigénszintű környezetben.",
+            "(D) Magas oxigéntartalmú és magas légnyomású környezetben a vizsgált muslicák az ötödik generációig éltek, és testméretük 20%-kal nőtt."
+        ],
+        "label": "B",
+        "ind": 25
+    },
+    {
+        "passage": "Egy bizonyos osztály azt tervezi, hogy három lány közül kettőt választ, Fang Rufen, Guo Yanran, He Zhilian közül, és öt fiú diák közül hármat, mint Peng Youwen, Qiu Zhijie, Ren Xiangyang, Song Wenkai, Tang Xiaohua, hogy egy öt fős támogató csoportot alkossanak főiskolai hallgatók számára, akik önkéntes oktatást végeznek a hegyekben. Követelmények: (1) Guo Yanrant és Tang Xiaohuát nem választják ki egyszerre; (2) Peng Youwent és Song Kaiwent nem választják ki egyszerre; (3) Qiu Zhijiet és Tang Xiaohuát nem választják ki egyszerre.",
+        "question": "Melyikük lesz biztosan kiválasztva?",
+        "options": [
+            "['(A)Fang Rufen', '(B)Guo Yanran', '(C)Song Kaiwen', '(D)Ren Xiangyang']"
+        ],
+        "label": "D",
+        "ind": 26
+    },
+    {
+        "passage": "Egy bizonyos osztály két lányt kíván kiválasztani a három közül: Fang Rufen, Guo Yanran, He Zhilian, valamint hármat az öt fiú diák közül, mint például Peng Youwen, Qiu Zhijie, Ren Xiangyang, Song Wenkai, Tang Xiaohua, hogy egy öt fős támogatói csoportot alkossanak, amely önkéntes tanításra megy a hegyekbe a főiskolásokkal. Követelmények: (1) Guo Yanrant és Tang Xiaohuát nem választják ki egyszerre; (2) Peng Youwent és Song Kaiwent nem választják ki egyszerre; (3) Qiu Zhijie-t és Tang Xiaohuát nem választják ki egyszerre.",
+        "question": "Ha Guo Yanrant választják ki, kit kell még feltétlenül kiválasztani?",
+        "options": [
+            "(A) Fang Rufen",
+            "(B) He Zhilian",
+            "(C) Peng Youwen",
+            "(D) Qiu Zhijie"
+        ],
+        "label": "D",
+        "ind": 27
+    },
+    {
+        "passage": "Egy bizonyos osztály azt tervezi, hogy három lány közül kettőt választanak ki Fang Rufen, Guo Yanran, He Zhilian közül, és három fiút az öt közül, beleértve Peng Youwen, Qiu Zhijie, Ren Xiangyang, Song Wenkai és Tang Xiaohua, hogy egy öt fős támogatói csoportot alkossanak egyetemi hallgatóknak, akik hegyvidéki területeken önkéntes tanítást vállalnak. Követelmények: (1) Guo Yanran és Tang Xiaohua nincsenek egyszerre kiválasztva; (2) Peng Youwen és Song Kaiwen nincsenek egyszerre kiválasztva; (3) Qiu Zhijie és Tang Xiaohua nincsenek egyszerre kiválasztva.",
+        "question": "Ha He Zhilian nincs kiválasztva, ki a következő személyek közül nincs kiválasztva?",
+        "options": [
+            "(A) Tang Xiaohua",
+            "(B) Peng Youwen",
+            "(C) Qiu Zhijie",
+            "(D) Song Wenkai"
+        ],
+        "label": "A",
+        "ind": 28
+    },
+    {
+        "passage": "Egy bizonyos osztály két lányt akar kiválasztani a következő három közül: Fang Rufen, Guo Yanran, He Zhilian, és hármat az öt fiú közül, akik Peng Youwen, Qiu Zhijie, Ren Xiangyang, Song Wenkai, és Tang Xiaohua, hogy egy öt fős támogatói csoportot alkossanak egyetemi hallgatók számára, akik önkéntes tanítást végeznek a hegyekben. Követelmények: (1) Guo Yanran és Tang Xiaohua nem választhatók ki egyszerre; (2) Peng Youwen és Song Kaiwen nem választhatók ki egyszerre; (3) Qiu Zhijie és Tang Xiaohua nem választhatók ki egyszerre.",
+        "question": "Ha Tang Xiaohua ki van választva, akkor melyik kettőt kell kiválasztani az alábbiak közül?",
+        "options": [
+            "['(A)Fang Rufen és Guo Yanran', '(B)Guo Yanran és He Zhilian', '(C)Peng Youwen és He Zhilian', '(D)Fang Rufen és He Zhilian']"
+        ],
+        "label": "D",
+        "ind": 29
+    },
+    {
+        "passage": "Az \"Aklyusi majomtól\" a kutatók számos majom jellemzőit fedezték fel. Például, a sarkában lévő csont rövid és széles. Ezenkívül az \"Aklyusi majomnak\" kicsi a szemgödre, és a tudósok úgy vélik, hogy nappal aktív, akárcsak a korai majmok ősei.",
+        "question": "Az alábbiak közül melyik támasztja alá legjobban a fent említett tudósok feltételezését, ha igaz?",
+        "options": [
+            "['(A) A rövid és széles hátsó csont alkalmassá teszi ezt a főemlőst az ugrásra és a bokrokban való vadászatra', '(B) Az állati látás és a szemüreg mérete között nincs szigorú arányossági kapcsolat', '(C) Az idő, amikor a legkorábbi emberszabásúak elváltak más főemlősöktől, legalább 55 millió évvel ezelőtt volt', '(D) Az éjszakai tevékenységek által uralt állatoknak általában nagyobb a szemük']"
+        ],
+        "label": "D",
+        "ind": 30
+    },
+    {
+        "passage": "Conne Levi egy \"moe\" kinézetű, más újszülöttekre hasonlító baba. Azonban mivel ő az első lombikbébi a világon, akit új generációs génszekvenálási technológia alapján szűrtek, megjelenése felkeltette a szakértők és tudósok figyelmét. Nemrégiben ez a hír robbantotta fel a közönséget a \"Európai Humán Reprodukciós és Embriológiai Társaság Éves Konferenciáján\", amelyet Londonban, Angliában tartottak. Az átlagemberek is úgy vélik, hogy az emberiség talán a \"testre szabott babák\" korszakát fogja megélni.",
+        "question": "Melyik állítás cáfolná meg legjobban az átlagemberek nézeteit, ha igaz lenne?",
+        "options": [
+            "(A)\"A mesterséges genetikai szűrés nem zárja ki a kiskapuk lehetőségét; természetes fogantatás során a természetes kiválasztódás irányelvei finomabbnak és hatékonyabbnak tűnnek.\"  ",
+            "(B)A modern tudomány és technológia fejlődéstörténetéből látható, hogy a technológiai fejlődés gyakran gyorsabb az emberi megismerésnél, és néha a technológia továbbhalad és eltér az emberi megismerés pályájától.  ",
+            "(C)A génszűrés főként a reproduktív hibák elkerülésére irányul, ez a technológia lehetőségeket teremt az emberi eugenika és eugenika számára; ami a \"testre szabott babákat\" illeti, a klónozás fogalma inkább érintett, a kettőt nem szabad összekeverni.  ",
+            "(D)\"Testre szabott babákat\" globálisan még nem próbáltak ki, ez a fogalom szintén kihívást jelent a legvitatottabb emberi reproduktív etika számára."
+        ],
+        "label": "C",
+        "ind": 31
+    },
+    {
+        "passage": "Az élet alapja – a fehérje fő összetevője egy aminosav molekula. Ez egy szerves molekula. Bár az emberek még nem figyelték meg közvetlenül az aminosav molekulákat a kozmikus térben, a tudósok hidrogén, víz, oxigén, metán és formaldehid felhasználásával a laboratóriumban szimulálták a tér természetes feltételeit. Különféle aminosavak. Az aminosavak szintetizálásához használt nyersanyagok bőségesen megtalálhatók a csillagközi molekulákban. Nem nehéz elképzelni, hogy az univerzumban is vannak aminosav molekulák. Amíg megfelelő környezet van, ezek átalakulhatnak fehérjékké, majd tovább fejlődhetnek szerves életté. Ezen spekuláció alapján más bolygókon is létezhetnek élőlények a Földön kívül, és akár magasabb intelligenciájú élőlények is lehetnek.",
+        "question": "Melyik állítás igaz a fenti spekuláció legjobb cáfolatára?",
+        "options": [
+            "['(A) Óriási különbség van a fehérjéből szerves életté fejlődés folyamata és a szerves molekulákból fehérjévé válás folyamata között', '(B) A magasabb intelligencia nem csak az anyagi evolúció terméke, hanem a folyamatos szocializáció eredménye is', '(C) A természetes környezetben az aminosav molekulák szintézise a meglévő csillagközi molekulákból kis valószínűségű esemény', '(D) Néhány csillagközi molekula nem található meg a Föld környezetében, és a laboratóriumban még mindig nem elérhetőek']"
+        ],
+        "label": "A",
+        "ind": 32
+    },
+    {
+        "passage": "A mai napig a legrégebbi Homo sapiens maradványok Afrikában jelentek meg, körülbelül 200 000 évvel ezelőtt. Ennek megfelelően sok tudós úgy véli, hogy az emberek Afrikából származnak, és a Homo sapiens, a modern emberek közvetlen őse, körülbelül 200 000 évvel ezelőtt fejlődött ki Afrikában, majd körülbelül 150 000–200 000 évvel ezelőtt lassan észak felé vándorolt, átkelve a Közel-Keleten Európába és Ázsiába, és fokozatosan vándorolt a világ más részeire.",
+        "question": "Melyik alábbi lehetőség cáfolhatja meg legjobban a fenti tudósok nézeteit, ha igaz?",
+        "options": [
+            "['(A) A modern Homo sapiens a késő paleolitikum időszakában élt, körülbelül 40 000–10 000 évvel ezelőtt. Számos helyen találtak késői Homo sapiens fosszíliákat vagy kulturális helyszíneket hazánkban', '(B) Egy dél-amerikai régészeti feltárás során olyan Homo sapiens koponyafosszíliákat fedeztek fel, amelyek körülbelül 170 000 évvel ezelőtt éltek', '(C) A Homo sapiens rendkívüli képességekkel rendelkezik a kommunikáció, a tervezés és a nehéz problémák megoldása terén', '(D) Nyolc Homo sapiens fogat fedeztek fel 400 000 évvel ezelőttről a Qesem-barlangban, 12 km-re keletre Tel-Avivtól, Izraelben']"
+        ],
+        "label": "D",
+        "ind": 33
+    },
+    {
+        "passage": "Az objektumok atomjai által kibocsátott vagy elnyelt fény elemzésével megmérhetjük, hogy az objektum messze vagy közel van-e a Földhöz. Amikor az objektum távol van a Földtől, ezeknek a fényeknek a frekvenciája a spektrum vörös végébe (alacsony frekvencia) tolódik el, amit \"vöröseltolódásnak\" neveznek. Ezzel ellentétben \"kékeltolódásnak\" hívják. Az atomok által kibocsátott egyedi fényt az atomokat alkotó elemi részecskék, különösen az elektronok tömege is befolyásolja. Ha egy atom tömege nő, az általa kibocsátott fotonok energiája is növekszik, így a kibocsátás és az elnyelés frekvenciái is kékeltolódnak. Ezzel szemben, ha a részecskék egyre könnyebbé válnak, a frekvencia vöröseltolódik. Csillagászati megfigyelések szerint a legtöbb galaxis vöröseltolódást mutat. Ezenkívül minél távolabb van a galaxis a Földtől, annál nagyobb a vöröseltolódás. Ebből adódóan sok tudós úgy véli, hogy az univerzum folyamatosan tágul.",
+        "question": "Az alábbiak közül melyik állítás, ha igaz, cáfolhatná legjobban a fenti tudósok nézeteit?",
+        "options": [
+            "['(A) A távoli univerzumban néhány kékeltolódott objektumot is találtak', '(B) A Föld nem az univerzum középpontjában van', '(C) Az emberek által megfigyelhető csillagok a valós univerzum kevesebb mint egy százalékát tehetik ki', '(D) Az univerzum más égitestjeinek nézőpontjából nézve a vöröseltolódás szintén abszolút domináns jelenség']"
+        ],
+        "label": "C",
+        "ind": 34
+    },
+    {
+        "passage": "Egy cégnek van egy 6 emeletes irodaháza. A cég pénzügyi osztálya, tervezési osztálya, adminisztrációs osztálya, értékesítési osztálya, humán erőforrás osztálya és kutatás-fejlesztési osztálya itt dolgozik, és minden osztály egy-egy emeletet foglal el. Ismert? (1) A humán erőforrás osztály és az értékesítési osztály emeletei nem szomszédosak; (2) A pénzügyi osztály a tervezési osztály következő emeletén van; (3) Az adminisztrációs osztály emelete a tervezési osztály felett van, de a humán erőforrás osztály alatt.",
+        "question": "Alulról felfelé haladva melyik felel meg a fenti emeletek eloszlásának?",
+        "options": [
+            "(A)Pénzügyi osztály, Tervezési osztály, Adminisztrációs osztály, Humán erőforrás osztály, K+F osztály, Értékesítési osztály",
+            "(B)Pénzügyi osztály, Tervezési osztály, Adminisztrációs osztály, Humán erőforrás osztály, Értékesítési osztály, K+F osztály",
+            "(C)Tervezési osztály, Pénzügyi osztály, Értékesítési osztály, K+F osztály, Adminisztrációs osztály, Humán erőforrás osztály",
+            "(D)Értékesítési osztály, Pénzügyi osztály, Tervezési osztály, K+F osztály, Humán erőforrás osztály, Adminisztrációs osztály"
+        ],
+        "label": "A",
+        "ind": 35
+    },
+    {
+        "passage": "Egy cégnek van egy 6 emeletes irodaháza. A cég pénzügyi osztálya, tervezési osztálya, adminisztrációs osztálya, értékesítési osztálya, emberi erőforrás osztálya és kutatás-fejlesztési osztálya itt dolgozik, és minden osztály egy-egy emeletet foglal el. Ismert: (1) Az emberi erőforrás osztály és az értékesítési osztály emeletei nem szomszédosak; (2) A pénzügyi osztály a tervezési osztály következő emeletén van; (3) Az adminisztrációs osztály emelete a tervezési osztály felett van, de az emberi erőforrás osztály alatt.",
+        "question": "Ha az emberi erőforrás osztály nem az adminisztrációs osztály felső szintjén van, akkor melyik lehet helyes az alábbiak közül?",
+        "options": [
+            "(A) Az értékesítési osztály a kutatás-fejlesztési osztály felső szintjén van",
+            "(B) Az értékesítési osztály egy szinttel az adminisztrációs osztály felett van",
+            "(C) Az értékesítési osztály a tervezési osztály következő szintjén van",
+            "(D) Az értékesítési osztály a második emeleten van"
+        ],
+        "label": "B",
+        "ind": 36
+    },
+    {
+        "passage": "Egy cég egy 6 emeletes irodaházzal rendelkezik. A cég pénzügyi osztálya, tervezési osztálya, adminisztrációs osztálya, értékesítési osztálya, humánerőforrás osztálya és kutatás-fejlesztési osztálya itt dolgozik, és minden osztály egy-egy emeletet foglal el. Ismert: (1) A humánerőforrás osztály és az értékesítési osztály két emelete nem szomszédos; (2) A pénzügyi osztály a tervezési osztály következő emeletén van; (3) Az adminisztrációs osztály emelete a tervezési osztály felett van, de a humánerőforrás osztály alatt.",
+        "question": "Ha a humánerőforrás osztály nem a legfelső emeleten van, mely emeleteken lehet a kutatás-fejlesztési osztály?",
+        "options": [
+            "(A)3, 4, 6",
+            "(B)3, 4, 5",
+            "(C)4, 5",
+            "(D)5, 6"
+        ],
+        "label": "D",
+        "ind": 37
+    },
+    {
+        "passage": "Egy cégnek van egy hatemeletes irodaháza. A cég pénzügyi osztálya, tervezési osztálya, adminisztrációs osztálya, értékesítési osztálya, humánerőforrás osztálya és kutatás-fejlesztési osztálya itt dolgozik, és minden osztály egy-egy emeletet foglal el. Ismert: (1) A humánerőforrás osztály és az értékesítési osztály emeletei nem szomszédosak; (2) A pénzügyi osztály a tervezési osztály következő emeletén van; (3) Az adminisztrációs osztály emelete a tervezési osztály felett van, de a humánerőforrás osztály alatt.",
+        "question": "Ha a Pénzügyi Osztály a harmadik szinten van, melyik lehet a következő állítás helyes?",
+        "options": [
+            "(A) A K+F osztály az ötödik emeleten van",
+            "(B) A K+F osztály az értékesítési osztály feletti szinten van",
+            "(C) Az Adminisztrációs Osztály nincs a Tervezési Osztály feletti szinten",
+            "(D) Az értékesítési osztály a tervezési osztály feletti bizonyos rétegen van"
+        ],
+        "label": "B",
+        "ind": 38
+    },
+    {
+        "passage": "Egy cégnek van egy 6 emeletes irodaháza. A cég pénzügyi osztálya, tervezési osztálya, adminisztrációs osztálya, értékesítési osztálya, humán erőforrás osztálya és kutatás-fejlesztési osztálya itt dolgozik, és minden osztály egy-egy emeletet foglal el. Ismert: (1) Az emberi erőforrások osztályának és az értékesítési osztálynak a két emelete nem szomszédos; (2) A pénzügyi osztály a tervezési osztály következő emeletén van; (3) Az adminisztrációs osztály emelete a tervezési osztály felett van, de a humán erőforrás osztály alatt.",
+        "question": "Melyik lehet az alábbiak közül az a két osztály, amelyek az első és a második szinten helyezkednek el?",
+        "options": [
+            "(A) Pénzügyi osztály, Értékesítési osztály",
+            "(B) Tervezési osztály, Értékesítési osztály",
+            "(C) K+F osztály és Értékesítési osztály",
+            "(D) Értékesítési osztály, Tervezési osztály"
+        ],
+        "label": "C",
+        "ind": 39
+    },
+    {
+        "passage": "Minden tájra néző szoba látja a tájat, de Li Wenbing családja nem látja a tájat. Ezért Li Wenbing családja nem tájra néző szoba.",
+        "question": "Az alábbiak közül melyik hasonlít leginkább a fenti érveléshez?",
+        "options": [
+            "(A) Az emberek, akik kedvesek, tisztelni fogják a falusiak, Chenggong, aki kedves és jótékony, tisztelni fogják a falusiak, tehát Chenggong egy kedves ember.",
+            "",
+            "(B) A Dongdun piacon lévő zöldségek nagyon olcsók. Ez a kosár zöldség nem Dongdun piacon lett vásárolva. Ezért ez a kosár zöldség nem olcsó.",
+            "",
+            "(C) A Jiutian vállalat alkalmazottai tudnak angolul, Lin Yingrui a Jiutian vállalat alkalmazottja, tehát Lin Yingrui tud angolul.",
+            "",
+            "(D) Bárki, aki megfelel az alapvető feltételeknek, igényelhet kis kölcsönt. Sun Wen nem igényelt kis kölcsönt. Ezért Sun Wen nem felelt meg az alapvető feltételeknek."
+        ],
+        "label": "D",
+        "ind": 40
+    },
+    {
+        "passage": "A csili enyhíti az emésztési zavarokat.\" Azok az emberek, akik emésztési zavaroktól szenvednek egy csípős étel elfogyasztása után, megdöbbenhetnek, amikor meglátják ezt a mondatot, és nem hiszik el. Azonban az olasz szakértők kísérletek alapján ugyanarra a következtetésre jutottak. Az emésztési zavaroktól szenvedő kísérleti alanyoknak csilit tartalmazó tablettákat adtak étkezés előtt. Öt hét elteltével a kísérleti alanyok 60%-ának enyhültek a kellemetlen tünetei.",
+        "question": "A következők közül melyik cáfolná meg legjobban a fenti kísérleti következtetést, ha igaz?",
+        "options": [
+            "(A) A csili által tartalmazott kapszaicin bizonyos mértékig gátolhatja egy neurotranszmitter kiválasztását. ",
+            "(B) Ebben a kísérletben a kísérleti alanyok 5%-ának rosszabbodtak a kellemetlen tünetei.",
+            "(C) Egy másik csoportban, akik étkezés után vették be a tablettát, az alanyok 55%-ának enyhültek a tünetei.",
+            "(D) Egészséges étrendre való odafigyelés után az emésztési zavarokkal küzdő betegek általában egy hónapon belül enyhítik a kellemetlen tüneteket."
+        ],
+        "label": "A",
+        "ind": 41
+    },
+    {
+        "passage": "Az Aptripa-barlang a Maina-félszigeten, Dilos öböl közelében található, és akkora, mint négy futballpálya. Ez a barlang a neolitikumból származik, de csak az 1950-es években fedezte fel véletlenül egy kutyát sétáltató ember. Évtizedes tudományos kutatómunka után a régészek eszközöket, kerámiákat, obszidiánt, ezüst- és rézedényeket tártak fel a barlangból, és így úgy vélték, hogy emberek százai éltek a barlangban.",
+        "question": "Melyik alábbi állítás cáfolhatja meg legjobban a fenti érvet, ha igaz?",
+        "options": [
+            "['(A) A barlang inspirálta a pokol leírását a görög mitológiában', '(B) A barlang valójában egy ősi temető és temetkezési helyszín', '(C) Európában nincs olyan őskori falu, amelyet hamarabb találtak volna meg, mint a barlangot', '(D) A barlang bejárata 5000 évvel ezelőtt beomlott']"
+        ],
+        "label": "B",
+        "ind": 42
+    },
+    {
+        "passage": "Egy ország kutatói arról számoltak be, hogy egy bizonyos terület rétegeiben körülbelül 200 millió éves meteoritokat találtak, és valószínűleg ezek nyomai egy hatalmas meteorit becsapódásának a mai Quebec tartományban, Kanadában. Az agyagréteg, amely körülbelül 5 cm vastag, magas koncentrációban tartalmaz olyan elemeket, mint az irídium és a platina, amelyek koncentrációja 50-2000-szerese a földön általában megtalálható szintnek. Emellett ez a kőzet különleges ásványokat is tartalmaz a késői Bacques-képződményben. Mivel a felső és alsó rétegek is tartalmaznak tengeri plankton fosszíliákat, megállapítható, hogy a becsapódás időszaka körülbelül 215 millió évvel ezelőtt volt.",
+        "question": "Az alábbiak közül melyik támasztaná alá legjobban a fenti kutatási eredményeket, ha igaz lenne?",
+        "options": [
+            "(A) A kőzet az ősidők mélytengeri felhalmozódási rétegeinek felszínre kerülése után alakult ki.  ",
+            "(B) A késő paleozoikum triász időszakában (körülbelül 200-237 millió évvel ezelőtt) az ammoniták és más fajok nagy mértékben kihaltak.  ",
+            "(C) Az irídium és a platina elemek különösen a meteoritokra jellemzők, és általában csak nyomokban léteznek a felszínen.  ",
+            "(D) Az ősidőkben számos esetben történt meteorit becsapódás a Földön."
+        ],
+        "label": "C",
+        "ind": 43
+    },
+    {
+        "passage": "Egy újonnan felvett kutató 2013-ban egy tudományos kutatóegységnél, vagy \"bevezetett tehetség\" helyettes magas rangú címmel vagy annál magasabbal, vagy frissen végzett PhD hallgató pekingi lakóhellyel. A frissen végzett PhD hallgatók posztdoktori apartmanokban élnek, és a \"bevezetett tehetségek\" mind a \"Peony Garden\" közösségben laknak.",
+        "question": "A 2013-ban az egységhez újonnan felvett kutatókkal kapcsolatban melyik a következő megállapítások közül helyes?",
+        "options": [
+            "(A) Senki a posztdoktori apartmanokban élők közül nem rendelkezik helyettes magas rangú címmel vagy annál magasabbal.",
+            "(B) Azok, akiknek van PhD-juk, pekingi lakóhellyel rendelkeznek.",
+            "(C) Senki a \"Peony Garden\" közösségben élők közül nem rendelkezik doktori fokozattal.",
+            "(D) Minden nem végzett PhD hallgató a \"Peony Garden\" közösségben él."
+        ],
+        "label": "D",
+        "ind": 44
+    },
+    {
+        "passage": "A közelmúltban viták indultak az interneten arról, hogy fokozatosan növeljék-e a nyugdíjkorhatárt. Egy weboldalon ezzel a kérdéssel foglalkozó vita rovat egy hónapos blogstatisztikái szerint a 200 szónál hosszabb, okokat felsoroló blogbejegyzések körülbelül fele egyetért a nyugdíjkorhatár fokozatos emelésével, hogy enyhítsék az öregedő népesség által okozott társadalombiztosítási nyomást; A blogbejegyzések körülbelül 80%-a ellenezte a nyugdíjkorhatár emelését, főként a fiatalok foglalkoztatására gyakorolt negatív hatás miatt.",
+        "question": "Az alábbiak közül melyik támasztja alá legjobban a nyugdíjkorhatár fokozatos emelésének gondolatát, ha igaz?",
+        "options": [
+            "(A)Sokan most második karrierbe kezdenek a nyugdíjazási eljárások lebonyolítása után.",
+            "(B)Az idősek tisztelete és a gyermekek szeretete Kína több ezer éves szép hagyománya, amelyet tovább kell vinni.",
+            "(C)A fiatalok foglalkoztatási problémáját a gazdasági fejlődés, átalakítás és modernizáció révén kell megoldani.",
+            "(D)A több éves egykepolitika végrehajtása miatt Kína elöregedési problémája akutabb lesz, mint sok nyugati fejlett országban."
+        ],
+        "label": "A",
+        "ind": 45
+    },
+    {
+        "passage": "Egy bizonyos online fórum statisztikai összehasonlítást végzett a netezők által közzétett társadalmi kérdésekről szóló bejegyzésekről az elmúlt évben és 5 évvel ezelőtt, és megállapította, hogy az olyan bejegyzések, mint pénzgyűjtés, szegénység enyhítése és bátorság, 50%-kal növekedtek. Az olyan bejegyzések, amelyek gonoszsággal, a gonosz elől meneküléssel és gyilkosságokkal kapcsolatosak, 90%-kal növekedtek. Ez azt mutatja, hogy a társadalmi légkör gyorsan romlik.",
+        "question": "Az alábbiak közül melyik, ha igaz, gyengítené legjobban a fenti érvet?",
+        "options": [
+            "(A)\"A jó dolgok nem terjednek, a rosszak ezer mérföldre is eljutnak.\" Az idők folyamán",
+            "",
+            "(B)Az internetfelhasználók száma megnégyszereződött az elmúlt 5 évben",
+            "",
+            "(C)Az elmúlt években néhány ember online pletykákat használt fel nyereségszerzési célokra.",
+            "",
+            "(D)Az online fórum egy legális fórum"
+        ],
+        "label": "D",
+        "ind": 46
+    },
+    {
+        "passage": "2012. november 17-én a Nemzeti Védelmi Technológiai Egyetem által fejlesztett \"Tianhe No.1\" szuperszámítógép lett a világ leggyorsabb számítógépe, csúcsteljesítménye 4700 billió művelet/másodperc, folyamatos sebessége pedig 2568 billió lebegőpontos művelet/másodperc. Kevesebb mint három évvel később, a 2013. június 17-én, a németországi Lipcsében megrendezett Nemzetközi Szuperszámítógép Konferencián az nemzetközi TOP500 szervezet bejelentette a világ 500 legjobb szuperszámítógépének legfrissebb listáját. A Nemzeti Védelmi Technológiai Egyetem által fejlesztett \"Tianhe 2\" vezette a listát, csúcsteljesítménye 549 millió művelet/másodperc, folyamatos számítási sebessége pedig 339 millió művelet/másodperc. Az amerikai \"Titanium\" szuperszámítógéphez képest, amely a világ első helyét foglalta el, a számítási sebesség kétszerese az utóbbiénak.",
+        "question": "Melyik a legalkalmasabb következtetés a fenti vitához?",
+        "options": [
+            "['(A) Csak az Egyesült Államok és Kína képes szuperszámítógépet gyártani a világon', '(B) Csak a Kínai Nemzeti Védelmi Egyetem fejlesztett ki sikeresen szuperszámítógépet', '(C) Csak az Egyesült Államokban és Kínában készült szuperszámítógépek kerültek a világ első helyére számítási sebesség tekintetében', '(D) Kína \"Tianhe 2\" számítási sebessége egyértelműen megelőzi a többi szuperszámítógépet']"
+        ],
+        "label": "D",
+        "ind": 47
+    },
+    {
+        "passage": "Az állati fosszíliák és a példányokban megtartott DNS segítségével, valamint az egyre fejlettebb klónozási és genetikai technikák alkalmazásával az emberek képesek voltak „feltámasztani” néhány már kihalt állatot, például a mamutokat, dodókat, dinoszauruszokat stb. Ugyanakkor a tudományos közösség nagy vitát indított arról is, hogy az embereknek kell-e feltámasztaniuk a kihalt állatokat. A támogatók úgy vélik, hogy a feltámasztott állatok várhatóan helyreállítják a sérült ökológiai környezetet egyes területeken. Például a mamutok Szibéria hatalmas füves területein élnek, és ürülékük kiváló műtrágya a füves területek táplálására. Miután a mamut kihalt, a műtrágya hiányában lévő füves területeket fokozatosan tundra váltotta fel. Ha a mamutot feltámaszthatnák és visszahelyezhetnék Szibériába, az segítene csökkenteni a tundra területét és fokozatosan helyreállítani a füves ökoszisztémát.",
+        "question": "Az alábbiak közül melyik cáfolná legjobban a fenti támogatók érveit, ha igaznak bizonyulna?",
+        "options": [
+            "(A) Ha sok időt, energiát és költséget fektetünk a kihalt lények feltámasztásába, az elkerülhetetlenül visszafogja és gyengíti a meglévő veszélyeztetett állatok védelmét, és az eredmény nem éri meg a veszteséget.",
+            "(B) Pusztán egy kihalt állat klónozása nem jelenti azt, hogy az emberek képesek feltámasztani az egész populációt.",
+            "(C) Még ha a kihalt állatokat tömegesen újra is lehetne éleszteni, a növekedésükhöz megfelelő élőhely talán már rég eltűnt. Ha nem tudunk megfelelő környezetet biztosítani a nehéz szervezetek túléléséhez, minden erőfeszítés hiábavaló lesz.",
+            "(D) Ezen állatok túlnyomó többsége fokozatosan eltűnt az emberi fejlődés során. Az emberi tevékenységek vezettek a kihalásukhoz."
+        ],
+        "label": "C",
+        "ind": 48
+    },
+    {
+        "passage": "Sok terhes nőnél jelentkeznek vitaminhiány tünetei, de ez általában nem a terhes nők étrendjének vitaminhiánya miatt van, hanem azért, mert a hasban növekvő babáknak nagyobb a vitaminigényük, mint másoknak.",
+        "question": "A következő állítások közül melyik a legfontosabb a fenti következtetés értékeléséhez?",
+        "options": [
+            "['(A) Teszteljük néhány olyan terhes nő napi étrendjét, akiknél nincs vitaminhiány, hogy meghatározzuk a vitamin tartalmát.', '(B) Teszteljük terhes nőket és más nőket, akiknek napi étrendjükben elegendő vitamin van, hogy megállapítsuk, hiányzik-e náluk vitamin.', '(C) Teszteljük terhes nőket és más nőket, akiknek napi étrendjükben nincs elegendő vitamin, és állapítsuk meg, hogy vitaminhiányosak-e.', '(D) Teszteljük néhány olyan terhes nő napi étrendjét, akiknél vitaminhiány van, hogy meghatározzuk a vitamin tartalmát.']"
+        ],
+        "label": "B",
+        "ind": 49
+    },
+    {
+        "passage": "Az oktatási rendszernek két aspektusa van, az egyik a kötelező oktatás, a másik a felsőoktatás. Egy ésszerű oktatási rendszer megköveteli, hogy mindenkinek legyen joga a kötelező oktatáshoz, és igazságos verseny révén hozzáférése legyen a felsőoktatáshoz.",
+        "question": "Melyik következtetés vonható le a fenti következtetésekből?",
+        "options": [
+            "['(A) Egy oktatási rendszer, amely nem teszi lehetővé, hogy mindenki egyetemre menjen, ésszerűtlen.', '(B) Egy oktatási rendszer, amely garantálja mindenkinek a kötelező oktatás élvezetét, ésszerű.', '(C) Egy oktatási rendszer, amely nem teszi lehetővé, hogy mindenki élvezhesse a kötelező oktatáshoz való jogot, ésszerűtlen.', '(D) Több követelménynek kellene lennie egy ésszerű oktatási rendszerhez.']"
+        ],
+        "label": "C",
+        "ind": 50
+    },
+    {
+        "passage": "Egy közlekedési balesetekkel foglalkozó felmérés megállapította, hogy a közlekedési balesetek előfordulása valójában hasonló azokban a városokban, ahol a ittas vezetést szigorúan vizsgálják, és azokban, ahol nem. Azonban a legtöbb szakértő úgy véli, hogy az ittas vezetés szigorú vizsgálata valóban csökkentheti a közlekedési balesetek előfordulását.",
+        "question": "Melyik a következő állítások közül a leghasznosabb ennek az ellentmondásnak a kiküszöbölésében?",
+        "options": [
+            "['(A) Szigorú ittas vezetés vizsgálatok történtek városi közlekedési balesetek esetén.', '(B) Az a város, amely szigorú ittas vezetés vizsgálatokat hajt végre, nem szüntette meg az ittas vezetést.', '(C) Fontosabb a járművezetők közlekedésbiztonsági tudatosságának javítása, mint a szigorú irányítás.', '(D) Az ittas vezetés szigorú vizsgálatán kívül más közlekedési szabálysértéseket is meg kell állítani.']"
+        ],
+        "label": "A",
+        "ind": 51
+    },
+    {
+        "passage": "A minszki tárgyalások előestéjén az ukrán hatóságok koordinációs csoportjának felszólalói, a „Donyecki Népköztársaság” és a „Luhanszki Népköztársaság” bejelentették tárgyalási álláspontjaikat: ha az ukrán hatóságok nem ismerik el területüket és az orosz nyelv különleges státuszát, és nem állítják le katonai műveleteiket délkeleten, a konfliktus nem oldható meg. Emellett a két „köztársaság” ragaszkodott ahhoz, hogy minden milícia fegyveres résztvevőt és politikai foglyot megkegyelmezzenek. Néhány ukrán megfigyelő megjegyezte: El kell ismernünk ennek a két úgynevezett \"köztársaságnak\" a különleges státuszát, és megoldhatjuk a konfliktust a milícia megkegyelmezésével?",
+        "question": "Az ukrán megfigyelők megjegyzéseit legjobban arra lehet felhasználni, hogy melyik következő állítást cáfolják?",
+        "options": [
+            "(A) Még ha az ukrán hatóságok elismerik is a két \"köztársaság\" területének és az orosz nyelvnek a különleges státuszát, valamint megkegyelmeznek minden milícia fegyveres résztvevőnek és politikai fogolynak, a konfliktus még mindig nem biztos, hogy megoldódik.",
+            "(B) Még ha a konfliktus megoldódik is, nem feltétlenül azért van, mert az ukrán hatóságok elismerik a \"köztársaság\" területét és az orosz nyelv különleges státuszát.",
+            "(C) Ha a konfliktust meg kell oldani, az ukrán hatóságoknak el kell ismerniük a két \"köztársaság\" területének és az orosz nyelvnek a különleges státuszát, és meg kell kegyelmezniük minden milícia fegyveres résztvevőnek és politikai fogolynak.",
+            "(D) Amennyiben az ukrán hatóságok elismerik a két \"köztársaság\" területének és az orosz nyelvnek a különleges státuszát, és megkegyelmeznek minden milícia fegyveres résztvevőnek és politikai fogolynak, a konfliktus megoldható."
+        ],
+        "label": "D",
+        "ind": 52
+    },
+    {
+        "passage": "Az internet gyors fejlődésével valósággá vált, hogy kedvenc termékeinket anélkül vásároljuk meg, hogy elhagynánk otthonunkat. Még az alacsony gazdasági fejlettségű országokban és régiókban is kielégíthetik az emberek az anyagi élet iránti vágyukat az online vásárlás révén.",
+        "question": "Melyik a következő állítások közül kérdőjelezheti meg leginkább a fenti nézetet?",
+        "options": [
+            "['(A) Ahogy az online vásárlási eladások nőnek, a kapcsolódó adók és díjak is növekedni fognak.', '(B) Még az internet előtti korszakban is meg tudták vásárolni az emberek kedvenc termékeiket fizikai boltokon keresztül.', '(C) Az interneten történő árubemutatás nem tudja teljes mértékben tükrözni a valós helyzetet.', '(D) Az emberek elégedettsége az anyagi élet iránti vággyal csak a régió gazdasági fejlettségétől függ.']"
+        ],
+        "label": "D",
+        "ind": 53
+    },
+    {
+        "passage": "Wang Gang egyetemi tanárnak kell lennie, mert nemcsak egy rangos iskolában szerzett doktori fokozatot, hanem több mint egy év kutatási tapasztalattal is rendelkezik egy külföldi kutatóintézetben.",
+        "question": "Melyik a következő állítások közül garantálja a fenti kijelentés helyességét?",
+        "options": [
+            "(A) Hacsak nem egyetemi tanár, lehetetlen, hogy egy rangos iskolában szerzett doktori fokozatot és több mint egy év kutatási tapasztalattal rendelkezzen egy külföldi kutatóintézetben.",
+            "(B) Az elmúlt években az egyetemi tanároktól megkövetelték a külföldi kutatási tapasztalatot.",
+            "(C) Néhány középiskolai tanárnak is van doktori fokozata és külföldi kutatási tapasztalata.",
+            "(D) Hacsak nem PhD és több mint egy év külföldi kutatási tapasztalattal rendelkeznek, nem válhatnak egyetemi tanárokká."
+        ],
+        "label": "A",
+        "ind": 54
+    },
+    {
+        "passage": "Ha a Malaysia Airlines utasszállító repülőgépe nem hibásodott meg, és nem térítették el terrorista szervezetek, akkor egy rakéta lőtte le. Ha az utasszállítót rakéta lövi le, akkor azt a műhold észleli; ha a műhold észleli, hogy az utasszállítót rakéta lőtte le, azt be fogják jelenteni a médiának.",
+        "question": "Ha arra a következtetésre szeretne jutni, hogy a gépet egy terrorszervezet térítette el, melyik következő állítást kellene hozzáadni?",
+        "options": [
+            "(A) Az utasszállítót nem lőtte le a rakéta.",
+            "(B) Nem érkeztek jelentések arról, hogy rakéta lőtte le az utasszállítót, és az utasszállító nem hibásodott meg.",
+            "(C) Az utasszállító nem hibásodott meg.",
+            "(D) Az utasszállító meghibásodott, és nem lőtte le rakéta."
+        ],
+        "label": "B",
+        "ind": 55
+    },
+    {
+        "passage": "Több pénz keresése boldogabbá teszi az embereket, legalábbis bizonyos mértékig. Az új kutatások azonban azt mutatják, hogy ennek az ellenkezője is igaz, és a boldog emberek több pénzt kereshetnek. A Londoni Egyetem kutatói több mint 10 000 amerikai vizsgálata után megállapították, hogy azok, akik pozitív érzelmekkel rendelkeznek és elégedettebbek az élettel, ahogy felnőnek, magasabb jövedelemmel rendelkeznek, amikor elérik a 29 éves kort.",
+        "question": "Az alábbiak közül melyik kérdőjelezheti meg legjobban a fenti kutatási következtetéseket?",
+        "options": [
+            "['(A) A gazdagabb családokban felnőtt fiatalok többségének negatív az életszemlélete.', '(B) Az érzelmeken kívül a szakosodás mértéke és a munkaképesség közvetlenül befolyásolja a jövedelmi szintet.', '(C) Az életükkel elégedettebb fiatalok többsége gazdagabb családokban születik, és mindegyiküknek van jó szakmai háttere.', '(D) Összehasonlítani kellene a válaszadók foglalkozási eloszlását.']"
+        ],
+        "label": "C",
+        "ind": 56
+    },
+    {
+        "passage": "Zhang tanár azt mondta: Ezúttal az osztályunk minden tanulója átment a vizsgán. Ezért az osztályunk egyetlen tanulója sem bukott meg.",
+        "question": "Melyik az alábbiak közül a leginkább hasonló a fenti érveléshez?",
+        "options": [
+            "(A) Az összes diák, aki átment a felülről lefelé irányuló vizsgán, átment a felülvizsgálaton, így minden diák, aki átment a felülvizsgálaton, átment.",
+            "(B) Az összes diák, aki megbukott a felülről lefelé irányuló vizsgán, nem készült fel jól, így azok a diákok, akik nem készültek fel jól, nem mentek át.",
+            "(C) Az összes diák, aki részt vett a felülről lefelé irányuló vizsgán, gondosan felkészült. Ezért azok a diákok, akik nem vettek részt a vizsgán, nem készültek fel gondosan.",
+            "(D) Minden hős képes kiállni a próbát, így azok, akik nem tudják kiállni a próbát, nem hősök."
+        ],
+        "label": "D",
+        "ind": 57
+    },
+    {
+        "passage": "Az elmúlt öt évben a W városban az élelmiszerárak átlagosan 25%-kal emelkedtek. Ugyanakkor a lakosok élelmiszer-vásárlásai a város havi háztartási jövedelmének csupán körülbelül 8%-át tették ki. Ennek eredményeként W város háztartásainak átlagos jövedelme az elmúlt két évben nőtt.",
+        "question": "Az alábbiak közül melyik valószínűleg a fenti érvelés hipotézise?",
+        "options": [
+            "['(A) Az elmúlt öt évben W város családjainak életszínvonala általában javult.', '(B) Az elmúlt öt évben W városban az élelmiszeren kívüli egyéb árucikkek átlagára 25%-kal emelkedett.', '(C) Az elmúlt öt évben a W lakosainak vásárolt élelmiszer mennyisége 8%-kal nőtt.', '(D) Az elmúlt öt évben a W város minden háztartása által vásárolt élelmiszer mennyisége nem változott.']"
+        ],
+        "label": "D",
+        "ind": 58
+    },
+    {
+        "passage": "A magánautók elterjedése egy bizonyos városban súlyosbította a levegőszennyezést, és gyakran okozott súlyos torlódásokat több útszakaszon a reggeli és esti csúcsforgalomban. A probléma megoldása érdekében a város vezetése úgy döntött, hogy minden időjárási körülmények között páratlan és páros számú közlekedési korlátozásokat vezet be a magánautókra, azaz páratlan napokon csak a páratlan számmal végződő magánautók közlekedhetnek, míg páros napokon csak a páros számmal végződő magánautók.",
+        "question": "Az alábbiak közül melyik kérdőjelezi meg legjobban a város vezetésének döntését?",
+        "options": [
+            "(A) A városban van egy nagy autógyártó vállalat, és a rendelési korlátozás biztosan befolyásolja a vállalat autóeladásait.",
+            "(B) A városban a magánautó-tulajdonosok általában két vagy több magánautóval rendelkeznek.",
+            "(C) A város magánautó-tulajdonosai általában gazdagok, és nem törődnek a szabálysértések miatti bírságokkal.",
+            "(D) Tömegközlekedést fejlesztenek a városban, ami segíteni fog a torlódások leküzdésében."
+        ],
+        "label": "B",
+        "ind": 59
+    },
+    {
+        "passage": "Minden egyetemi hallgató, aki teszt nélkül kezdi meg a mesterképzést a Pekingi Egyetemen, már megszerezte iskolája ajánlott képesítését.",
+        "question": "Melyik az alábbiak közül jelenti pontosan ugyanazt, mint a fenti állítás?",
+        "options": [
+            "„(A) Azok az egyetemisták, akik nem rendelkeznek iskolájuk ajánlott képesítésével, nem mentesülhetnek a pekingi egyetemi mesterképzés alól.”, „(B) Azok az egyetemisták, akik teszt nélkül mennek a Nanyang Egyetemre mesterképzésre, lehet, hogy nem szerzik meg iskolájuk ajánlott képesítését.”, „(C) Azok az egyetemisták, akik megszerezték iskolájuk ajánlott képesítését, nem feltétlenül tudnak beiratkozni az egyetemre mesterképzésre.”, „(D) A Pekingi Egyetemen kívül az egyetemisták más iskolákba is mehetnek mesterképzésre.”"
+        ],
+        "label": "A",
+        "ind": 60
+    },
+    {
+        "passage": "Az ásványvízhez képest a tiszta víz hiányzik az ásványi anyagokból, amelyek közül néhány elengedhetetlen az emberi test számára. Ezért Lao Zhang táplálkozási szakértő azt javasolta, hogy azok, akik rendszeresen isznak tiszta vizet, változtassák meg szokásaikat, és igyanak több ásványvizet.",
+        "question": "Melyik a következő állítások közül gyengítheti meg legjobban Lao Zhang javaslatát?",
+        "options": [
+            "['(A) Az emberek számára szükséges tápanyagok többsége nem az ivóvízből származik.', '(B) Az emberi testnek nemcsak ásványi anyagokra van szüksége.', '(C) Tiszta vízen és ásványvízen kívüli víz fogyasztása.', '(D) Az emberek más élelmiszerekből is hozzájuthatnak a szükséges ásványi anyagokhoz.']"
+        ],
+        "label": "D",
+        "ind": 61
+    },
+    {
+        "passage": "Egy értékelő ügynökség társadalmi felmérést végzett a könyvek népszerűségének értékelésére. Az eredmények azt mutatják, hogy az életmódkönyvek eladásai meghaladják a tudományos és technológiai könyvek eladásait, tehát az életmódkönyvek népszerűsége magasabb, mint a tudományos és technológiai könyveké.",
+        "question": "Az alábbiak közül melyik cáfolja meg a legjobban a fenti érvet?",
+        "options": [
+            "['(A) Az eladott mennyiség csak részben tükrözi a könyv népszerűségét.', '(B) Azok, akik technológiai könyveket vásárolnak, gyakran magasan képzettek.', '(C) Az életmódkönyvek típusainak száma messze meghaladja a tudományos és technológiai könyvek típusainak számát.', '(D) Néhány eladott könyvet lehet, hogy nem olvasnak el.']"
+        ],
+        "label": "A",
+        "ind": 62
+    },
+    {
+        "passage": "Az Egészségügyi Minisztérium jelentése szerint az egészségügyi ellátás költségei valóban nőttek az évek során. Látható, hogy mindannyiunk által élvezett orvosi ellátás jelentősen javult.",
+        "question": "Melyik a következő állítások közül veti fel a legkomolyabb kérdést a fenti következtetéssel kapcsolatban?",
+        "options": [
+            "['(A) Az egészségügyi költségek túlnyomó többségét a magas kockázatú betegek számára nyújtott csúcstechnológiás intenzív ellátásra költik.', '(B) Költségnövekedés nélkül is javulhatnak egészségügyi állapotaink.', '(C) Az állam egészségügyi ágazatnak szánt forrásainak 70%-át infrastrukturális fejlesztésekre fordítják.', '(D) Az idős krónikus betegségek ellátásának költsége nagyon nagy.']"
+        ],
+        "label": "A",
+        "ind": 63
+    },
+    {
+        "passage": "Öt végzős hallgató, Zhang, Wang, Li, Zhao és Liu, 2014-ben diplomázott egy egyetem bölcsészettudományi karának nyelvészeti szakán, majd felvették őket a három munkáltató egyikéhez: Tianshu, Tianji és Tianxuan, és mindegyik egység legalább egy hallgatót felvett.",
+        "question": "Melyik állítás lehet helyes?",
+        "options": [
+            "(A) Li és Liu ugyanahhoz az egységhez került.  ",
+            "(B) Wang, Zhao és Liu mindannyian a Tianjihoz kerültek.  ",
+            "(C) Csak Liu került a Tianxuánhoz.  ",
+            "(D) Csak Wang került a Tianxuánhoz."
+        ],
+        "label": "D",
+        "ind": 64
+    },
+    {
+        "passage": "Öt végzős hallgató, Zhang, Wang, Li, Zhao és Liu egy egyetem művészeti karának nyelvészeti szakáról diplomázott 2014-ben, és a három munkáltató egyikéhez, Tianshuhoz, Tianjihez vagy Tianxuanhoz kerültek felvételre, és mindegyik egység legalább együket alkalmazta. Ismeretes: (1) Lit a Tianshu alkalmazta; (2) Li és Zhao nem ugyanazon egységnél dolgozott; (3) Liut és Zhaót ugyanazon egység alkalmazta; (4) Ha Zhangot a Tianxuan alkalmazta, akkor Wangot is a Tianxuan alkalmazta.",
+        "question": "Melyik állításnak kell feltétlenül igaznak lennie?",
+        "options": [
+            "(A) Zhangot és Wangot ugyanazon egység alkalmazta. ",
+            "(B) Wangot és Liut különböző egységek alkalmazták. ",
+            "(C) A Tianshu legfeljebb két embert alkalmazott. ",
+            "(D) A Tianshu és a Tianxuan ugyanannyi embert alkalmaz."
+        ],
+        "label": "C",
+        "ind": 65
+    },
+    {
+        "passage": "Öt végzős diák, Zhang, Wang, Li, Zhao és Liu, 2014-ben diplomázott egy egyetem művészeti karának nyelvészeti szakán, és az egyik három munkaadó, Tianshu, Tianji és Tianxuan közül alkalmazták őket, és legalább együket mindegyik egység alkalmazta. Ismert: (1) Li-t a Tianshu alkalmazta; (2) Li és Zhao nem ugyanazon egység alkalmazásában álltak; (3) Liu és Zhao ugyanazon egység alkalmazásában álltak; (4) Ha Zhangot Tianxuan alkalmazta, akkor Wang Ye-t is Tianxuan alkalmazta.",
+        "question": "Melyik a következő állítások közül helyes, meg tudja határozni az egyes diplomások munkaadóját?",
+        "options": [
+            "['(A) Li-t a Tianshu alkalmazta.', '(B) Zhangot a Tianxuan alkalmazta.', '(C) Zhangot a Tianshu alkalmazta.', '(D) Liu-t a Tianji alkalmazta.']"
+        ],
+        "label": "B",
+        "ind": 66
+    },
+    {
+        "passage": "Öt végzős hallgató, Zhang, Wang, Li, Zhao és Liu egy egyetem művészeti karának nyelvészeti szakán végzett 2014-ben, és a három munkáltató egyikénél, Tianshu, Tianji és Tianxuan, helyezkedtek el, és mindegyik egységnél legalább egy valakit alkalmaztak. Ismeretes: (1) Li-t a Tianshu alkalmazta; (2) Li és Zhao nem ugyanannál az egységnél helyezkedtek el; (3) Liu és Zhao ugyanannál az egységnél helyezkedtek el; (4) Ha Zhang-ot a Tianxuan alkalmazta, akkor Wang Ye-t is Tianxuan alkalmazta.",
+        "question": "Ha Liu-t a Tianxuan alkalmazta, melyik állításnak kell feltétlenül hamisnak lennie?",
+        "options": [
+            "(A) Tianxuan 3 embert alkalmazott.",
+            "(B) Li munkáltatója csak őt alkalmazta.",
+            "(C) Wang-ot a Tianxuan alkalmazta.",
+            "(D) Zhang-ot a Tianxuan alkalmazta."
+        ],
+        "label": "D",
+        "ind": 67
+    },
+    {
+        "passage": "Kétféle közösség által szervezett tevékenység létezik: egészségügyi ellátás és szabadidő. A szervező statisztikái alapján az összes résztvevőről kiderült, hogy a közösség idősei részt vettek az összes egészséggel kapcsolatos tevékenységen, és néhányan részt vettek az összes szabadidős tevékenységen.",
+        "question": "E statisztika alapján melyik állításnak kell igaznak lennie?",
+        "options": [
+            "(A) A közösség által szervezett egyes tevékenységek nem vonják be a közösség időseit.",
+            "(B) A közösség egyes idősei nem vesznek részt a közösség által szervezett tevékenységekben.",
+            "(C) Bármely közösség által szervezett tevékenység bevonja a közösség időseit.",
+            "(D) A közösség középkorú lakosai is részt vettek közösség által szervezett tevékenységeken."
+        ],
+        "label": "C",
+        "ind": 68
+    },
+    {
+        "passage": "Egy társaság által szervezett nemzeti tudományos konferencia alkalmanként közel 1000 konferencia dolgozatot kap. Annak érdekében, hogy biztosítsák a konferencián bemutatott dolgozatok minőségét, a tudományos konferencia szervezőbizottsága úgy döntött, hogy minden alkalommal csak a konferencia dolgozatok 10%-át választják ki bemutatásra.",
+        "question": "A tudományos konferencia szervezőbizottságának döntése legvalószínűbben melyik feltételezésen alapul?",
+        "options": [
+            "(A) Mindig van egy bizonyos százaléknyi jó minőségű dolgozat minden benyújtott konferencia dolgozat között.",
+            "(B) A jövőben minden alkalommal beérkező konferencia dolgozatok száma nem változik jelentősen.",
+            "(C) A konferencia dolgozatok 90%-a nem felel meg a konferencia dolgozatok minőségi követelményeinek.",
+            "(D) A tudományos konferencia szervezőbizottsága képes pontosan megítélni a dolgozatok minőségét."
+        ],
+        "label": "A",
+        "ind": 69
+    },
+    {
+        "passage": "Egy blogger kijelentette: \"Az ingatlanárak jövőbeli trendjének elemzése több mint 1000 netező követő hozzászólását kapta. Megszámoltam, és a követő hozzászólások 85%-a egyetért az én véleményemmel. Ez azt mutatja, hogy a legtöbb ember egyetért velem.\"",
+        "question": "Melyik állítás kérdőjelezheti meg legjobban a blogger következtetését?",
+        "options": [
+            "(A) Bár néhány ember egyetért az ő nézeteivel, nem értenek egyet az elemzésével.",
+            "(B) A blogger más cikkei, amelyek magasabb jóváhagyási arányt kaptak, később tévesnek bizonyultak.",
+            "(C) A bejegyzés ellenvetései közül néhány teljesebb igazolást nyert.",
+            "(D) Azok, akik követik a blogger cikkét, többnyire hűséges rajongói."
+        ],
+        "label": "D",
+        "ind": 70
+    },
+    {
+        "passage": "A bírósági tárgyalásokon az úgynevezett téves ítélet azt jelenti, hogy egy ártatlan személyt bűnösnek ítélnek, amit téves ítéletnek neveznek; a negatív téves ítélet pedig azt jelenti, hogy egy bűnös személyt ártatlannak ítélnek, amit téves ítélésnek neveznek. Az igazságszolgáltatás alapelve az, hogy \"ne engedjünk el egy rossz embert, és ne igazságtalanul bánjunk egy jó emberrel\". Egy jogtudós úgy véli, hogy annak mérése, hogy egy bíróság mennyire jól alkalmazza az igazságszolgáltatás elveit az ügyek kezelése során, attól függ, hogy a pozitív téves ítéletek aránya elég alacsony-e.",
+        "question": "Az alábbiak közül melyik támogathatja a leginkább a fenti jogtudósok nézeteit?",
+        "options": [
+            "(A) Az ügyek kezelése során a különböző bíróságok pontossága jelentősen javult.",
+            "(B) Az egyes bíróságok negatív téves ítéleti aránya lényegében azonos.",
+            "(C) A téves ítélet inkább, mint a téves ítélés a \"baloldali\" gondolkodás tükörképe az igazságszolgáltatásban.",
+            "(D) A téves ítélés által okozott veszteségek többsége orvosolható; a téves ítélet által az áldozatnak okozott kár helyrehozhatatlan."
+        ],
+        "label": "B",
+        "ind": 71
+    },
+    {
+        "passage": "Amíg ebben a társadalomban vannak csalók, és néhány ember szívében kapzsiság lakozik, addig valakinek meg kell csalatkoznia. Tehát ha a társadalom úgy fejlődik, hogy senkit sem csalnak meg, akkor az embereknek abban a társadalomban általánosan meg kell szüntetniük a kapzsiságot.",
+        "question": "Melyik a következők közül támasztja alá legjobban a fenti érvet?",
+        "options": [
+            "(A) Minél nagyobb a kapzsiság, annál könnyebb becsapni az embert.",
+            "(B) A társadalom javult, és a csalók többé nem léteznek.",
+            "(C) A társadalom fejlődésével az emberek jelleme általában javul, és a kapzsiság fokozatosan megszűnik.",
+            "(D) Bármilyen társadalomban is, a csalók mindig léteznek."
+        ],
+        "label": "D",
+        "ind": 72
+    },
+    {
+        "passage": "Több körös kiesés után négy játékos, A, B, C és D versenyez a végső rangsorért. A rangsor nem tartalmaz párhuzamos rangsort. Az elemzők előrejelzései szerint: I. az első helyezett vagy A vagy B; II. Ha C nem az első, akkor Ding nem az első; III. A nem az első.",
+        "question": "Ha az elemző előrejelzései közül csak egy mondat igaz, ki lesz az első?",
+        "options": [
+            "['(A)C', '(B)B', '(C)Nem lehet következtetni', '(D)Ding']"
+        ],
+        "label": "D",
+        "ind": 73
+    },
+    {
+        "passage": "Helytelen azt állítani, hogy a magas finomított cukortartalmú ételek nem okoznak szerzett cukorbetegséget, mert a magas finomított cukortartalmú ételek elhízást okoznak, és az elhízás a szerzett cukorbetegség egyik fontos oka.",
+        "question": "Melyik az alábbiak közül a leginkább hasonló a fenti érveléshez?",
+        "options": [
+            "(A) Helytelen azt állítani, hogy Sándor Platón tanítványa. Valójában Sándor Arisztotelész tanítványa volt, és Arisztotelész Platón tanítványa volt.",
+            "(B) Igaz, hogy a túlzott trágyázás a gyepbetegségek és kártevők fő oka. Mert a túlzott trágyázás miatt a fű vadul nőhet, és a vadul növő fű kevés ellenállást mutat a betegségekkel és kártevőkkel szemben.",
+            "(C) Helytelen azt állítani, hogy a gyakran intenzív testmozgásban részt vevő emberek hirtelen halált okoznak. Mert az erőszakos ok a szív- és érrendszeri betegségek, és az intenzív testmozgás nem feltétlenül okoz szív- és érrendszeri betegségeket.",
+            "(D) Helytelen azt állítani, hogy a gyenge minőségű benzin nem okoz rendellenes üzemanyag-fogyasztást. Mert a gyenge minőségű benzin nagyon normális szelepkopást okozhat, és a rendellenes szelepkopás rendellenes üzemanyag-fogyasztást okozhat."
+        ],
+        "label": "D",
+        "ind": 74
+    },
+    {
+        "passage": "A futballista átigazolási piacon ezen a nyáron csak azok a játékosok lehetnek kedveltek és keresettek sok klub által, akik jól teljesítenek a világbajnokságon és a klubokban is.",
+        "question": "Ha a fenti állítás igaz, akkor az alábbiak közül melyik nem lehet igaz?",
+        "options": [
+            "\"(A) A veterán Klose megdöntötte Ronaldo 15 gólos világbajnoki rekordját 16 góllal a világbajnokságon, de mégsem nyerte el sok klub szimpátiáját.\", '(B) J.Ronaldo nyerte a világbajnokság Aranycipőjét. Ugyanakkor a klubban nyújtott kiváló teljesítménye révén sikeresen átszerződött a Real Madridhoz, miközben sok klub üldözte.', '(C) Royce sérülés miatt nem tudta képviselni a német csapatot a brazíliai világbajnokságon, de kiváló teljesítményt nyújtott a Bundesliga klub pályáján, és a Real Madrid és a Barcelona topóriásai is érdeklődtek iránta az átigazolási piacon.', '(D) A dortmundi gólkirály Lewandowski sikeresen szerződött a Bayern Münchenhez.'"
+        ],
+        "label": "C",
+        "ind": 75
+    },
+    {
+        "passage": "Az elmúlt években az európai és amerikai külföldi tanulmányi piacok továbbra is fellendültek, és egyre több kínai küldi ki gyermekeit. Ugyanakkor a visszatért tudósok egy része álláskeresési dilemmába került, és „tengeri váró” családdá vált. Egy tekintélyes személy rámutatott: „Mint külföldi diplomával rendelkező álláskereső, ha valódi tudással és alapvető szociális készségekkel rendelkezik, és pontosan el tudja helyezni magát a karrier kiválasztási folyamatában, akkor nem válhat „tengeri váróvá”. Daejeon az a visszatérő, aki az Egyesült Királyságban szerzett mesterfokozatot, de még nem talált munkát.",
+        "question": "Melyik következtetés vonható le a fenti vita alapján?",
+        "options": [
+            "(A) Datian valódi tehetséggel és alapvető szociális készségekkel rendelkezik, de a pozicionálás nem pontos.",
+            "(B) Datian vagy nem rendelkezik valódi tehetséggel, vagy hiányoznak az alapvető szociális készségei, vagy nem sikerült pontosan elhelyezkednie a karrier kiválasztási folyamatában.",
+            "(C) Datian nem rendelkezik valódi tudással és alapvető szociális készségekkel, de a pozicionálás pontos.",
+            "(D) Datian nem rendelkezik valódi tudással és alapvető szociális készségekkel, és nincs pontos pozicionálása."
+        ],
+        "label": "B",
+        "ind": 76
+    },
+    {
+        "passage": "Néhány főiskolai tanár külföldi doktori fokozattal rendelkezik, így néhány külföldi doktor magas szintű.",
+        "question": "Melyik alábbi állítás garantálja a fenti kijelentés helyességét?",
+        "options": [
+            "['(A) Minden főiskolai tanár nagyon magas szintű.', '(B) Nem minden főiskolai tanár magas szintű.', '(C) Néhány főiskolai tanár nagyon magas szintű.', '(D) Minden magas szintű tanár külföldi doktori fokozattal rendelkezik.']"
+        ],
+        "label": "A",
+        "ind": 77
+    },
+    {
+        "passage": "Nankou településen csak két középiskola van. Az első középiskola diákjainak eredményei általában jobbak, mint a második középiskoláé. Mivel Li Mingnek, aki Nankou településről származik, a legjobbak az eredményei az első évben az egyetemen, biztosan a Nankou Település 1. Számú Középiskolájában végzett.",
+        "question": "Melyik a következő lehetőségek közül a leginkább hasonló a kérdésfeltevés érveléséhez?",
+        "options": [
+            "(A) Ha a szülő jó oktatást biztosít a gyermeknek, a gyermek teljesítménye az iskolában általában jobb. Mivel Wang Zheng teljesítménye az iskolában nem jó, a szülei biztosan rosszul képzettek.",
+            "(B) Ha a gyermek minden nap 1 órán át szavalja a verset, akkor fejezetekbe fogja exportálni. Guo Na kevesebb mint egy órán át szavalja a verseket minden nap, ezért nem tudja fejezetekbe exportálni.",
+            "(C) Ha az emberek tudják, hogyan kell pénzt keresni, általában több vagyont tudnak felhalmozni. Ezért Mr. Peng vagyona az ő leleményességéből származik.",
+            "(D) Az északiak általában magasabbak, mint a déliek. Marin a legmagasabb az osztályban, így biztosan északi."
+        ],
+        "label": "D",
+        "ind": 78
+    },
+    {
+        "passage": "Egyre több kínai számítógépes szoftver képes kijavítani a helytelenül használt szókincset, nyelvtant és írásjeleket. Még ha az újságíróknak nincs is jó kínai nyelvi alapjuk, ez nem akadályozza meg őket az írásban. Ezért az újságírókat képző iskoláknak nem kell figyelmet fordítaniuk a diákok kínai nyelvi képességeinek javítására, hanem inkább az újságírók egyéb tulajdonságainak fejlesztésére kell összpontosítaniuk.",
+        "question": "Az alábbiak közül melyik gyengítené leginkább a fent említett érveket és javaslatokat, ha igaz lenne?",
+        "options": [
+            "(A) A szókincs, nyelvtan és írásjelek hibáinak elkerülése nem feltétlenül biztosítja a kézirat nyelvi minőségét.",
+            "(B) Az újságírói kurzusok mindig is hangsúlyozták és megkövetelték, hogy a diákok jártasak legyenek a számítógépek használatában és ismerjék a különböző szoftvereket.",
+            "(C) Minél hatékonyabb a kínai szoftver, annál valószínűbb, hogy kalózkodják.",
+            "(D) Az újságírói iskolában egy új kurzus megnyitása bonyolult érvelési és jóváhagyási folyamatot igényel."
+        ],
+        "label": "A",
+        "ind": 79
+    },
+    {
+        "passage": "Általánosan elterjedt vélemény, hogy a balkezesek hajlamosabbak a balesetekre, mint a jobbkezesek. Ez egy félreértés. Valójában a legtöbb háztartási baleset, például tüzek, égési sérülések és kis ujjvágások a jobbkezeseket érinti.",
+        "question": "Az alábbiak közül melyik foglalja össze legmegfelelőbben a fenti érvelés hiányosságait?",
+        "options": [
+            "['(A)Lényegi különbséget tesz két olyan jelenség között, amelyek között nincs lényegi különbség.', '(B)Olyan tárgyak között von párhuzamot, amelyek nem hasonlíthatók össze.', '(C)Nem veszi figyelembe a háztartási balesetek arányát az összes baleset között.', '(D)Nem veszi figyelembe a balkezesek arányát az összes ember között.']"
+        ],
+        "label": "D",
+        "ind": 80
+    },
+    {
+        "passage": "A cement nyersanyaga nagyon olcsó, mint például a mészkő és az iszap, amelyek mindenhol felhasználhatók cement alapanyagként. Azonban a cement árát befolyásolja az olaj ára, mivel sok energiára van szükség ahhoz, hogy a pakisztáni nyersanyagokat magas hőmérsékletű kemencékben cementté alakítsák.",
+        "question": "Az előző következtetések alapján melyik következtetés vonható le legvalószínűbben?",
+        "options": [
+            "['(A)A kőolaj a cementben található egyik nyersanyag', '(B)A kőolaj egyes magas hőmérsékletű kemencék energiaforrása a cementgyártáshoz', '(C)A cement ára csökken, ahogy az olaj ára emelkedik', '(D)Minél magasabb a cement ára, annál magasabb a mészkő ára']"
+        ],
+        "label": "B",
+        "ind": 81
+    }
+]

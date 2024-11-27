@@ -1,0 +1,275 @@
+[
+    {
+        "passage": "background:",
+        "question": "A 25 pozitív egész számot tartalmazó adathalmaz maximális értéke 84. Egy új, 26 pozitív egész számot tartalmazó adathalmaz jön létre azáltal, hogy az eredeti adathalmazhoz hozzáadunk 96-ot. Az alábbi mértékek közül melyiknek kell 12-vel nagyobbnak lennie az új adathalmaz esetében az eredeti adathalmazhoz képest?",
+        "options": [
+            "['(A) Az átlag', '(B) A medián', '(C) A terjedelem', '(D) A szórás']"
+        ],
+        "label": "C",
+        "ind": 0
+    },
+    {
+        "passage": "Clayton $x$ millilitr 10%-os tömegű sóoldatot fog összekeverni $y$ millilitr 20%-os tömegű sóoldattal azért, hogy egy 18%-os tömegű sóoldatot hozzon létre. A fenti egyenlet ezt a helyzetet ábrázolja.",
+        "question": "$$0.10 x+0.20 y=0.18(x+y)$$ Ha Clayton 100 milliliter 20%-os tömegű sóoldatot használ, hány milliliter 10%-os tömegű sóoldatot kell használnia?",
+        "options": [
+            "['(A)5', '(B)25', '(C)50', '(D)100']"
+        ],
+        "label": "B",
+        "ind": 1
+    },
+    {
+        "passage": "Az első évben, amikor Eleanor adománygyűjtő eseményt szervezett, 30 embert hívott meg. A következő 5 év mindegyikében kétszer annyi embert hívott meg, mint az előző évben. Ha $f(n)$ az $n$ évvel azután meghívott emberek száma, hogy Eleanor elkezdte szervezni az eseményt, akkor melyik állítás írja le legjobban az $f$ függvényt?",
+        "question": "Az első évben Eleanor 30 embert hívott meg. A következő 5 év mindegyikében kétszer annyi embert hívott meg, mint az előző évben. Ha $f(n)$ az $n$ évvel azután meghívott emberek száma, hogy Eleanor elkezdte szervezni az eseményt, akkor melyik állítás írja le legjobban az $f$ függvényt?",
+        "options": [
+            "(A) Az $f$ függvény csökkenő lineáris függvény.  ",
+            "(B) Az $f$ függvény növekvő lineáris függvény.  ",
+            "(C) Az $f$ függvény csökkenő exponenciális függvény.  ",
+            "(D) Az $f$ függvény növekvő exponenciális függvény."
+        ],
+        "label": "D",
+        "ind": 2
+    },
+    {
+        "passage": "Néhány $x$ érték és hozzájuk tartozó $y$ értékek láthatóak a fenti táblázatban, ahol $a$ egy állandó. Ha van lineáris kapcsolat $x$ és $y$ között, melyik az alábbi egyenletek közül képviseli ezt a kapcsolatot?",
+        "question": "\\begin{center}\\begin{tabular}{|c|c|c|c|}\\hline$x$ & $a$ & $3 a$ & $5 a$ \\\\\\hline$y$ & 0 & $-a$ & $-2 a$ \\\\\\hline\\end{tabular}\\end{center}",
+        "options": [
+            "['(A)$x+2 y=a$', '(B)$x+2 y=5 a$', '(C)$2 x-y=-5 a$', '(D)$2 x-y=7 a$']"
+        ],
+        "label": "A",
+        "ind": 3
+    },
+    {
+        "passage": "A következő egyenletrendszert ábrázolták az \\(xy\\)-síkon.",
+        "question": "\\[\n\\begin{aligned}\n& 2.4x - 1.5y = 0.3 \\\\\n& 1.6x + 0.5y = -1.3\n\\end{aligned}\n\\]\nMi a rendszer metszéspontjának \\(x\\)-koordinátája \\((x, y)\\)?",
+        "options": [
+            "['(A) -0.5', '(B) -0.25', '(C) 0.8', '(D) 1.75']"
+        ],
+        "label": "A",
+        "ind": 4
+    },
+    {
+        "passage": "Nincs háttérinformáció megadva.",
+        "question": "Keith egy fa populáció növekedését modellezte több száz év alatt azáltal, hogy megbecsülte a fák pollen szemcséinek számát négyzetcentiméterenként, amelyeket évente rakódtak le egy tó üledékének rétegeiben. Becslése szerint az első évben, amikor a szemcséket lerakták, 310 pollen szemcse volt négyzetcentiméterenként, és ezt követően évente $1 \\%$-kal nőtt a szemcsék száma négyzetcentiméterenként. Az alábbi függvények közül melyik modellezi $P(t)$-t, a pollen szemcsék számát négyzetcentiméterenként $t$ évvel azután, hogy az első évben a szemcséket lerakták?",
+        "options": [
+            "(A)$P(t)=310^{t}$, (B)$P(t)=310^{1.01 t}$, (C)$P(t)=310(0.99)^{t}$, (D)$P(t)=310(1.01)^{t}$"
+        ],
+        "label": "D",
+        "ind": 5
+    },
+    {
+        "passage": "[Háttér információ nincs megadva]",
+        "question": "$$\\frac{2}{3}(9 x-6)-4=9 x-6$$ Az egyenlet alapján, mi a $3 x-2$ értéke?",
+        "options": [
+            "['(A)-4', '(B)$-\\\\frac{4}{5}$', '(C)$-\\\\frac{2}{3}$', '(D)4']"
+        ],
+        "label": "A",
+        "ind": 6
+    },
+    {
+        "passage": "A kérdéshez nincs külön háttérinformáció megadva.",
+        "question": "$$H=1.88 L+32.01$$A fenti képlet használható annak becslésére, hogy egy felnőtt férfi magassága $H$ hüvelykben mennyi a combcsontja $L$ hüvelykben mért hossza alapján. Mit jelent az 1,88 ebben az összefüggésben?",
+        "options": [
+            "['(A) Egy körülbelüli combcsont hossz, hüvelykben, egy 32,01 hüvelyk magasságú férfi esetében', '(B) A körülbelüli növekedés egy férfi combcsont hosszában, hüvelykben, minden 32,01 hüvelyk magasságnövekedés esetén', '(C) A körülbelüli növekedés egy férfi combcsont hosszában, hüvelykben, minden egy hüvelykes magasságnövekedés esetén', '(D) A körülbelüli növekedés egy férfi magasságában, hüvelykben, minden egy hüvelykes combcsont hossz növekedés esetén']"
+        ],
+        "label": "D",
+        "ind": 7
+    },
+    {
+        "passage": "Egy festő egy épületben $n$ darab, azonos méretű és alakú falat fog festeni egy adott festékmárkával.",
+        "question": "A festő díja a következő kifejezéssel számítható ki: $n K \\ell h$, ahol $n$ a falak száma, $K$ egy állandó, amely dollár per négyzetláb mértékegységű, $\\ell$ az egyes falak hossza lábban, és $h$ az egyes falak magassága lábban. Ha az ügyfél azt kéri a festőtől, hogy használjon egy drágább festékmárkát, a kifejezés melyik tényezője változna meg?",
+        "options": [
+            "(A)$h$  ",
+            "(B)$\\ell$  ",
+            "(C)$K$  ",
+            "(D)$n$"
+        ],
+        "label": "C",
+        "ind": 8
+    },
+    {
+        "passage": "<háttérinformáció itt>",
+        "question": "Ha $3r = 18$, mi az értéke a $6r+3$ kifejezésnek?",
+        "options": [
+            "(A) 6",
+            "(B) 27",
+            "(C) 36",
+            "(D) 39"
+        ],
+        "label": "D",
+        "ind": 9
+    },
+    {
+        "passage": "",
+        "question": "Melyik az alábbiak közül egyenlő $a^{\\frac{2}{3}}$-mal, minden $a$ értékre?",
+        "options": [
+            "(A)$\\\\sqrt{a^{\\\\frac{1}{3}}}$, (B)$\\\\sqrt{a^{3}}$, (C)$\\\\sqrt[3]{a^{\\\\frac{1}{2}}}$, (D)$\\\\sqrt[3]{a^{2}}$"
+        ],
+        "label": "D",
+        "ind": 10
+    },
+    {
+        "passage": "[Háttér információ nincs megadva]",
+        "question": "A 1776 és 1849 között az Egyesült Államokhoz csatlakozott államok száma kétszerese az 1850 és 1900 között csatlakozott államok számának. Ha 1776 és 1849 között 30 állam csatlakozott az Egyesült Államokhoz, és $x$ állam csatlakozott 1850 és 1900 között, akkor az alábbi egyenletek közül melyik igaz?",
+        "options": [
+            "(A)$30 x=2$  ",
+            "(B)$2 x=30$  ",
+            "(C)$\\frac{x}{2}=30$  ",
+            "(D)$x+30=2$"
+        ],
+        "label": "B",
+        "ind": 11
+    },
+    {
+        "passage": "",
+        "question": "Ha $\\frac{5}{x}=\\frac{15}{x+20}$, akkor mennyi $\\frac{x}{5}$ értéke?",
+        "options": [
+            "['(A)10', '(B)5', '(C)2', '(D)$\\\\frac{1}{2}$']"
+        ],
+        "label": "C",
+        "ind": 12
+    },
+    {
+        "passage": "",
+        "question": "$$\\begin{aligned}& 2 x-3 y=-14 \\\\& 3 x-2 y=-6\\end{aligned}$$Ha $(x, y)$ a fenti egyenletrendszer megoldása, akkor mennyi $x-y$ értéke?",
+        "options": [
+            "['(A)-20', '(B)$\\\\quad-8$', '(C)-4', '(D)8']"
+        ],
+        "label": "C",
+        "ind": 13
+    },
+    {
+        "passage": "A függvény \\( f \\) egy polinommal van definiálva. A fenti táblázat néhány \\( x \\) és \\( f(x) \\) értéket mutat.",
+        "question": "\\begin{center}\\begin{tabular}{|c|c|}\\hline$x$ & $f(x)$ \\\\\\hline0 & 3 \\\\\\hline2 & 1 \\\\\\hline4 & 0 \\\\\\hline5 & -2 \\\\\\hline\\end{tabular}\\end{center}Melyik a következő lehetőségek közül biztosan tényezője az \\( f(x) \\) függvénynek?",
+        "options": [
+            "(A)\\(x-2\\), (B)\\(x-3\\), (C)\\(x-4\\), (D)\\(x-5\\)"
+        ],
+        "label": "C",
+        "ind": 14
+    },
+    {
+        "passage": "A háttérinformáció nincs megadva ehhez a kérdéshez.",
+        "question": "A $y=k x+4$ egyenes, ahol $k$ egy állandó, az $xy$ síkon van ábrázolva. Ha az egyenes tartalmazza a $(c, d)$ pontot, ahol $c \\neq 0$ és $d \\neq 0$, mi az egyenes meredeksége $c$ és $d$ kifejezésében?",
+        "options": [
+            "(A)$\\frac{d-4}{c}$  ",
+            "(B)$\\frac{c-4}{d}$  ",
+            "(C)$\\frac{4-d}{c}$  ",
+            "(D)$\\frac{4-c}{d}$"
+        ],
+        "label": "A",
+        "ind": 15
+    },
+    {
+        "passage": "A fenti egyenletrendszerben $k$ egy konstans, $x$ és $y$ változók.",
+        "question": "$$\\begin{aligned}& k x-3 y=4 \\\\& 4 x-5 y=7\\end{aligned}$$ Milyen $k$ érték esetén nem lesz megoldása az egyenletrendszernek?",
+        "options": [
+            "['(A)$\\\\frac{12}{5}$', '(B)$\\\\frac{16}{7}$', '(C)$-\\\\frac{16}{7}$', '(D)$-\\\\frac{12}{5}$']"
+        ],
+        "label": "A",
+        "ind": 16
+    },
+    {
+        "passage": "",
+        "question": "Az $xy$-síkon a $y=(x-11)^{2}$ egyenletű parabola metsz két pontban, $A$ és $B$, a $y=25$ egyenletű egyenessel. Mekkora az $\\overline{A B}$ szakasz hossza?",
+        "options": [
+            "(A)10, (B)12, (C)14, (D)16"
+        ],
+        "label": "A",
+        "ind": 17
+    },
+    {
+        "passage": "[Háttérinformáció nincs megadva ebben az esetben]",
+        "question": "$$y=a(x-2)(x+4)$$ A fenti másodfokú egyenletben $a$ egy nullától különböző állandó. Az egyenlet grafikonja az $x y$ síkon egy parabola, amelynek csúcsa $(c, d)$. Az alábbiak közül melyik egyenlő $d$-vel?",
+        "options": [
+            "['(A)$-9 a$', '(B)$-8 a$', '(C)$-5 a$', '(D)$-2 a$']"
+        ],
+        "label": "A",
+        "ind": 18
+    },
+    {
+        "passage": "",
+        "question": "Az egyenlet $\\frac{24 x^{2}+25 x-47}{a x-2}=-8 x-3-\\frac{53}{a x-2}$ igaz minden $x \\neq \\frac{2}{a}$ értékre, ahol $a$ egy állandó. Mi $a$ értéke?",
+        "options": [
+            "['(A)-16', '(B)-3', '(C)3', '(D)16']"
+        ],
+        "label": "B",
+        "ind": 19
+    },
+    {
+        "passage": "[Háttérinformáció itt]",
+        "question": "Melyek a megoldások a $3x^{2}+12x+6=0$ egyenletre?",
+        "options": [
+            "['(A)$x=-2 \\\\pm \\\\sqrt{2}$', '(B)$x=-2 \\\\pm \\\\frac{\\\\sqrt{30}}{3}$', '(C)$x=-6 \\\\pm \\\\sqrt{2}$', '(D)$x=-6 \\\\pm 6 \\\\sqrt{2}$']"
+        ],
+        "label": "A",
+        "ind": 20
+    },
+    {
+        "passage": "A következő egyenlet megmutatja, hogyan kapcsolódik egy Fahrenheit-fokban mért hőmérséklet ($F$) egy Celsius-fokban mért hőmérséklethez ($C$).",
+        "question": "$$C=\\frac{5}{9}(F-32)$$\nAz egyenlet alapján melyik állításnak kell igaznak lennie?\nI. Egy Fahrenheit-fokos hőmérséklet-emelkedés egyenértékű egy $\\frac{5}{9}$ Celsius-fokos hőmérséklet-emelkedéssel.\nII. Egy Celsius-fokos hőmérséklet-emelkedés egyenértékű egy 1,8 Fahrenheit-fokos hőmérséklet-emelkedéssel.\nIII. Egy $\\frac{5}{9}$ Fahrenheit-fokos hőmérséklet-emelkedés egyenértékű egy Celsius-fokos hőmérséklet-emelkedéssel.",
+        "options": [
+            "['(A) Csak I', '(B) Csak II', '(C) Csak III', '(D) I és II']"
+        ],
+        "label": "D",
+        "ind": 21
+    },
+    {
+        "passage": "A következő táblázat 25 ember életkor és nem szerinti eloszlását mutatja, akik részt vettek egy versenyen.",
+        "question": "\\begin{center}\\begin{tabular}{|l||c|c||c|}\\cline { 2 - 4 }\\multicolumn{1}{c||}{} & \\multicolumn{2}{c||}{Életkor} & \\multirow{2}{c|}{Összesen} \\\\\\hlineNem & 40 év alatt & 40 éves vagy idősebb \\\\\\hline\\hlineFérfi & 12 & 2 & 14 \\\\\\hlineNő & 8 & 3 & 11 \\\\\\hline\\hlineÖsszesen & 20 & 5 & 25 \\\\\\hline\\end{tabular}\\end{center}A táblázat alapján, ha a verseny győztese véletlenszerűen kerül kiválasztásra, mekkora a valószínűsége annak, hogy a győztes egy 40 év alatti nő vagy egy 40 éves vagy idősebb férfi lesz?",
+        "options": [
+            "['(A)$\\\\frac{4}{25}$', '(B)$\\\\frac{10}{25}$', '(C)$\\\\frac{11}{25}$', '(D)$\\\\frac{16}{25}$']"
+        ],
+        "label": "B",
+        "ind": 22
+    },
+    {
+        "passage": "A táblázat néhány értéket mutat a lineáris függvény $f$-ből.",
+        "question": "\\begin{center}\\begin{tabular}{|c||c|c|c|c|}\\hline$n$ & 1 & 2 & 3 & 4 \\\\\\hline$f(n)$ & -2 & 1 & 4 & 7 \\\\\\hline\\end{tabular}\\end{center} Melyik az alábbiak közül definiálja az $f$ függvényt?",
+        "options": [
+            "(A)$f(n)=n-3$",
+            "",
+            "(B)$f(n)=2 n-4$",
+            "",
+            "(C)$f(n)=3 n-5$",
+            "",
+            "(D)$f(n)=4 n-6$"
+        ],
+        "label": "C",
+        "ind": 23
+    },
+    {
+        "passage": "[Háttérinformáció nincs megadva]",
+        "question": "A Lincoln Gimnáziumban körülbelül a beiratkozott harmadévesek 7 százalékát és a beiratkozott negyedévesek 5 százalékát vették fel a Nemzeti Tiszteletbeli Társaságba tavaly. Ha tavaly 562 harmadéves és 602 negyedéves diák volt beiratkozva a Lincoln Gimnáziumba, akkor az alábbiak közül melyik van legközelebb a Nemzeti Tiszteletbeli Társaságba felvett harmadévesek és negyedévesek összlétszámához a Lincoln Gimnáziumban tavaly?",
+        "options": [
+            "['(A)140', '(B)69', '(C)39', '(D)30']"
+        ],
+        "label": "B",
+        "ind": 24
+    },
+    {
+        "passage": "Nincs megadva háttérinformáció.",
+        "question": "$$\\begin{aligned}& 3 x^{2}-5 x+2 \\\\& 5 x^{2}-2 x-6\\end{aligned}$$ Mi az alábbiak közül a fenti két polinom összege?",
+        "options": [
+            "['(A)$8 x^{2}-7 x-4$', '(B)$8 x^{2}+7 x-4$', '(C)$8 x^{4}-7 x^{2}-4$', '(D)$8 x^{4}+7 x^{2}-4$']"
+        ],
+        "label": "A",
+        "ind": 25
+    },
+    {
+        "passage": "[Háttér információ itt]",
+        "question": "Ha $\\frac{3}{5} w = \\frac{4}{3}$, akkor mennyi $w$ értéke?",
+        "options": [
+            "['(A)$\\\\frac{9}{20}$', '(B)$\\\\frac{4}{5}$', '(C)$\\\\frac{5}{4}$', '(D)$\\\\frac{20}{9}$']"
+        ],
+        "label": "D",
+        "ind": 26
+    },
+    {
+        "passage": "[Background information here]",
+        "question": "A Central High Schoolban az osztályonkénti átlagos tanulólétszám 2000-től 2010-ig a következő egyenlettel modellezhető: $y=0.56 x+27.2$, ahol $x$ az évek számát jelenti 2000 óta, és $y$ az osztályonkénti átlagos tanulólétszámot jelöli. Az alábbiak közül melyik írja le legjobban a 0.56 szám jelentését az egyenletben?",
+        "options": [
+            "['(A) Az iskola teljes tanulólétszáma 2000-ben', '(B) Az osztályonkénti átlagos tanulólétszám 2000-ben', '(C) Az osztályonkénti átlagos tanulólétszám becsült évenkénti növekedése', '(D) Az osztályonkénti átlagos tanulólétszám becsült különbsége 2010 és 2000 között']"
+        ],
+        "label": "C",
+        "ind": 27
+    }
+]

@@ -1,0 +1,302 @@
+[
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Melyik választás írja le legjobban, mi történik a szövegben?",
+        "options": [
+            "(A) Az egyik szereplő vitatkozik egy másik szereplővel, aki betolakodik az otthonába.",
+            "(B) Az egyik szereplő meglepő kérést kap egy másik szereplőtől.",
+            "(C) Az egyik szereplő visszaemlékezik azokra a döntésekre, amelyeket az évek során hozott.",
+            "(D) Az egyik szereplő kritizál egy másik szereplőt, mert váratlan cselekvést követ."
+        ],
+        "label": "B",
+        "ind": 0
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Melyik választás írja le legjobban a szöveg fejlesztési mintáját?",
+        "options": [
+            "(A) A hagyományos gyakorlat gondos elemzése  ",
+            "(B) Egy jelentőségteljes találkozás részletes ábrázolása  ",
+            "(C) Kérdések sorozatára adott végleges válasz  ",
+            "(D) Egy vidám anekdota szórakoztató elmesélése"
+        ],
+        "label": "B",
+        "ind": 1
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Mitől tart legjobban Akira Chie reakcióját illetően?",
+        "options": [
+            "(A) Attól, hogy helytelennek találja a javaslatát.",
+            "(B) Attól, hogy éretlenségnek véli az őszinteségét.",
+            "(C) Attól, hogy kéretlen látogatását tehernek érzi.",
+            "(D) Attól, hogy alábecsüli érzelmei őszinteségét."
+        ],
+        "label": "A",
+        "ind": 2
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "A szövegben Akira hogyan szólítja meg Chie-t?",
+        "options": [
+            "(A) szeretettel, de nem valódi szerelemmel.",
+            "(B) tárgyilagosan, de nem teljes pártatlansággal.",
+            "(C) szórakozottan, de nem gúnyos lekicsinyléssel.",
+            "(D) tisztelettel, de nem teljes hódolattal."
+        ],
+        "label": "D",
+        "ind": 3
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Az első bekezdés fő célja az, hogy",
+        "options": [
+            "['(A) leírjon egy kultúrát.', '(B) kritizáljon egy hagyományt.', '(C) megkérdőjelezzen egy javaslatot.', '(D) elemezzen egy reakciót.']"
+        ],
+        "label": "D",
+        "ind": 4
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "A szerzők fő célja az X-sugaras bizonyítékok és sűrűségre vonatkozó információk bemutatásával az, hogy",
+        "options": [
+            "(A) megállapítsák, hogy a DNS az a molekula, amely hordozza a genetikai információt.",
+            "(B) egy alternatív hipotézist mutassanak be a nukleotid összetételéről.",
+            "(C) alátámasszák a szerzők állítását a DNS molekulában található láncok számáról.",
+            "(D) megerősítsék a DNS sűrűsége és a DNS ismert kémiai képlete közötti kapcsolatot."
+        ],
+        "label": "C",
+        "ind": 5
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "A táblázat és a szöveg alapján melyik választás adja meg a purinok helyes százalékos arányát az élesztő DNS-ében?",
+        "options": [
+            "(A)$17,1 \\\\%$ és $18,7 \\\\%$",
+            "",
+            "(B)$17,1 \\\\%$ és $32,9 \\\\%$",
+            "",
+            "(C)$18,7 \\\\%$ és $31,3 \\\\%$",
+            "",
+            "(D)$31,3 \\\\%$ és $32,9 \\\\%$"
+        ],
+        "label": "C",
+        "ind": 6
+    },
+    {
+        "passage": "Nincs",
+        "question": "A táblázatban szereplő adatok alátámasztják a szerzők által javasolt bázispárosítást a DNS-ben?",
+        "options": [
+            "(A) Igen, mert minden adott organizmus esetében az adenin százalékos aránya áll legközelebb a timin százalékos arányához, és a guanin százalékos aránya áll legközelebb a citozin százalékos arányához.  ",
+            "(B) Igen, mert minden adott organizmus esetében az adenin százalékos aránya áll legközelebb a guanin százalékos arányához, és a citozin százalékos aránya áll legközelebb a timin százalékos arányához.  ",
+            "(C) Nem, mert minden adott organizmus esetében az adenin százalékos aránya áll legközelebb a timin százalékos arányához, és a guanin százalékos aránya áll legközelebb a citozin százalékos arányához.  ",
+            "(D) Nem, mert minden adott organizmus esetében az adenin százalékos aránya áll legközelebb a guanin százalékos arányához, és a citozin százalékos aránya áll legközelebb a timin százalékos arányához."
+        ],
+        "label": "A",
+        "ind": 7
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "A táblázat szerint a következő bázis százalékpárok közül melyik támasztja alá a választ az előző kérdésre a tengeri sün DNS-ével kapcsolatban?",
+        "options": [
+            "(A)$17,3 \\\\%$ és $17,7 \\\\%$, (B)$17,3 \\\\%$ és $32,1 \\\\%$, (C)$17,3 \\\\%$ és $32,8 \\\\%$, (D)$17,7 \\\\%$ és $32,8 \\\\%$"
+        ],
+        "label": "A",
+        "ind": 8
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "A szöveg fő célja az, hogy",
+        "options": [
+            "(A) hangsúlyozza egy hagyomány értékét.",
+            "(B) kiemelje egy probléma sürgősségét.",
+            "(C) rávilágítson a társadalmi megosztottság súlyosságára.",
+            "(D) megkérdőjelezze egy vállalkozás megvalósíthatóságát."
+        ],
+        "label": "B",
+        "ind": 9
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "A szöveg központi állítása az, hogy",
+        "options": [
+            "(A) a művelt nőknek döntést kell hozniuk arról, hogyan kapcsolódjanak be a meglévő intézményekbe.",
+            "(B) a nők csak akkor tölthetnek be befolyásos pozíciókat az angol társadalomban, ha lemondanak néhány hagyományos szerepükről.",
+            "(C) a férfiak hatalmi monopóliuma az angol társadalomban súlyos és folyamatos hatásokat gyakorolt.",
+            "(D) a művelt nők belépése a hagyományosan férfiak által betöltött hatalmi pozíciókba át fogja alakítani ezeket a pozíciókat."
+        ],
+        "label": "A",
+        "ind": 10
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "A szöveg szerint Woolf azért választja a híd helyszínét, mert",
+        "options": [
+            "(A) alkalmas egy elgondolkodtató, fantáziadús hangulat megteremtésére.",
+            "(B) jó rálátást biztosít a művelt férfiak fiainak felvonulására.",
+            "(C) a látóhatáron belül van azokkal a történelmi eseményekkel, amelyekre utal.",
+            "(D) szimbolizálja a művelt férfiak múltbeli és jelenlegi fiainak örökségét."
+        ],
+        "label": "B",
+        "ind": 11
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Woolf jelzi, hogy az általa a szövegben leírt felvonulás",
+        "options": [
+            "(A) az utóbbi években gyakorlati szempontból nagyobb befolyással bír.",
+            "(B) az angol közélet ünnepelt jellemzőjévé vált.",
+            "(C) Anglia leggazdagabb és leghatalmasabb embereit foglalja magában.",
+            "(D) az utóbbi években kevésbé kizárólagossá vált a tagsága."
+        ],
+        "label": "D",
+        "ind": 12
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Az 1. szöveg szerzője szerint az űrbányászat milyen pozitív hatással járhat?",
+        "options": [
+            "(A) Olyan anyagokat szolgáltathat, amelyek fontosak a Föld gazdasága számára.",
+            "(B) Növelheti néhány nemesfém értékét a Földön.",
+            "(C) Nem várt technológiai innovációkat hozhat létre.",
+            "(D) Megváltoztathatja a tudósok űrforrásokkal kapcsolatos megértését."
+        ],
+        "label": "A",
+        "ind": 13
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "A 2. szöveg központi állítása szerint az űrbányászat pozitív potenciállal rendelkezik, de",
+        "options": [
+            "(A) végül az emberiség meggondolatlan környezetkezelését fogja ösztönözni.",
+            "(B) hatásait alaposan meg kell fontolni, mielőtt valósággá válik.",
+            "(C) ez a potenciál nem biztos, hogy magában foglalja azokon a kulcsfontosságú forrásoknak a pótlását, amelyek a Földön eltűnnek.",
+            "(D) a szakértők nem értenek egyet a felfedezések kereskedelmi életképességéről, amelyeket az hozhat."
+        ],
+        "label": "B",
+        "ind": 14
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Melyik állítás írja le legjobban a szövegek közötti kapcsolatot?",
+        "options": [
+            "(A) A 2. szöveg cáfolja az 1. szövegben felvetett központi állítást.",
+            "(B) A 2. szöveg illusztrálja az 1. szövegben általánosabb értelemben leírt jelenséget.",
+            "(C) A 2. szöveg vitatja az 1. szövegben felvetett javaslatok gyakorlati megvalósíthatóságát.",
+            "(D) A 2. szöveg fenntartásokat fogalmaz meg az 1. szövegben tárgyalt fejleményekkel kapcsolatban."
+        ],
+        "label": "D",
+        "ind": 15
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Melyik pont a térben nagyra értékelt erőforrásokkal kapcsolatban implicit módon szerepel az 1. szövegben, és explicit módon a 2. szövegben?",
+        "options": [
+            "['(A) Lehet, hogy ezek különböző erőforrások lesznek, mint amik a Földön értékesek.', '(B) Csak akkor lesznek értékesek, ha olcsón lehet őket kitermelni.', '(C) Valószínűleg elsősorban nemesfémek és ritkaföldfémek lesznek.', '(D) Értékük növekedhet, ahogy ezek az erőforrások a Földön ritkábbá válnak.']"
+        ],
+        "label": "A",
+        "ind": 16
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "A szakasz elbeszélőjét legjobban hogyan lehetne jellemezni?",
+        "options": [
+            "[\"(A) Miss Spivey egyik volt diákja.\", \"(B) Miss Spivey elődje.\", '(C) a közösség névtelen tagja.', '(D) maga Miss Spivey.']"
+        ],
+        "label": "A",
+        "ind": 17
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "A szövegben Threestep főként úgy van bemutatva, mint egy",
+        "options": [
+            "(A) nyári üdülőhely a nyaralók számára.  ",
+            "(B) kis vidéki város.  ",
+            "(C) város, ahol egy kiemelkedő egyetem található.  ",
+            "(D) kényelmes előváros."
+        ],
+        "label": "B",
+        "ind": 18
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "A szövegből ésszerűen arra lehet következtetni, hogy a vasútállomáson lévő emberek közül néhányan hogyan viszonyulnak Miss Spivey megjegyzéséhez a georgiai hőségről.",
+        "options": [
+            "(A) szimpátiával, mert feltételezik, hogy először tapasztalja meg az intenzív hőséget.",
+            "(B) csalódottsággal, mert kételkednek abban, hogy sokáig marad Threestepben.",
+            "(C) zavarban, mert azt képzelik, hogy felsőbbrendűnek érzi magát.",
+            "(D) nehezteléssel, mert úgy érzik, hogy lekicsinyli az ő kényelmetlenségüket."
+        ],
+        "label": "D",
+        "ind": 19
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "A Miss Spivey és Ralphord közötti interakció elsősorban azt szolgálja, hogy",
+        "options": [
+            "(A) azt sugallja, hogy Miss Spivey eltúlzott nézeteket vall arról, hogy milyen információkat kellene közös tudásnak tekinteni.",
+            "(B) megteremtse a barátságos dinamikát a bájos iskolások és az elnéző, gondoskodó új tanáruk között.",
+            "(C) bemutassa Ralphordot, mint egy koravén fiatal diákot, és Miss Spiveyt, mint közömbös és érdektelen tanárt.",
+            "(D) bizonyítsa, hogy a gyerekek szórakoztatni szeretnék Miss Spiveyt a kérdéseikkel."
+        ],
+        "label": "A",
+        "ind": 20
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "A szöveg szerint Miss Spivey közvetlenül annak eredményeként került Threestepbe, hogy",
+        "options": [
+            "['(A) barátságot kötött Janet Millerrel.', '(B) főiskolára járt New York Cityben.', '(C) beszélgetett egy nővel a WPA-nál.', '(D) Miss Chandler visszavonult a tanítástól.']"
+        ],
+        "label": "C",
+        "ind": 21
+    },
+    {
+        "passage": "Nincs",
+        "question": "A részletben, amikor Miss Spivey bejelenti, hogy látott tevét, a diákok reakciója arra utal, hogy ők",
+        "options": [
+            "(A) elragadtatottak.",
+            "(B) elbűvöltek.",
+            "(C) zavarodottak.",
+            "(D) aggódók."
+        ],
+        "label": "C",
+        "ind": 22
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "A szöveg alapján a tankönyvírók az 1990-es évek elején valószínűleg melyik állapotra számítottak volna a gyors rostok blokkolásának eredményeként?",
+        "options": [
+            "(A) A többi idegrost tüzelési sebessége növekedne.",
+            "(B) A tesztalany a gyenge ingereket fájdalmasnak érzékelné.",
+            "(C) A test úgy kompenzálna, hogy lassú rostokat használna a nyomás érzékelésére.",
+            "(D) A rezgések érzékelésének képessége romlana."
+        ],
+        "label": "D",
+        "ind": 23
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Mely következtetést támasztják alá legjobban Olausson 1993-as kísérletének eredményei?",
+        "options": [
+            "(A) A testi végtagok ingerlése ugyanolyan gyorsan érzékelhető, mint az agyhoz közelebbi ingerlés.",
+            "(B) Az emberi bőrön lévő szőrszálak jelenléte csökkenti a jelek vezetésének sebességét az idegekben.",
+            "(C) A gyengéd nyomást nemcsak a gyors rostok, hanem a lassú rostok is érzékelik.",
+            "(D) Az ideg tüzelési sebessége függ az idegre gyakorolt nyomás erősségétől."
+        ],
+        "label": "C",
+        "ind": 24
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Ésszerűen feltételezhető, hogy az 1999-es kísérlet egyik tervezett célja az volt, hogy meghatározza a",
+        "options": [
+            "(A) CT rostok által közvetíthető érzések pontos természetét.",
+            "(B) testszőrzet és CT rostok funkciója közötti kapcsolatot.",
+            "(C) CT rostok szerepét a fájdalomérzékelésben.",
+            "(D) mikroneurográfia hatását a CT rostok jelzésére."
+        ],
+        "label": "A",
+        "ind": 25
+    }
+]

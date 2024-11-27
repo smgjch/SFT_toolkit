@@ -1,0 +1,287 @@
+[
+    {
+        "passage": "[Háttérinformáció itt]",
+        "question": "Melyik a következőek közül egy kör egyenlete az $x y$ síkban, amelynek középpontja $(0,4)$ és sugara $\\left(\\frac{4}{3}, 5\\right)$ végponttal rendelkezik?",
+        "options": [
+            "(A)$x^{2}+(y-4)^{2}=\\\\frac{25}{9}$",
+            "",
+            "(B)$x^{2}+(y+4)^{2}=\\\\frac{25}{9}$",
+            "",
+            "(C)$x^{2}+(y-4)^{2}=\\\\frac{5}{3}$",
+            "",
+            "(D)$x^{2}+(y+4)^{2}=\\\\frac{3}{5}$"
+        ],
+        "label": "A",
+        "ind": 0
+    },
+    {
+        "passage": "A fenti egyenlet a kilőtt labda hozzávetőleges magasságát \\( h \\) méterben adja meg \\( t \\) másodperccel azután, hogy azt függőlegesen felfelé indították a talajról 25 méter/másodperc kezdősebességgel.",
+        "question": "Körülbelül hány másodperc múlva ér földet a labda?",
+        "options": [
+            "(A) 3,5  ",
+            "(B) 4,0  ",
+            "(C) 4,5  ",
+            "(D) 5,0"
+        ],
+        "label": "D",
+        "ind": 1
+    },
+    {
+        "passage": "Katarina botanikus, aki kétféle körtefa által termelt körték mennyiségét tanulmányozza. Megfigyelte, hogy az A típusú fák 20 százalékkal több körtét termeltek, mint a B típusú fák.",
+        "question": "Katarina megfigyelése alapján, ha az A típusú fák 144 körtét termeltek, hány körtét termeltek a B típusú fák?",
+        "options": [
+            "(A)115, (B)120, (C)124, (D)173"
+        ],
+        "label": "B",
+        "ind": 2
+    },
+    {
+        "passage": "Egy négyzet alakú mező 10 méter x 10 méter. Tíz diák mindegyike véletlenszerűen kijelöl egy területet a mezőn; mindegyik terület négyzet alakú, és oldala 1 méter hosszú, és nincs két átfedő terület. A diákok megszámolják a földigilisztákat a talaj felszíne alatt 5 centiméter mélységben minden területen. Az eredmények az alábbi táblázatban láthatók. \\begin{center}\\begin{tabular}{|c|c|c|c|}\\hlineTerület & $\\begin{array}{c}\\text { Földigiliszták száma }\\end{array}$ & Terület & $\\begin{array}{c}\\text { Földigiliszták száma }\\end{array}$ \\\\\\hlineA & 107 & $\\mathrm{~F}$ & 141 \\\\\\hlineB & 147 & $\\mathrm{G}$ & 150 \\\\\\hlineC & 146 & $\\mathrm{H}$ & 154 \\\\\\hlineD & 135 & $\\mathrm{I}$ & 176 \\\\\\hlineE & 149 & $\\mathrm{~J}$ & 166 \\\\\\hline\\end{tabular}\\end{center}",
+        "question": "Melyik a következő lehetőségek közül a földigiliszták számának ésszerű megközelítése a talaj felszíne alatt 5 centiméter mélységben az egész mezőn?",
+        "options": [
+            "['(A)$\\\\quad 150$', '(B)$\\\\quad 1,500$', '(C)15,000', '(D)150,000']"
+        ],
+        "label": "C",
+        "ind": 3
+    },
+    {
+        "passage": "A megadott kérdés egy polinom tulajdonságait vizsgálja, amikor egy adott értéken értékeljük ki.",
+        "question": "Egy $p(x)$ polinom esetén $p(3)$ értéke -2. Mi igaz a következő állítások közül a $p(x)$ polinomra?",
+        "options": [
+            "(A) $x-5$ osztója $p(x)$-nek.",
+            "(B) $x-2$ osztója $p(x)$-nek.",
+            "(C) $x+2$ osztója $p(x)$-nek.",
+            "(D) Amikor $p(x)$-et elosztjuk $x-3$-mal, a maradék -2."
+        ],
+        "label": "D",
+        "ind": 4
+    },
+    {
+        "passage": "background:",
+        "question": "Milyen értéke elégíti ki az $z$ változónak a fenti egyenletet: $$2z+1=z$$?",
+        "options": [
+            "['(A)-2', '(B)-1', '(C)$\\\\frac{1}{2}$', '(D)1']"
+        ],
+        "label": "B",
+        "ind": 5
+    },
+    {
+        "passage": "Egy televíziót, amelynek ára $300$ dollár, egy kezdeti $60$ dolláros befizetéssel és heti $30$ dolláros részletekkel kívánnak megvásárolni.",
+        "question": "Melyik egyenletet lehet használni annak megállapítására, hogy hány heti részlet, $w$, szükséges a vásárlás befejezéséhez, feltételezve, hogy nincsenek adók vagy díjak?",
+        "options": [
+            "(A)$300=30 w-60$  ",
+            "(B)$300=30 w$  ",
+            "(C)$300=30 w+60$  ",
+            "(D)$300=60 w-30$"
+        ],
+        "label": "C",
+        "ind": 6
+    },
+    {
+        "passage": "A fenti táblázat egy online sportfelszereléseket árusító kereskedő szállítási költségeit mutatja. A szállítási költség és az áru súlya között lineáris kapcsolat áll fenn.",
+        "question": "Melyik függvénnyel lehet meghatározni a teljes szállítási költséget, $f(x)$, dollárban, egy $x$ font súlyú áru rendelése esetén?",
+        "options": [
+            "['(A)$f(x)=0.99 x$', '(B)$f(x)=0.99 x+11.99$', '(C)$f(x)=3.39 x$', '(D)$f(x)=3.39 x+16.94$']"
+        ],
+        "label": "B",
+        "ind": 7
+    },
+    {
+        "passage": "<háttérinformáció>",
+        "question": "$$\\sqrt{9 x^{2}}$$ Ha $x>0$, melyik a következő kifejezések közül ekvivalens a megadott kifejezéssel?",
+        "options": [
+            "['(A)$3 x$', '(B)$3 x^{2}$', '(C)$18 x$', '(D)$18 x^{4}$']"
+        ],
+        "label": "A",
+        "ind": 8
+    },
+    {
+        "passage": "background:",
+        "question": "$$\\frac{x^{2}-1}{x-1}=-2$$ Melyek azok az $x$ értékek, amelyek kielégítik a fenti egyenletet?",
+        "options": [
+            "['(A)-3', '(B)0', '(C)1', '(D)-3 és -1']"
+        ],
+        "label": "A",
+        "ind": 9
+    },
+    {
+        "passage": "background:",
+        "question": "Egy kör az $x y$ síkon középpontja $(5,7)$ és sugara 2. Az alábbiak közül melyik egyenlete a körnek?",
+        "options": [
+            "['(A)$(x-5)^{2}+(y-7)^{2}=4$', '(B)$(x+5)^{2}+(y+7)^{2}=4$', '(C)$(x-5)^{2}+(y-7)^{2}=2$', '(D)$(x+5)^{2}+(y+7)^{2}=2$']"
+        ],
+        "label": "A",
+        "ind": 10
+    },
+    {
+        "passage": "Nincs háttérinformáció megadva.",
+        "question": "Az $x y$-síkban az $f(x)=x^{2}+5 x+4$ függvény grafikonjának két $x$-metszete van. Mekkora a távolság az $x$-metszetek között?",
+        "options": [
+            "['(A)1', '(B)2', '(C)3', '(D)4']"
+        ],
+        "label": "C",
+        "ind": 11
+    },
+    {
+        "passage": "Nincs háttérinformáció megadva ebben a kérdésben.",
+        "question": "$$\\sqrt{4x} = x - 3$$ Melyek azok az $x$ értékek, amelyek kielégítik a megadott egyenletet? I. 1 II. 9",
+        "options": [
+            "['(A) Csak I', '(B) Csak II', '(C) I és II', '(D) Sem I, sem II']"
+        ],
+        "label": "B",
+        "ind": 12
+    },
+    {
+        "passage": "Háttérinformáció:",
+        "question": "Kérdés: $$\\begin{aligned}& -3 x+y=6 \\\\& a x+2 y=4\\end{aligned}$$ A fenti egyenletrendszerben $a$ egy állandó. Az alábbi $a$ értékek közül melyik esetén nincs megoldása a rendszernek?",
+        "options": [
+            "Opciók: ['(A)-6', '(B)-3', '(C)3', '(D)6']"
+        ],
+        "label": "A",
+        "ind": 13
+    },
+    {
+        "passage": "Egy helikopter, amely kezdetben 40 láb magasan lebeg a föld felett, elkezd emelkedni 21 láb/másodperc sebességgel.",
+        "question": "Melyik az alábbi függvények közül írja le a helikopter magasságát a föld felett $y$ lábban, $t$ másodperccel azután, hogy a helikopter elkezd emelkedni?",
+        "options": [
+            "(A)$y=40+21$  ",
+            "(B)$y=40+21 t$  ",
+            "(C)$y=40-21 t$  ",
+            "(D)$y=40 t+21$"
+        ],
+        "label": "B",
+        "ind": 14
+    },
+    {
+        "passage": "[Háttér információ itt]",
+        "question": "Ha $20-x=15$, akkor mennyi $3x$ értéke?",
+        "options": [
+            "['(A)5', '(B)10', '(C)15', '(D)35']"
+        ],
+        "label": "C",
+        "ind": 15
+    },
+    {
+        "passage": "Nincs háttérinformáció megadva.",
+        "question": "$$f(x)=\\frac{x+3}{2}$$ Az $f$ függvényre, amelyet fent határoztunk meg, mennyi az $f(-1)$ értéke?",
+        "options": [
+            "['(A)-2', '(B)-1', '(C)1', '(D)2']"
+        ],
+        "label": "C",
+        "ind": 16
+    },
+    {
+        "passage": "background:",
+        "question": "Melyik az alábbiak közül egyenértékű a $2 x\\left(x^{2}-3 x\\right)$ kifejezéssel?",
+        "options": [
+            "['(A)$-4 x^{2}$', '(B)$3 x^{3}-x^{2}$', '(C)$2 x^{3}-3 x$', '(D)$2 x^{3}-6 x^{2}$']"
+        ],
+        "label": "D",
+        "ind": 17
+    },
+    {
+        "passage": "Egy kiskereskedelmi vállalatnak 50 nagy üzlete van egy állam különböző területein. A vállalat egyik kutatója úgy véli, hogy az alkalmazottak munkával való elégedettsége üzletről üzletre nagymértékben változik.",
+        "question": "Melyik a következő mintavételi módszerek közül a legmegfelelőbb annak becslésére, hogy a vállalat összes alkalmazottja közül milyen arányban elégedettek a munkájukkal?",
+        "options": [
+            "(A) Véletlenszerűen kiválasztani az 50 üzlet egyikét, majd megkérdezni az adott üzlet minden alkalmazottját.",
+            "(B) Véletlenszerűen kiválasztani 10 alkalmazottat minden üzletből, majd megkérdezni a kiválasztott alkalmazottakat.",
+            "(C) Megkérdezni a 25 legjobban fizetett és a 25 legrosszabbul fizetett alkalmazottat.",
+            "(D) Létrehozni egy weboldalt, ahol az alkalmazottak kifejezhetik véleményüket, majd az első 50 válasz alapján következtetni."
+        ],
+        "label": "B",
+        "ind": 18
+    },
+    {
+        "passage": "A $h$ függvény fent van definiálva.",
+        "question": "Mi az $h(5)-h(3) ?$",
+        "options": [
+            "['(A)2', '(B)4', '(C)24', '(D)28']"
+        ],
+        "label": "C",
+        "ind": 19
+    },
+    {
+        "passage": "Egy kutató egy nagy egyetem véletlenszerűen kiválasztott hallgatóinak mintáját vizsgálta arról, hogy milyen gyakran néznek filmeket. A minta adatai alapján a kutató becslése szerint a hallgatók $23 \\%$-a nézett meg legalább egyszer egy filmet havonta. A becslés hibahatára $4 \\%$.",
+        "question": "Melyik a legmegfelelőbb következtetés az egyetem összes hallgatójáról a megadott becslés és hibahatár alapján?",
+        "options": [
+            "(A) Valószínűtlen, hogy kevesebb mint $23 \\%$ hallgató néz meg legalább egyszer egy filmet havonta.",
+            "(B) Legalább $23 \\%$, de legfeljebb $25 \\%$ hallgató néz meg legalább egyszer egy filmet havonta.",
+            "(C) A kutató $19 \\%$ és $27 \\%$ között biztos abban, hogy a legtöbb hallgató legalább egyszer megnéz egy filmet havonta.",
+            "(D) Elképzelhető, hogy a hallgatók között azok aránya, akik legalább egyszer néznek filmet havonta, $19 \\%$ és $27 \\%$ között van."
+        ],
+        "label": "D",
+        "ind": 20
+    },
+    {
+        "passage": "A táblázat két számlistát mutat.",
+        "question": "\\begin{center}\\begin{tabular}{|c|c|c|c|c|c|c|}\\hline Lista A & 1 & 2 & 3 & 4 & 5 & 6 \\\\\\hline Lista B & 2 & 3 & 3 & 4 & 4 & 5 \\\\\\hline\\end{tabular}\\end{center} Melyik a következő állítások közül igaz a lista $\\mathrm{A}$ és a lista B összehasonlításában?",
+        "options": [
+            "(A) Az átlagok ugyanazok, és a szórások különbözőek.  ",
+            "(B) Az átlagok ugyanazok, és a szórások is ugyanazok.  ",
+            "(C) Az átlagok különbözőek, és a szórások különbözőek.  ",
+            "(D) Az átlagok különbözőek, és a szórások ugyanazok."
+        ],
+        "label": "A",
+        "ind": 21
+    },
+    {
+        "passage": "[There is no background information provided for this question.]",
+        "question": "Egy könyvet az eredeti árának $40 \\%$-os kedvezményével árusítottak. Ha a könyv akciós ára $\\$18.00$, akkor mennyi volt a könyv eredeti ára? (Tegyük fel, hogy nincs forgalmi adó.)",
+        "options": [
+            "['(A)$\\\\$ 7,20$', '(B)$\\\\$ 10,80$', '(C)$\\\\$ 30,00$', '(D)$\\\\$ 45,00$']"
+        ],
+        "label": "C",
+        "ind": 22
+    },
+    {
+        "passage": "Egy egyenes körkúp térfogata $24 \\pi$ köbhüvelyk.",
+        "question": "Ha a kúp magassága 2 hüvelyk, akkor mekkora a kúp alapjának sugara hüvelykben?",
+        "options": [
+            "['(A)$2 \\\\sqrt{3}$', '(B)6', '(C)12', '(D)36']"
+        ],
+        "label": "B",
+        "ind": 23
+    },
+    {
+        "passage": "2015-ben X város és Y város lakossága megegyezett egymással.",
+        "question": "2010 és 2015 között X város lakossága $20 \\%$-kal nőtt, míg Y város lakossága $10 \\%$-kal csökkent. Ha X város lakossága 120,000 volt 2010-ben, akkor mennyi volt Y város lakossága 2010-ben?",
+        "options": [
+            "(A)60,000, (B)90,000, (C)160,000, (D)240,000"
+        ],
+        "label": "C",
+        "ind": 24
+    },
+    {
+        "passage": "A gömb térfogatát a $V=\\frac{4}{3} \\pi r^{3}$ képlet adja meg, ahol $r$ a gömb sugara.",
+        "question": "Melyik adja meg a gömb sugarát a gömb térfogatának függvényében?",
+        "options": [
+            "(A)$\\\\frac{4 \\\\pi}{3 V}$, (B)$\\\\frac{3 V}{4 \\\\pi}$, (C)$\\\\sqrt[3]{\\\\frac{4 \\\\pi}{3 V}}$, (D)$\\\\sqrt[3]{\\\\frac{3 V}{4 \\\\pi}}$"
+        ],
+        "label": "D",
+        "ind": 25
+    },
+    {
+        "passage": "A fenti táblázat egy felmérés eredményeit mutatja, amelyben táblagép-használókat kérdeztek meg arról, hogy milyen gyakran néznének videohirdetéseket annak érdekében, hogy ingyenesen hozzáférjenek streaming tartalmakhoz.",
+        "question": "A táblázat alapján melyik az alábbiak közül a legközelebbi ahhoz a valószínűséghez, hogy egy táblagép-használó \"Mindig\"-et válaszolt, feltéve, hogy a táblagép-használó nem válaszolt \"Sohasem\"-et?",
+        "options": [
+            "(A) 0,31  ",
+            "(B) 0,38  ",
+            "(C) 0,45  ",
+            "(D) 0,69"
+        ],
+        "label": "C",
+        "ind": 26
+    },
+    {
+        "passage": "Az alábbi egyenletben az $a$ egy konstans. Az egyenlet grafikonja az $x y$ síkban egy parabola.",
+        "question": "$$y=-(x-3)^{2}+a$$\nMi igaz a parabolára nézve?",
+        "options": [
+            "(A) A minimuma a $(-3, a)$ pontban van.",
+            "(B) A minimuma a $(3, a)$ pontban van.",
+            "(C) A maximuma a $(-3, a)$ pontban van.",
+            "(D) A maximuma a $(3, a)$ pontban van."
+        ],
+        "label": "D",
+        "ind": 27
+    }
+]

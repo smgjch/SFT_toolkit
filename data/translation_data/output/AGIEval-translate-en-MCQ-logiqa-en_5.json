@@ -1,0 +1,887 @@
+[
+    {
+        "passage": "2013-ban egy város tudományos és technológiai múzeuma összesen 30 000 jegyet adott el. 2014-ben a város új planetáriuma és természeti múzeuma megnyílt, és ezen három helyszínen eladott belépőjegyek száma összesen 95 000 volt. Ez azt mutatja, hogy a planetáriumok és természeti múzeumok építésébe történő befektetés megéri, mert a tudományos oktatásban részesült polgárok száma több mint kétszeresére nőtt.",
+        "question": "Ha az alábbi állítások közül melyik igaz, gyengíti leginkább a fenti következtetést?",
+        "options": [
+            "(A) A planetárium és a természeti múzeum megnyitásának első éve általában nagy számú látogatót vonz.",
+            "(B) A planetárium és a természeti múzeum valójában kevesebb jegyet adott el, mint várták.",
+            "(C) A Tudományos és Technológiai Múzeumot látogatók többsége a Planetáriumot és a Természeti Múzeumot is meglátogatja.",
+            "(D) A belépőjegyekből származó bevételek önmagukban messze vannak attól, hogy megtérítsék a Planetárium és a Természeti Múzeum építési költségeit."
+        ],
+        "label": "C",
+        "ind": 0
+    },
+    {
+        "passage": "A nyugati orvosláshoz képest a kínai orvoslás biztonságos, mert a kínai orvoslás összetevői mind természetesek.",
+        "question": "Az alábbi állítások közül melyik cáfolja a fenti feltételezéseket, kivéve egyet?",
+        "options": [
+            "['(A) A legtöbb természetes dolog biztonságos.', '(B) A hasmenés természetes, de halált is okozhat.', '(C) Néhány természetes dolog nem biztonságos.', '(D) A nem természetes dolgok biztonságosak.']"
+        ],
+        "label": "A",
+        "ind": 1
+    },
+    {
+        "passage": "Etikus? Normál körülmények között helytelen bizonyos kísérleti orvosi intézkedéseket a páciens beleegyezése nélkül végrehajtani, mert a páciensnek joga van elfogadni vagy elutasítani egy bizonyos kezelést az összes rendelkezésre álló részletes orvosi lehetőség alapján. Azonban sürgősségi kezelések esetén néha csak a páciens beleegyezési jogának túllépésével tudjuk, hogyan kezeljük legjobban a sürgősségi beteget. Ezért bizonyos korlátozott kísérleti kezeléseket a páciens beleegyezése nélkül engedélyezni kell.",
+        "question": "Melyik a következő lehetőségek közül az a hipotézis, amelyre ennek az etikus érvelésnek szüksége van?",
+        "options": [
+            "(A) Ha a páciens tudja, hogy kísérleti kezelést alkalmaztak a sürgősségi kezelés során, az kedvezőtlen hatással lesz a kezelés kimenetelére.",
+            "(B) Csak akkor, ha egy kísérleti kezelés nagyon valószínűleg kedvező eredményeket hoz a páciens számára, akkor szabad ezt a kezelést a páciens beleegyezése nélkül engedélyezni.",
+            "(C) Legalább a sürgősségi kezelések egyes eseteiben a kísérleti kezelés előnyei a páciens beleegyezése nélkül fontosabbak lehetnek, mint a páciens beleegyezési joga.",
+            "(D) Amikor a legjobb orvosi terv még ismeretlen, a pácienseknek már nincs joguk tudni az orvosi tervet és az orvosi terv részleteit."
+        ],
+        "label": "C",
+        "ind": 2
+    },
+    {
+        "passage": "A jelenlegi kínai férfi labdarúgó-válogatott edzője, Perrin, korábban a francia Lyon csapatát vezette a Ligue 1 bajnoki cím és a Francia Kupa megnyeréséhez a 2007/2008-as szezonban, de aztán váratlanul távozott a csapattól. Akkoriban a hitvallása ez volt: vagy teljesen bízni, vagy nem, nincs középút.",
+        "question": "Az alábbi állítások közül melyik fejezi ki legpontosabban Perrin hitvallásának jelentését?",
+        "options": [
+            "['(A)Ha meg akarod tenni, teljes bizalommal kell lenned, különben ne csináld.', '(B)A teljes bizalom az egyetlen módja annak, hogy megtegyük.Ha nem, nem kapsz teljes bizalmat.', '(C)Csak teljes bizalom révén.', '(D)Csináld, ha teljes bizalommal rendelkezel.']"
+        ],
+        "label": "B",
+        "ind": 3
+    },
+    {
+        "passage": "Azok az emberek, akik depresszióval küzdenek, erős hajlamot mutatnak az öngyilkosságra. Sokan úgy gondolják, hogy a depresszió pszichológiai betegség. A 20. század közepén az orvosi kutatások megállapították, hogy három neurotranszmitter (szerotonin, noradrenalin és dopamin) koncentrációja alacsonyabb a normális emberekénél. Az orvosi tudósok azt feltételezik, hogy e három neurotranszmitter egyensúlyhiánya okozza a depressziót.",
+        "question": "Ha az alábbi állítások közül bármelyik igaz, akkor az orvosi tudósok fenti következtetése a legerősebb támogatást kapja?",
+        "options": [
+            "(A) A depresszió nemcsak mentális betegség, hanem szervi betegség is. ",
+            "(B) Lehetséges, hogy a depresszió vezet e három neurotranszmitter agyi koncentrációjának egyensúlyhiányához. ",
+            "(C) A nők és az idősek a depresszió magas kockázatú csoportjai. ",
+            "(D) Az említett három neurotranszmitter koncentrációjának egyensúlyát fenntartó gyógyszerek hatékonyak a depresszió kezelésében."
+        ],
+        "label": "D",
+        "ind": 4
+    },
+    {
+        "passage": "A B városban a szmogot főként olyan szennyező anyagok okozzák, mint a finom részecskék (PM2.5), nitrogén-hidrogén vegyületek és belélegezhető részecskék (PM10). Statisztikai kutatások azt mutatják, hogy a szmogos és ködös időjárási napok száma B városban tavaly jelentősen csökkent az előző évhez képest, és ez volt az év a legnagyobb visszaeséssel a vonatkozó statisztikák óta. Azonban a statisztikai felmérés azt mutatja, hogy a nyilvánosság szmogos időjárással kapcsolatos szorongása és aggodalma B városban az elmúlt évben jelentősen megnőtt.",
+        "question": "Ha az alábbi állítások bármelyike igaz, melyik segít leginkább kiküszöbölni a fenti leírás nyilvánvaló ellentmondásait?",
+        "options": [
+            "(A) Tavaly a hírközlő médiumok beszámolói és kommentárjai a B városi szmogos időjárásról csaknem megduplázódtak az előző évhez képest.",
+            "(B) Néhány ember B városban, akik aggódnak a ködös időjárás miatt, olyan területeken élnek, ahol a PM2.5 szennyezettsége nagyobb.",
+            "(C) Tavaly B városban nagyszabású nemzetközi konferenciát tartottak. Az ideiglenes intézkedések, mint például a járműkorlátozások és az építkezési terület lezárása, voltak a fő okai a köd csökkenésének.",
+            "(D) A B városi lakosok túlnyomó többsége tisztában van a szmog emberre gyakorolt veszélyeivel."
+        ],
+        "label": "C",
+        "ind": 5
+    },
+    {
+        "passage": "Egyesek úgy vélik, hogy csak egy jó intézményi mechanizmus létrehozásával lehet alapvetően felszámolni a korrupciót. Azonban, ha egyszer egy tendencia kialakul a kínai társadalomban, még egy erős rendszer is szét lesz tépve általa. „A nép szívének helyreigazítása, majd a világé” – a probléma alapvető megoldásához a „nép szívének helyreigazítását” kell alapul venni. Csak akkor, ha a népek szíve helyes, szüntethetők meg a korrupció és az utilitarizmus szele, és csak akkor lehet valóban létrehozni és hatékonyan végrehajtani a korrupcióellenes rendszert.",
+        "question": "Melyik állítás feltételezés az, amelyre a fenti érvelés támaszkodik?",
+        "options": [
+            "['(A) Bármely társadalomban van korrupció, és bármilyen módszert is alkalmaznak, csak gyengíteni lehet a korrupciót, de nem felszámolni.', '(B) A korrupció és az utilitarizmus szelei kialakulása nem az tökéletlen rendszerek vagy a pontatlan végrehajtás okozza.', '(C) A szokások megváltoztatásának hatékony módja a derék és kompetens személyek kiválasztása, a gazdagok és szegények közötti különbség szűkítése, és az ideológiai oktatás a haszon érdekében.', '(D) A rendszer alapvető a nép szívének helyreigazításához. A korrupcióellenes rendszerrel és szigorú végrehajtással a légkör megváltozik.']"
+        ],
+        "label": "B",
+        "ind": 6
+    },
+    {
+        "passage": "A legtöbb növény a hosszú távú evolúció során olyan vegyi anyagokat állított elő, amelyek ellenállnak a parazitáknak. Az emberek által gyakran használt növények körülbelül 40 féle természetes gyógyszert tartalmaznak, vagyis összetett vegyi toxinokat a baktériumok, gombák és más paraziták ellen. Az emberek ezeket a toxinokat minden nap beveszik anélkül, hogy megmérgeznék magukat. Ezért a szintetikus növényvédő szerek által a terményekre permetezett további károk nagyon csekélyek.",
+        "question": "Ha a következő állítás igaz, akkor melyik gyengítheti a fenti érvet a kivételével?",
+        "options": [
+            "(A) A növényekben található természetes gyógyszerek koncentrációja sokkal alacsonyabb, mint a terményekre permetezett szintetikus növényvédő szerek koncentrációja.",
+            "(B) Az emberek már évezredek óta fogyasztják ezekben a növényekben található természetes gyógyszereket, és volt idejük alkalmazkodni hozzájuk.",
+            "(C) A szintetikus növényvédő szerek kémiai szerkezete általában egyszerűbb, mint a növényekben található természetes gyógyszereké.",
+            "(D) A növényekben található természetes gyógyszerek általában csak specifikus élőlények ellen alkalmasak, míg a szintetikus növényvédő szerek általában sok szervezetre károsak."
+        ],
+        "label": "C",
+        "ind": 7
+    },
+    {
+        "passage": "Minden zöld vagy csírázott burgonya több mérgező alkaloidot, szolanint tartalmaz. Az ellenőrzött burgonyák egyike sem zöld vagy csírázott. Ezért az ellenőrzött burgonyák biztonságosan fogyaszthatók.",
+        "question": "Ha a következő állítást hipotézisként használjuk, akkor a fenti érvelés következtetése logikusan levezethető?",
+        "options": [
+            "(A) Minden burgonya, amely nem tartalmaz szolanint, biztonságosan fogyasztható.",
+            "(B) A zöld vagy csírázott burgonyák nem biztonságosak fogyasztásra.",
+            "(C) A burgonyák, amelyek sem nem zöldek, sem nem csírázottak, biztonságosan fogyaszthatók.",
+            "(D) Nem biztonságos olyan burgonyát enni, amely több szolanint tartalmaz."
+        ],
+        "label": "C",
+        "ind": 8
+    },
+    {
+        "passage": "Az elmúlt években Kínában a gyártási költségek folyamatosan emelkedtek. A Boston Consulting Group felmérési adatai szerint Kínában a gyártási költségek közel vannak az Egyesült Államokéhoz. Az Egyesült Államokat alapul véve (100), a kínai gyártási index 96, ami azt jelenti, hogy ugyanazon termék gyártási költsége az Egyesült Államokban 1 dollár, míg Kínában 0,96 dollár. Annak ellenére, hogy Kínában a munkaerőköltségek emelkednek, a kínai munkavállalók jövedelme lényegesen alacsonyabb, mint az Egyesült Államokban az ugyanazon iparágban dolgozó munkavállalóké.",
+        "question": "Ha az alábbi állítások bármelyike igaz, hogyan magyarázhatjuk legjobban a látszólag ellentmondásos jelenséget?",
+        "options": [
+            "(A) Kína legtöbb részén az árszínvonal alacsonyabb, mint az Egyesült Államokban.",
+            "(B) A Kínában emelkedő munkaerőköltségek miatt néhány gyártóipar elkezdte áthelyezni néhány üzemét Indiába vagy délkelet-ázsiai országokba.",
+            "(C) A kínai gyártóipar nyereséghányada általában viszonylag alacsony.",
+            "(D) Az elmúlt években Kínában a befektetések tárgyi eszközeinek és energia-költségeinek költségei folyamatosan emelkedtek."
+        ],
+        "label": "D",
+        "ind": 9
+    },
+    {
+        "passage": "A történelem egyik legszigorúbb törvénye, amely a dohányzást tiltja, bár még nem tiltotta meg az embereknek, hogy otthonaikban dohányozzanak, megtiltja az embereknek, hogy minden nyilvános helyen és munkahelyen dohányozzanak. Ha szigorúan betartják ezt a törvényt, teljes mértékben megvédi a munkavállalókat a passzív dohányzástól.",
+        "question": "Ha az alábbi állítások közül melyik igaz, az a fenti érvet a leghatékonyabban gyengíti?",
+        "options": [
+            "['(A) Az autók kipufogógáza, amelyet az emberek a munkába járáskor bocsátanak ki, sokkal károsabb, mint a passzív dohányzás.', '(B) Az olyan személyek, mint a magántanárok, ápolók, órabéres munkások stb., mind a munkaadó otthonában dolgoznak.', '(C) Egyetlen jogszabály és annak végrehajtása sem képes teljes mértékben megvalósítani a jogalkotó szándékát.', '(D) Ez a dohányzásellenőrzési törvény túlbecsüli a passzív dohányzás veszélyeit.']"
+        ],
+        "label": "B",
+        "ind": 10
+    },
+    {
+        "passage": "Szakértő? Csak akkor tükröződhet egy tárgy valós értéke, ha a tulajdonjogai világosan definiáltak és kereskedhetők. Azt mondtuk, hogy meg kell védenünk a gazdák érdekeit. Ha nem tudjuk, mik a gazdák legjobb érdekei, hogyan védhetjük meg őket? Milyen értékes dolgai vannak a gazdáknak? Az a háztáji birtok. Csak akkor védhetjük meg igazán a gazdák érdekeit, ha a háztáji birtok értéke teljes mértékben tükröződik.",
+        "question": "Ha a fenti állítás igaz, melyik alábbi állításnak kell igaznak lennie?",
+        "options": [
+            "(A) Ahhoz, hogy valóban megvédjük a gazdák érdekeit, szükséges engedélyezni a háztáji birtokok kereskedelmét.",
+            "(B) Amint megértjük, mik a parasztok legjobb érdekei, megvédhetjük a parasztok érdekeit.",
+            "(C) Amíg a háztáji birtok tulajdonjogai világosan definiáltak és kereskedhetők, annak valódi értéke tükröződhet.",
+            "(D) Ha a háztáji birtokkal kereskednek, annak értéke teljes mértékben tükröződhet."
+        ],
+        "label": "A",
+        "ind": 11
+    },
+    {
+        "passage": "A standard antibiotikumok általában csak egy hatóanyagot tartalmaznak, míg a gyógynövény alapú antibakteriális szerek sokat. Ezért a gyógynövény alapú gyógyszerek nagyobb valószínűséggel tartják meg hatékonyságukat, mint a szokványos antibiotikumok, amikor új, ellenálló baktériumokkal küzdenek. A törzs számára nehéz ellenállást kialakítani a gyógynövény alapú gyógyszerekkel szemben, pont úgy, ahogy egy szakácsnak nehéz olyan ételt készíteni, amely egyszerre több tucat vendég ízlésének megfelel, míg sokkal könnyebb olyan ételt készíteni, amely egyetlen vendég ízlésének felel meg.",
+        "question": "Melyik az alábbi érvelési módok közül a leginkább hasonló a fenti érveléshez?",
+        "options": [
+            "['(A) Ha nagy betéted van a bankban, az erős vásárlóerőt biztosít. Ha erős a vásárlóerőd, boldog leszel. Ezért, ha nagy összegű betéted van a bankban, boldog leszel.', '(B) Egy időre született baba bizonyos ösztönös reakciókat mutat születés után, amelyek 2 hónapos korra eltűnnek. A baba már 3 hónapos, és megvan ez az ösztönös reakció. Ezért ez a baba nem időre született.', '(C) A mérettől függően a szupermarketnek 1-3 biztonsági őrre lehet szüksége a lopások megelőzésére. Ha bármelyik szupermarket úgy dönt, hogy 3 biztonsági őrt alkalmaz, akkor az egy nagy szupermarketnek kell lennie.', '(D) Az elektromos áram úgy halad át a vezetékeken, mint ahogy a víz áramlik a csöveken. Mivel egy nagy átmérőjű csővezeték nagyobb áramlást biztosít, mint egy kis átmérőjű, egy vastagabb vezeték nagyobb mennyiségű áramot vezet, mint egy vékony vezeték.']"
+        ],
+        "label": "D",
+        "ind": 12
+    },
+    {
+        "passage": "Huszonkettő. A WiFi adók elektromágneses sugárzást generálnak. Öt dán középiskolás diák zsázsamagokat tett egy WiFi adóval és egy WiFi adó nélküli szobába termesztés céljából. 12 nap elteltével azt találták, hogy a magok csírázási aránya a WiFi adó nélküli szobában 95,4% volt, míg a WiFi adóval ellátott gépteremben a magok csírázási aránya 85,3% volt. Sokan aggódnak amiatt, hogy a WiFi sugárzás befolyásolhatja az emberi egészséget. Azonban sok szakértő úgy véli, hogy a fenti kísérlet nem szigorú, és nem lehet arra következtetni, hogy a WiFi sugárzás káros az emberekre.",
+        "question": "Az alábbi állítások közül melyik támogathatja ezeknek a szakértőknek a véleményét?",
+        "options": [
+            "['(A) A WiFi sugárzás emberi testre gyakorolt hatása nemcsak a frekvenciájával, hanem a WiFi adó és az emberi test közötti távolsággal is összefügg.', '(B) Tartsuk változatlanul a többi feltételt ugyanabban a szobában, és ismételjük meg a kísérletet WiFi adóval és anélkül.', '(C) Sok tényező befolyásolja a magok csírázását, és a dán középiskolások kísérletei nem zárhatják ki más tényezők zavaró hatását.', '(D) Állatkísérleteket kell végezni a WiFi sugárzás emberi testre gyakorolt hatásainak meghatározásához, nem csak növényi kísérleteket.']"
+        ],
+        "label": "A",
+        "ind": 13
+    },
+    {
+        "passage": "Zhang Hua azt mondta Wang Lei-nek: \"Azt mondtad nekem, hogy mint a vállalat törvényes tulajdonosa, amíg szeretném, jogomban áll eladni azt. Azonban azt is mondtad, hogy ha eladom, a hűséges alkalmazottak szerencsétlenséget szenvednek el, így nincs jogom ezt megtenni. Nyilvánvalóan a két állításod ellentmondásos.\"",
+        "question": "Melyik állítás írja le legjobban Zhang Hua következtetésének hibáit?",
+        "options": [
+            "(A) Zhang Hua figyelmen kívül hagyta, hogy az alkalmazottainak is vannak jogai a vállalat eladásával kapcsolatban.",
+            "(B) Zhang Hua nem szolgáltatott elegendő és megbízható okot a vállalatának eladására.",
+            "(C) Zhang Hua mostani joga a vállalat el nem adására nem jelenti azt, hogy soha nincs joga eladni azt.",
+            "(D) Zhang Hua összekeveri a vállalat tulajdonjogát a hűséges alkalmazottakért való felelősséggel."
+        ],
+        "label": "D",
+        "ind": 14
+    },
+    {
+        "passage": "A pszichológusok hosszan tartó megfigyelése egy bevásárlóközpont parkolójában azt találta, hogy amikor egy autó csendben várakozik, hogy beállhasson a parkolóhelyre, a sofőr átlagosan 39 másodperc alatt hajt ki a parkolóhelyről; amikor a várakozó tulajdonos türelmetlenül dudál, a sofőr átlagosan 51 másodperc alatt hajt ki a parkolóhelyről; amikor nincs autó, amely várakozik a parkolóhelyre való beálláshoz, a sofőr átlagosan 32 másodperc alatt hajt ki a parkolóhelyről. Ez azt mutatja, hogy a sofőr még mindig kötődik a parkolóhelyhez, amelyet elhagyni készül, és ez a kötődés nő, ahogy más sofőrök várakozása a parkolóhely iránt növekszik.",
+        "question": "Ha az alábbi állítások közül melyik igaz, az gyengíti a fenti spekulációt?",
+        "options": [
+            "(A) A bevásárlóközpont parkolójába be- és kihajtó sofőrök többsége amatőr sofőr, és közülük sokan kezdők, akik kevesebb mint 5000 kilométert vezettek eddig.",
+            "(B) Amikor valaki türelmetlenül dudál az oldalon, szinte minden sofőr, aki elhagyja a parkolóhelyet, boldogtalan lesz, és ez a boldogtalanság befolyásolja, hogy mennyi idő alatt hagyják el a parkolóhelyet.",
+            "(C) Amikor valaki azt várja el, hogy a sofőr ügyesen hajtson ki az autóval, a legtöbb sofőr pszichológiai nyomást érez. Minél nagyobb a nyomás, annál lassabban hagyja el a sofőr a parkolóhelyet.",
+            "(D) Ami a parkolóhelyekre való beállást illeti, a szomszédos más parkolókkal összehasonlítva a bevásárlóközpont parkolóiban a parkolóhelyek elhagyása és elfoglalása nem feltétlenül reprezentatív."
+        ],
+        "label": "C",
+        "ind": 15
+    },
+    {
+        "passage": "Számos sikeres film- és televíziórendező kezdi meg szakmai pályafutását több évnyi formális szakmai tanulás után. Bár jelentős számú film- és televíziórendező nem vett részt formális szakmai képzésben, a technológiát a gyakorlatban társaiktól tanulva sajátították el. Azonban egyetlen film- és televíziórendező sem érhet el sikert, ha figyelmen kívül hagyja a közönség pszichológiai igényeit.",
+        "question": "Ha a fenti állítás igaz, melyik állításnak kell igaznak lennie?",
+        "options": [
+            "(A) Minél inkább értékeli egy film- és televíziórendező a közönség pszichológiai igényeit, annál valószínűbb, hogy sikeres lesz.",
+            "(B) Nincs olyan film- és televíziórendező, aki a gyakorlatban társaiktól tanulva sajátította el a technológiát, és figyelmen kívül hagyja a közönség pszichológiai igényeit.",
+            "(C) Minden sikertelen film- és televíziórendező figyelmen kívül hagyta a közönség pszichológiai igényeit.",
+            "(D) Nem minden film- és televíziórendező, aki formális szakmai tanulmányokon ment keresztül, hagyja figyelmen kívül a közönség pszichológiai igényeit."
+        ],
+        "label": "D",
+        "ind": 16
+    },
+    {
+        "passage": "1991 óta Szomália tulajdonképpen anarchiában van a fegyveres erők szétválása alatt. 1991-ben Szomália egy főre eső GDP-je 210 amerikai dollár volt, és 2011-re 600 amerikai dollárra nőtt. Ugyanebben az évben Tanzánia egy főre eső GDP-je 548 amerikai dollár volt, Közép-Afrikáé 436 amerikai dollár, és Etiópiáé 350 amerikai dollár. Ebből a szempontból nézve, számos afrikai országgal összehasonlítva, amelyek erős központi kormányzás alatt állnak, Szomália anarchiában van, és az emberek életszínvonala egyáltalán nem rossz.",
+        "question": "Az alábbi állítások közül melyik foglalja össze pontosan a fenti érvelés legkomolyabb hibáját?",
+        "options": [
+            "['(A)Szomália gazdagsága néhány ember kezében koncentrálódik, és sokan szegénységbe süllyednek olyan tényezők miatt, mint a biztonság vagy a munkanélküliség.', '(B)Az egy főre eső GDP növekedése a szomáliai kalózoknak köszönhető, akik különböző országok kereskedelmi hajóit eltérítik, és más országok vagyonát fosztogatják.', '(C)Az egy főre eső GDP növekedésének oka az anarchiában rejlő gazdasági szabadság ténye.', '(D)Megbízhatatlan egy ország népének általános életszínvonalát egyetlen mutató alapján megítélni.']"
+        ],
+        "label": "D",
+        "ind": 17
+    },
+    {
+        "passage": "A Sydney-i Egyetem Üzleti Iskolájának alapvető tantárgya a „Kritikus gondolkodás az üzleti életben”. A záróvizsga végén 1200 diák vett részt, de több mint 400-an megbuktak. Közülük 80%-uk kínai diák volt. A Sydney-i Egyetem ezt így magyarázta: „A kínai diákok kritikusan gondolkodnak, és az angol nyelvtudásuk nem elég jó.” L diák képviselő panaszkodott emiatt: „Az iskolába felvett diákokat az iskola akkreditálja, és az üzleti iskola felvételi vizsgája 7 pontos IELTS-et követel meg. Mindannyian elértük ezt a szintet.”",
+        "question": "Az alábbi állítások közül melyik az a hipotézis, amelyre L diák képviselő panasza támaszkodik?",
+        "options": [
+            "(A) Az iskola esetleg tisztességtelenül diszkriminálhatja a kínai diákok pontszámainak értékelésekor.",
+            "(B) Az iskolának elkerülhetetlen felelőssége van a megbukott diákokért, és a megújítás költségét felére kell csökkenteni.",
+            "(C) Az iskola angol nyelvi belépési követelményei megegyeznek az összes tantárgy elvégzése utáni követelményekkel.",
+            "(D) Az egyes kurzusok megújítási díja 5000 ausztrál dollár. Ez a magas bukási arány az iskola megújítási díjakból származó bevételi szándéka miatt van."
+        ],
+        "label": "C",
+        "ind": 18
+    },
+    {
+        "passage": "Az etikátlan viselkedés ellentétes az emberi természettel, és minden, ami sérti az emberi természetet, ugyanolyan rossz. Mivel embereket ölni erkölcstelen, egy ember megölése ugyanolyan rossz, mint száz ember megölése.",
+        "question": "Az alábbi állítások közül melyik illeszkedik legjobban a fent kifejezett elvekhez?",
+        "options": [
+            "(A) Egy ember feláldozása egy ember megmentéséért ugyanolyan nemes, mint egy ember feláldozása száz ember megmentéséért.",
+            "(B) A rablás egyaránt erkölcstelen és ellentétes az emberi természettel, ugyanolyan rossz, mint egy embert megölni.",
+            "(C) Abban az esetben, amikor csak egy embert lehet megölni, hogy a másikat megmentsék, az ölés ugyanolyan rossz, mint nem ölni.",
+            "(D) Mivel a nemi erőszak erkölcstelen, a társadalomnak ugyanúgy kellene megakadályoznia a nemi erőszakot, mint a gyilkosságot."
+        ],
+        "label": "A",
+        "ind": 19
+    },
+    {
+        "passage": "A Zhou-dinasztia kezdete óta Kína gyakorolja azt az etikettet, hogy nem házasodnak azonos vezetéknevűek. A \"Qu Li\" azt mondta: \"Az azonos vezetéknevűek az ősök, és ez a család jelentésével bír, ezért a vezetéknevük ... Habár a száz ős, a házasság nem kapcsolódik, Zhou Zhouran is.\" A \"Mandarin\" azt mondta: \"Feleséget vesznek, hogy elkerüljék az ő vezetéknevét.\" \"Az azonos vezetéknevűek nem házasodnak, sem gonoszság, sem gyarmatosítás.\" Ebből következik, hogy az ősi Kínában az emberek már régóta megértették a modern genetika eugenika és eugenetika elveit, különben nem ismerték volna fel a közeli házasság ártalmait.",
+        "question": "Ha az alábbi állítások közül bármelyik igaz, gyengíti-e a szerző \"azonos vezetéknevűek nem házasodnak\" értelmezését?",
+        "options": [
+            "['(A) Az összeházasodási etikett rendszere megteremti az etikett alapját az országok közötti politikai házasságoknak.', '(B) Őseink országunkban az azonos vezetéknevűek házasságának etikettjét azon tapasztalat alapján alakították ki, hogy az azonos vezetéknevűek házassága vérfertőzéshez és rossz termékenységhez vezet.', \"(C) Qin és Jin összeházasodását Qin Jin jónak nevezik, Qin Jin jó az azonos vezetéknevűek nem házasodásának modellje.\", '(D) Az azonos vezetéknevűek nem házasodásának etikettje ösztönzi az összeházasodást, ami előmozdítja az összes etnikai csoport integrációját.']"
+        ],
+        "label": "D",
+        "ind": 20
+    },
+    {
+        "passage": "Az Egyesült Államok Három Garancia Törvényének bevezetését követő években az autóipari vállalatok hatalmas veszteségeket szenvedtek a visszatérítések miatt. Ezért a Kínai „Háztartási Gépkocsi Termékek Javításának, Cseréjének és Visszaküldésének Felelősségi Szabályzata” (röviden „Három Garancia Törvény”) 2014-es bevezetése előtt az iparági bennfentesek azt jósolták, hogy a Három Garancia Törvény nagy hatással lesz az autógyártókra. Azonban a Három Garancia Törvény bevezetését követő elmúlt évben a pekingi, szecsuáni és más helyeken található számos 4S üzletben végzett újságírói vizsgálatok azt mutatták, hogy nulla eset van az autók visszaküldésére vagy cseréjére a Három Garancia Törvény keretében.",
+        "question": "Ha a következő állítás igaz, melyik magyarázza meg legjobban a fenti anomáliákat?",
+        "options": [
+            "(A) A Három Garancia Törvény bevezetését követő egy évvel a fogyasztók mindössze 7%-a érti a Három Garancia jogait autóvásárlás előtt.",
+            "(B) A legtöbb autókereskedő nem ismertette a fogyasztókkal a Három Garancia jogait és érdekeit a szabályok által előírtak szerint.",
+            "(C) A Három Garancia Törvény kulcsfontosságú rendelkezései, amelyek az autótulajdonosok érdekeit védik, hiányolják az operativitást, így nehéz visszaküldeni vagy kicserélni az autókat.",
+            "(D) Az autógyártók és -kereskedők a törvény általi büntetés elkerülése érdekében javították a karbantartási szolgáltatások minőségét."
+        ],
+        "label": "C",
+        "ind": 21
+    },
+    {
+        "passage": "Azok a pilóták, akik több mint tíz éve csatlakoztak az állami légitársaságokhoz, és később magán légitársaságokhoz igazoltak, most általában több mint egymilliós éves fizetéssel rendelkeznek, míg azok, akik az állami légitársaságoknál maradtak, általában nem haladják meg a 600 000 jüant. Ezek az adatok azt jelzik, hogy az állami légitársaságok pilótáinak fizetése túl alacsony.",
+        "question": "Melyik az alábbi állítások közül az, amely feltételezés szükséges a fenti következtetéshez?",
+        "options": [
+            "(A) A magán légitársaságokhoz átigazolt pilóták túlnyomó többsége úgy véli, hogy az állami légitársaságok fizetése túl alacsony.",
+            "(B) Azok a pilóták, akik magán légitársaságokhoz igazoltak, általában magasabb rangúak és erősebb munkaképességgel rendelkeznek.",
+            "(C) Ha azok a pilóták, akik még mindig az állami légitársaságoknál maradtak, szintén úgy döntenének, hogy magán légitársaságokhoz mennek, éves fizetésük szintén meghaladná az egymilliót.",
+            "(D) A magán légitársaságok pilótái és az állami légitársaságok pilótái évente nagyjából azonos mérföldet repülnek."
+        ],
+        "label": "C",
+        "ind": 22
+    },
+    {
+        "passage": "Azok az országok, ahol a felsőoktatásban részesülők száma kicsi, gazdaságilag és politikailag gyengék lesznek. Azokban az országokban azonban, ahol nagy számú magasan képzett ember él, a kormányok komoly pénzügyi kötelezettségeket vállalnak a közoktatás terén. Ezért bármely ország, amelynek kormánya képes ilyen kötelezettséget vállalni, mentes lesz a gazdasági és politikai gyengeségektől.",
+        "question": "Melyik az alábbi érvek közül a leginkább hasonló a fenti érvhez?",
+        "options": [
+            "(A) Azok a költők, akik magas színvonalú költészetet hoztak létre, megtanulták a hagyományos költészetet, és azok a költők, akik nem tanulták meg a hagyományos költészetet, valószínűleg innovatív költészetet hoznak létre. Ezért az innovatív költészet létrehozása érdekében a legjobb nem megtanulni a hagyományos költészetet.",
+            "",
+            "(B) Az a személy, aki nem érti a tanítást, nem értheti meg azoknak a diákoknak a személyiségét, akiket tanít. Ezért az a személy, aki érti a tanítást, megértheti azoknak a diákoknak a személyiségét, akiket tanít.",
+            "",
+            "(C) Az a személy, aki nélkülözi az érzelmi rezonanciát, nem alkalmas a közhivatalra, míg az érzelmi rezonanciával rendelkező személy jól manipulálja mások érzelmeit. Ezért azok az emberek, akik jól manipulálják mások érzéseit, kiváló jelöltek a közhivatalra.",
+            "",
+            "(D) Ha az éghajlat hirtelen megváltozik, az egyféle táplálékkal rendelkező állatok nehezebben maradnak életben. Azonban a széles körű táplálékkal rendelkező állatok nem, mert a hirtelen éghajlatváltozás csak bizonyos típusú táplálékot tüntet el."
+        ],
+        "label": "C",
+        "ind": 23
+    },
+    {
+        "passage": "Észak-amerikai hím barna medvék általában megtámadják és megölik azokat a bocsokat, amelyeket nem ők nemzettek. Azonban a lazacvándorlási szezon alatt, amely júliustól augusztusig tart, a Haro-öbölben halászó barna medvék között a hímek kevesebb mint tizedannyiszor támadják és ölik meg a nőstény barna medvék bocsait, mint általában. A nőstény és hím barna medvék váratlan találkozásának valószínűsége ebben az időszakban többszörösére nő. Ebben az időszakban, amikor a nőstény és hím barna medvék a leggyakrabban találkoznak, a bocsok megölésének valószínűsége a legalacsonyabb.",
+        "question": "Ha az alábbi állítások közül melyik igaz, az adja a legjobb magyarázatot a hím barna medvék szokatlan viselkedésére?",
+        "options": [
+            "(A) A barna medvék általában a területük védelméért harcolnak. A lazacvándorlási szezonban a halászati képességeikre koncentrálnak, és ritkán harcolnak a területért.",
+            "(B) A bocsok 3 évig a nőstény barna medvékre támaszkodnak, hogy önállóan túléljenek. Mivel a nőstény barna medvék nem fogannak meg szoptatás alatt, a 3 és 12 hónapos bocsok halálozási aránya a legmagasabb.",
+            "(C) A lazac Észak-amerikai barna medvék fő élelmiszerforrása, amely nagy mennyiségben pótolja a testzsírt. A barna medvék küzdenek a testsúlygyarapodásért a halászattal, hogy túléljék a közelgő kemény telet.",
+            "(D) A jövőbeni bocsok védelme érdekében a nőstény barna medvék általában több hím barna medvével párosodnak, így több hím barna medve gondolja úgy, hogy ő a bocsok apja."
+        ],
+        "label": "A",
+        "ind": 24
+    },
+    {
+        "passage": "Minden marató eszköz vagy tűhegyű, vagy lapos élű. Azonban néhány lapos élű marató eszközt gravírozásra használnak, néhányat pedig nem. Másrészt, minden tűhegyű marató eszközt gravírozásra használnak. Ezért több marató eszközt használnak gravírozásra, mint ahányat nem.",
+        "question": "Ha az alábbi állítások bármelyike igaz, akkor az érvelés fenti következtetése logikusan levonható-e?",
+        "options": [
+            "(A) A legtöbb lapos élű marató eszközt nem használják faragásra.  ",
+            "(B) Minden marató eszköz, amelyet nem használnak faragásra, lapos élű.  ",
+            "(C) Ugyanannyi tűhegyű marató eszköz van, mint lapos élű marató eszköz.  ",
+            "(D) Nincs olyan marató eszköz, amely egyszerre lenne tűhegyű és lapos pengéjű."
+        ],
+        "label": "C",
+        "ind": 25
+    },
+    {
+        "passage": "Az 1940-es években több mint 7000 könyvet adtak ki az Egyesült Államokban, melyek közül csak valamivel több mint 10 lett bestseller. Egy New York-i kiadó megállapította, hogy az év legjobban fogyó könyve három témához kapcsolódott: az egyik Lincoln elnökhöz, a másik orvosokhoz, a harmadik pedig kutyákhoz. Úgy gondolta, hogy ha ezt a háromféle tartalmat kombinálják, az biztosan jól fog fogyni. Ezért eltervezte, hogy kiadja az \"Amerikai elnök orvosának elnöke\" című könyvet, de ennek a könyvnek az eredménye rendkívül gyenge volt.",
+        "question": "Melyik az alábbi állítások közül a legjobban szemlélteti a fenti érvelés hiányosságait?",
+        "options": [
+            "['(A) Úgy vélik, hogy az egész birtokolt tulajdonságai a részek birtokában is vannak.', '(B) Úgy vélik, hogy a részek birtokolt tulajdonságai az egész birtokában is vannak.', '(C) Figyelmen kívül hagy más lehetséges okokat.', '(D) Egy jelenség eredményét ennek a jelenségnek az okaként kezelik.']"
+        ],
+        "label": "B",
+        "ind": 26
+    },
+    {
+        "passage": "Tanulmányok kimutatták, hogy a normál vérnyomású emberek többsége esetében a szervezet szükségleteit meghaladó bármilyen nátrium mennyiség sikeresen kiüríthető a szervezetből anélkül, hogy jelentősen megemelné a vérnyomást. Ezért csak azoknak kell korlátozniuk a nátrium bevitelét, akiknek magas a vérnyomása, vagy akik szervezete nem tudja biztonságosan kezelni a fölösleges nátriumot.",
+        "question": "Ha az alábbi állítások bármelyike igaz, az mennyiben gyengítheti a fenti érvelést a leghatékonyabban?",
+        "options": [
+            "[\"(A) A fölösleges nátrium bevitele néha károsítja a szervezet képességét a fölösleges nátrium kezelésére.\", '(B) A magas vérnyomás néha súlyosbodik, ha több nátriumot fogyasztunk, mint amennyire a szervezetnek szüksége van.', '(C) Bárkinek szüksége van egy bizonyos mennyiségű nátriumra a szervezet normál élettani funkcióinak fenntartásához.', '(D) Bármilyen nátrium bevitele, amely meghaladja a szervezet szükségleteit, megemeli a vérnyomást, hacsak nem ürül ki a szervezetből.']"
+        ],
+        "label": "A",
+        "ind": 27
+    },
+    {
+        "passage": "A gerinces kövületek között a cápafogak az egyik leggyakoribb kövületek. Azonban a cápa csontváz kövületek nagyon ritkák. Más gerincesek csontváz kövületeinek felfedezéséhez képest a cápa csontváz kövületeinek felfedezése jobb, mint a semmi.",
+        "question": "Ha az alábbi állítások bármelyike igaz, melyik lenne a leghasznosabb a fenti kételyek eloszlatására?",
+        "options": [
+            "\"(A) A cápa fogait élete során sokszor ki kell cserélni, de a cápa csontváza élethosszig változatlan marad, csak egy csontváz van.\", \"(B) A fogak vagy más gerincesek csontvázához képest a cápa porcos csontvázak kevésbé valószínű, hogy kövületekké alakulnak.\", \"(C) A cápa csontvázának megkövesedési folyamata ugyanaz, mint a cápa fogainak megkövesedése során bekövetkező fizikai változások.\", \"(D) Valóban zavaró megtalálni a csontváz kövületet ott, ahol a cápa fogának kövületét találták.\""
+        ],
+        "label": "B",
+        "ind": 28
+    },
+    {
+        "passage": "A tápértéket 27 féle, az ember számára nélkülözhetetlen tápanyag tartalma alapján értékelik. A különösen magas víztartalmú zöldségek alacsony tápértékűek. A jamsz alacsony víztartalmú, ezért a jamsz tápértéke magas lesz.",
+        "question": "Melyik az alábbi érvelések közül azonos formájú a fenti érveléssel?",
+        "options": [
+            "(A) A csillagok mind önfénylőek, a Vénusz nem csillag, így a Vénusz nem önfénylő.",
+            "(B) Az árucikkeknek van használati értékük, és természetesen a levegőnek is van használati értéke, tehát a levegő árucikk.",
+            "(C) Mindenki, aki sikerre vágyik, keményen dolgozik, ő nem dolgozik keményen, így ő nem vágyik sikerre.",
+            "(D) Minden csalással kötött szerződés érvénytelen, és az érvénytelen szerződések nem kötelező érvényűek. Ezért minden nem kötelező érvényű szerződést csalással kötöttek."
+        ],
+        "label": "A",
+        "ind": 29
+    },
+    {
+        "passage": "A törvényhozás azt a javaslatot vitatja, hogy tiltsák be a halászatot a Huanglong-öbölben. Bár a halászat betiltása jelentős hatással lesz a helyi gazdasági iparra, amelyet főként a halászat támogat, ezt a javaslatot is végre kell hajtani. A Huanglong-öböl az egyik olyan terület, ahol a vízszennyezés szintje a legmagasabb. A legutóbbi tanulmányok kimutatták, hogy a Huanglong-öbölben élő halak 80%-a a nemzeti biztonsági szabványokat meghaladó méreganyagokat tartalmaz. A halászat folytatása komoly károkat okoz a közegészségügyben.",
+        "question": "Az alábbi állítások közül melyik fejezi ki legpontosabban a fenti érvelés mögötti alapelveket?",
+        "options": [
+            "['(A) A szükséges óvintézkedések elvének alkalmazása a várható következmények alapján.', '(B) A várható következmények alapján két rossz közül a kisebbik elvét részesítik előnyben.', '(C) Mások károsításának tilalma elvének alkalmazása a várható következmények alapján.', '(D) Az ártatlanság vélelmének elvét alkalmazzák azon az alapon, hogy nincs bűnösségre utaló bizonyíték.']"
+        ],
+        "label": "B",
+        "ind": 30
+    },
+    {
+        "passage": "Az elmúlt 100 évben a Dali-tó területén a hosszú távú aszály miatt sok füves vizes élőhely sóssá változott. A füves vizes élőhely az a hely, ahol a kacsák, ludak és más vízimadárfajok fészkelnek és költenek. Azonban a vizes élőhelyek folyamatos zsugorodásával a vörös kacsák számának csökkenési üteme ezen a területen sokkal alacsonyabb, mint a hattyúk számának csökkenési üteme.",
+        "question": "Ha az alábbi állítások közül melyik igaz, az adja a legjobb magyarázatot a fent említett ellentmondásra?",
+        "options": [
+            "(A) A vörös kacsák 8-10 tojást raknak fészkenként, míg a hattyúk 2-3 tojást raknak fészkenként. A túlélési arány körülbelül azonos.  ",
+            "(B) A környezetvédelmi intézkedések megerősítése lassította a vörös kacsák, hattyúk és más vízimadárfajok számának átlagos csökkenését.  ",
+            "(C) Mind a vörös kacsák, mind a hattyúk vándormadarak, és a vörös kacsák nagyobb valószínűséggel pusztulnak el a vándorlási folyamat során.  ",
+            "(D) A vizes élőhelyeken kívül a vörös kacsák fokozatosan megtanultak fészkelni fák üregeiben és sziklaüregekben, de a hattyúk nem tudtak így tenni."
+        ],
+        "label": "D",
+        "ind": 31
+    },
+    {
+        "passage": "Van 6 tiszta porcelánvirág: S, Y, M, Q, K, X. Mindegyik darab előállítási ideje különböző. Balról jobbra az kiállításokat a legkorábbitól a legkésőbbi felé rendezték. A következő rendezési feltételek ismertek: (1) M régebbi, mint X. (2) Ha Y korábbi, mint M, akkor Q korábbi, mint K és X. (3) Ha M kora korábbi, mint Y, akkor K kora korábbi, mint Q és X. (4) S kora vagy korábbi, mint Y, vagy korábbi, mint M, de egyik sem.",
+        "question": "A következő listák közül melyik tartalmazza a lehetséges kiállítási sorrendet?",
+        "options": [
+            "['(A)Q, M, S, K, Y, X', '(B)Q, K, Y, M, X, S', '(C)Y, S, M, X, Q, K', '(D)M, K, S, Q, Y, X']"
+        ],
+        "label": "D",
+        "ind": 32
+    },
+    {
+        "passage": "6 darab tiszta virágos porcelán van: S, Y, M, Q, K, X. Mindegyik darab gyártási ideje különböző. Balról jobbra a kiállítások a legrégebbitől a legújabbig vannak sorolva. Az ismert sorrendi feltételek a következők: (1) M régebbi, mint X. (2) Ha Y korábbi, mint M, akkor Q korábbi, mint K és X. (3) Ha M kora korábbi, mint Y, akkor K korábbi, mint Q és X. (4) S kora vagy korábbi, mint Y, vagy korábbi, mint M, de egyik sem egyszerre.",
+        "question": "Ha Y kora a második legkorábbi, melyik a következő állítások közül lehet igaz?",
+        "options": [
+            "(A) K kora korábbi, mint S-é.",
+            "(B) K kora korábbi, mint Q-é.",
+            "(C) M régebbi, mint S.",
+            "(D) M régebbi, mint Y."
+        ],
+        "label": "A",
+        "ind": 33
+    },
+    {
+        "passage": "Van 6 átlátszó virágos porcelán: S, Y, M, Q, K, X. Mindegyik darab előállítási ideje különbözik. Balról jobbra a kiállítások a legkorábbi időponttól a legkésőbbi felé vannak rendezve. A ismert rendezési feltételek a következők: (1) M idősebb, mint X. (2) Ha Y korábbi, mint M, akkor Q korábbi, mint K és X. (3) Ha M kora korábbi, mint Y, akkor K kora korábbi, mint Q és X. (4) S kora vagy korábbi, mint Y, vagy korábbi, mint M, de egyik sem lehet egyszerre.",
+        "question": "Melyik a következő porcelánok közül nem lehet a legkorábbi?",
+        "options": [
+            "['(A)M', '(B)Q', '(C)S', '(D)Y']"
+        ],
+        "label": "C",
+        "ind": 34
+    },
+    {
+        "passage": "Hat darab átlátszó virágos porcelán van: S, Y, M, Q, K, X. Mindegyik darab gyártási ideje eltérő. Balról jobbra az kiállítások a legkorábbitól a legkésőbbiig vannak rendezve. Az ismert rendezési feltételek a következők: (1) M régebbi, mint X. (2) Ha Y korábbi, mint M, akkor Q korábbi, mint K és X. (3) Ha M kora korábbi, mint Y, akkor K kora korábbi, mint Q és X. (4) S kora vagy korábbi, mint Y, vagy korábbi, mint M, de mindkettőnél nem.",
+        "question": "Ha X kora korábbi, mint S, melyik állítás lehet igaz?",
+        "options": [
+            "(A) Y régebbi, mint M.",
+            "(B) Y régebbi, mint Q.",
+            "(C) S régebbi, mint M.",
+            "(D) S régebbi, mint K."
+        ],
+        "label": "D",
+        "ind": 35
+    },
+    {
+        "passage": "Van 6 tiszta virágmintás porcelán: S, Y, M, Q, K, X. Minden darab gyártási ideje különböző. Balról jobbra az időrendi sorrend a legkorábbi és a legkésőbbi között van. Az ismert rendezési feltételek a következők: (1) M idősebb, mint X. (2) Ha Y korábbi, mint M, akkor Q korábbi, mint K és X. (3) Ha M kora korábbi, mint Y, akkor K kora korábbi, mint Q és X. (4) S kora vagy korábbi, mint Y, vagy korábbi, mint M, de egyik sem.",
+        "question": "Ha M kora korábbi, mint Q, de későbbi, mint K, melyik állítás lehet igaz?",
+        "options": [
+            "(A) Y idősebb, mint S.",
+            "(B) S idősebb, mint M.",
+            "(C) Q idősebb, mint X.",
+            "(D) Y idősebb, mint M."
+        ],
+        "label": "C",
+        "ind": 36
+    },
+    {
+        "passage": "Van 6 énekes: F, G, L, K, H, M. 3 zongorakísérő: X, Y, W. Mindegyik zongorakísérő két énekest kísér. Az ismert feltételi információ a következő: (1) Ha X F kísérője, akkor W L kísérője. (2) Ha X nem G kísérője, akkor Y M kísérője. (3) X vagy Y H kísérője. (4) F és G nem osztoznak kísérőn; L és K nem osztoznak kísérőn; H és M nem osztoznak kísérőn.",
+        "question": "Melyik az alábbiak közül sorolja fel a lehetséges kísérő és énekes kombinációkat?",
+        "options": [
+            "(A) X G és H kísérője; Y F és K kísérője; W L és M kísérője.",
+            "(B) X F és H kísérője; Y L és M kísérője; W G és K kísérője.",
+            "(C) X G és M kísérője; Y F és H kísérője; W L és K kísérője.",
+            "(D) X L és H kísérője; Y F és K kísérője; W G és M kísérője."
+        ],
+        "label": "A",
+        "ind": 37
+    },
+    {
+        "passage": "Van 6 énekes: F, G, L, K, H, M. 3 zongorakísérő: X, Y, W. Mindegyik zongorakísérő két énekest kísér. Az ismert feltételek a következők: (1) Ha X F kísérője, akkor W L kísérője. (2) Ha X nem G kísérője, akkor Y M kísérője. (3) X vagy Y H kísérője. (4) F és G nem osztoznak kísérőn; L és K nem osztoznak kísérőn; H és M nem osztoznak kísérőn.",
+        "question": "Ha X L és H kísérője, melyik állításnak kell igaznak lennie?",
+        "options": [
+            "(A) W K kísérője. ",
+            "(B) Y F kísérője. ",
+            "(C) G és K ugyanannak a kísérőnek a kíséretében vannak. ",
+            "(D) F és M ugyanannak a kísérőnek a kíséretében vannak."
+        ],
+        "label": "A",
+        "ind": 38
+    },
+    {
+        "passage": "Hat énekes van: F, G, L, K, H, M. Három zongorakísérő: X, Y, W. Minden zongorakísérő két énekest kísér. Az ismert feltételezések a következők: (1) Ha X F kísérője, akkor W L kísérője. (2) Ha X nem G kísérője, akkor Y M kísérője. (3) X vagy Y H kísérője. (4) F és G nem osztoznak ugyanazon a kísérőn; L és K nem osztoznak ugyanazon a kísérőn; H és M nem osztoznak ugyanazon a kísérőn.",
+        "question": "Ha W F és M kísérője, melyik énekespárt kísérheti X?",
+        "options": [
+            "(A) G és H",
+            "(B) G és K",
+            "(C) L és H",
+            "(D) L és K"
+        ],
+        "label": "B",
+        "ind": 39
+    },
+    {
+        "passage": "Van 6 énekes: F, G, L, K, H, M. 3 zongorakísérő: X, Y, W. Mindegyik zongorakísérő két énekest kísért. Az ismert feltételek a következők: (1) Ha X F-et kísér, akkor W L-t kíséri. (2) Ha X nem kíséri G-t, akkor Y M-et kíséri. (3) X vagy Y kíséri H-t. (4) F és G nem osztozik kísérőn; L és K nem osztozik kísérőn; H és M nem osztozik kísérőn.",
+        "question": "W nem kísérheti az alábbi énekesek valamelyikét?",
+        "options": [
+            "['(A)F és K', '(B)F és L', '(C)K és H', '(D)G és K']"
+        ],
+        "label": "C",
+        "ind": 40
+    },
+    {
+        "passage": "Van 6 énekes: F, G, L, K, H, M. 3 zongorakísérő: X, Y, W. Minden zongorakísérő két énekest kísért. A következő feltételek ismertek: (1) Ha X F kísérője, akkor W L kísérője. (2) Ha X nem G kísérője, akkor Y M kísérője. (3) X vagy Y H kísérője. (4) F és G nem osztozik kísérőn; L és K nem osztozik kísérőn; H és M nem osztozik kísérőn.",
+        "question": "Lehetetlen, hogy Y a következő énekespárokat kísérje?",
+        "options": [
+            "['(A)G és H', '(B)L és H', '(C)F és L', '(D)F és M']"
+        ],
+        "label": "A",
+        "ind": 41
+    },
+    {
+        "passage": "Professzorok? Az Egyesült Államok, Kanada és más országok régóta írnak be mester- és doktori hallgatókat írásból, és mi még mindig küzdünk az írásbeli fokozatok odaítélésének jogáért. Ez egy nagyon eltérő hozzáállás az alkalmazott és műszaki tudományágakhoz. Tévedünk, vagy tévedünk?",
+        "question": "Az alábbi kérdések közül melyik a legfontosabb az érvelés ésszerűségének értékeléséhez?",
+        "options": [
+            "['(A) Ha megengedjük, hogy mestereket és doktorokat toborozzunk írásból, hányan fognak jelentkezni erre a szakra?', '(B) Rendelkezünk-e a szükséges képesítésekkel a kar és a tárgykutatás terén az írásból, hogy mestereket és doktorokat toborozzunk?', '(C) Alkalmazott és műszaki tudományágakban más területeken is jelentkeztünk már mester- és doktori képzésre az íráson kívül?', '(D) Figyelnünk kellene-e a mester- és doktori fokozatú képzések fejlesztésére az alkalmazott és műszaki tudományágakban?']"
+        ],
+        "label": "D",
+        "ind": 42
+    },
+    {
+        "passage": "Amikor egy zenetudós mobiltelefonszámot vásárolt egy kommunikációs boltban, észrevette, hogy az egyik szám több mint a felébe kerül a többihez képest, és megkérdezte az eladót: \"Miért van ez így?\" Az eladó azt mondta: \"Ez a szám nem jó.\" Kiderült, hogy ennek a számnak a végződése 1414, és sok ember kerüli a homofóniáját, ami azt jelenti, hogy \"meghalni\". De a zenész énekelni kezdett, és valóban remegett, a homofónia jelentése pedig \"minden haj és szőr\", és nagyon boldogan megvette ezt a számot.",
+        "question": "Ha a fenti állítás igaz, akkor az alábbi állítások közül melyiket nem lehet alátámasztani?",
+        "options": [
+            "(A) Ostobaság digitális homofónia által sugallott jelentést tiltani vagy elfogadni.",
+            "(B) A digitális homofónia által sugallott jelentés befolyásolja a számvásárlási viselkedést.",
+            "(C) Az emberek különböző gondolatokat társíthatnak ugyanahhoz a számhoz.",
+            "(D) A szám és annak homofóniája által sugallt jelentés nem egyedi."
+        ],
+        "label": "C",
+        "ind": 43
+    },
+    {
+        "passage": "Zuluföldön, Dél-Afrikában minden 17 órában orvvadásznak le egy orrszarvút. A „Repülő Orrszarvú” művelet során gondosan kiválasztottak 114 fehér és 10 fekete orrszarvút az Umfor Lodge Természetvédelmi Területről, és titkos helyre szállították őket Dél-Afrikában, hogy megvédjék az orrszarvúkat, remélve, hogy itt természetesen szaporodhatnak és növekedhetnek, elkerülve az orvvadászat okozta kihalás végzetét.",
+        "question": "Az alábbi állítások közül melyik nem feltételezés a „repülő orrszarvú” akcióval kapcsolatban?",
+        "options": [
+            "(A) Az új orrszarvú otthon titkos intézkedései szigorúak, mert az orvvadászok nem tudják, hol vannak orrszarvúk.",
+            "(B) Az orrszarvúknak az új otthon kiválasztása alkalmas a fehér és fekete orrszarvúk szaporodására és növekedésére.",
+            "(C) Az új orrszarvú otthon közelében élő lakosokat nem orvvadásszák drága orrszarvú lábakért.",
+            "(D) 60 évvel ezelőtt egy védelmi áthelyezési művelet sikeres volt a fekete orrszarvú kihalásának elkerülése érdekében."
+        ],
+        "label": "D",
+        "ind": 44
+    },
+    {
+        "passage": "A tudósok szerint, akárcsak a Földön, a Vénusz belsejében is forró lávamag található. A Vénusz önéletrajza és forradalma során hatalmas hő fog felszabadulni. A Föld belső hőjét a lemeztektonikai mozgások által kiváltott vulkánkitöréseken keresztül szabadítja fel. Nincs olyan vulkánkitörés, mint a lemeztektonikai mozgás, ami zavaró.",
+        "question": "Ha az alábbi állítás igaz, melyik adja a legjobb magyarázatot a tudósok zavarára?",
+        "options": [
+            "['(A) A Vénusz önéletrajza lassú, és külső héja sokkal vékonyabb, mint a Földé, ami kényelmes a belső hő felszabadulásához', '(B) A Vénusz légkörében a szén-dioxid által okozott üvegházhatás miatt a felszíni hőmérséklete eléri a 485 ℃-ot', '(C) A magas hőmérséklet és a magas nyomás hatásai miatt a Vénusz felszínén lévő kőzet keményebb, mint a Föld felszínén lévő kőzet', '(D) A Vénusz belső magjában a lávamozozgás korábban súlyosabb hőmérséklet-ingadozásokat okozott, mint a Föld kőzetmozgása']"
+        ],
+        "label": "A",
+        "ind": 45
+    },
+    {
+        "passage": "A Dali-tó egy vulkánkitörés által létrehozott fennsíki gátas tó. A sós vizű tóban élő bálnamugil, az S. sylvaticus, hasonlóan a tengerben élő lazachoz, a folyó édesvizének felsőbb szakaszaira kell vándorolnia, hogy ívjon. Bár a jelenleg a Dali-tóba ömlő négy folyó mind belföldi folyó, és egyik sem vezet az óceánhoz, a tudósok mégis meg vannak győződve arról, hogy a kínai halak eredetileg az óceánból vándoroltak be a Dali-tóba.",
+        "question": "Melyik az alábbi állítások közül igaz, és szolgáltatja a legjobb magyarázatot a tudósok hitére?",
+        "options": [
+            "['(A) Az a sárga mugil, amely a Heilongjiang vizeiben és más területeken él, kétszer akkora, mint a Dali-tóban élő japán mugil.', '(B) Azok a halak, amelyeket tengervízben vagy édesvízben fognak ki, csak egy-két napig élnek túl, és a haláluk után gyorsan bomlanak.', '(C) A gleccser olvadása hozta létre a Dali-tavat. A túlcsorduló tóvíz egykor összeköttetésben állt az óceánba ömlő Liaohe-folyóval.', '(D) A tudományos kutató a Dali-tó halainak ivadékait elhelyezte a Dali-tóban, több ezer mérfölddel arrébb, és a tenyésztés sikeres volt.']"
+        ],
+        "label": "C",
+        "ind": 46
+    },
+    {
+        "passage": "A vadon élő állatpopulációkat védő törvényeket nem kell kötelezően alkalmazni azokra a vadászati tevékenységekre, amelyek a vadon élő állatok befogásán alapulnak, de nem veszélyeztetik a vadon élő állatpopulációk fennmaradását.",
+        "question": "Ha a következő állítás igaz, melyik a legerősebb bizonyíték a fenti elv igazolására?",
+        "options": [
+            "['(A) Bármilyen nyereségszerzési célú vadon élő állatok befogására a Vadon élő állatok védelméről szóló törvényt kell alkalmazni.', '(B) Bár a szemüvegszíjat törvény védi, az emberi élet veszélyeztetése miatt elkövetett szemüvegszíj megölése nem von maga után jogi büntetést.', '(C) Az északi-sarkvidék legészakibb részén élő inuitok grönlandi bálnákkal táplálkoznak, és az évente befogott grönlandi bálnák száma jóval alacsonyabb, mint az évente újonnan életben maradt grönlandi bálnák száma.', '(D) Az emberek évezredek óta vadásznak elefántokra, és nem irtották ki az elefántpopulációkat, ezért nem szükséges a vadon élő elefántokat védő törvények alkalmazása.']"
+        ],
+        "label": "C",
+        "ind": 47
+    },
+    {
+        "passage": "2014-ben sok hírességet tartóztattak le a rendőrség kábítószerrel való kapcsolataik miatt. Augusztus 13-án a Pekingi Előadói Ipar Szövetsége és a nagyobb előadói cégek aláírták a \"Pekingi Előadói Ipar Kábítószer-ellenes Elkötelezettségét\", amelyben megígérték, hogy nem alkalmaznak vagy szerveznek kábítószerrel kapcsolatos előadóművészeket művészeti tevékenységekre. Egy ügyvéd így válaszolt: \"Nincs foglalkoztatási diszkrimináció, mert sok más foglalkozás közül is lehet választani.\"",
+        "question": "Melyik állítás mutat rá a logikai problémára az ügyvéd válaszában?",
+        "options": [
+            "(A) Az ügyvéd szerint bárki, aki foglalkoztatási diszkriminációt folytat, védekezhet úgy, mint ő.",
+            "(B) Az ügyvéd nem vette figyelembe, hogy nehéz egy többéves szakmai képzést kapott, és csak a színjátszásban jártas személynek pályát váltania.",
+            "(C) Az ügyvéd válasza ellentmond a State Council Drog Rehabilitációs Rendeletének \"a kábítószerfüggők újrafoglalkoztatásának diszkriminációmentességére\" vonatkozó előírásaival.",
+            "(D) Az ügyvéd tévesen feltételezte, hogy az előadóművészeti iparnak magasabb a szakmai etikai szintje, mint más iparágaknak."
+        ],
+        "label": "C",
+        "ind": 48
+    },
+    {
+        "passage": "Amikor egy filmsztárt azzal vádoltak meg, hogy elkerüli a személyi jövedelemadót, megvédte magát, és azt mondta: \"Évek óta milliókat fizetek személyi jövedelemadóban, ami több, mint amit az állami tulajdonú gépgyár, ahol az unokatestvérem dolgozik, fizet. Még mindig sok adó van, ez is bűn?\"",
+        "question": "Az alábbi állítások közül melyik mutatja be a legpontosabban a fenti védekezés hibáit?",
+        "options": [
+            "(A) Minél több személyi jövedelemadót fizet valaki, annál gazdagabb, az ilyen embereket szigorúan meg kell büntetni adóelkerülésért.",
+            "(B) Az, hogy valaki mennyi adót fizet, nem bizonyítja, hogy minden jövedelmére megfizeti a fizetendő adót.",
+            "(C) Azokat a tulajdonságokat, amelyeket egy rész birtokol, általában nem birtokolja az egész.",
+            "(D) Az egyén több adót fizet, mint az állami tulajdonú gépgyár, de ez nem jelenti azt, hogy a társadalomhoz való hozzájárulása nagyobb, mint az állami tulajdonú gépgyáré."
+        ],
+        "label": "D",
+        "ind": 49
+    },
+    {
+        "passage": "Egy bizonyos osztály tanulói mind futballrajongók. A 2014-es világbajnokság során azok a diákok, akik az argentin csapatot támogatták, nem támogatták a német csapatot, és azok a diákok, akik az argentin csapatot támogatták, nem támogatták a brazil csapatot sem. Néhány diák, aki az amerikai csapatot támogatja, támogatja a német csapatot, és néhány diák, aki az amerikai csapatot támogatja, támogatja a brazil csapatot.",
+        "question": "Ha a fenti állítás igaz, melyik állításnak kell igaznak lennie az osztály tanulóiról?",
+        "options": [
+            "(A) Néhány diák, aki a német csapatot támogatja, sem a brazil csapatot, sem az amerikai csapatot nem támogatja.",
+            "(B) Néhány diák, aki az amerikai csapatot támogatja, sem a német csapatot, sem a brazil csapatot nem támogatja.",
+            "(C) Tehát az amerikai csapatot támogató diákok vagy az argentin csapatot, vagy a német csapatot, vagy a brazil csapatot támogatják.",
+            "(D) Néhány diák, aki a brazil csapatot támogatja, támogatja a német csapatot."
+        ],
+        "label": "D",
+        "ind": 50
+    },
+    {
+        "passage": "A statisztikák szerint a világon évente 10 millió ember hal éhen, miközben a kínaiak évente körülbelül 8 millió tonna ételt pazarolnak el az asztalon, ami 1,1 milliárd ember éves adagja lehetne. Ez azt jelenti, hogy ha hatékonyan meg tudnánk szüntetni az ételpazarlást az asztalokon, millió éhező embert menthetnénk meg.",
+        "question": "Ha az alábbi állítás igaz, melyik a legmegfelelőbb az előző következtetés megkérdőjelezésére?",
+        "options": [
+            "(A) A rossz időjárás miatt az élelmiszerárak ingadoznak, súlyosbítva az éhezés problémáját.  ",
+            "(B) A mai mezőgazdasági fejlettségi szint már képes megvédeni a világ népességét az éhezéstől a teljes mennyiség alapján.  ",
+            "(C) A fogyasztás ösztönözheti a gazdasági fejlődést, és a gazdagok egyik módja, hogy segítsenek a szegényeken, az a pazarlás növelése.  ",
+            "(D) Az ételpazarlás megszüntetése csak egy kedvező feltétel az éhezés problémájának megoldásához."
+        ],
+        "label": "B",
+        "ind": 51
+    },
+    {
+        "passage": "Egy netező? Szinte senki sem támogatja azokat a javaslatokat, amelyek károsítják az érdekeit. Azonban a \"Beijing Times\" jelentése szerint a 17 napos \"Tanácsot adok a tömegközlekedési árak reformjához\" tevékenység során a programban részt vevő több tízezer ember többsége egyetértett azzal, hogy emeljék a metró- és buszjegyek árát. Mindenki többet fizet, és tetszik neki. Ez az eredmény biztosan hamis.",
+        "question": "Ha a következő állítás igaz, akkor ezek közül melyik nem kérdőjelezi meg a netező ítéletét?",
+        "options": [
+            "(A) Csak azok vesznek részt a tömegközlekedési árazás reformjában érintettek, és a statisztikai eredmények csak ennek a csoportnak a véleményét tükrözik.",
+            "(B) Azok az emberek, akik részt vesznek a tevékenységben, ritkán használják a metrót és a buszt, így a viteldíj emelése nem árt az érdekeiknek.",
+            "(C) Néhányan, akik metróval és busszal ingáznak, úgy gondolják, hogy a viteldíj emelése enyhítheti a csúcsidőszakokban tapasztalható zsúfoltságot.",
+            "(D) Sok állampolgár reméli, hogy a viteldíj emelése javítja az utazási környezetet."
+        ],
+        "label": "D",
+        "ind": 52
+    },
+    {
+        "passage": "A túlkapacitás, az önkormányzati adósság és az ingatlanpiaci buborékok a kínai gazdaság három fő betegsége. Ha ezeket nem kezelik megfelelően, a kínai gazdaság kemény landolását eredményezhetik. A három fő betegség gyökere, hogy Kína hosszú távú tőkekamatlábai alacsonyak. Ha a tőkeköltségek visszatérnek egy ésszerű pozícióba, a túlkapacitás iránti keresletet lehet szabályozni, az ingatlanbefektetésekre nehezedő túlzott nyomás fokozatosan csökkenhet, és az önkormányzatok fejlesztés miatti kölcsönkérési impulzusát nem sikerült elnyomni.",
+        "question": "Ha a fenti állítás igaz, melyik következő állításnak kell igaznak lennie?",
+        "options": [
+            "(A) Ha a kínai tőzsde még nem köszöntött be bikapiacot, biztosan a három fő betegséget nem sikerült hatékonyan ellenőrizni.",
+            "(B) Ha az önkormányzatok kölcsönkérési impulzusát a fejlesztés érdekében nem sikerül elnyomni, a hazai tőkeköltségek nem tértek vissza egy ésszerű pozícióba.",
+            "(C) Ha a tőzsde bikapiacot köszöntött, biztosan a hazai tőkeköltségek nem tértek vissza egy ésszerű pozícióba.",
+            "(D) Amíg a hazai tőkeköltségek visszatérnek egy ésszerű pozícióba, a kínai gazdaság nem fog keményen landolni."
+        ],
+        "label": "C",
+        "ind": 53
+    },
+    {
+        "passage": "Tang Sanzhang és kísérete a Nyugati Mennyekből tanult, és találkozott a Lángheggyel. Nyolc előírás azt mondta, menjenek csak oda, ahol nincs tűz, Tang Sanzang azt mondta, hogy csak Jinglibe akar menni, a homok szerzetes azt mondta, hogy Jingjiben is van tűz. A homok szerzetes azt jelenti, hogy mindenhol van tűz.",
+        "question": "Ha a homok szerzetes szavai igazak, melyik állításnak kell igaznak lennie az alábbiak közül?",
+        "options": [
+            "['(A) Néhány helyen nincs tűz', '(B) Nincs tűz néhány helyen', '(C) Ahol tűz van, ott van szútra is', '(D) Sehol sincs tűz']"
+        ],
+        "label": "D",
+        "ind": 54
+    },
+    {
+        "passage": "A világ első kerékpárját 1847-ben találták fel. A kerékpárok megjelenése után csak rövid ideig tűntek el. Csak 1860-ban jelentek meg újra. Miért történt ez? Csak akkor fogadják el a technológiát, ha egy új technológia összhangban van a társadalom értékeivel. Ezért valószínűleg változások történtek a társadalmi értékekben 1817 és 1860 között.",
+        "question": "A fenti érvelés érvelése hibás az érvelés miatt?",
+        "options": [
+            "['(A) Figyelmen kívül hagyja a lehetőséget, hogy a kerékpár újra elfogadottá váljon', '(B) Olyan kérdést vetett fel, amelynek kevés köze van az érvelés következtetéséhez', '(C) Tévesen azt feltételezi, hogy a kerékpár 1860-as újra megjelenése azt jelenti, hogy újra elfogadták', '(D) Ésszerű magyarázat nélkül igazán elfogadottnak tekinti']"
+        ],
+        "label": "B",
+        "ind": 55
+    },
+    {
+        "passage": "A köldökzsinórvér az a vér, amely a méhlepényben és a köldökzsinórban marad a baba születése után, miután a köldökzsinórt elkötötték és elvágták. A benne lévő vérképző őssejtek leukémiát és súlyos vérszegénységet okozhatnak. Egyes rosszindulatú daganatok és más betegségek jelentős gyógyító hatásúak, és olyan értékes önsegítő források, amelyek többé nem hiányozhatnak az életből. A szülők megőrzik az újszülöttek köldökzsinórvérét, amely egész életükre garanciát nyújthat a gyermek egészségére.",
+        "question": "Ha az alábbi állítás igaz, az összes kivételével az egyik tétel gyengítheti a fent tárgyalt következtetést.",
+        "options": [
+            "(A) Jelenleg Kínában a vérbetegségek miatti őssejt-transzplantáció valószínűsége rendkívül kicsi, és a köldökzsinórvér tárolásának költsége drága.",
+            "(B) A köldökzsinórvér, a perifériás vér és a csontvelő a vérképző őssejtek három fő forrásává váltak.",
+            "(C) Jelenleg a köldökzsinórvér nem a leghatékonyabb módja sok rosszindulatú betegség klinikai kezelésének, hanem kiegészítő kezelésként használatos.",
+            "(D) A köldökzsinórvért általában 50 ml-ben tárolják, így egy ilyen kis mennyiségnek csekély hatása van a legtöbb felnőtt kezelésére."
+        ],
+        "label": "B",
+        "ind": 56
+    },
+    {
+        "passage": "Szofista? Mivel a 6 nagyobb, mint 4, és 6 kisebb, mint 8, a 6 egyszerre nagy és kicsi.",
+        "question": "Melyik az alábbi érvelési módok közül a leginkább hasonló a fent említett szofisták érveléséhez?",
+        "options": [
+            "(A) Mivel Laozi intelligensebb, mint Mencius, Laozi jobban látja a jóságot, mint Mencius.  ",
+            "(B) Mivel Zhang Qing egészségesen Tonghua glükózt iszik, az édes, és amikor beteg, Tonghua glükózt iszik, az savanyú, így a Tonghua glükóz egyszerre édes és savanyú.  ",
+            "(C) Mivel Zhao Feng magasabb, mint Li Tong, és Zhao Feng alacsonyabb, mint Wang Lei, Zhao Feng egyszerre magas és alacsony.  ",
+            "(D) Mivel egy fapálca általában egyenes, de a vízben görbének tűnik, ez a fapálca egyszerre egyenes és görbe."
+        ],
+        "label": "C",
+        "ind": 57
+    },
+    {
+        "passage": "2014 augusztusában több mint 200 orosz teherautó, amelyek segélyszállítmányt vittek, lépett be Kelet-Ukrajnába. Ha az ukrán kormány keleti katonai műveletei közvetlenül vagy közvetve támadják meg az orosz konvojt, az orosz fél erőteljes intézkedéseket tehet; ha az ukrán kormányhadsereg ideiglenesen leállítja a keleti katonai műveleteket az orosz konvoj biztonságának biztosítása érdekében, az hátrányba kerülő civil fegyveres erőknek ad egy lélegzetvételnyi lehetőséget.",
+        "question": "Ha a fenti állítás igaz, akkor melyik állításnak kell igaznak lennie?",
+        "options": [
+            "(A) Ha az ukrán kormányerők megtámadják az orosz konvojt, akkor a civil fegyveres erőknek nem lesz lehetőségük lélegzetvételre.",
+            "(B) Ha az ukrán kormányhadsereg nem ad lélegzetvételi lehetőséget a civil fegyveres erőknek, az orosz fél erőteljes intézkedéseket tehet.",
+            "(C) Ha a kelet-ukrajnai civil fegyveres erők lélegzetvételhez jutnak, Oroszország nem fog erőteljes intézkedéseket tenni.",
+            "(D) Az orosz konvoj azért lépett be Ukrajnába, hogy segítsen a kelet-ukrajnai civil fegyveres erőknek."
+        ],
+        "label": "B",
+        "ind": 58
+    },
+    {
+        "passage": "Számos kínai főiskola és egyetem négy állásbörzét tartott Torontóban, New Yorkban, Bostonban és San Franciscóban. A vásáron részt vevő kínai diákok kérdőíves felmérése azt mutatta, hogy az emberek 67%-a szeretne hazatérni dolgozni, 33%-uk komolyan fontolóra veszi a hazatérés lehetőségét. Látható, hogy az Egyesült Államokban tanuló nemzetközi diákok munkacsoportja elvesztette vonzerejét, és a közvélemény általános gyakorlattá vált.",
+        "question": "Ha a következő állítás igaz, melyik gyengítené leginkább a fenti érvet?",
+        "options": [
+            "['(A) A kérdőíves felmérésben részt vevő kínai diákok esetleg nem a legjobb vágyaikat fejezik ki', '(B) Ha az Észak-Amerikában lévő kínai diákok nem találnak munkát, amikor hazatérnek, csalódottak lesznek', '(C) 67% és 33% összesen 100%-ot tesz ki, ami azt jelenti, hogy senki sem akar Észak-Amerikában maradni és dolgozni', '(D) Az észak-amerikai kínai diákok közül azok, akik nem terveznek visszatérni dolgozni, nem vettek részt az állásbörzén']"
+        ],
+        "label": "D",
+        "ind": 59
+    },
+    {
+        "passage": "A hagyományos nézet szerint a Zhouyi nyolc ábrájának és hatvannégy ábrájának neveinek eredete fikció, vagy nincs jelentése. Nincs más magyarázat. A fikció azt mondja, hogy a nyolc ábra egy tárgy nevéről kapta a nevét, például a Qiangua az ég, és a Qian az ősi kínai karakter, ezért nevezték Qiannak; jelentésében, a hexagramok képe a dolgok elvét képviseli, és annak racionalitását veszik egy hexagram nevének. Az Úr hajlékony, ezért a hexagram Kun, és Kun a hajlékonyság jelentése.",
+        "question": "A következő állítások közül melyik igaz, amely a legkomolyabban megrendíti a Gua nevének eredetére vonatkozó hagyományos nézetet?",
+        "options": [
+            "(A) A két Qiankun hexagram azért áll az első helyen a hatvannégy hexagram között, mert a Qian gua az eget, és a Kun gua a földet képviseli. ",
+            "(B) A hexagram nevét nem lehet csak az orientáció elméletével vagy csak a jelentés érzékelésével magyarázni. Csak a kettő kombinálásával adhatunk magyarázatot az összes hexagram névre. ",
+            "(C) Bár a Gua név eredetére sok különböző magyarázat létezik, nem választható el szektájától, vagy a képek megszerzésének elméletéhez, vagy a jelentések megszerzésének elméletéhez köthető. ",
+            "(D) A hexagram neve a hexagram elbeszélésének beszámolójából származik. Kun Guazhan a ló elvesztéséről kérdezett. Eleinte három elefántja volt. Úgy vélte, hogy a ló megtalálható, és Kun-nak nevezték el."
+        ],
+        "label": "D",
+        "ind": 60
+    },
+    {
+        "passage": "A labdajátékokban helytelen visszajátszást használni a büntető meghatározásához, mert bármennyi kamera is követi a játékot a pályán, elkerülhetetlen, hogy néhány szabálytalanságot elnézzenek. Lehetetlen tudni, mi történt közvetlenül előtted.",
+        "question": "Melyik érv hibája hasonlít leginkább a fenti érvelés hibájához?",
+        "options": [
+            "['(A) A tudás erény, mert senki sem teszi szándékosan', '(B) Nem kellene megkérdezni a rendőrséget, mert nem tudják megállítani az összes bűnözői tevékenységet', '(C) A próbaházasság nem erkölcstelen, mert bárki, aki ruhát vásárol, felpróbálhatja', '(D) A hit nem teremthet valóságot, mert attól, hogy valamit igaznak tartanak, még nem lesz az']"
+        ],
+        "label": "B",
+        "ind": 61
+    },
+    {
+        "passage": "A tudósok feltételezik, hogy egy speciális zsírtípus, az úgynevezett \"P.zsír\" szükséges a látás fejlődéséhez. A tudósok megfigyelték, hogy a kevés P.zsírt tartalmazó tápszerrel táplált csecsemők jobb látással rendelkeznek, mint a szoptatott csecsemők, akiknek a látása gyengébb, és az anyatej magas P.zsír tartalommal bír, így a fenti hipotézist javasolták. Emellett azt is felfedezték, hogy az 5-6 héttel korábban született babák rosszabb látással rendelkeznek, mint a teljes időre született babák.",
+        "question": "Ha az alábbi állítások bármelyike igaz, leginkább melyik támasztaná alá a fenti tudósok hipotézisét?",
+        "options": [
+            "(A) A magzat csak a terhesség utolsó 4 hetében növelte az anyától kapott P.zsír mennyiségét.",
+            "(B) Az idős emberek, akiknek étrendjében kevés a P.zsír, rosszabb látással rendelkeznek, mint azok a felnőttek, akiknek étrendjében magas a P.zsír szintje.",
+            "(C) A magzati látás a terhesség utolsó 3 hónapjában fejlődött ki.",
+            "(D) Az anya rossz látása nem okozza a baba rossz látását."
+        ],
+        "label": "C",
+        "ind": 62
+    },
+    {
+        "passage": "A civilizált ember és a barbár vagy más állatok közötti fontos különbség az, hogy elnyomja az ösztönös késztetést előrelátás révén. Csak akkor, amikor valaki nem ösztönös késztetésből cselekszik, hanem azért, mert az esze azt mondja neki, hogy a jövőben valamely pontján hasznot húz belőle, van valódi előrelátás. A föld művelése egy előrelátó cselekedet, az emberek tavasszal dolgoznak azért, hogy télen legyen ételük.",
+        "question": "Az alábbi állítások közül melyik az a feltételezés, amelyre a fenti érvelés támaszkodik?",
+        "options": [
+            "(A) Lehet-e elnyomni az ösztönös késztetést mély gondolkodással, ez az egyetlen különbség a civilizált emberek és a barbárok vagy más állatok között.",
+            "(B) Az olyan cselekedetek, mint a mókus diótemetése és a sarki róka madártojások temetése, tisztán ösztönvezérelt cselekedetek.",
+            "(C) Minél erősebb az ösztönös késztetések elfojtása, annál nagyobb a jelenlegi fájdalom toleranciája, és ezért annál magasabb a civilizáció foka.",
+            "(D) Az emberek nemcsak előrelátásukkal nyomják el ösztönös késztetéseiket, hanem külső törvények, szokások és vallások révén is elnyomják azokat."
+        ],
+        "label": "C",
+        "ind": 63
+    },
+    {
+        "passage": "Táplálkozási szakember? Minden eddigi orvosi tanulmány kimutatta, hogy napi 3 csésze vagy kevesebb kávé fogyasztása nem okoz kárt a szívben. Ezért, ha Ön mértékletes kávéfogyasztó, akkor nyugodtan élvezheti a kávét, anélkül, hogy aggódna, hogy a kávé károsítja az emberek egészségét.",
+        "question": "Az alábbi állítások közül melyik mutatja be leginkább a fenti érvelés hiányosságait?",
+        "options": [
+            "['(A) A kávéfogyasztók más olyan ételeket is fogyaszthatnak, amelyek károsak a szívre, miközben kávét isznak', '(B) A táplálkozási szakember következtetései csak a releváns kutatási eredményeken alapulnak, klinikai adatok támogatása nélkül', '(C) Az, hogy a kávé fogyasztása nem ártalmas a szívre, nem jelenti azt, hogy a testre sem ártalmas', '(D) Azok az emberek, akik gyakran isznak kávét, nagyobb pszichológiai nyomás alatt állnak, és maga a nagyobb pszichológiai nyomás káros a szívre.']"
+        ],
+        "label": "C",
+        "ind": 64
+    },
+    {
+        "passage": "Thomas Paine a \"Common Knowledge\" című könyvben azt a kérdést tárgyalja, hogy vajon a monarchia és az örökletes rendszer ésszerűek-e. Azok számára, akik úgy vélik, hogy az örökletes rendszer ésszerű, Paine azt kérdezte és megválaszolta, hogyan jött létre az eredeti király? Csak három lehetőség van: sorshúzással, választással, vagy hatalom bitorlásával. Ha az első királyt sorshúzással vagy választással választják ki, ez precedenst teremt a jövőbeli királyok számára, és így megcáfolja az örökletes gyakorlatokat. Ha az első király hatalom bitorlásával szerezte meg a trónt, senki sem lenne olyan merész, hogy megvédje az örökletes trónt.",
+        "question": "Melyik a következő állítások közül írja le legjobban a Paine érvelésében használt technikákat?",
+        "options": [
+            "(A) Bemutatja, hogy egy állítás ellentmond egy bizonyos állításnak, amelyet igaznak fogadtak el.",
+            "(B) Egy állítás hamis következtetésre vezethet, hogy bebizonyítsa, az állítás nem igaz.",
+            "(C) Bemutatja, hogy ez az állítás igaz, azáltal, hogy megmutatja, hogy minden lehetséges magyarázat ugyanarra az állításra vezet.",
+            "(D) Azáltal, hogy kizárja az összes többi lehetséges magyarázatot, bebizonyítja, hogy a fennmaradó magyarázat igaz."
+        ],
+        "label": "A",
+        "ind": 65
+    },
+    {
+        "passage": "Előfordulhat, hogy valaki nem tudja pontosan megmagyarázni egy absztrakt szó jelentését, de nagyon helyesen tudja használni ezt a szót a nyelvi kifejezéshez. Látható, hogy egy szó megértése nem feltétlenül függ a szó jelentésének pontos értelmezésétől.",
+        "question": "Melyik állítás nyújthatja a legjobb alátámasztást a fenti következtetéshez?",
+        "options": [
+            "['(A) Az absztrakt szavak jelentését nem könnyű pontosan értelmezni', '(B) Ha valaki pontosan meg tudja magyarázni egy szó jelentését, akkor érti a szót', '(C) Az, hogy valaki nem tudja pontosan megmagyarázni egy szó jelentését, nem jelenti azt, hogy mások sem tudják pontosan megmagyarázni a szó jelentését', '(D) Ha valaki megfelelően tud használni egy szót a nyelvi kifejezéshez, akkor érti a szót']"
+        ],
+        "label": "A",
+        "ind": 66
+    },
+    {
+        "passage": "Néhány online média arról számolt be, hogy ha a rizs hálaadó dalt hallgat, az 15%-kal növekedhet. A fucsieni Liangshan faluban három egymást követő rizstermesztési szezon eredményei megerősítették, hogy a Dabei mantrát hallgatva nemcsak 15%-kal nőtt, de a rizsszemek is teltebbek lettek. Néhány mezőgazdasági szakértő szerint a zene nemcsak abban segít, hogy a növények felszívják, továbbítsák és átalakítsák a tápanyagokat, hanem rovarriasztó hatást is elér.",
+        "question": "A következő kérdések közül melyik megválaszolása a legkevésbé releváns a fenti jelentés hitelességének felméréséhez?",
+        "options": [
+            "(A) Ugyanazok a növekedési feltételek vonatkoznak-e a Dabei mantrát hallgató rizsre, mint a nem hallgató rizsre?",
+            "(B) Megvalósítható-e ez a módszer nagyszabású népszerűsítésre?",
+            "(C) Tudják-e a szakértők magyarázni, miért előnyös a Da Bei man a rizs növekedésére, de nem a kártevők növekedésére?",
+            "(D) Megbízható elméleti támogatással rendelkezik-e a szakértők magyarázata?"
+        ],
+        "label": "B",
+        "ind": 67
+    },
+    {
+        "passage": "Ami a „meztelen hivatalnokok” meghatározását illeti, az „Átmeneti rendelkezések” a következő három kategóriába sorolta a nemzeti személyzetet, mint „meztelen hivatalnokok”: házastársak és gyermekek, akik az országon (határon) kívülre költöztek; nincs gyermek, a házastárs az országon (határon) kívülre költözött; házastárs nélkül, a gyermekek az országon (határon) kívülre költöztek. 2014-ben a Központi Szervezeti Osztály kiadta a vonatkozó „Adminisztratív intézkedéseket”, amelyek előírták, hogy: ha a házastárs az országon (határon) kívülre költözött, vagy nincs házastárs, minden olyan nemzeti személyzet, aki az országon (határon) kívülre költözött, „meztelen hivatalnok”.",
+        "question": "Melyik állítás felel meg a fenti két dokumentumnak?",
+        "options": [
+            "(A) Az „Adminisztratív intézkedések” szerint csak azok a nemzeti személyzetek „meztelen hivatalnokok”, akiknek a gyermekei az országon (határon) kívülre költöztek.",
+            "(B) A házastárs és gyermekek esetén a két dokumentum rendelkezései megegyeznek.",
+            "(C) Az „Átmeneti rendelkezések” szerint, amennyiben egy adott ország személyzetének házastársa az országon (határon) kívülre költözött, ő „meztelen hivatalnok”.",
+            "(D) Azoknak a nemzeti személyzeteknek, akiknek csak házastársuk van és nincs gyermekük, a két dokumentum rendelkezései megegyeznek."
+        ],
+        "label": "D",
+        "ind": 68
+    },
+    {
+        "passage": "A mód, ahogyan a kormány és a magánvállalkozások együttműködnek egy projekt befejezésében (ezt PPP-nek nevezik), lehetővé teszi a kormány számára, hogy forrásokat szerezzen, és lehetővé teszi a társadalmi tőke bejutását az olyan közművek területeire, mint az energia és a vasút. Ennek a modellnek a problémája az, hogy a kormány vagy a befektetők nem teljesítik kötelezettségeiket, ami gazdasági veszteségeket okoz a másik fél számára. A korábbi PPP projektekben a kormány mulasztása nem volt ritka esemény. Bár a helyi kormány mulasztása nem szokatlan, a befektetők továbbra is aktívan fektetnek be a PPP projektekbe, mint mindig.",
+        "question": "Ha az alábbi állítások bármelyike igaz, hogyan magyarázhatjuk meg legjobban a látszólag ellentmondásos jelenséget?",
+        "options": [
+            "['(A) A gazdasági rendszer reformjával és az új urbanizáció előmozdításával a PPP modell nagy reményekkel bír minden szinten', '(B) A PPP modell bonyolultabb, és a helyi kormány alkupozíciója és PPP szakértelme nem olyan jó, mint a befektetőké.', '(C) Ebben az évben a Nemzeti Fejlesztési és Reformbizottság 80 fontos projektet bocsátott ki, hogy ösztönözze a társadalmi tőke részvételét az építésben és működtetésben a PPP és más módokon keresztül', '(D) Annak érdekében, hogy megelőzzék a helyi kormány mulasztása által okozott gazdasági veszteségeket, a befektetők megpróbálják más érdekeit saját vállalkozásaikra átruházni']"
+        ],
+        "label": "D",
+        "ind": 69
+    },
+    {
+        "passage": "Li Ming valószínűleg egy vezető logikatanár. Mint a legtöbb vezető logikatanár, Li Ming ismeri Gödel teljességi tételét és hiányteljességi tételét, és a legtöbb ember, aki nem vezető logikatanár, nem ismeri ezeket a tételeket. Valójában sokan, akik nem vezető logikatanárok, még csak nem is hallottak Gödelről.",
+        "question": "Melyik állítás mutat rá pontosan a fenti érvelés hiányosságaira?",
+        "options": [
+            "(A) Figyelmen kívül hagyják ezt a lehetőséget: a Gödel tételeit ismerő emberek többsége nem vezető logikatanár.  ",
+            "(B) Figyelmen kívül hagyják ezt a lehetőséget: néhány vezető logikatanár nem ismeri Gödel tételeit.  ",
+            "(C) Az \"vezető\" fogalma az érvelésben homályos fogalom.  ",
+            "(D) Bizonyítás nélkül arra a következtetésre jut, hogy azok, akik nem ismerik Gödel teljességi tételét és hiányteljességi tételét, nem hallottak Gödelről."
+        ],
+        "label": "A",
+        "ind": 70
+    },
+    {
+        "passage": "Az elöregedő népesség miatt a német kormány dilemmával néz szembe: ha a nyugdíjrendszert nem reformálják meg, a nyugdíjak fenntarthatatlanná válnak. A dilemma megoldására irányuló politikák közé tartozik a nyugdíjjárulékok arányának növelése, a nyugdíjkifizetések szintjének csökkentése és a nyugdíjkorhatár emelése. Ezek közül a legnagyobb ellenállás a nyugdíjkorhatár emelésével szemben van. Az ezt a politikát bevezető kormány sok szavazatot veszíthet a következő választásokon. Ennek ellenére a német kormány 2007-ben befejezte a jogi folyamatot, amely a nyugdíjkorhatárt 65 évről 67 évre emelte.",
+        "question": "Ha bármelyik alábbi állítás igaz, akkor az a legjobban megmagyarázza, miért vállalta a német kormány ennek a politikának a kockázatát?",
+        "options": [
+            "['(A)2001-ben Németország jogi formában megállapította a nyugdíjkifizetések felső határát, és 2004-ben megállapította az alsó határt, a két politika a végletekig kihasználták', '(B)A nyomás csökkentése érdekében a német kormány egy 20 éves átmeneti időszakot ír elő 2012-től kezdődően, hogy elérje a nyugdíjkorhatárt 65-ről 67 évre', '(C)Egy év nyugdíjazás után a nyugdíjcsökkentés elérheti a GDP közel 1%-át.', '(D)Mostanra a németek átlagos élettartama jelentősen megnőtt, és a nyugdíjasok hosszabb ideig kapnak nyugdíjat']"
+        ],
+        "label": "A",
+        "ind": 71
+    },
+    {
+        "passage": "Miért volt az ókori Görögországban városállamrendszer, míg a keleti országokban hosszú ideig fennálló monarchia volt? Arisztotelész úgy véli, hogy a monarchia gyakran a barbárok között jelenik meg, és nagyon közel áll a zsarnok vagy zsarnoki rendszerhez. Mivel a barbár népek természete eredendően nemzeti és szolgalelkűbb, mint a görögöké, és az ázsiai barbárok szolgalelkűsége még az európai barbárokénál is nagyobb, ezért diktatúra alá vannak vetve és nem lázadnak fel.",
+        "question": "Ha az alábbi állítások igazak, az összes – egy kivételével – gyengíti Arisztotelész értelmezését",
+        "options": [
+            "['(A) A városállami gyártás a polgárok autonómiáját hozta létre, míg a monarchia a Shunmin rabszolgaságát teremtette meg.', '(B) A földrajzi környezet különbsége hozta létre a városállamrendszer és a monarchia közötti különbséget', '(C) Arisztotelész magyarázata érzelmileg nehezen elfogadható a legtöbb keleti számára', '(D) A civilizált emberek és a barbárok közötti különbséget a különböző kulturális és társadalmi szervezetek okozzák']"
+        ],
+        "label": "D",
+        "ind": 72
+    },
+    {
+        "passage": "Az amerikai TESLA elektromos jármű által használt akkumulátor közel 7000 Panasonic 18650 akkumulátorból áll, amelyek sorosan vannak összekapcsolva. Nagy akkumulátorcsomagok párhuzamosan kapcsolva. Az autóipar megkérdőjelezte a TESLA akkumulátor energiaellátó rendszerének biztonságát. Egy akkumulátor szakértő azt mondta, hogy az Egyesült Államokban az 18650 akkumulátorok tűz valószínűsége 0,2 rész millióban, így egy 7000 kis akkumulátorból álló akkumulátorcsomag tűz valószínűsége 0,14%. A TESLA jelenlegi eladásai alapján ez szinte minden hónapban akkumulátortüzes balesetet okozott.",
+        "question": "Ha az alábbi állítás igaz, melyik gyengítené leginkább a szakértő ítéletét?",
+        "options": [
+            "['(A) Az 18650 akkumulátor nagy energiasűrűségű, stabil és jó összhangú', '(B) Világszerte évente milliárdnyi 18650 akkumulátort gyártanak, és ezek biztonsági szintje folyamatosan javul', '(C) A TESLA rendelkezik egy nagyon fejlett akkumulátorkezelő rendszerrel, amely automatikusan lekapcsolja a rendellenes akkumulátorcellák kimenetét', '(D) Az 18650 akkumulátor sokszor újratölthető, így az akkumulátor élettartama jelentősen meghosszabbodik']"
+        ],
+        "label": "C",
+        "ind": 73
+    },
+    {
+        "passage": "Az Északi-sarkvidék gazdag olaj-, földgáz-, ásványi- és halászati erőforrásokban, olaj- és gázkészleteik a világ ki nem aknázott olaj- és gázkészleteinek negyedét teszik ki. A globális felmelegedés miatt az Északi-sarkvidék jégfelszíne 10 évente 9%-os ütemben olvad. Az útvonal, amely átszeli az Északi-sarki-óceánt Oroszország északi partvidéke mentén, és összeköti az Atlanti- és a Csendes-óceánt, több tízezer kilométerrel rövidebb lehet Ázsiából Európába, mint a Panama-csatorna. Ezért az Északi-sarkvidék fejlesztése és hasznosítása hatalmas előnyöket hoz az emberiség számára.",
+        "question": "Ha a következő állítás igaz, melyik kivételével gyengítheti a fenti érvet?",
+        "options": [
+            "(A) Az Északi-sarkon áthaladó hajók inváziós fajokat hoznak és elpusztítják az Északi-sarkvidéki ökoszisztémát.",
+            "(B) A nemzetközi közösség számos súlyos konfliktust tapasztalt az Északi-sarkvidéki fejlesztési kérdések miatt, de az érintett országok nyugodtan félretették vagy alacsony kulcsú módon kezelték őket.",
+            "(C) Az Északi-sarkvidék kiaknázása megolvasztaná az örökfagyot és metánt, üvegházhatású gázt bocsátana ki, ami szélsőséges időjárási jelenségek növekedéséhez vezetne.",
+            "(D) Az Északi-sarkvidék kiaknázása felgyorsítaná a jég és hó olvadását, ami a tengerszint emelkedését és a part menti alacsony területek elárasztását okozná."
+        ],
+        "label": "B",
+        "ind": 74
+    },
+    {
+        "passage": "A „dömping” az a cselekmény, amikor egy országban az árukat az előállítási költségnél alacsonyabb áron adják el egy másik országban. H ország garnélatermelői alacsonyabb áron adják el a garnélákat M országban, mint az M országban előállított folyami garnélák előállítási költsége. Ezért H ország garnélatermelői dömpingelik a garnélát M országban.",
+        "question": "Melyik a következő állítások közül szükséges a fent említett dömping magatartás értékeléséhez?",
+        "options": [
+            "(A) A dömping meghatározásában szereplő „előállítási költség” az áru eredetének előállítási költségére vagy az értékesítés helyén lévő hasonló áruk előállítási költségére vonatkozik.",
+            "(B) Ha H ország alacsonyabb áron adta el a garnélát M országban az M országban előállított garnélák előállítási költségénél, akkor M ország garnélaipara csődbe megy.",
+            "(C) A szakértők konszenzusra jutottak abban, hogy a dömping magatartás káros vagy előnyös-e a két ország gazdaságára nézve, vagy csak az egyikükre káros vagy előnyös.",
+            "(D) Az eltérő számítási módszerek miatt nehéz pontos összehasonlító értékeket kapni az ugyanazon áru előállítási költségeiről különböző országokban."
+        ],
+        "label": "A",
+        "ind": 75
+    },
+    {
+        "passage": "Mivel a kvantumelmélet következtetései ellentmondanak az intuícióknak, néhány tudós más nézeteket vall erről az elméletről. Bár megpróbálják szigorúan jelezni, hogy a kvantumelmélet állítása pontatlan (vagyis megpróbálják szigorúan megcáfolni), azt tapasztalják, hogy a hiba általában az elfogadható statisztikai határokon belül van. Ezek a kvantumelmélet eredményei különböznek a versengő elméletek eredményeitől, ami ésszerűvé teszi a kvantumelmélet elfogadását.",
+        "question": "Melyik elv segít leginkább bemutatni a fenti érvelés ésszerűségét?",
+        "options": [
+            "(A) Egy elméletet nem szabad ésszerűnek tekinteni, mielőtt megpróbálják szigorúan megcáfolni.",
+            "(B) Csak akkor fogadható el egy elmélet, ha annak állításait a kísérletek nem cáfolták meg.",
+            "(C) Ha egy tudományos elmélet kevésbé sérti az intuitív következtetéseket, mint a versengő elméletek, akkor azt el kell fogadni.",
+            "(D) Ha megpróbálják szigorúan megcáfolni egy elméletet, de az elmélet kiállta az összes próbát, akkor azt el kell fogadni."
+        ],
+        "label": "D",
+        "ind": 76
+    },
+    {
+        "passage": "A Homo erectus körülbelül 2 millió évvel ezelőtt Afrikában keletkezett és elterjedt Eurázsiában; a modern emberek körülbelül 200,000 évvel ezelőtt jelentek meg. Mindkét emberi fosszília megtalálható Kínában. Például a pekingi Zhoukoudian ősi rétegéből előkerült \"Pekingi emberek\" a Homo erectushoz tartoztak; az előző év rétegében található \"Shandingdong emberek\" a modern emberekhez tartoztak. Egy kortárs kínai népesség tanulmány kimutatta, hogy az apai ágon öröklődő Y kromoszóma Afrikából származik és 8,9 10.000 évvel ezelőtt és 35.000 évvel ezelőtt keletkezett; az anyai ágon öröklődő mitokondriális DNS Afrikából származik, keletkezési ideje 100.000 évvel belül van; a H. erectus genetikai komponense nem volt kimutatható.",
+        "question": "Ha a fenti állítás igaz, melyik hipotézis támogatja legjobban?",
+        "options": [
+            "['(A) A \"Pekingi emberek\" leszármazottai talán kihaltak. A kortárs kínai emberek ősei körülbelül 100.000 évvel ezelőtt jöttek Ázsiába Afrikából', '(B) A kínai Homo erectus és a modern emberek az afrikai kontinensről származnak, és hibrid leszármazottaik a kortárs kínaiak ősei', '(C) A pekingi Zhoukoudian \"Stop Cave Man\" a \"Pekingi emberekből\" fejlődött ki', '(D) A kortárs kínaiak azoknak a Homo erectusoknak a leszármazottai, amelyek 2 millió évvel ezelőtt Afrikából terjedtek el Eurázsiában']"
+        ],
+        "label": "A",
+        "ind": 77
+    },
+    {
+        "passage": "Huan Gong: \"Miért olvassa kevés ember az ősök selejtjét?\" Lu Bian: \"Tapasztalatom szerint, amikor a kerekeket készítik, a keréklyukak kissé nagyobbak és lazák, és nem szilárdak, és amikor kicsik, nehéz őket beilleszteni. Ha valamit nem túl nagyra és nem túl lazára akarsz csinálni, a szívedre és a kezedre kell adnod. Ebben van egy kiváló technika, de ezt nem lehet szavakkal közvetíteni, nem tudom megtanítani a fiamnak, így amikor hetven éves vagyok, akkor is fordulnom kell. Az ősök meghaltak, és az a lényeg, amit nem tudnak elmondani, az is együtt jár az időkkel. Akkor amit olvasol, az az ősök selejtje.\"",
+        "question": "Melyik a következő állítások közül az a feltételezés, amelyre Lu Bian érvelése támaszkodik?",
+        "options": [
+            "['(A) Az esszencián és a selejten kívül vannak más tartalmak is, amelyek olvasásra érdemesek', '(B) Ha az esszenciát nem lehet elmondani, akkor az olvasás nemcsak haszontalan, hanem káros is', '(C) A kiváló technikát nem lehet másoknak nyelven keresztül tanítani', '(D) A kiváló technikán kívül más esszenciák is kimondhatatlanok']"
+        ],
+        "label": "D",
+        "ind": 78
+    },
+    {
+        "passage": "Egy főzőversenyen a séfnek egy meleg ételt és egy hideg ételt kell készítenie, és az eredményeket \"felső osztály\", \"középső osztály\" és \"alsó osztály\" kategóriákban értékelik. Ha a séf minden eredménye nem alacsonyabb, mint B séfé, és legalább az egyik elem magasabb, mint B séfé, akkor azt mondják, hogy \"A séf ügyesebb, mint B séf\". Létezik egy sor jelenlegi séf, egyikük sem ügyesebb a másiknál, és nincs két ember, akinek ugyanaz lenne a meleg és hideg étele.",
+        "question": "Hány séf felelhet meg a fenti feltételeknek?",
+        "options": [
+            "(A)megerősítetlen, (B)9 ember, (C)6 ember, (D)3 ember"
+        ],
+        "label": "D",
+        "ind": 79
+    },
+    {
+        "passage": "Egy bizonyos márkájú üzemanyag-takarékos autó 270 000 jüanba kerül, míg egy másik, hagyományos autó ára 170 000 jüan. A jelenlegi benzinárak és a két autó 100 kilométerre vonatkozó üzemanyag-fogyasztási tesztadatainak alapján azoknak, akik ezt az üzemanyag-takarékos autót vásárolják, legalább 300 000 kilométert kell megtenniük, hogy megtérüljön a magasabb árkülönbség a hagyományos autók vásárlásához képest. Ha a jövőben nő az olaj ára, a vásárlási ár megtérítéséhez szükséges futásteljesítmény ennek megfelelően növekedni fog.",
+        "question": "Az alábbi állítások közül melyik mutat rá leginkább a fenti érvelés hiányosságaira?",
+        "options": [
+            "['(A) Az érvek és a következtetések ellentmondásosak', '(B) Az érv nem tudja teljes mértékben alátámasztani a következtetését', '(C) Az érv nem veszi figyelembe a jövőbeni olajárcsökkenés lehetőségét', '(D) Az érv bizonyítatlan feltételezéseket használ fel érvként']"
+        ],
+        "label": "A",
+        "ind": 80
+    },
+    {
+        "passage": "Az internet korszakában, amikor az információk bonyolultak, mindenki mindig ki van téve annak a kockázatnak, hogy mások véleménye félrevezeti, csapdába ejti és manipulálja. Ha nem akarod, hogy mindig mások kénye-kedvére legyél, ha nem akarod, hogy egész életed káoszban teljen, ha meg akarod tanulni az önálló gondolkodást és az ésszerű döntéshozatalt, akkor fel kell vértezned az elmédet kritikus gondolkodással.",
+        "question": "Ha a fenti állítás igaz, akkor az alábbi állítások közül melyik nem feltétlenül igaz?",
+        "options": [
+            "(A) Azok az emberek, akik nem tudják felvértezni elméjüket kritikus gondolkodással, nem tudnak megtanulni önállóan gondolkodni és ésszerű döntéseket hozni.",
+            "(B) Vagy úgy döntesz, hogy felvértezed az elmédet kritikus gondolkodással, vagy úgy döntesz, hogy egész életedet káoszban töltöd.",
+            "(C) Azoknak az embereknek, akik nem akarják megtanulni az önálló gondolkodást és az ésszerű döntéshozatalt, nem szükséges felvértezni az elméjüket kritikus gondolkodással.",
+            "(D) Csak azok, akik fel vannak vértezve kritikus gondolkodással, tudnak megszabadulni mások által diktált sorstól."
+        ],
+        "label": "C",
+        "ind": 81
+    }
+]

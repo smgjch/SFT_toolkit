@@ -1,0 +1,314 @@
+[
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Calma szerint a kormány azon mulasztása, hogy az őslakosok egészségügyi kezdeményezéseire fordított kiadásait konkrét egészségügyi eredményekhez kösse, káros, mert",
+        "options": [
+            "(A) megerősíti a negatív hozzáállást a kormány pénzügyi alkalmasságával kapcsolatban.  ",
+            "(B) aláássa az erőfeszítéseket a gyakorlatok egységesítésére a kormány minden osztályán.  ",
+            "(C) fenntartja a kormánytisztviselők hatalommal való visszaélésének mintáját.  ",
+            "(D) lehetővé teszi a kormány számára, hogy elkerülje a politikáiért való elszámoltathatóság kötelezettségét."
+        ],
+        "label": "D",
+        "ind": 0
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Calma rámutat, hogy a múltban az ausztrál kormány melyik aspektusát hangsúlyozta az őslakosokkal való kapcsolatának?",
+        "options": [
+            "['(A) Az a hajlandóság, amit az őslakos vezetőkkel való találkozásra mutatott', '(B) A sajnálat, amit az őslakosokkal szemben elkövetett igazságtalanságok miatt kifejezett', '(C) Azok a javulások, amelyeket az őslakosok életkörülményeiben ért el', '(D) Azok a pénzügyi források, amelyeket az őslakos ügyekre fordított']"
+        ],
+        "label": "D",
+        "ind": 1
+    },
+    {
+        "passage": "Nincs háttérinformáció",
+        "question": "A szöveg alapján Calma valószínűleg egyetértene azzal, hogy az őslakosokkal kapcsolatos programok nagyobb eséllyel lennének sikeresek, ha az ausztrál kormány",
+        "options": [
+            "(A) felhatalmazná az őslakos közösségeket, hogy segítsenek az ilyen programok kidolgozásában és végrehajtásában.",
+            "(B) ugyanolyan bőkezűen finanszírozná ezeket a programokat, mint a nem őslakosokat segítő programokat.",
+            "(C) az egészségügyi kezdeményezések mintájára alakítaná ki ezeket a programokat, amelyeknek már bizonyítottan van sikeres múltjuk.",
+            "(D) annyi erőforrást szentelne ezekre a programokra, mint az előző kormány tette."
+        ],
+        "label": "A",
+        "ind": 2
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "A szöveg alapján Calma úgy tekint a beszéde közönségére, mint akik",
+        "options": [
+            "(A) szkeptikusak azzal kapcsolatban, hogy a kormány sikertelen őslakos politikáiért felelős egyéni személyeket felelősségre vonják-e.",
+            "",
+            "(B) rosszul tájékozottak a legtöbb őslakos közösségben tapasztalható gazdasági és társadalmi helyzetekről.",
+            "",
+            "(C) kételkednek abban, hogy van-e értelme az őslakos ügyeket a tágabb emberi jogi kontextusban tárgyalni.",
+            "",
+            "(D) túlságosan elnézőek azzal a ténnyel szemben, hogy a kormány kezdeményezései az őslakos népeket érintő egyenlőtlenségek kezelésére nem jártak sikerrel."
+        ],
+        "label": "D",
+        "ind": 3
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "A szöveg fő célja az, hogy",
+        "options": [
+            "(A) megtárgyaljon egy tanulmányt, amely a Földön található nagy számú meteoritot próbálja megmagyarázni, amelyek primitív aszteroidákról származnak.",
+            "(B) leírja azokat a versengő hipotéziseket, amelyek a primitív aszteroidák kialakulásának körülményeiről szólnak.",
+            "(C) bemutasson egy tudományos vitát a differenciált aszteroidák gyakoriságáról az aszteroidaövben a korai Naprendszerben.",
+            "(D) magyarázattal szolgáljon a differenciált aszteroidák egyik összetevőjének hiányára az aszteroidaövben és a Földön található meteoritok között."
+        ],
+        "label": "D",
+        "ind": 4
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "A szöveg leginkább azt sugallja, hogy ha az aszteroidaövön belüli ütközéses erózió elegendő lenne a szövegben tárgyalt helyzet magyarázatához, akkor ennek következtében a tudósok arra számítanának, hogy",
+        "options": [
+            "(A) Vesta nem az egyetlen nagy különálló aszteroida az aszteroidaövben.",
+            "(B) az aszteroidaövben sokkal kevesebb primitív aszteroida van, mint jelenleg.",
+            "(C) az aszteroidaövben lévő vas töredékek hajlamosak kisebbek lenni, mint az aszteroidaövben lévő sziklás töredékek.",
+            "(D) eredetileg körülbelül annyi primitív aszteroida volt, mint különálló aszteroida az aszteroidaövben."
+        ],
+        "label": "B",
+        "ind": 5
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "A szöveg szerint Bottke és kollégái azzal magyarázzák a vas töredékek jelenlétét az aszteroidaövben, hogy a töredékek",
+        "options": [
+            "(A) differenciálódott aszteroidák maradványai, amelyeket az aszteroidaövben történt ütközések során pusztítottak el.",
+            "(B) viszonylag közel jöttek létre a Naphoz, és nagy objektumok gravitációja miatt kerültek az aszteroidaövbe.",
+            "(C) földi bolygókon alakultak ki, és primitív aszteroidákkal való ütközések során kerültek az aszteroidaövbe.",
+            "(D) a földi bolygók régiójában alakultak ki, de primitív aszteroidák szülőtestjeivel való ütközések során kerültek az aszteroidaövbe."
+        ],
+        "label": "B",
+        "ind": 6
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Az adatok a táblázatban legjobban azt a következtetést támasztják alá, hogy az aszteroidaöv teljes tömegének többsége olyan aszteroidákban található, amelyek",
+        "options": [
+            "(A) primitívek.",
+            "(B) bazaltosak.",
+            "(C) magas a fényvisszaverő képességük.",
+            "(D) alacsony a fényvisszaverő képességük."
+        ],
+        "label": "A",
+        "ind": 7
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Feltételezve, hogy a négy legnagyobb aszteroidaöv-objektum az itt felsorolt 11 aszteroidatípus között van, melyik állítás ezekről az aszteroidákról van a legjobban alátámasztva az adatok alapján a táblázatban?",
+        "options": [
+            "(A) Egyikük sem V típusú.",
+            "(B) Egyikük sem valószínű, hogy tartalmaz szenet.",
+            "(C) Egyikük K típusú.",
+            "(D) Kettő közülük azonos típusú."
+        ],
+        "label": "D",
+        "ind": 8
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "A szöveg és a táblázat együttvéve leginkább azt sugallja, hogy a néhány csillagász által javasolt modell mely következtetést vonná le a C típusú aszteroidákról?",
+        "options": [
+            "(A) S típusú aszteroidákból származnak, amelyek megolvadtak.",
+            "(B) Valaha kisebb részét képezték az aszteroidaövnek, mint a V típusú aszteroidák.",
+            "(C) Kevesebb ütközést éltek át, mint az L típusú aszteroidák.",
+            "(D) Fiatalabbak, mint az M típusú aszteroidák."
+        ],
+        "label": "D",
+        "ind": 9
+    },
+    {
+        "passage": "Nincs háttér-információ.",
+        "question": "Melyik választás foglalja össze legjobban a szöveget?",
+        "options": [
+            "(A) Egy szereplő találkozik egy régi baráttal, és rájön, hogy nem tudják folytatni a barátságukat.",
+            "(B) Egy régi barát meghívása arra késztet egy szereplőt, hogy elgondolkodjon a múlton és a jelenen.",
+            "(C) Egy véletlen találkozás egy régi baráttal arra inspirál egy szereplőt, hogy új életet kezdjen egy másik országban.",
+            "(D) Egy szereplő közelmúltbeli szakmai sikere arra készteti, hogy segítséget nyújtson egy régi barátnak."
+        ],
+        "label": "B",
+        "ind": 10
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Melyik választás írja le legjobban azt a lelkiállapotot, amelyet Gallaher visszatérése inspirál Little Chandlerben?",
+        "options": [
+            "(A) Lenyűgözi Gallaher sikere, még ha ennek gondolata saját boldogtalanságára is emlékezteti.  ",
+            "(B) Aggódik amiatt, hogy lekicsinyelje Gallaher eredményeit annak érdekében, hogy a sajátját jobbnak tüntesse fel.  ",
+            "(C) Irigyli Gallaher figyelemre méltó sikerét, és dühös amiatt, ahogyan Gallaher azt elérte.  ",
+            "(D) Csodálja Gallaher hírnévre való emelkedését, de hálás, hogy ő maga viszonylag észrevétlen életet él."
+        ],
+        "label": "A",
+        "ind": 11
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "A szövegből ésszerűen következtethetünk arra, hogy Little Chandler egyik kiemelkedő jellemvonása, hogy ő",
+        "options": [
+            "(A) túlzottan kérkedik a személyes eredményeivel.",
+            "(B) gyakran kiszámíthatatlan más emberekkel való kapcsolataiban.",
+            "(C) erősen kritikus más emberek törekvéseivel szemben.",
+            "(D) kissé hiú a személyes megjelenésével kapcsolatban."
+        ],
+        "label": "D",
+        "ind": 12
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "A szöveg alapján melyik választás azonosítja legjobban Little Chandler jellemének ellentmondásos impulzusát?",
+        "options": [
+            "(A) Egy társadalmi világra koncentrál, amelyet végső soron üres látványosságnak tart.",
+            "(B) Olyan látványokba és hangokba merül el, amelyeket végső soron lényegtelennek talál.",
+            "(C) Megvet egy történelmi kort, amelyet elismeri, hogy bizonyos szempontból előnyösebb a jelenhez képest.",
+            "(D) Izgalmat merít abból, hogy olyan helyzetekbe hozza magát, amelyeket félelmetesnek talál."
+        ],
+        "label": "D",
+        "ind": 13
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "A záró bekezdés fő hatása az, hogy",
+        "options": [
+            "(A) közvetítse Little Chandler érzését, hogy utólag az elkerülhetetlenség bizonyos fokát tulajdonítja Gallaher sikerének.",
+            "(B) sugallja, hogy milyen mértékben változtatta meg Gallaher sikere Little Chandler róla alkotott emlékeit.",
+            "(C) bemutassa, hogy Little Chandler Gallaherbe vetett bizalma Gallaher sikere által igazolódott.",
+            "(D) jellemezze Little Chandlert, aki sajnálja, hogy nem tudta előre látni Gallaher sikerét."
+        ],
+        "label": "A",
+        "ind": 14
+    },
+    {
+        "passage": "Nincs háttér-információ.",
+        "question": "Melyik választás írja le legjobban a szöveg általános szerkezetét?",
+        "options": [
+            "(A) Egy népszerű hiedelem egy adott iparágról kerül megmagyarázásra, az ezt a hiedelmet támogató kísérletek kerülnek ismertetésre, és a kísérletek következményei kerülnek azonosításra.",
+            "(B) Egy váratlan állítás a fogyasztói viselkedésről kerül bemutatásra, az állítást támogató példák részletezése történik, és az állítást megerősítő kísérletek kerülnek megvitatásra.",
+            "(C) Egy gazdasági elméletről folyó vita kerül felvázolásra, a vitában szereplő két ellentétes nézőpont részletesebb magyarázata történik, és az egyik nézőpontot támogató kutatás kerül elmesélésre.",
+            "(D) Egy általános üzleti gyakorlat negatív hatása kerül bemutatásra, két történet használatos illusztrációként, és a javulást javasló kutatás összegzése történik."
+        ],
+        "label": "B",
+        "ind": 15
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "A szövegben szereplő tanulmányok azt sugallják, hogy ha egy nagy könyvesbolt lánc vásárlóinak olyan információkat adnának, amelyek a bolt kisebb versenytársaira összpontosítanak, akkor valószínű eredmény az lenne, hogy a nagy bolt",
+        "options": [
+            "(A) több pozitív értékelést kapna a vásárlóitól.",
+            "(B) olyan vásárlókat szerezne, akik úgy érzékelik, hogy több választási lehetőséget kínál, mint a kisebb boltok.",
+            "(C) hasznot húzna abból, hogy az emberek úgy érzékelik, hogy a versenye még nagyobbá vált.",
+            "(D) vásárlókat veszítene, akik most úgy látnák, hogy versenytársa a kisebb boltoknak."
+        ],
+        "label": "D",
+        "ind": 16
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Az 1. szöveg szerint miért nehéz megszámolni a vadon élő tigriseket?",
+        "options": [
+            "(A) rendkívül gyorsan mozognak egyik helyről a másikra.",
+            "(B) olyan környezetben élnek, amely az emberek számára viszonylag elérhetetlen.",
+            "(C) külsőleg hasonlítanak más rokon fajokra.",
+            "(D) olyan viselkedést mutatnak, ami potenciálisan fenyegető az emberek számára."
+        ],
+        "label": "B",
+        "ind": 17
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Az 1. szakasz alapján mi lehet az egyik tényező, amely hozzájárulhatott a bejelentett globális tigrispopuláció növekedéséhez?",
+        "options": [
+            "(A) A fényképészeti technológia javult az állatok észlelésében távoli környezetekben.",
+            "(B) A közelmúltban alkalmazott mérési technikák pontosabbak az állatok számolásában, mint a korábban használtak.",
+            "(C) A tudósok jobban megértik a veszélyeztetett fajok populációinak tipikus növekedési ütemét.",
+            "(D) A természetvédelmi stratégiák egységesebbek országról országra, mint korábban."
+        ],
+        "label": "B",
+        "ind": 18
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "A 2. szakasz szerint milyen tényező miatt lehet hibás a WWF és a Global Tiger Forum által kínált vad tigris populáció becslés?",
+        "options": [
+            "(A) Általánosítás egy valószínűleg hiányos bizonyíték-kiválasztásból",
+            "(B) Olyan adatokra való korlátozódás, amelyek bizonyos országokban relevánsabbak, mint másokban",
+            "(C) Egy új kísérleti eszközre való támaszkodás, amelyet a terepen még nem teszteltek alaposan",
+            "(D) Az időbeli populációnövekedés stabilitásának feltételezése, amelyet az adatok nem támasztanak alá"
+        ],
+        "label": "A",
+        "ind": 19
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Melyik választás írja le a legjobban a két szöveg közötti kapcsolatot?",
+        "options": [
+            "(A) A 2. szöveg összehasonlítja és kritizálja az 1. szövegben ajánlott megőrzési megoldásokat.",
+            "(B) A 2. szöveg megkérdőjelezi az 1. szövegben bemutatott tudósok szakmai hitelességét.",
+            "(C) A 2. szöveg több alkalmazást javasol az 1. szöveg következtetéseire.",
+            "(D) A 2. szöveg megkérdőjelezi az 1. szövegben tárgyalt kutatási eredmények megbízhatóságát."
+        ],
+        "label": "D",
+        "ind": 20
+    },
+    {
+        "passage": "Nincs háttérinformáció",
+        "question": "A szövegekből ésszerűen kikövetkeztethető, hogy a szerzők mindketten egyetértenének abban, hogy a vadon élő tigrisek populációméretei",
+        "options": [
+            "(A) bizonyos országokban jobban helyreállnak, mint másokban.",
+            "(B) kezdik elérni a 2010-ben rögzített szinteket.",
+            "(C) kiszámíthatóan reagálnak az agresszív természetvédelmi próbálkozásokra.",
+            "(D) folyamatos emberi beavatkozás ellenére is folyamatosan csökkennek."
+        ],
+        "label": "A",
+        "ind": 21
+    },
+    {
+        "passage": "Nincs háttér-információ",
+        "question": "A 2. szöveg szerzője a legvalószínűbben úgy reagálna az 1. szöveg első bekezdésének következtetéseire, hogy kijelenti, az ilyen állítások",
+        "options": [
+            "(A) csak a tigrisek bizonyos alfajaira vonatkoznak, és ezért nem meggyőzőek.",
+            "(B) ösztönzést adnak az országoknak és régióknak arra, hogy további befektetéseket eszközöljenek a vadvédelmi programokba.",
+            "(C) bizonyítják, hogy a veszélyeztetett fajok védelmére tett szigorú erőfeszítések gyors népesség-helyreálláshoz vezetnek.",
+            "(D) azt az illúziót kelthetik az emberekben, hogy a tigrisek helyreállnak, miközben valójában továbbra is éber védelmet igényelnek."
+        ],
+        "label": "D",
+        "ind": 22
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "A szövegben Parsons főként úgy mutatja be magát, mint aki",
+        "options": [
+            "(A) ésszerű a politikai történelem elemzésében.",
+            "(B) neheztel a közelmúlt politikai eseményei miatt.",
+            "(C) vívódik a politikai pártok jövőbeli szerepét illetően.",
+            "(D) több mint egy politikai nézőpont iránt is együttérző."
+        ],
+        "label": "A",
+        "ind": 23
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "Parsons beszédének elsődleges célja az, hogy",
+        "options": [
+            "(A) megvitasson egy politikai filozófiát, amely kezd kimenni a divatból.",
+            "(B) felvázoljon egy új megközelítést az elnyomott csoportok igényeinek kielégítésére.",
+            "(C) indokolja egy másik ideológia elfogadását.",
+            "(D) rámutasson az aktuális politikai rendszer következetlenségeire."
+        ],
+        "label": "C",
+        "ind": 24
+    },
+    {
+        "passage": "Nincs háttérinformáció.",
+        "question": "A szövegben Parsons arra utal, hogy egyszer azt hitte, hogy",
+        "options": [
+            "(A) a többségi szabály kizárja az egyéni aktivizmus szükségességét.",
+            "(B) a kevesek mozgósítása a többség javát szolgálja.",
+            "(C) a fejlődés akkor következik be, amikor mindenki egy közös cél felé dolgozik együtt.",
+            "(D) a kormány használható olyan változások elérésére, amelyeket az állampolgárok remélnek."
+        ],
+        "label": "D",
+        "ind": 25
+    }
+]
