@@ -1,0 +1,4 @@
+srun -p s2_bigdata --job-name=sampling_by_embedding --quotatype=reserved --gres=gpu:1 --ntasks=1 --ntasks-per-node=1 --cpus-per-task=5 --kill-on-bad-exit=1 python /mnt/petrelfs/hujucheng/SFT_tools/SFT_toolkit/utils/dataset_factory/sampling_by_embedding.py
+
+
+srun -p belt_road --job-name=sampling_by_embedding --quotatype=reserved --gres=gpu:1 --ntasks=1 --ntasks-per-node=1 --cpus-per-task=5 --kill-on-bad-exit=1 python /mnt/petrelfs/hujucheng/SFT_tools/SFT_toolkit/utils/dataset_factory/sampling_by_embedding.py
