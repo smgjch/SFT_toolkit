@@ -1,6 +1,7 @@
 import torch
 import json
 from transformers import AutoTokenizer, AutoModelForCausalLM
+import jsonlines
 
 # Load tokenizer and model
 tokenizer = AutoTokenizer.from_pretrained(
@@ -18,32 +19,36 @@ model = model.eval()
 # input_file = "/mnt/petrelfs/hujucheng/SFT_tools/SFT_toolkit/data/reading_comperhensive/SFT_data_for_LSAT_RC_from_trian_1797.json"  # Input JSON file path
 # output_file = "/mnt/petrelfs/hujucheng/SFT_tools/SFT_toolkit/data/embeddings_of_train/SFT_data_for_LSAT_RC_from_trian_1797.json"  
 
-input_file = "/mnt/petrelfs/hujucheng/SFT_tools/SFT_toolkit/data/logic_reasoning/SFT_data_for_LSAT_LR_from_trian_3960.json"  # Input JSON file path
-output_file = "/mnt/petrelfs/hujucheng/SFT_tools/SFT_toolkit/data/embeddings_of_train/SFT_data_for_LSAT_LR_from_trian_3960.json"  
+input_file = "/mnt/petrelfs/hujucheng/SFT_tools/SFT_toolkit/data/benchmark_set/hu_MCQ_logiqa-hu.json" 
+output_file = "/mnt/petrelfs/hujucheng/SFT_tools/SFT_toolkit/data/embeddings_of_test/hu_MCQ_logiqa.jsonl"  
+#Note the output would be a jsonl and need to be parse back to json
 
 def extract_from_test():
-
     with open(input_file, "r") as f:
         data = json.load(f)  # Assumes data is a list of dictionaries
+    
+    cnt = 0
+    total = len(data)
 
-    # Process each entry in the JSON
-    for entry in data:
+    with jsonlines.open(output_file, mode='w') as writer:
+        for entry in data:
+            cnt += 1
+            # text = entry["messages"][0]["content"]
+            text = entry["passage"]+"\n"+entry["question"]+"\n"+ "".join(entry["options"])
+            # Tokenize and forward pass to get embeddings
+            inputs = tokenizer(text, return_tensors="pt").to("cuda")
+            with torch.no_grad():
+                outputs = model(**inputs, output_hidden_states=True)
+                embeddings = outputs.hidden_states[-1][:, 0, :].squeeze().cpu().tolist()  # CLS token embedding
+            
+            # Add embeddings to the JSON entry
+            entry["embedding"] = embeddings
+            
+            # Write each entry to the JSONL file
+            writer.write(entry)
+            
+            if cnt % 100 == 0:
+                print(f"{cnt} processed, {total-cnt} remaining")
 
-        # text = entry["passage"]+"\n"+entry["question"]+"\n"+ "".join(entry["options"])
-        text = entry["messages"][0]["content"]
-        
-        # Tokenize and forward pass to get embeddings
-        inputs = tokenizer(text, return_tensors="pt").to("cuda")
-        with torch.no_grad():
-            outputs = model(**inputs, output_hidden_states=True)
-            embeddings = outputs.hidden_states[-1][:, 0, :].squeeze().cpu().tolist()  # CLS token embedding
-        
-        # Add embeddings to the JSON entry
-        entry["embedding"] = embeddings
 
-    # Save updated data to output JSON file
-    with open(output_file, "w") as f:
-        json.dump(data, f, indent=4,ensure_ascii=False)
-
-    print(f"Embeddings added and saved to {output_file}")
 extract_from_test()

@@ -1,0 +1,16 @@
+srun -p belt_road --job-name=InternLM2_5 --quotatype=reserved --gres=gpu:8 --ntasks=8 --ntasks-per-node=8 --cpus-per-task=5 --kill-on-bad-exit=1 xtuner train config.py
+
+salloc -p belt_road_102B -n1 -N1 --gres=gpu:8 -c128
+
+srun -p belt_road --job-name=sampling_by_embedding --quotatype=reserved --gres=gpu:1 --ntasks=1 --ntasks-per-node=1 --cpus-per-task=5 --kill-on-bad-exit=1 python /mnt/petrelfs/hujucheng/SFT_tools/SFT_toolkit/utils/dataset_factory/sampling_by_embedding.py
+
+
+srun -p belt_road --job-name=OpenICLInf --quotatype=reserved --gres=gpu:1 --ntasks=1 --ntasks-per-node=1 --cpus-per-task=5 --kill-on-bad-exit=1 python /mnt/petrelfs/hujucheng/SFT_tools/SFT_toolkit/utils/dataset_factory/visual_inspection.py
+
+srun -p belt_road --job-name=OpenICLInf --quotatype=reserved --gres=gpu:0 --ntasks=1 --ntasks-per-node=1 --cpus-per-task=24 --kill-on-bad-exit=1 python /mnt/petrelfs/hujucheng/SFT_tools/SFT_toolkit/utils/analysis_tools/handle_large.py
+
+srun -p belt_road --job-name=sampling_by_IFD_scoring --quotatype=reserved --gres=gpu:1 --ntasks=1 --ntasks-per-node=1 --cpus-per-task=5 --kill-on-bad-exit=1 python /mnt/petrelfs/hujucheng/SFT_tools/Cherry_LLM/cherry_seletion/data_analysis.py --data_path /mnt/petrelfs/hujucheng/SFT_tools/SFT_toolkit/data/logic_reasoning/SFT_data_for_LSAT_LR_from_logicGLUE_538.json --save_path /mnt/petrelfs/hujucheng/SFT_tools/SFT_toolkit/data/logic_reasoning/SFT_data_for_LSAT_LR_from_logicGLUE_538_IFD_cherry.pt --model_name_or_path /mnt/petrelfs/hujucheng/models/internlm2_5-7b-chat --max_length 1024 --prompt openai --mod cherry
+
+
+
+srun -p belt_road --job-name=sampling_by_IFD --quotatype=reserved --gres=gpu:0 --ntasks=1 --ntasks-per-node=1 --cpus-per-task=5 --kill-on-bad-exit=1 python /mnt/petrelfs/hujucheng/SFT_tools/Cherry_LLM/cherry_seletion/data_by_IFD.py --pt_data_path /mnt/petrelfs/hujucheng/SFT_tools/SFT_toolkit/data/sat_en/IFD_scores/SFT_data_for_SAT_en_raw_IFD_cherry.pt  --json_data_path /mnt/petrelfs/hujucheng/SFT_tools/SFT_toolkit/data/sat_en/raw/SFT_data_for_SAT_en_from_SATofficialAndWeb_raw.json --json_save_path /mnt/petrelfs/hujucheng/SFT_tools/SFT_toolkit/data/sat_en/SFT_data_for_SAT_en_from_SATofficialAndWeb_raw_IFD_selected.json  --max_length 1024  --sample_rate 0.3  --prompt openai --model_name_or_path /mnt/petrelfs/hujucheng/models/internlm2_5-7b-chat
